@@ -1,0 +1,2177 @@
+﻿brand,category,color,Sum of current_price,Sum of customer_rating,is_returned,Sum of markdown_percentage,Sum of original_price,product_id,Year,Quarter,Month,Day,return_reason,season,size,Sum of stock_quantity
+Ann Taylor,Accessories,Beige,42.23,3,false,0,42.23,FB000230,2025,Qtr 3,July,14,"",Spring,L,15
+Ann Taylor,Accessories,Beige,68.87,2,false,0,68.87,FB000575,2025,Qtr 3,August,6,"",Summer,L,9
+Ann Taylor,Accessories,Beige,27.72,4,false,18.9,34.18,FB001104,2025,Qtr 3,August,6,"",Fall,L,50
+Ann Taylor,Accessories,Beige,33.71,2,false,15.8,40.04,FB001310,2025,Qtr 3,August,6,"",Summer,L,31
+Ann Taylor,Accessories,Beige,33.88,3,false,0,33.88,FB001514,2025,Qtr 3,August,6,"",Winter,L,9
+Ann Taylor,Accessories,Beige,59.98,3,false,0,59.98,FB001719,2025,Qtr 3,August,6,"",Winter,L,28
+Ann Taylor,Accessories,Beige,21.48,3,false,57.9,51.02,FB001939,2025,Qtr 3,August,6,"",Summer,L,36
+Ann Taylor,Accessories,Black,47.28,5,false,0,47.28,FB000602,2025,Qtr 3,August,6,"",Fall,L,38
+Ann Taylor,Accessories,Black,33.49,3,false,45.4,61.34,FB000711,2025,Qtr 1,February,3,"",Spring,L,46
+Ann Taylor,Accessories,Black,52.97,5,false,0,52.97,FB001521,2025,Qtr 3,July,26,"",Spring,L,36
+Ann Taylor,Accessories,Black,21.82,3,false,45.5,40.04,FB001638,2025,Qtr 3,August,6,"",Fall,L,50
+Ann Taylor,Accessories,Black,37.76,4,false,9.5,41.72,FB002134,2025,Qtr 3,August,6,"",Winter,L,9
+Ann Taylor,Accessories,Black,77.48,4,true,0,77.48,FB000656,2024,Qtr 4,October,7,Quality Issue,Spring,L,49
+Ann Taylor,Accessories,Black,38.04,4,true,6.2,40.55,FB001451,2024,Qtr 3,September,9,Wrong Item,Spring,L,26
+Ann Taylor,Accessories,Blue,42.19,2,false,27,57.8,FB000134,2025,Qtr 3,August,6,"",Winter,L,9
+Ann Taylor,Accessories,Blue,29.19,2,false,0,29.19,FB001926,2025,Qtr 1,March,15,"",Spring,L,20
+Ann Taylor,Accessories,Brown,39.17,4,true,0,39.17,FB001090,2025,Qtr 3,August,6,Color Mismatch,Summer,L,4
+Ann Taylor,Accessories,Gray,26.05,2,false,32.6,38.65,FB000546,2025,Qtr 3,August,6,"",Winter,L,46
+Ann Taylor,Accessories,Gray,73.43,3,false,0,73.43,FB000948,2025,Qtr 3,August,6,"",Fall,L,22
+Ann Taylor,Accessories,Gray,30.47,5,false,0,30.47,FB001547,2025,Qtr 3,August,6,"",Summer,L,34
+Ann Taylor,Accessories,Gray,77.34,3,false,0,77.34,FB001997,2025,Qtr 1,January,10,"",Spring,L,27
+Ann Taylor,Accessories,Gray,14.81,5,false,38.5,24.08,FB002107,2025,Qtr 3,August,6,"",Winter,L,43
+Ann Taylor,Accessories,Gray,57.16,5,true,18,69.71,FB000168,2025,Qtr 3,August,6,Color Mismatch,Summer,L,34
+Ann Taylor,Accessories,Green,20.56,3,false,53.9,44.6,FB000048,2025,Qtr 3,August,6,"",Winter,L,42
+Ann Taylor,Accessories,Green,55.57,4,false,0,55.57,FB000067,2025,Qtr 3,August,6,"",Summer,L,44
+Ann Taylor,Accessories,Green,42.11,4,false,0,42.11,FB000257,2025,Qtr 3,August,6,"",Winter,L,26
+Ann Taylor,Accessories,Green,35.36,5,false,0,35.36,FB000512,2025,Qtr 3,August,6,"",Winter,L,42
+Ann Taylor,Accessories,Green,40.01,5,false,0,40.01,FB000922,2025,Qtr 2,June,5,"",Spring,L,22
+Ann Taylor,Accessories,Green,40.56,5,false,27.3,55.79,FB001798,2025,Qtr 3,August,6,"",Winter,L,39
+Ann Taylor,Accessories,Green,48.17,3,false,6.1,51.3,FB001851,2025,Qtr 3,August,6,"",Winter,L,31
+Ann Taylor,Accessories,Navy,17.67,5,false,0,17.67,FB000589,2025,Qtr 3,August,6,"",Summer,L,29
+Ann Taylor,Accessories,Navy,32.69,2,false,44.8,59.22,FB000661,2025,Qtr 3,August,6,"",Winter,L,21
+Ann Taylor,Accessories,Navy,73.04,5,false,0,73.04,FB000755,2025,Qtr 3,August,6,"",Summer,L,44
+Ann Taylor,Accessories,Navy,19,3,true,11.9,21.57,FB001131,2025,Qtr 3,August,6,Changed Mind,Fall,L,37
+Ann Taylor,Accessories,Navy,66.77,5,true,0,66.77,FB001808,2025,Qtr 3,August,6,Size Issue,Winter,L,28
+Ann Taylor,Accessories,Pink,43.48,5,false,0,43.48,FB002080,2024,Qtr 3,August,23,"",Spring,L,11
+Ann Taylor,Accessories,Pink,23.28,4,true,0,23.28,FB000826,2025,Qtr 3,August,6,Quality Issue,Fall,L,44
+Ann Taylor,Accessories,Purple,70.75,2,false,0,70.75,FB000949,2025,Qtr 2,May,12,"",Spring,L,0
+Ann Taylor,Accessories,Purple,33.56,3,false,0,33.56,FB000991,2025,Qtr 1,March,27,"",Spring,L,24
+Ann Taylor,Accessories,Purple,28.21,3,false,34.3,42.94,FB002038,2024,Qtr 4,December,22,"",Spring,L,41
+Ann Taylor,Accessories,Purple,37.06,4,false,46.9,69.8,FB002158,2024,Qtr 4,October,21,"",Spring,L,26
+Ann Taylor,Accessories,Red,69.69,3,false,0,69.69,FB001288,2025,Qtr 3,August,6,"",Winter,L,35
+Ann Taylor,Accessories,Red,74.77,3,false,0,74.77,FB002108,2025,Qtr 1,March,18,"",Spring,L,26
+Ann Taylor,Accessories,White,54.07,5,false,0,54.07,FB000173,2025,Qtr 3,August,6,"",Winter,L,47
+Ann Taylor,Accessories,White,16.81,3,false,0,16.81,FB000454,2025,Qtr 3,July,31,"",Spring,L,16
+Ann Taylor,Accessories,White,25.39,2,false,0,25.39,FB000822,2025,Qtr 3,August,6,"",Fall,L,42
+Ann Taylor,Accessories,White,27.58,4,false,9.8,30.58,FB001242,2025,Qtr 3,August,6,"",Winter,L,34
+Ann Taylor,Accessories,White,21.67,4,true,59.1,52.99,FB000920,2025,Qtr 3,August,6,Size Issue,Summer,L,50
+Banana Republic,Accessories,Beige,13.8,3,false,44.7,24.96,FB000260,2025,Qtr 3,August,6,"",Winter,L,44
+Banana Republic,Accessories,Beige,72.81,5,false,0,72.81,FB001231,2025,Qtr 3,August,6,"",Fall,L,4
+Banana Republic,Accessories,Beige,43.83,3,false,0,43.83,FB001677,2025,Qtr 3,August,6,"",Summer,L,31
+Banana Republic,Accessories,Beige,35.88,3,false,54.8,79.37,FB002174,2025,Qtr 3,August,6,"",Winter,L,40
+Banana Republic,Accessories,Black,21.67,3,false,50.9,44.13,FB000055,2025,Qtr 3,August,6,"",Fall,L,21
+Banana Republic,Accessories,Black,36.93,3,false,0,36.93,FB002055,2025,Qtr 3,August,6,"",Summer,L,18
+Banana Republic,Accessories,Black,76.08,5,false,0,76.08,FB002166,2025,Qtr 3,August,6,"",Summer,L,6
+Banana Republic,Accessories,Black,69.74,4,true,0,69.74,FB000214,2025,Qtr 3,August,6,Changed Mind,Fall,L,11
+Banana Republic,Accessories,Blue,28.66,2,false,39.8,47.61,FB000180,2024,Qtr 4,December,3,"",Spring,L,18
+Banana Republic,Accessories,Blue,28.82,3,false,0,28.82,FB000389,2024,Qtr 4,October,23,"",Spring,L,30
+Banana Republic,Accessories,Blue,17.54,4,false,44.1,31.37,FB000858,2024,Qtr 3,September,13,"",Spring,L,11
+Banana Republic,Accessories,Blue,65.17,2,false,1.7,66.3,FB000878,2025,Qtr 3,August,6,"",Fall,L,28
+Banana Republic,Accessories,Blue,66.62,3,false,0,66.62,FB001761,2024,Qtr 4,October,27,"",Spring,L,37
+Banana Republic,Accessories,Brown,7.29,3,false,55.9,16.52,FB000050,2025,Qtr 3,August,6,"",Summer,L,43
+Banana Republic,Accessories,Brown,34.45,5,false,0,34.45,FB000112,2025,Qtr 3,August,6,"",Winter,L,4
+Banana Republic,Accessories,Brown,35.2,2,false,51.3,72.28,FB000514,2025,Qtr 1,February,15,"",Spring,L,31
+Banana Republic,Accessories,Brown,20.73,2,false,58.3,49.72,FB000678,2025,Qtr 3,August,6,"",Fall,L,4
+Banana Republic,Accessories,Brown,20.97,5,false,0,20.97,FB001949,2025,Qtr 3,August,6,"",Winter,L,44
+Banana Republic,Accessories,Gray,67.93,5,false,0,67.93,FB000266,2025,Qtr 3,August,6,"",Summer,L,22
+Banana Republic,Accessories,Gray,60.22,3,false,0,60.22,FB000384,2025,Qtr 3,August,6,"",Summer,L,6
+Banana Republic,Accessories,Gray,48.57,5,false,0,48.57,FB000659,2024,Qtr 4,December,6,"",Spring,L,12
+Banana Republic,Accessories,Gray,77.78,3,true,0,77.78,FB001142,2025,Qtr 3,July,7,Size Issue,Spring,L,23
+Banana Republic,Accessories,Green,74.32,3,false,0,74.32,FB000404,2025,Qtr 3,August,6,"",Winter,L,4
+Banana Republic,Accessories,Green,38.34,2,false,0,38.34,FB000442,2025,Qtr 3,August,6,"",Winter,L,14
+Banana Republic,Accessories,Green,51.58,4,false,8.1,56.13,FB001593,2025,Qtr 3,August,6,"",Winter,L,12
+Banana Republic,Accessories,Green,44.7,4,false,0,44.7,FB001624,2025,Qtr 1,March,17,"",Spring,L,29
+Banana Republic,Accessories,Green,24.55,3,false,0,24.55,FB001918,2025,Qtr 3,August,6,"",Summer,L,43
+Banana Republic,Accessories,Green,34.89,5,true,24.4,46.15,FB001289,2025,Qtr 3,August,6,Size Issue,Winter,L,31
+Banana Republic,Accessories,Green,16.32,3,true,19.6,20.3,FB001698,2025,Qtr 3,August,6,Changed Mind,Summer,L,47
+Banana Republic,Accessories,Navy,52.05,3,false,20.7,65.64,FB001098,2025,Qtr 3,August,6,"",Winter,L,20
+Banana Republic,Accessories,Navy,19.68,2,true,0,19.68,FB001696,2025,Qtr 3,August,6,Size Issue,Summer,L,29
+Banana Republic,Accessories,Pink,66,3,false,0,66,FB000615,2025,Qtr 3,August,6,"",Winter,L,19
+Banana Republic,Accessories,Pink,47.51,5,false,0,47.51,FB001264,2025,Qtr 3,August,6,"",Winter,L,39
+Banana Republic,Accessories,Purple,15.13,2,false,50,30.26,FB001749,2025,Qtr 3,August,6,"",Winter,L,23
+Banana Republic,Accessories,Red,54.45,3,false,0,54.45,FB000206,2025,Qtr 3,August,6,"",Winter,L,12
+Banana Republic,Accessories,Red,45.42,2,false,0,45.42,FB000445,2025,Qtr 3,August,6,"",Summer,L,36
+Banana Republic,Accessories,Red,32.47,5,false,12.2,36.98,FB000901,2025,Qtr 3,August,6,"",Summer,L,14
+Banana Republic,Accessories,Red,13.74,2,false,16.8,16.51,FB001188,2025,Qtr 3,August,6,"",Fall,L,47
+Banana Republic,Accessories,Red,17.38,3,false,49.5,34.42,FB001602,2025,Qtr 3,August,6,"",Summer,L,26
+Banana Republic,Accessories,White,51.3,3,false,0,51.3,FB000757,2025,Qtr 3,August,6,"",Winter,L,33
+Banana Republic,Accessories,White,18.45,3,false,0,18.45,FB001158,2025,Qtr 3,August,6,"",Summer,L,39
+Forever21,Accessories,Beige,23.74,3,false,52.8,50.3,FB000887,2025,Qtr 3,August,6,"",Summer,L,11
+Forever21,Accessories,Beige,67.46,2,false,0,67.46,FB001224,2025,Qtr 3,August,6,"",Winter,L,28
+Forever21,Accessories,Beige,16.64,5,false,0,16.64,FB001910,2025,Qtr 3,August,6,"",Summer,L,8
+Forever21,Accessories,Black,30.44,3,false,0,30.44,FB001422,2025,Qtr 3,August,6,"",Fall,L,42
+Forever21,Accessories,Black,24.71,3,false,0,24.71,FB001608,2025,Qtr 3,August,6,"",Fall,L,37
+Forever21,Accessories,Black,42.96,2,false,0,42.96,FB001675,2025,Qtr 3,August,6,"",Fall,L,36
+Forever21,Accessories,Black,57.1,3,true,0,57.1,FB001414,2025,Qtr 3,August,6,Wrong Item,Winter,L,28
+Forever21,Accessories,Blue,31.32,3,false,0,31.32,FB000897,2025,Qtr 3,August,6,"",Winter,L,28
+Forever21,Accessories,Blue,55.3,3,false,0,55.3,FB000952,2025,Qtr 3,August,6,"",Fall,L,17
+Forever21,Accessories,Blue,31.51,3,false,40.2,52.69,FB000981,2024,Qtr 4,November,15,"",Spring,L,7
+Forever21,Accessories,Blue,37.02,5,false,0,37.02,FB001161,2025,Qtr 3,August,6,"",Winter,L,12
+Forever21,Accessories,Blue,44.73,2,false,0,44.73,FB001339,2025,Qtr 3,August,6,"",Fall,L,25
+Forever21,Accessories,Blue,19.34,3,false,0,19.34,FB001967,2025,Qtr 3,August,6,"",Winter,L,19
+Forever21,Accessories,Brown,39.67,2,false,16.4,47.45,FB000351,2025,Qtr 3,August,6,"",Summer,L,33
+Forever21,Accessories,Brown,36.8,4,false,43,64.56,FB000892,2024,Qtr 3,August,6,"",Spring,L,36
+Forever21,Accessories,Brown,27.7,5,false,0,27.7,FB002069,2025,Qtr 3,August,6,"",Summer,L,27
+Forever21,Accessories,Gray,32.68,5,false,49.8,65.09,FB001526,2025,Qtr 3,August,6,"",Fall,L,32
+Forever21,Accessories,Gray,21.07,4,false,18.8,25.95,FB002013,2025,Qtr 3,August,6,"",Fall,L,1
+Forever21,Accessories,Gray,20.64,3,true,50.9,42.04,FB000205,2025,Qtr 3,August,6,Wrong Item,Summer,L,43
+Forever21,Accessories,Gray,23.5,4,true,0,23.5,FB000804,2025,Qtr 3,August,6,Quality Issue,Winter,L,14
+Forever21,Accessories,Green,73.85,2,false,0,73.85,FB000663,2025,Qtr 3,August,6,"",Fall,L,46
+Forever21,Accessories,Green,19.56,4,false,0,19.56,FB001256,2025,Qtr 3,August,6,"",Summer,L,13
+Forever21,Accessories,Green,45.52,2,false,0,45.52,FB002095,2025,Qtr 3,August,6,"",Summer,L,41
+Forever21,Accessories,Green,32.15,2,true,0,32.15,FB000624,2025,Qtr 3,August,6,Quality Issue,Fall,L,17
+Forever21,Accessories,Green,25.7,4,true,0,25.7,FB000681,2025,Qtr 3,August,6,Quality Issue,Winter,L,38
+Forever21,Accessories,Green,35.64,5,true,0,35.64,FB000931,2025,Qtr 3,August,6,Color Mismatch,Summer,L,48
+Forever21,Accessories,Navy,58.57,2,false,0,58.57,FB000035,2025,Qtr 3,August,6,"",Fall,L,38
+Forever21,Accessories,Navy,25.34,4,false,0,25.34,FB000524,2025,Qtr 3,July,31,"",Spring,L,17
+Forever21,Accessories,Navy,47.47,5,false,0,47.47,FB000735,2025,Qtr 3,August,6,"",Fall,L,42
+Forever21,Accessories,Navy,63.98,2,false,0,63.98,FB001182,2025,Qtr 3,August,6,"",Fall,L,36
+Forever21,Accessories,Navy,17.59,3,false,0,17.59,FB001805,2025,Qtr 3,August,6,"",Winter,L,14
+Forever21,Accessories,Navy,8.23,2,false,47.6,15.71,FB002086,2025,Qtr 3,August,6,"",Summer,L,42
+Forever21,Accessories,Navy,36.29,3,false,0,36.29,FB002131,2025,Qtr 3,August,6,"",Fall,L,47
+Forever21,Accessories,Navy,69.77,3,true,0,69.77,FB000666,2025,Qtr 3,August,6,Color Mismatch,Winter,L,30
+Forever21,Accessories,Navy,45.19,2,true,0,45.19,FB001861,2025,Qtr 1,February,28,Wrong Item,Spring,L,38
+Forever21,Accessories,Pink,48.41,4,false,29.4,68.57,FB000358,2025,Qtr 3,August,6,"",Winter,L,4
+Forever21,Accessories,Pink,46.26,2,false,38.8,75.59,FB000959,2025,Qtr 1,March,29,"",Spring,L,43
+Forever21,Accessories,Pink,32.04,2,false,0,32.04,FB001703,2025,Qtr 3,August,6,"",Summer,L,41
+Forever21,Accessories,Pink,32.9,3,true,44.6,59.39,FB000762,2025,Qtr 3,August,6,Color Mismatch,Summer,L,41
+Forever21,Accessories,Pink,39.9,3,true,0,39.9,FB002081,2025,Qtr 3,August,6,Damaged,Winter,L,6
+Forever21,Accessories,Purple,52.45,3,false,0,52.45,FB000243,2025,Qtr 3,August,6,"",Winter,L,34
+Forever21,Accessories,Purple,43.45,4,false,0,43.45,FB000748,2025,Qtr 3,August,6,"",Winter,L,50
+Forever21,Accessories,Purple,55.74,2,true,25.9,75.22,FB001008,2025,Qtr 3,August,6,Color Mismatch,Fall,L,31
+Forever21,Accessories,Red,23.13,2,false,29.1,32.62,FB000609,2025,Qtr 3,July,27,"",Spring,L,9
+Forever21,Accessories,Red,37.94,5,false,0,37.94,FB000746,2024,Qtr 4,October,8,"",Spring,L,9
+Forever21,Accessories,Red,71.3,3,false,0,71.3,FB000886,2025,Qtr 3,August,6,"",Winter,L,29
+Forever21,Accessories,Red,75.09,4,false,0,75.09,FB000974,2025,Qtr 3,August,6,"",Winter,L,41
+Forever21,Accessories,Red,38.86,3,false,0,38.86,FB002020,2025,Qtr 3,August,6,"",Winter,L,44
+Forever21,Accessories,Red,47.6,5,true,0,47.6,FB001586,2025,Qtr 3,August,6,Wrong Item,Summer,L,24
+Forever21,Accessories,White,45.66,2,false,1.1,46.17,FB000063,2025,Qtr 3,August,6,"",Winter,L,30
+Forever21,Accessories,White,24.41,5,false,18.4,29.91,FB001308,2025,Qtr 1,March,3,"",Spring,L,10
+Forever21,Accessories,White,71.3,2,false,0,71.3,FB002074,2025,Qtr 3,August,6,"",Summer,L,21
+Forever21,Accessories,White,21.09,5,true,0,21.09,FB000750,2025,Qtr 3,August,6,Size Issue,Fall,L,33
+Gap,Accessories,Beige,76.94,5,false,0,76.94,FB000330,2025,Qtr 2,June,13,"",Spring,L,21
+Gap,Accessories,Black,54.79,5,false,0,54.79,FB000096,2025,Qtr 3,August,6,"",Summer,L,12
+Gap,Accessories,Black,43.58,2,false,44.7,78.81,FB000328,2024,Qtr 3,September,13,"",Spring,L,34
+Gap,Accessories,Black,79.6,3,false,0,79.6,FB001103,2025,Qtr 3,August,6,"",Fall,L,22
+Gap,Accessories,Black,75.83,2,false,0,75.83,FB001560,2025,Qtr 3,August,6,"",Fall,L,8
+Gap,Accessories,Black,58.99,3,false,0,58.99,FB001799,2025,Qtr 3,August,6,"",Winter,L,50
+Gap,Accessories,Black,44.28,3,false,38,71.42,FB001839,2025,Qtr 3,August,6,"",Summer,L,49
+Gap,Accessories,Black,68.2,4,false,0,68.2,FB002163,2025,Qtr 2,April,5,"",Spring,L,2
+Gap,Accessories,Blue,17.7,4,false,0,17.7,FB000307,2025,Qtr 3,August,6,"",Summer,L,42
+Gap,Accessories,Blue,17.17,2,false,19,21.2,FB000946,2025,Qtr 3,August,6,"",Fall,L,22
+Gap,Accessories,Blue,40.82,3,false,44,72.9,FB001374,2025,Qtr 3,August,6,"",Winter,L,25
+Gap,Accessories,Blue,56.06,4,false,7.3,60.48,FB001610,2025,Qtr 3,August,6,"",Fall,L,46
+Gap,Accessories,Blue,59.94,4,false,0,59.94,FB001845,2025,Qtr 3,August,6,"",Summer,L,7
+Gap,Accessories,Blue,35.6,4,false,0,35.6,FB001973,2025,Qtr 3,August,6,"",Summer,L,24
+Gap,Accessories,Brown,19.78,3,false,59.9,49.33,FB000784,2025,Qtr 3,August,6,"",Summer,L,47
+Gap,Accessories,Brown,68.56,3,false,0,68.56,FB001059,2025,Qtr 3,August,6,"",Summer,L,2
+Gap,Accessories,Brown,27.65,5,false,29.8,39.39,FB001479,2025,Qtr 3,August,6,"",Summer,L,13
+Gap,Accessories,Gray,72.24,5,false,0,72.24,FB000675,2025,Qtr 3,August,6,"",Winter,L,35
+Gap,Accessories,Gray,42.63,4,false,41,72.26,FB001379,2025,Qtr 3,August,6,"",Winter,L,43
+Gap,Accessories,Gray,18,4,false,49.9,35.93,FB001440,2025,Qtr 3,August,6,"",Summer,L,26
+Gap,Accessories,Gray,41.62,3,false,0,41.62,FB002092,2025,Qtr 3,August,6,"",Summer,L,33
+Gap,Accessories,Gray,57.25,5,false,0,57.25,FB002150,2025,Qtr 3,August,6,"",Summer,L,22
+Gap,Accessories,Gray,50.69,2,true,15.6,60.06,FB000449,2025,Qtr 3,August,6,Color Mismatch,Winter,L,49
+Gap,Accessories,Green,44.5,4,false,0,44.5,FB001457,2025,Qtr 2,June,13,"",Spring,L,36
+Gap,Accessories,Green,55.25,3,false,6.4,59.03,FB001853,2025,Qtr 3,August,6,"",Fall,L,45
+Gap,Accessories,Navy,25.45,3,false,40.6,42.84,FB000162,2024,Qtr 3,September,12,"",Spring,L,18
+Gap,Accessories,Navy,33.49,3,false,21.5,42.66,FB000402,2025,Qtr 3,August,6,"",Fall,L,16
+Gap,Accessories,Navy,21.54,4,false,44.8,39.02,FB000938,2025,Qtr 3,August,6,"",Winter,L,29
+Gap,Accessories,Navy,22.45,5,false,58,53.46,FB001261,2025,Qtr 3,August,6,"",Fall,L,6
+Gap,Accessories,Navy,23.2,3,false,0,23.2,FB001461,2025,Qtr 3,August,6,"",Winter,L,17
+Gap,Accessories,Navy,61.47,3,false,0,61.47,FB001680,2024,Qtr 3,August,25,"",Spring,L,44
+Gap,Accessories,Navy,37,5,false,0,37,FB001790,2025,Qtr 3,August,6,"",Winter,L,5
+Gap,Accessories,Pink,47.92,4,false,13,55.08,FB000297,2025,Qtr 3,August,6,"",Summer,L,17
+Gap,Accessories,Pink,69.59,2,false,0,69.59,FB000478,2024,Qtr 3,September,26,"",Spring,L,38
+Gap,Accessories,Pink,55.52,3,false,18.3,67.95,FB000634,2025,Qtr 3,August,6,"",Summer,L,37
+Gap,Accessories,Pink,77.96,5,false,0,77.96,FB001006,2025,Qtr 3,August,6,"",Summer,L,39
+Gap,Accessories,Purple,15.51,2,false,29.2,21.9,FB000349,2025,Qtr 3,August,6,"",Summer,L,35
+Gap,Accessories,Purple,16.57,3,false,0,16.57,FB000378,2025,Qtr 3,August,6,"",Fall,L,17
+Gap,Accessories,Purple,25.72,5,false,35.4,39.82,FB000606,2025,Qtr 3,August,6,"",Summer,L,9
+Gap,Accessories,Purple,21.45,2,false,7.1,23.09,FB000679,2025,Qtr 3,August,6,"",Winter,L,11
+Gap,Accessories,Purple,39.41,4,false,13.5,45.56,FB001159,2025,Qtr 3,August,6,"",Summer,L,40
+Gap,Accessories,Purple,79.48,4,false,0,79.48,FB001375,2025,Qtr 3,August,6,"",Winter,L,2
+Gap,Accessories,Purple,61.01,4,false,0,61.01,FB001783,2025,Qtr 2,April,25,"",Spring,L,30
+Gap,Accessories,Purple,47.74,3,false,0,47.74,FB002147,2024,Qtr 4,December,25,"",Spring,L,17
+Gap,Accessories,Red,58.61,2,false,18.4,71.82,FB000653,2025,Qtr 3,August,6,"",Fall,L,50
+Gap,Accessories,Red,79.94,4,false,0,79.94,FB000736,2025,Qtr 3,July,31,"",Spring,L,26
+Gap,Accessories,Red,20.77,2,false,0,20.77,FB001005,2024,Qtr 3,August,17,"",Spring,L,31
+Gap,Accessories,White,14.91,3,false,27.6,20.59,FB000486,2025,Qtr 3,August,6,"",Fall,L,36
+Gap,Accessories,White,56.09,5,false,0,56.09,FB000873,2025,Qtr 3,August,6,"",Winter,L,21
+Gap,Accessories,White,58.9,4,false,0,58.9,FB000950,2025,Qtr 3,August,6,"",Fall,L,39
+Gap,Accessories,White,35.5,5,false,29.2,50.14,FB001042,2025,Qtr 1,February,4,"",Spring,L,33
+Gap,Accessories,White,72.83,2,false,0,72.83,FB001091,2024,Qtr 4,November,26,"",Spring,L,6
+Gap,Accessories,White,16.54,3,false,0,16.54,FB002028,2025,Qtr 2,April,26,"",Spring,L,30
+H&M,Accessories,Beige,45.37,2,false,0,45.37,FB001359,2025,Qtr 3,August,6,"",Winter,L,19
+H&M,Accessories,Beige,37.27,4,false,0,37.27,FB002063,2025,Qtr 3,August,6,"",Fall,L,15
+H&M,Accessories,Black,24.64,5,false,0,24.64,FB000388,2025,Qtr 3,August,6,"",Fall,L,6
+H&M,Accessories,Black,16.5,5,false,48.2,31.86,FB000529,2025,Qtr 3,August,6,"",Fall,L,32
+H&M,Accessories,Black,45.95,2,false,8.7,50.33,FB000830,2025,Qtr 3,August,6,"",Winter,L,14
+H&M,Accessories,Black,24.5,3,false,0,24.5,FB001460,2025,Qtr 3,August,6,"",Winter,L,7
+H&M,Accessories,Blue,24.1,3,false,40.5,40.5,FB000587,2025,Qtr 3,August,6,"",Summer,L,25
+H&M,Accessories,Blue,16.21,5,false,40.4,27.2,FB001429,2024,Qtr 3,August,19,"",Spring,L,20
+H&M,Accessories,Blue,69.73,2,true,0,69.73,FB000806,2025,Qtr 3,August,6,Color Mismatch,Fall,L,7
+H&M,Accessories,Brown,18.63,2,false,42.9,32.63,FB000399,2025,Qtr 3,August,6,"",Winter,L,5
+H&M,Accessories,Brown,44.09,2,false,0,44.09,FB000508,2025,Qtr 3,August,6,"",Summer,L,2
+H&M,Accessories,Brown,71.19,3,false,0,71.19,FB000864,2025,Qtr 3,August,6,"",Summer,L,14
+H&M,Accessories,Gray,46.46,3,false,0,46.46,FB000462,2025,Qtr 3,August,6,"",Winter,L,30
+H&M,Accessories,Gray,73.6,2,false,0,73.6,FB000702,2025,Qtr 3,August,6,"",Summer,L,1
+H&M,Accessories,Gray,62.69,4,false,8.1,68.22,FB001038,2025,Qtr 3,August,6,"",Summer,L,28
+H&M,Accessories,Gray,50.2,2,false,27.9,69.62,FB001220,2025,Qtr 3,August,6,"",Summer,L,5
+H&M,Accessories,Gray,43.88,2,false,19.2,54.31,FB001695,2025,Qtr 3,August,6,"",Fall,L,19
+H&M,Accessories,Green,23.11,2,false,0,23.11,FB000164,2024,Qtr 3,September,17,"",Spring,L,2
+H&M,Accessories,Green,52.41,3,false,0,52.41,FB000578,2025,Qtr 3,August,6,"",Fall,L,14
+H&M,Accessories,Green,46.97,3,false,0,46.97,FB000888,2025,Qtr 1,February,24,"",Spring,L,33
+H&M,Accessories,Green,79.04,5,false,0,79.04,FB001407,2024,Qtr 4,October,3,"",Spring,L,28
+H&M,Accessories,Green,26.26,3,false,0,26.26,FB001810,2025,Qtr 3,August,6,"",Fall,L,27
+H&M,Accessories,Green,49.84,3,true,32.2,73.51,FB000844,2025,Qtr 3,August,6,Wrong Item,Winter,L,17
+H&M,Accessories,Green,52.57,3,true,0,52.57,FB001881,2025,Qtr 3,August,6,Damaged,Winter,L,50
+H&M,Accessories,Navy,67.67,4,false,0,67.67,FB001044,2024,Qtr 3,September,25,"",Spring,L,7
+H&M,Accessories,Navy,46.94,4,false,24.6,62.26,FB001207,2025,Qtr 3,August,6,"",Winter,L,33
+H&M,Accessories,Navy,34.99,5,false,32.2,51.61,FB001333,2025,Qtr 3,August,6,"",Winter,L,34
+H&M,Accessories,Navy,79.69,2,false,0,79.69,FB001542,2025,Qtr 3,August,6,"",Winter,L,44
+H&M,Accessories,Navy,50.12,3,false,0,50.12,FB001653,2025,Qtr 1,March,9,"",Spring,L,27
+H&M,Accessories,Pink,45.18,3,false,16,53.79,FB000903,2024,Qtr 4,October,1,"",Spring,L,32
+H&M,Accessories,Pink,20.94,4,false,41.2,35.62,FB000930,2025,Qtr 1,March,20,"",Spring,L,4
+H&M,Accessories,Pink,17.72,2,false,0,17.72,FB000933,2025,Qtr 3,August,6,"",Fall,L,9
+H&M,Accessories,Pink,31.97,2,false,39.4,52.76,FB001771,2025,Qtr 3,August,6,"",Summer,L,0
+H&M,Accessories,Purple,62.84,4,false,8,68.3,FB001272,2025,Qtr 3,August,6,"",Fall,L,18
+H&M,Accessories,Purple,46.91,3,false,18,57.21,FB001778,2025,Qtr 3,August,6,"",Fall,L,7
+H&M,Accessories,Red,42.33,3,false,19.1,52.33,FB000237,2025,Qtr 3,August,6,"",Fall,L,4
+H&M,Accessories,Red,39.19,4,false,24.3,51.77,FB000290,2025,Qtr 3,August,6,"",Summer,L,50
+H&M,Accessories,Red,33.77,5,false,54.2,73.73,FB001472,2025,Qtr 3,August,6,"",Fall,L,37
+H&M,Accessories,Red,39.96,3,false,0,39.96,FB001816,2025,Qtr 3,August,6,"",Winter,L,49
+H&M,Accessories,Red,22.68,4,true,37.6,36.35,FB000370,2025,Qtr 3,August,6,Changed Mind,Fall,L,49
+H&M,Accessories,White,57.07,2,false,8.8,62.58,FB001811,2024,Qtr 4,November,6,"",Spring,L,1
+Mango,Accessories,Beige,66.48,2,false,0,66.48,FB002062,2025,Qtr 3,August,6,"",Fall,L,38
+Mango,Accessories,Black,53.66,3,false,0,53.66,FB000167,2024,Qtr 4,December,19,"",Spring,L,40
+Mango,Accessories,Black,50.68,3,false,34.9,77.85,FB000703,2025,Qtr 3,August,5,"",Spring,L,11
+Mango,Accessories,Black,67.38,2,false,0,67.38,FB001791,2025,Qtr 3,August,6,"",Winter,L,15
+Mango,Accessories,Blue,67.13,2,false,0,67.13,FB000490,2025,Qtr 3,August,6,"",Summer,L,3
+Mango,Accessories,Blue,69.48,4,false,0,69.48,FB001522,2025,Qtr 3,August,6,"",Winter,L,17
+Mango,Accessories,Blue,16.41,3,false,50.2,32.95,FB001694,2025,Qtr 3,August,6,"",Winter,L,46
+Mango,Accessories,Blue,53.7,2,true,0,53.7,FB002105,2025,Qtr 3,August,6,Damaged,Summer,L,16
+Mango,Accessories,Brown,69.38,3,false,0,69.38,FB000380,2025,Qtr 3,August,6,"",Summer,L,43
+Mango,Accessories,Brown,69.88,3,false,0,69.88,FB000623,2025,Qtr 3,August,6,"",Summer,L,8
+Mango,Accessories,Brown,48.04,5,false,0,48.04,FB000840,2025,Qtr 3,August,6,"",Winter,L,46
+Mango,Accessories,Brown,38.08,2,false,0,38.08,FB001640,2025,Qtr 3,August,6,"",Winter,L,0
+Mango,Accessories,Brown,47.14,2,false,29.1,66.49,FB001693,2025,Qtr 3,August,6,"",Fall,L,37
+Mango,Accessories,Brown,44.49,3,false,0,44.49,FB001984,2025,Qtr 2,June,27,"",Spring,L,34
+Mango,Accessories,Brown,41.04,3,false,0,41.04,FB002112,2025,Qtr 3,August,6,"",Summer,L,43
+Mango,Accessories,Gray,23.56,5,false,0,23.56,FB001912,2025,Qtr 3,August,6,"",Fall,L,16
+Mango,Accessories,Green,67.57,3,false,0,67.57,FB000016,2025,Qtr 3,August,6,"",Winter,L,17
+Mango,Accessories,Green,11.78,4,false,48.8,23.01,FB001585,2025,Qtr 3,August,6,"",Summer,L,13
+Mango,Accessories,Green,72.01,3,true,0.4,72.3,FB000269,2024,Qtr 4,December,29,Color Mismatch,Spring,L,38
+Mango,Accessories,Navy,31,2,false,0,31,FB000357,2025,Qtr 3,August,6,"",Fall,L,29
+Mango,Accessories,Navy,72.57,3,false,0,72.57,FB000521,2025,Qtr 3,August,6,"",Fall,L,27
+Mango,Accessories,Navy,31.13,5,false,0,31.13,FB000877,2025,Qtr 3,August,6,"",Winter,L,29
+Mango,Accessories,Navy,37.47,2,false,42.2,64.82,FB001208,2025,Qtr 3,August,6,"",Summer,L,26
+Mango,Accessories,Navy,53.64,3,false,0,53.64,FB001302,2025,Qtr 3,August,6,"",Fall,L,18
+Mango,Accessories,Navy,61.16,3,false,0,61.16,FB001476,2025,Qtr 3,August,6,"",Winter,L,28
+Mango,Accessories,Pink,23.58,2,false,0,23.58,FB000381,2025,Qtr 3,August,6,"",Fall,L,16
+Mango,Accessories,Pink,14.01,3,false,49.8,27.91,FB001541,2025,Qtr 1,February,13,"",Spring,L,12
+Mango,Accessories,Pink,31.59,2,false,58.5,76.13,FB001722,2025,Qtr 3,August,6,"",Winter,L,40
+Mango,Accessories,Pink,19.96,2,false,0,19.96,FB002058,2025,Qtr 2,June,19,"",Spring,L,16
+Mango,Accessories,Pink,51.72,4,true,0,51.72,FB000905,2025,Qtr 3,August,6,Damaged,Fall,L,35
+Mango,Accessories,Purple,39.85,3,false,0,39.85,FB000451,2025,Qtr 3,August,6,"",Summer,L,28
+Mango,Accessories,Purple,43.5,3,false,0,43.5,FB000614,2025,Qtr 3,August,6,"",Winter,L,35
+Mango,Accessories,Purple,62.16,2,false,4.2,64.89,FB001301,2025,Qtr 3,August,6,"",Winter,L,40
+Mango,Accessories,Purple,42.28,2,false,0,42.28,FB001449,2025,Qtr 3,August,6,"",Winter,L,22
+Mango,Accessories,Purple,33.12,3,false,5.2,34.94,FB001611,2025,Qtr 3,August,6,"",Fall,L,18
+Mango,Accessories,Purple,22.02,3,false,27.1,30.2,FB001658,2025,Qtr 3,August,6,"",Fall,L,15
+Mango,Accessories,Purple,52.73,3,false,0,52.73,FB001765,2025,Qtr 3,August,6,"",Fall,L,42
+Mango,Accessories,Purple,25.49,3,true,0,25.49,FB001432,2025,Qtr 3,August,6,Size Issue,Summer,L,35
+Mango,Accessories,Red,43.55,3,false,43.3,76.8,FB000232,2025,Qtr 3,August,6,"",Summer,L,24
+Mango,Accessories,Red,54.11,3,false,0,54.11,FB000613,2025,Qtr 3,August,6,"",Winter,L,15
+Mango,Accessories,Red,67.2,4,false,3.7,69.78,FB001307,2025,Qtr 3,August,6,"",Summer,L,14
+Mango,Accessories,Red,32.4,3,false,51,66.12,FB002114,2025,Qtr 3,August,6,"",Winter,L,17
+Mango,Accessories,Red,31.23,5,false,58.1,74.54,FB002135,2025,Qtr 3,August,6,"",Summer,L,35
+Mango,Accessories,White,67.61,2,false,0,67.61,FB000238,2025,Qtr 3,August,6,"",Fall,L,14
+Mango,Accessories,White,78.39,5,false,0,78.39,FB000851,2025,Qtr 3,August,6,"",Fall,L,7
+Mango,Accessories,White,41.43,3,false,0,41.43,FB001235,2025,Qtr 3,August,6,"",Winter,L,10
+Uniqlo,Accessories,Beige,56.44,4,false,0,56.44,FB000548,2025,Qtr 1,March,18,"",Spring,L,35
+Uniqlo,Accessories,Beige,61.13,3,false,0,61.13,FB000753,2025,Qtr 3,August,6,"",Summer,L,34
+Uniqlo,Accessories,Beige,49.93,2,false,26.2,67.65,FB001186,2025,Qtr 2,May,28,"",Spring,L,23
+Uniqlo,Accessories,Beige,51.48,2,false,12.5,58.83,FB001294,2025,Qtr 3,August,6,"",Fall,L,3
+Uniqlo,Accessories,Beige,43.84,3,false,0,43.84,FB001631,2025,Qtr 3,August,6,"",Fall,L,28
+Uniqlo,Accessories,Beige,69.22,4,false,0,69.22,FB002170,2024,Qtr 3,September,5,"",Spring,L,42
+Uniqlo,Accessories,Black,33.8,5,false,0,33.8,FB000003,2025,Qtr 3,August,6,"",Winter,L,22
+Uniqlo,Accessories,Black,44.58,3,false,0,44.58,FB000354,2025,Qtr 3,August,6,"",Fall,L,21
+Uniqlo,Accessories,Black,66.6,4,false,0,66.6,FB000605,2025,Qtr 3,August,6,"",Winter,L,47
+Uniqlo,Accessories,Black,66.18,2,false,0,66.18,FB000928,2025,Qtr 2,May,23,"",Spring,L,20
+Uniqlo,Accessories,Black,33.8,5,false,0,33.8,FB001076,2025,Qtr 3,August,6,"",Winter,L,34
+Uniqlo,Accessories,Black,21.82,4,false,8.3,23.8,FB001227,2025,Qtr 3,August,6,"",Summer,L,0
+Uniqlo,Accessories,Black,17.87,3,false,0,17.87,FB002145,2025,Qtr 3,August,6,"",Fall,L,47
+Uniqlo,Accessories,Black,61.84,5,true,0,61.84,FB001445,2025,Qtr 3,August,6,Wrong Item,Fall,L,0
+Uniqlo,Accessories,Blue,28.11,5,false,7.9,30.52,FB000707,2025,Qtr 3,August,6,"",Winter,L,43
+Uniqlo,Accessories,Blue,59.1,2,false,0,59.1,FB000992,2025,Qtr 3,August,6,"",Summer,L,29
+Uniqlo,Accessories,Blue,26.7,4,false,0,26.7,FB001883,2025,Qtr 2,May,27,"",Spring,L,48
+Uniqlo,Accessories,Blue,30.19,4,false,27.3,41.52,FB001896,2025,Qtr 3,August,6,"",Winter,L,48
+Uniqlo,Accessories,Brown,59.85,4,false,0,59.85,FB000080,2025,Qtr 3,August,6,"",Fall,L,38
+Uniqlo,Accessories,Brown,18.86,5,false,51.5,38.89,FB000125,2025,Qtr 3,August,6,"",Winter,L,28
+Uniqlo,Accessories,Brown,41.24,4,false,47.3,78.26,FB001519,2025,Qtr 3,August,6,"",Fall,L,20
+Uniqlo,Accessories,Brown,9.71,3,false,36.8,15.36,FB002153,2025,Qtr 2,April,29,"",Spring,L,46
+Uniqlo,Accessories,Brown,72.04,3,true,0,72.04,FB000117,2025,Qtr 3,August,6,Wrong Item,Fall,L,48
+Uniqlo,Accessories,Gray,38.75,4,false,37.7,62.2,FB000488,2025,Qtr 3,August,6,"",Fall,L,16
+Uniqlo,Accessories,Gray,9.58,4,false,36.7,15.14,FB000530,2025,Qtr 3,July,23,"",Spring,L,41
+Uniqlo,Accessories,Gray,50.31,3,false,0,50.31,FB001711,2025,Qtr 2,April,24,"",Spring,L,36
+Uniqlo,Accessories,Gray,60.18,2,false,0,60.18,FB001991,2025,Qtr 3,August,6,"",Summer,L,36
+Uniqlo,Accessories,Gray,68.95,4,false,0,68.95,FB002102,2025,Qtr 3,August,6,"",Fall,L,47
+Uniqlo,Accessories,Green,26.03,4,false,0,26.03,FB000319,2025,Qtr 3,August,6,"",Fall,L,15
+Uniqlo,Accessories,Green,41.7,4,false,0,41.7,FB000366,2025,Qtr 3,August,6,"",Fall,L,18
+Uniqlo,Accessories,Green,70.72,3,false,0,70.72,FB000759,2025,Qtr 3,August,6,"",Summer,L,18
+Uniqlo,Accessories,Green,39.35,3,false,14.1,45.81,FB001202,2025,Qtr 2,April,14,"",Spring,L,29
+Uniqlo,Accessories,Green,67.9,2,false,0,67.9,FB001772,2024,Qtr 4,December,31,"",Spring,L,1
+Uniqlo,Accessories,Green,19.23,5,false,12,21.85,FB002056,2025,Qtr 3,August,6,"",Summer,L,18
+Uniqlo,Accessories,Green,20.9,3,false,31.4,30.46,FB002165,2025,Qtr 3,August,6,"",Summer,L,40
+Uniqlo,Accessories,Navy,61.48,5,false,6.8,65.97,FB001588,2025,Qtr 3,August,6,"",Winter,L,41
+Uniqlo,Accessories,Navy,27.69,3,false,40.8,46.77,FB001773,2025,Qtr 3,August,6,"",Fall,L,25
+Uniqlo,Accessories,Navy,33,4,false,0,33,FB001987,2025,Qtr 3,August,6,"",Fall,L,50
+Uniqlo,Accessories,Navy,10.48,5,false,50.7,21.26,FB002014,2025,Qtr 3,August,6,"",Fall,L,39
+Uniqlo,Accessories,Pink,28.4,4,false,0,28.4,FB000519,2025,Qtr 3,August,6,"",Fall,L,4
+Uniqlo,Accessories,Pink,66.85,2,false,10.9,75.03,FB001513,2025,Qtr 3,August,6,"",Summer,L,12
+Uniqlo,Accessories,Pink,39.94,4,false,0,39.94,FB001642,2025,Qtr 3,August,6,"",Summer,L,32
+Uniqlo,Accessories,Pink,77.45,4,false,0,77.45,FB002072,2025,Qtr 3,August,6,"",Summer,L,0
+Uniqlo,Accessories,Pink,21.43,2,false,0,21.43,FB002129,2025,Qtr 1,February,3,"",Spring,L,38
+Uniqlo,Accessories,Pink,28.74,2,true,1.1,29.06,FB001058,2025,Qtr 3,August,6,Color Mismatch,Fall,L,12
+Uniqlo,Accessories,Pink,41.97,5,true,35.3,64.87,FB001372,2025,Qtr 3,August,6,Size Issue,Summer,L,12
+Uniqlo,Accessories,Purple,24.53,5,false,0,24.53,FB000431,2024,Qtr 3,August,20,"",Spring,L,44
+Uniqlo,Accessories,Purple,26.02,5,false,19.2,32.2,FB001692,2025,Qtr 3,July,27,"",Spring,L,8
+Uniqlo,Accessories,Purple,33.29,2,true,22.5,42.95,FB000078,2025,Qtr 3,August,6,Size Issue,Fall,L,7
+Uniqlo,Accessories,Purple,63.42,3,true,0,63.42,FB001455,2024,Qtr 4,November,12,Color Mismatch,Spring,L,19
+Uniqlo,Accessories,Red,39.3,3,false,0,39.3,FB000699,2025,Qtr 3,August,6,"",Fall,L,39
+Uniqlo,Accessories,Red,75.93,4,false,0,75.93,FB000775,2025,Qtr 3,August,6,"",Winter,L,32
+Uniqlo,Accessories,Red,63.45,4,false,0,63.45,FB001022,2025,Qtr 3,August,6,"",Summer,L,4
+Uniqlo,Accessories,Red,77.04,3,false,2.5,79.02,FB001488,2025,Qtr 3,August,6,"",Summer,L,16
+Uniqlo,Accessories,Red,49.89,3,false,0,49.89,FB001528,2025,Qtr 3,August,6,"",Winter,L,32
+Uniqlo,Accessories,Red,44.87,2,false,14.6,52.54,FB002036,2024,Qtr 3,September,17,"",Spring,L,7
+Uniqlo,Accessories,Red,62.05,2,true,0,62.05,FB000403,2025,Qtr 3,August,6,Changed Mind,Fall,L,50
+Uniqlo,Accessories,White,46.59,5,false,0,46.59,FB000280,2025,Qtr 3,August,6,"",Winter,L,29
+Zara,Accessories,Beige,34.15,5,false,0,34.15,FB000410,2025,Qtr 3,August,6,"",Summer,L,27
+Zara,Accessories,Beige,61.29,4,false,0,61.29,FB000617,2025,Qtr 3,August,6,"",Summer,L,15
+Zara,Accessories,Beige,45.24,3,true,0,45.24,FB000592,2025,Qtr 3,August,6,Quality Issue,Summer,L,20
+Zara,Accessories,Black,51.33,2,false,0,51.33,FB001463,2025,Qtr 3,August,6,"",Summer,L,25
+Zara,Accessories,Black,24.65,2,false,0,24.65,FB001786,2025,Qtr 3,August,6,"",Fall,L,43
+Zara,Accessories,Black,73.75,5,false,0,73.75,FB001807,2025,Qtr 3,August,6,"",Summer,L,23
+Zara,Accessories,Black,47.73,3,true,31,69.18,FB000870,2025,Qtr 3,August,6,Size Issue,Fall,L,9
+Zara,Accessories,Black,27.9,3,true,0,27.9,FB001545,2025,Qtr 3,August,6,Changed Mind,Winter,L,27
+Zara,Accessories,Blue,56.39,5,false,0,56.39,FB000723,2025,Qtr 3,August,6,"",Fall,L,49
+Zara,Accessories,Blue,10.68,2,false,36.6,16.84,FB000796,2025,Qtr 3,August,6,"",Fall,L,34
+Zara,Accessories,Blue,15.92,5,false,0,15.92,FB001209,2024,Qtr 3,September,6,"",Spring,L,7
+Zara,Accessories,Blue,62.02,4,false,0,62.02,FB001217,2025,Qtr 2,April,25,"",Spring,L,3
+Zara,Accessories,Blue,29.43,2,false,23.3,38.37,FB001299,2025,Qtr 3,August,6,"",Winter,L,22
+Zara,Accessories,Brown,62.3,3,false,0,62.3,FB000022,2024,Qtr 3,September,24,"",Spring,L,10
+Zara,Accessories,Brown,40.18,5,false,0,40.18,FB000884,2025,Qtr 3,August,6,"",Winter,L,27
+Zara,Accessories,Brown,11.29,2,false,38.3,18.3,FB001003,2025,Qtr 3,August,6,"",Fall,L,14
+Zara,Accessories,Brown,29.09,3,false,33.3,43.61,FB001145,2025,Qtr 3,August,6,"",Summer,L,47
+Zara,Accessories,Brown,29.75,4,false,0,29.75,FB001232,2025,Qtr 1,February,7,"",Spring,L,37
+Zara,Accessories,Brown,61.09,3,false,1.8,62.21,FB001418,2024,Qtr 4,November,3,"",Spring,L,4
+Zara,Accessories,Brown,34.36,4,false,12,39.05,FB001573,2024,Qtr 3,September,30,"",Spring,L,0
+Zara,Accessories,Brown,54.92,4,false,0,54.92,FB001691,2025,Qtr 2,April,12,"",Spring,L,44
+Zara,Accessories,Brown,30.95,4,true,0,30.95,FB000092,2025,Qtr 3,August,6,Changed Mind,Winter,L,27
+Zara,Accessories,Brown,38.12,5,true,0,38.12,FB001502,2025,Qtr 3,August,6,Damaged,Winter,L,18
+Zara,Accessories,Gray,60.49,3,false,0,60.49,FB000443,2025,Qtr 3,August,6,"",Winter,L,30
+Zara,Accessories,Gray,78.04,5,false,0,78.04,FB000532,2025,Qtr 2,April,9,"",Spring,L,38
+Zara,Accessories,Gray,31.59,3,false,39,51.79,FB000926,2025,Qtr 1,March,17,"",Spring,L,37
+Zara,Accessories,Gray,74.17,2,false,0,74.17,FB001164,2025,Qtr 3,August,6,"",Fall,L,24
+Zara,Accessories,Gray,54.45,4,true,29.9,77.68,FB001354,2025,Qtr 3,July,24,Damaged,Spring,L,33
+Zara,Accessories,Green,30.43,5,false,26.3,41.29,FB000568,2025,Qtr 3,August,6,"",Winter,L,5
+Zara,Accessories,Green,34.04,2,false,0,34.04,FB001197,2025,Qtr 3,August,6,"",Winter,L,3
+Zara,Accessories,Green,73.57,2,false,0,73.57,FB001405,2025,Qtr 3,August,6,"",Fall,L,22
+Zara,Accessories,Green,72.37,3,false,0,72.37,FB001484,2025,Qtr 3,August,6,"",Fall,L,24
+Zara,Accessories,Navy,48.5,3,false,0,48.5,FB000334,2025,Qtr 2,May,9,"",Spring,L,46
+Zara,Accessories,Navy,75.48,2,false,0,75.48,FB001728,2025,Qtr 2,May,27,"",Spring,L,16
+Zara,Accessories,Navy,45.64,4,true,0,45.64,FB000729,2025,Qtr 3,August,6,Size Issue,Fall,L,36
+Zara,Accessories,Navy,30.62,3,true,0,30.62,FB001106,2025,Qtr 3,August,6,Damaged,Summer,L,31
+Zara,Accessories,Pink,38.48,2,false,0,38.48,FB000023,2025,Qtr 3,August,6,"",Winter,L,46
+Zara,Accessories,Pink,74.2,2,false,0,74.2,FB000281,2025,Qtr 3,August,6,"",Fall,L,22
+Zara,Accessories,Pink,20.24,5,false,0,20.24,FB000819,2025,Qtr 3,August,6,"",Winter,L,20
+Zara,Accessories,Pink,31.23,3,false,0,31.23,FB001906,2025,Qtr 3,August,6,"",Winter,L,25
+Zara,Accessories,Pink,49.31,4,false,0,49.31,FB002053,2025,Qtr 3,August,6,"",Summer,L,49
+Zara,Accessories,Pink,15.83,5,true,21.6,20.19,FB001139,2025,Qtr 3,August,6,Changed Mind,Fall,L,45
+Zara,Accessories,Pink,35.19,5,true,49.9,70.23,FB002116,2025,Qtr 3,August,6,Damaged,Winter,L,0
+Zara,Accessories,Purple,26.68,4,false,11.8,30.25,FB000469,2025,Qtr 3,August,6,"",Summer,L,30
+Zara,Accessories,Purple,46.58,2,false,0,46.58,FB000622,2024,Qtr 3,September,25,"",Spring,L,42
+Zara,Accessories,Purple,47.96,3,false,34.6,73.33,FB001007,2025,Qtr 3,August,6,"",Fall,L,45
+Zara,Accessories,Purple,43.47,2,false,36.9,68.89,FB001321,2024,Qtr 4,December,5,"",Spring,L,9
+Zara,Accessories,Purple,35.22,2,false,53.9,76.39,FB001533,2025,Qtr 3,August,6,"",Summer,L,15
+Zara,Accessories,Purple,26.56,2,true,0.9,26.8,FB000345,2025,Qtr 3,August,6,Color Mismatch,Summer,L,25
+Zara,Accessories,Red,51.69,5,false,14.1,60.17,FB000286,2025,Qtr 3,August,6,"",Fall,L,38
+Zara,Accessories,Red,70.74,2,false,0,70.74,FB000607,2025,Qtr 3,August,6,"",Fall,L,49
+Zara,Accessories,Red,49.95,5,false,0,49.95,FB000680,2024,Qtr 3,September,17,"",Spring,L,29
+Zara,Accessories,Red,60.34,3,false,0,60.34,FB001475,2025,Qtr 3,August,6,"",Summer,L,13
+Zara,Accessories,Red,74.61,3,false,0,74.61,FB001633,2025,Qtr 2,April,28,"",Spring,L,38
+Zara,Accessories,Red,39.95,2,false,7.8,43.33,FB001871,2025,Qtr 3,August,6,"",Winter,L,4
+Zara,Accessories,Red,14.98,4,false,14.4,17.5,FB001955,2025,Qtr 3,August,6,"",Winter,L,16
+Zara,Accessories,White,32.67,3,false,32.7,48.55,FB000570,2024,Qtr 4,October,1,"",Spring,L,39
+Zara,Accessories,White,46.07,3,false,0,46.07,FB001326,2025,Qtr 3,August,6,"",Summer,L,25
+Zara,Accessories,White,31.4,5,false,29.2,44.35,FB001570,2025,Qtr 3,August,6,"",Summer,L,20
+Zara,Accessories,White,27.6,3,false,0,27.6,FB001921,2025,Qtr 3,August,6,"",Fall,L,33
+Zara,Accessories,White,22.63,3,true,35.4,35.03,FB000006,2025,Qtr 3,August,6,Color Mismatch,Fall,L,38
+Zara,Accessories,White,34.4,3,true,0,34.4,FB000506,2025,Qtr 3,August,6,Wrong Item,Summer,L,43
+Ann Taylor,Bottoms,Beige,36.99,4,false,42.2,63.99,FB000668,2025,Qtr 3,August,6,"",Summer,XL,35
+Ann Taylor,Bottoms,Beige,19.99,2,false,52,41.65,FB000690,2025,Qtr 2,May,16,"",Spring,XL,20
+Ann Taylor,Bottoms,Beige,64.07,3,false,0,64.07,FB000867,2025,Qtr 3,August,6,"",Winter,XXL,34
+Ann Taylor,Bottoms,Beige,59.1,5,false,0,59.1,FB000994,2025,Qtr 3,August,6,"",Fall,L,47
+Ann Taylor,Bottoms,Beige,60.97,5,false,0,60.97,FB001371,2025,Qtr 3,August,6,"",Fall,M,29
+Ann Taylor,Bottoms,Beige,31.65,4,false,58.1,75.53,FB001888,2025,Qtr 3,August,6,"",Winter,S,33
+Ann Taylor,Bottoms,Beige,94.92,3,false,0,94.92,FB002093,2024,Qtr 3,September,29,"",Spring,M,20
+Ann Taylor,Bottoms,Black,47.7,3,false,0,47.7,FB000630,2025,Qtr 3,August,6,"",Fall,L,14
+Ann Taylor,Bottoms,Black,26.86,4,false,0,26.86,FB001663,2025,Qtr 3,August,6,"",Summer,XXL,18
+Ann Taylor,Bottoms,Black,42.36,2,false,0,42.36,FB001717,2025,Qtr 3,August,6,"",Winter,XXL,37
+Ann Taylor,Bottoms,Black,67.62,3,false,9.7,74.88,FB001876,2025,Qtr 3,August,6,"",Winter,S,23
+Ann Taylor,Bottoms,Black,46.42,4,true,0,46.42,FB001505,2025,Qtr 3,August,6,Changed Mind,Fall,XL,2
+Ann Taylor,Bottoms,Blue,96.05,4,false,0,96.05,FB000437,2024,Qtr 3,September,9,"",Spring,L,15
+Ann Taylor,Bottoms,Blue,63,4,false,38.6,102.6,FB001025,2025,Qtr 2,May,10,"",Spring,L,14
+Ann Taylor,Bottoms,Brown,53.93,3,false,1.7,54.86,FB000171,2025,Qtr 3,August,6,"",Fall,S,40
+Ann Taylor,Bottoms,Brown,49.6,5,false,0,49.6,FB000739,2025,Qtr 3,August,6,"",Fall,XXL,32
+Ann Taylor,Bottoms,Brown,84.29,3,false,0,84.29,FB002019,2025,Qtr 3,August,6,"",Winter,M,4
+Ann Taylor,Bottoms,Brown,62.96,5,false,43.5,111.43,FB002152,2025,Qtr 3,August,6,"",Fall,S,22
+Ann Taylor,Bottoms,Brown,37.04,2,true,15.6,43.89,FB001015,2025,Qtr 2,April,30,Wrong Item,Spring,XXL,31
+Ann Taylor,Bottoms,Gray,37.57,2,false,0,37.57,FB000683,2025,Qtr 3,August,6,"",Summer,S,18
+Ann Taylor,Bottoms,Gray,39.31,1,true,19.9,49.08,FB001828,2025,Qtr 3,August,6,Changed Mind,Fall,XXL,46
+Ann Taylor,Bottoms,Gray,30.03,4,true,14.7,35.21,FB001858,2024,Qtr 4,December,23,Quality Issue,Spring,L,15
+Ann Taylor,Bottoms,Navy,57.85,4,false,0,57.85,FB000098,2025,Qtr 3,August,6,"",Summer,XXL,36
+Ann Taylor,Bottoms,Navy,60.36,4,false,0,60.36,FB000705,2024,Qtr 3,September,1,"",Spring,L,35
+Ann Taylor,Bottoms,Navy,102.84,2,false,0,102.84,FB000714,2024,Qtr 3,September,10,"",Spring,S,27
+Ann Taylor,Bottoms,Navy,11.16,2,false,57.9,26.5,FB001817,2025,Qtr 3,August,6,"",Summer,L,8
+Ann Taylor,Bottoms,Pink,31.32,3,false,54.3,68.53,FB000472,2025,Qtr 3,August,6,"",Fall,L,38
+Ann Taylor,Bottoms,Pink,15.62,3,false,38.9,25.56,FB000576,2025,Qtr 3,August,6,"",Fall,M,48
+Ann Taylor,Bottoms,Pink,50.8,3,false,37.9,81.81,FB001518,2025,Qtr 1,February,16,"",Spring,XL,44
+Ann Taylor,Bottoms,Pink,103.77,5,false,0,103.77,FB001674,2025,Qtr 3,August,6,"",Fall,L,12
+Ann Taylor,Bottoms,Pink,105.52,5,true,0,105.52,FB002175,2025,Qtr 3,August,6,Size Issue,Summer,XL,20
+Ann Taylor,Bottoms,Purple,101.13,5,false,13.7,117.18,FB000815,2025,Qtr 3,August,2,"",Spring,L,5
+Ann Taylor,Bottoms,Purple,67.92,2,true,0,67.92,FB000821,2025,Qtr 3,August,6,Size Issue,Winter,XXL,23
+Ann Taylor,Bottoms,Red,15.5,3,false,51.7,32.1,FB000197,2024,Qtr 4,November,23,"",Spring,XXL,27
+Ann Taylor,Bottoms,Red,86.68,3,false,0,86.68,FB000932,2025,Qtr 3,August,6,"",Summer,L,2
+Ann Taylor,Bottoms,Red,109.36,2,false,0,109.36,FB001718,2025,Qtr 3,August,6,"",Summer,M,24
+Ann Taylor,Bottoms,Red,34.23,2,false,50,68.46,FB001748,2025,Qtr 1,January,26,"",Spring,S,24
+Ann Taylor,Bottoms,White,37.51,3,false,0,37.51,FB000013,2025,Qtr 1,January,4,"",Spring,S,43
+Ann Taylor,Bottoms,White,36.67,3,false,33.6,55.23,FB000594,2025,Qtr 3,August,6,"",Winter,XXL,9
+Ann Taylor,Bottoms,White,95.61,5,true,0,95.61,FB000342,2025,Qtr 2,June,10,Quality Issue,Spring,M,47
+Banana Republic,Bottoms,Beige,100.98,3,false,0,100.98,FB000106,2025,Qtr 2,June,17,"",Spring,XL,21
+Banana Republic,Bottoms,Beige,38.02,5,false,0,38.02,FB000107,2025,Qtr 3,August,6,"",Summer,M,44
+Banana Republic,Bottoms,Beige,64.32,3,false,46.2,119.56,FB000642,2025,Qtr 3,August,6,"",Summer,S,14
+Banana Republic,Bottoms,Beige,37.07,3,false,0,37.07,FB001352,2025,Qtr 2,May,1,"",Spring,M,13
+Banana Republic,Bottoms,Black,41.05,2,false,56.3,93.94,FB001045,2025,Qtr 3,August,6,"",Summer,S,36
+Banana Republic,Bottoms,Black,35.16,4,false,25.7,47.32,FB001297,2025,Qtr 3,August,6,"",Winter,S,2
+Banana Republic,Bottoms,Black,72.07,3,true,0,72.07,FB000248,2025,Qtr 2,May,8,Color Mismatch,Spring,M,20
+Banana Republic,Bottoms,Black,37.27,3,true,0,37.27,FB001394,2025,Qtr 3,August,6,Changed Mind,Summer,S,27
+Banana Republic,Bottoms,Blue,28.27,3,false,12.9,32.46,FB001849,2025,Qtr 3,August,6,"",Fall,M,9
+Banana Republic,Bottoms,Brown,28.9,5,false,57.3,67.69,FB000148,2025,Qtr 3,July,24,"",Spring,XXL,50
+Banana Republic,Bottoms,Brown,27.22,3,false,0,27.22,FB000467,2024,Qtr 3,September,9,"",Spring,S,14
+Banana Republic,Bottoms,Brown,115.89,3,false,0,115.89,FB001228,2025,Qtr 3,August,6,"",Fall,S,34
+Banana Republic,Bottoms,Brown,96.35,4,false,0,96.35,FB001466,2024,Qtr 4,December,12,"",Spring,S,34
+Banana Republic,Bottoms,Brown,64.21,3,false,0,64.21,FB001592,2025,Qtr 3,August,6,"",Winter,XXL,3
+Banana Republic,Bottoms,Brown,87.84,2,false,0,87.84,FB001864,2025,Qtr 3,August,6,"",Summer,XL,29
+Banana Republic,Bottoms,Gray,35.37,5,false,0,35.37,FB000450,2025,Qtr 3,August,6,"",Fall,M,29
+Banana Republic,Bottoms,Gray,119.72,4,false,0,119.72,FB000507,2025,Qtr 1,January,18,"",Spring,M,18
+Banana Republic,Bottoms,Gray,119.04,2,false,0,119.04,FB000516,2025,Qtr 3,August,6,"",Winter,XL,35
+Banana Republic,Bottoms,Gray,17.15,4,false,53.9,37.21,FB001580,2025,Qtr 2,June,27,"",Spring,L,48
+Banana Republic,Bottoms,Gray,73.33,4,true,0,73.33,FB001821,2025,Qtr 3,August,6,Changed Mind,Summer,S,3
+Banana Republic,Bottoms,Green,50.67,5,false,47.8,97.06,FB000037,2025,Qtr 3,August,6,"",Fall,XXL,31
+Banana Republic,Bottoms,Green,59.88,3,false,0,59.88,FB000603,2024,Qtr 4,October,12,"",Spring,L,33
+Banana Republic,Bottoms,Green,46.02,2,false,0,46.02,FB000777,2025,Qtr 3,August,6,"",Fall,XXL,21
+Banana Republic,Bottoms,Green,22.72,3,true,16.2,27.11,FB000912,2024,Qtr 4,December,8,Changed Mind,Spring,S,10
+Banana Republic,Bottoms,Green,32.74,4,true,0,32.74,FB001268,2024,Qtr 3,August,12,Damaged,Spring,L,23
+Banana Republic,Bottoms,Navy,36.62,4,false,26.4,49.75,FB000673,2025,Qtr 3,August,6,"",Summer,L,24
+Banana Republic,Bottoms,Navy,74.67,5,false,0,74.67,FB000737,2025,Qtr 3,August,6,"",Fall,XXL,15
+Banana Republic,Bottoms,Navy,100.24,3,false,16,119.33,FB001520,2024,Qtr 3,August,16,"",Spring,XL,35
+Banana Republic,Bottoms,Pink,80.82,3,false,0,80.82,FB000547,2025,Qtr 1,February,11,"",Spring,S,42
+Banana Republic,Bottoms,Pink,58.08,3,false,18,70.83,FB000640,2025,Qtr 3,August,6,"",Winter,S,21
+Banana Republic,Bottoms,Pink,41.59,4,false,41.5,71.09,FB001723,2025,Qtr 3,August,6,"",Fall,S,20
+Banana Republic,Bottoms,Purple,101.72,3,false,0,101.72,FB000040,2025,Qtr 3,August,6,"",Winter,L,40
+Banana Republic,Bottoms,Purple,113.23,4,false,0,113.23,FB001110,2025,Qtr 3,August,6,"",Fall,L,13
+Banana Republic,Bottoms,Purple,31.54,2,false,0,31.54,FB001705,2025,Qtr 3,August,3,"",Spring,M,45
+Banana Republic,Bottoms,Purple,101.73,5,false,0,101.73,FB001738,2025,Qtr 3,August,6,"",Summer,XXL,14
+Banana Republic,Bottoms,Purple,29.7,3,false,0,29.7,FB001975,2025,Qtr 3,August,6,"",Summer,L,16
+Banana Republic,Bottoms,Red,89.99,5,false,0,89.99,FB000551,2025,Qtr 1,February,28,"",Spring,L,26
+Banana Republic,Bottoms,Red,116.92,4,false,0,116.92,FB000685,2025,Qtr 3,August,6,"",Winter,S,13
+Banana Republic,Bottoms,Red,74.27,2,false,0,74.27,FB001447,2025,Qtr 3,August,6,"",Fall,S,6
+Banana Republic,Bottoms,Red,30.51,2,false,0,30.51,FB001612,2025,Qtr 1,January,14,"",Spring,XL,17
+Banana Republic,Bottoms,Red,30.11,2,true,36,47.04,FB000027,2025,Qtr 3,August,6,Damaged,Summer,L,25
+Banana Republic,Bottoms,Red,49.97,4,true,0,49.97,FB001441,2025,Qtr 3,August,6,Quality Issue,Fall,XL,11
+Banana Republic,Bottoms,Red,70.78,4,true,0,70.78,FB001721,2025,Qtr 3,August,6,Color Mismatch,Winter,XXL,39
+Banana Republic,Bottoms,White,74.24,4,false,28.7,104.13,FB000365,2025,Qtr 3,August,6,"",Summer,S,23
+Banana Republic,Bottoms,White,38.85,4,false,0,38.85,FB000616,2025,Qtr 3,August,6,"",Summer,M,10
+Banana Republic,Bottoms,White,91.92,3,false,0,91.92,FB001467,2025,Qtr 3,August,6,"",Winter,XL,29
+Banana Republic,Bottoms,White,110.6,3,true,0,110.6,FB000649,2025,Qtr 3,August,6,Color Mismatch,Summer,S,19
+Banana Republic,Bottoms,White,26.57,4,true,49.4,52.51,FB001686,2025,Qtr 3,August,6,Changed Mind,Winter,L,37
+Forever21,Bottoms,Beige,119.92,5,false,0,119.92,FB001073,2025,Qtr 3,August,6,"",Winter,XL,37
+Forever21,Bottoms,Beige,91.11,4,false,0,91.11,FB001325,2025,Qtr 3,August,6,"",Winter,M,38
+Forever21,Bottoms,Beige,61.1,5,false,0,61.1,FB001766,2025,Qtr 3,August,6,"",Fall,XXL,30
+Forever21,Bottoms,Beige,75.99,2,true,0,75.99,FB001165,2025,Qtr 1,February,18,Size Issue,Spring,L,19
+Forever21,Bottoms,Black,75.66,3,false,0,75.66,FB000256,2025,Qtr 3,August,6,"",Fall,XXL,20
+Forever21,Bottoms,Black,56.99,3,false,46.5,106.53,FB000327,2025,Qtr 3,August,6,"",Winter,S,17
+Forever21,Bottoms,Black,42.6,3,false,45.8,78.6,FB000379,2025,Qtr 3,August,6,"",Winter,S,6
+Forever21,Bottoms,Black,79.61,4,false,0,79.61,FB001377,2025,Qtr 3,August,6,"",Summer,XL,29
+Forever21,Bottoms,Black,25.77,4,false,0,25.77,FB001507,2025,Qtr 3,August,6,"",Summer,XXL,5
+Forever21,Bottoms,Black,69.21,3,false,0,69.21,FB001566,2025,Qtr 3,August,6,"",Fall,M,41
+Forever21,Bottoms,Black,48.3,3,false,18.1,58.98,FB001891,2025,Qtr 3,August,6,"",Summer,L,23
+Forever21,Bottoms,Black,33.35,4,true,11.9,37.85,FB000086,2025,Qtr 3,August,6,Changed Mind,Winter,S,45
+Forever21,Bottoms,Black,36.34,5,true,0,36.34,FB000625,2025,Qtr 3,August,6,Damaged,Summer,S,6
+Forever21,Bottoms,Black,17.49,5,true,41,29.65,FB001349,2024,Qtr 3,August,26,Quality Issue,Spring,XL,21
+Forever21,Bottoms,Blue,87.21,5,true,16.1,103.94,FB000824,2025,Qtr 3,August,6,Changed Mind,Summer,XL,6
+Forever21,Bottoms,Brown,58.29,3,false,0,58.29,FB000817,2025,Qtr 1,January,7,"",Spring,S,22
+Forever21,Bottoms,Brown,21.2,3,false,28.7,29.73,FB001092,2025,Qtr 3,August,6,"",Winter,S,37
+Forever21,Bottoms,Brown,23.38,3,false,44.1,41.83,FB001388,2025,Qtr 3,August,6,"",Winter,L,6
+Forever21,Bottoms,Brown,47.22,2,false,0,47.22,FB001543,2025,Qtr 3,August,6,"",Fall,S,19
+Forever21,Bottoms,Brown,53.88,5,true,54.2,117.64,FB001306,2025,Qtr 3,August,6,Wrong Item,Summer,L,25
+Forever21,Bottoms,Gray,81.35,2,false,11,91.4,FB000665,2025,Qtr 3,August,6,"",Summer,S,18
+Forever21,Bottoms,Gray,93.54,2,false,7.8,101.45,FB001899,2025,Qtr 3,August,6,"",Summer,S,4
+Forever21,Bottoms,Gray,31.49,3,false,0,31.49,FB002023,2024,Qtr 4,October,19,"",Spring,S,28
+Forever21,Bottoms,Gray,104.83,4,false,0,104.83,FB002091,2025,Qtr 3,August,6,"",Fall,L,26
+Forever21,Bottoms,Green,59.18,2,false,38.8,96.7,FB000498,2025,Qtr 3,August,6,"",Fall,XXL,46
+Forever21,Bottoms,Green,73.8,3,false,0,73.8,FB001462,2025,Qtr 3,August,6,"",Winter,XL,42
+Forever21,Bottoms,Green,102.76,3,false,0,102.76,FB002100,2024,Qtr 4,November,16,"",Spring,XL,35
+Forever21,Bottoms,Navy,48.42,5,false,0,48.42,FB000563,2025,Qtr 3,August,6,"",Winter,L,6
+Forever21,Bottoms,Navy,112.46,3,false,2.9,115.82,FB001149,2025,Qtr 3,August,6,"",Fall,L,46
+Forever21,Bottoms,Navy,80.81,5,false,0,80.81,FB001981,2025,Qtr 3,August,6,"",Summer,L,15
+Forever21,Bottoms,Pink,65.11,3,false,25.5,87.39,FB000115,2025,Qtr 3,August,6,"",Winter,S,8
+Forever21,Bottoms,Pink,11.64,3,false,54.5,25.58,FB000971,2025,Qtr 3,August,6,"",Fall,XXL,34
+Forever21,Bottoms,Pink,43.32,3,false,0,43.32,FB000973,2025,Qtr 3,August,6,"",Winter,S,0
+Forever21,Bottoms,Pink,98.41,5,false,0,98.41,FB001666,2025,Qtr 3,August,6,"",Summer,L,7
+Forever21,Bottoms,Pink,20.48,5,false,29.6,29.09,FB001769,2025,Qtr 3,August,6,"",Fall,S,25
+Forever21,Bottoms,Pink,63.5,3,false,0,63.5,FB002138,2025,Qtr 3,August,6,"",Summer,XL,17
+Forever21,Bottoms,Pink,29.31,5,true,0,29.31,FB001108,2025,Qtr 3,August,6,Changed Mind,Fall,XL,25
+Forever21,Bottoms,Purple,37.37,3,false,35.4,57.85,FB000709,2025,Qtr 3,August,6,"",Summer,M,17
+Forever21,Bottoms,Purple,61.96,4,false,0,61.96,FB001800,2025,Qtr 3,August,6,"",Summer,XXL,13
+Forever21,Bottoms,Purple,117.81,5,false,0,117.81,FB001925,2025,Qtr 3,August,6,"",Fall,L,22
+Forever21,Bottoms,Red,72.85,4,false,0,72.85,FB000433,2025,Qtr 3,August,6,"",Fall,M,25
+Forever21,Bottoms,Red,61.37,4,false,16.6,73.59,FB000588,2025,Qtr 3,August,6,"",Winter,M,34
+Forever21,Bottoms,Red,69.54,2,false,9.6,76.92,FB000749,2025,Qtr 3,August,6,"",Summer,L,20
+Forever21,Bottoms,Red,119.63,3,false,0,119.63,FB001124,2025,Qtr 3,August,6,"",Fall,M,14
+Forever21,Bottoms,Red,40.07,3,false,48.7,78.1,FB001129,2025,Qtr 2,May,6,"",Spring,XXL,0
+Forever21,Bottoms,Red,25.28,2,false,23,32.83,FB001214,2025,Qtr 3,August,6,"",Winter,S,24
+Forever21,Bottoms,Red,38.18,3,false,0,38.18,FB001253,2025,Qtr 3,August,6,"",Summer,XXL,38
+Forever21,Bottoms,Red,83.18,2,true,0,83.18,FB001667,2025,Qtr 3,August,6,Size Issue,Winter,S,17
+Forever21,Bottoms,White,101.8,3,false,0,101.8,FB000049,2025,Qtr 3,August,6,"",Summer,XL,7
+Forever21,Bottoms,White,81.17,2,false,0,81.17,FB000453,2025,Qtr 3,August,6,"",Fall,XXL,21
+Forever21,Bottoms,White,117.26,3,false,0,117.26,FB000501,2024,Qtr 3,September,25,"",Spring,L,29
+Forever21,Bottoms,White,24.57,4,false,12.7,28.15,FB000799,2025,Qtr 3,August,6,"",Summer,XXL,13
+Forever21,Bottoms,White,57.14,2,false,0,57.14,FB000890,2025,Qtr 3,August,6,"",Winter,XL,39
+Forever21,Bottoms,White,90.31,1,false,19.8,112.6,FB001147,2025,Qtr 3,August,6,"",Fall,M,2
+Forever21,Bottoms,White,31.57,3,false,0,31.57,FB001591,2025,Qtr 3,August,6,"",Summer,XXL,2
+Forever21,Bottoms,White,66.74,5,false,0,66.74,FB001960,2025,Qtr 3,August,6,"",Summer,XXL,26
+Gap,Bottoms,Beige,97.29,5,false,0,97.29,FB000362,2025,Qtr 3,July,29,"",Spring,XXL,42
+Gap,Bottoms,Beige,50.14,3,false,35.2,77.37,FB000369,2025,Qtr 3,August,6,"",Fall,XL,14
+Gap,Bottoms,Beige,75.14,3,true,0,75.14,FB000833,2025,Qtr 1,January,27,Changed Mind,Spring,L,41
+Gap,Bottoms,Beige,64.22,3,true,24.2,84.72,FB001904,2025,Qtr 3,August,6,Color Mismatch,Summer,XL,44
+Gap,Bottoms,Beige,55.21,2,true,0,55.21,FB002144,2025,Qtr 3,August,6,Wrong Item,Summer,L,21
+Gap,Bottoms,Black,73.02,5,false,28.4,101.98,FB000550,2025,Qtr 3,August,6,"",Fall,L,40
+Gap,Bottoms,Black,37.39,5,false,34,56.65,FB000953,2025,Qtr 3,August,6,"",Summer,S,23
+Gap,Bottoms,Black,35.36,4,false,24.2,46.65,FB001009,2025,Qtr 3,August,6,"",Fall,S,8
+Gap,Bottoms,Blue,53.37,4,false,0,53.37,FB000028,2025,Qtr 3,August,6,"",Summer,M,28
+Gap,Bottoms,Blue,58.91,2,false,0,58.91,FB000766,2025,Qtr 3,August,6,"",Fall,L,17
+Gap,Bottoms,Blue,74.28,4,true,26.9,101.61,FB000414,2025,Qtr 3,August,6,Damaged,Summer,S,38
+Gap,Bottoms,Blue,58.44,3,true,0,58.44,FB001105,2025,Qtr 3,August,6,Wrong Item,Winter,XXL,3
+Gap,Bottoms,Brown,86.4,4,false,0,86.4,FB001284,2025,Qtr 3,August,6,"",Winter,L,26
+Gap,Bottoms,Gray,32.95,4,false,31.7,48.24,FB001714,2025,Qtr 3,August,6,"",Summer,S,46
+Gap,Bottoms,Gray,96.73,5,false,0,96.73,FB001966,2024,Qtr 4,November,9,"",Spring,S,18
+Gap,Bottoms,Gray,52.6,2,true,0,52.6,FB001317,2025,Qtr 3,August,6,Color Mismatch,Summer,S,35
+Gap,Bottoms,Green,77.69,1,false,30.7,112.1,FB002096,2025,Qtr 3,August,6,"",Winter,M,10
+Gap,Bottoms,Green,32.21,4,false,15.2,37.98,FB002156,2025,Qtr 3,August,6,"",Winter,XL,25
+Gap,Bottoms,Navy,25.99,5,false,1.1,26.28,FB000163,2025,Qtr 2,June,20,"",Spring,XXL,35
+Gap,Bottoms,Navy,94.53,3,false,0,94.53,FB000503,2025,Qtr 3,August,6,"",Fall,XL,13
+Gap,Bottoms,Navy,43.66,5,false,49.5,86.46,FB000554,2025,Qtr 3,August,6,"",Summer,XL,19
+Gap,Bottoms,Navy,21.64,5,false,54.2,47.25,FB001080,2025,Qtr 3,August,6,"",Fall,XXL,4
+Gap,Bottoms,Navy,48.15,3,false,6.3,51.39,FB001550,2025,Qtr 3,August,6,"",Winter,S,46
+Gap,Bottoms,Navy,68.16,3,false,0,68.16,FB001557,2025,Qtr 3,August,6,"",Fall,L,34
+Gap,Bottoms,Navy,81.15,3,true,10.8,90.97,FB002049,2025,Qtr 3,August,6,Damaged,Fall,M,33
+Gap,Bottoms,Pink,28.62,4,false,0,28.62,FB001852,2025,Qtr 3,August,6,"",Winter,S,41
+Gap,Bottoms,Pink,23.04,3,false,17.4,27.89,FB001990,2024,Qtr 3,September,6,"",Spring,M,43
+Gap,Bottoms,Red,109.12,3,false,0,109.12,FB000122,2025,Qtr 3,August,6,"",Winter,S,34
+Gap,Bottoms,Red,54.7,5,false,0,54.7,FB000772,2025,Qtr 3,August,6,"",Winter,M,18
+Gap,Bottoms,Red,93.89,2,false,0,93.89,FB000859,2025,Qtr 1,February,3,"",Spring,S,3
+Gap,Bottoms,Red,45.48,3,false,0,45.48,FB001335,2025,Qtr 3,August,6,"",Summer,L,29
+Gap,Bottoms,Red,46.12,4,false,34.4,70.31,FB001575,2025,Qtr 1,January,24,"",Spring,S,28
+Gap,Bottoms,White,54.14,3,false,0,54.14,FB000728,2025,Qtr 3,August,6,"",Winter,S,32
+Gap,Bottoms,White,35.64,3,false,56.7,82.32,FB000808,2024,Qtr 4,December,23,"",Spring,M,41
+Gap,Bottoms,White,25.07,3,false,0,25.07,FB001604,2025,Qtr 3,August,6,"",Fall,S,9
+Gap,Bottoms,White,52.11,4,true,21.8,66.64,FB001530,2025,Qtr 3,August,6,Changed Mind,Summer,S,25
+H&M,Bottoms,Beige,50.91,2,false,0,50.91,FB000051,2025,Qtr 3,August,6,"",Fall,M,3
+H&M,Bottoms,Beige,80.64,3,false,0,80.64,FB000094,2025,Qtr 3,August,6,"",Fall,S,26
+H&M,Bottoms,Beige,27.98,3,false,0,27.98,FB000270,2025,Qtr 3,August,6,"",Winter,S,0
+H&M,Bottoms,Beige,90.66,3,true,0,90.66,FB000618,2025,Qtr 1,March,20,Color Mismatch,Spring,S,49
+H&M,Bottoms,Beige,93.41,4,true,0,93.41,FB002119,2025,Qtr 3,August,6,Size Issue,Winter,M,4
+H&M,Bottoms,Black,35.61,2,false,15.8,42.29,FB000228,2024,Qtr 4,November,2,"",Spring,S,11
+H&M,Bottoms,Black,40.39,3,false,0,40.39,FB000692,2025,Qtr 3,August,6,"",Fall,S,16
+H&M,Bottoms,Black,29.19,2,false,19.9,36.44,FB000916,2025,Qtr 3,August,6,"",Fall,L,39
+H&M,Bottoms,Black,43.26,3,false,23.3,56.4,FB001255,2025,Qtr 3,August,6,"",Winter,S,35
+H&M,Bottoms,Blue,63.85,3,false,0,63.85,FB000108,2025,Qtr 3,August,6,"",Fall,XL,41
+H&M,Bottoms,Blue,39.05,4,false,0,39.05,FB000522,2025,Qtr 3,August,6,"",Fall,L,10
+H&M,Bottoms,Blue,84.44,2,false,0,84.44,FB001135,2025,Qtr 3,August,6,"",Summer,S,2
+H&M,Bottoms,Blue,55.49,5,false,0,55.49,FB001241,2025,Qtr 3,August,6,"",Winter,M,25
+H&M,Bottoms,Blue,30.43,4,false,0,30.43,FB002088,2025,Qtr 3,August,6,"",Fall,S,32
+H&M,Bottoms,Brown,113.21,3,false,0,113.21,FB000352,2025,Qtr 3,August,6,"",Summer,XL,8
+H&M,Bottoms,Brown,62.97,4,false,0,62.97,FB000701,2025,Qtr 2,May,26,"",Spring,S,5
+H&M,Bottoms,Brown,52.08,3,false,0,52.08,FB001213,2025,Qtr 3,August,6,"",Fall,L,12
+H&M,Bottoms,Brown,51.89,3,true,21.7,66.27,FB001715,2025,Qtr 3,August,6,Changed Mind,Summer,S,28
+H&M,Bottoms,Brown,74.76,5,true,0,74.76,FB001789,2025,Qtr 3,August,6,Color Mismatch,Fall,L,50
+H&M,Bottoms,Gray,108.79,2,false,5.1,114.64,FB001937,2025,Qtr 3,August,6,"",Fall,S,21
+H&M,Bottoms,Gray,37.53,3,true,0,37.53,FB001275,2025,Qtr 3,August,6,Changed Mind,Winter,S,8
+H&M,Bottoms,Green,111.88,5,false,0,111.88,FB000161,2025,Qtr 3,August,6,"",Summer,M,41
+H&M,Bottoms,Green,57.19,3,false,0,57.19,FB000215,2025,Qtr 3,August,6,"",Summer,XXL,12
+H&M,Bottoms,Green,93.27,4,false,0,93.27,FB000767,2025,Qtr 3,August,6,"",Summer,L,18
+H&M,Bottoms,Green,80.21,3,false,0,80.21,FB001464,2025,Qtr 3,August,6,"",Winter,XXL,17
+H&M,Bottoms,Green,97.5,2,false,0,97.5,FB001833,2025,Qtr 3,August,6,"",Summer,XXL,43
+H&M,Bottoms,Green,25.74,2,true,0,25.74,FB000828,2025,Qtr 3,August,6,Color Mismatch,Fall,XXL,33
+H&M,Bottoms,Navy,39.26,5,false,37.1,62.41,FB000276,2025,Qtr 3,August,6,"",Summer,L,6
+H&M,Bottoms,Navy,31.54,4,false,49.4,62.33,FB001166,2025,Qtr 3,August,6,"",Winter,S,46
+H&M,Bottoms,Navy,52.92,3,false,0,52.92,FB001450,2025,Qtr 3,August,6,"",Summer,S,9
+H&M,Bottoms,Navy,81.7,3,true,0,81.7,FB001974,2025,Qtr 3,August,6,Wrong Item,Summer,M,33
+H&M,Bottoms,Pink,31.02,4,false,56.4,71.14,FB000097,2025,Qtr 3,August,6,"",Winter,M,12
+H&M,Bottoms,Pink,76.04,5,false,0,76.04,FB000733,2025,Qtr 3,August,6,"",Summer,M,13
+H&M,Bottoms,Pink,83.93,4,false,18.7,103.23,FB000848,2025,Qtr 3,August,6,"",Summer,XL,6
+H&M,Bottoms,Pink,15,2,false,57.9,35.63,FB001062,2025,Qtr 3,August,6,"",Winter,S,11
+H&M,Bottoms,Pink,22.98,4,true,43,40.31,FB001850,2025,Qtr 3,August,6,Color Mismatch,Summer,XXL,30
+H&M,Bottoms,Purple,36.35,2,false,38.1,58.73,FB000499,2024,Qtr 4,December,27,"",Spring,M,50
+H&M,Bottoms,Purple,43.96,2,false,13.9,51.06,FB000672,2024,Qtr 3,August,16,"",Spring,S,16
+H&M,Bottoms,Purple,113.18,5,false,0,113.18,FB001099,2025,Qtr 2,April,2,"",Spring,S,3
+H&M,Bottoms,Purple,48.89,4,false,0,48.89,FB002067,2024,Qtr 4,December,10,"",Spring,S,9
+H&M,Bottoms,Purple,59.74,3,true,9.1,65.72,FB000311,2025,Qtr 3,August,6,Quality Issue,Winter,L,10
+H&M,Bottoms,Purple,47.66,5,true,0,47.66,FB001862,2025,Qtr 3,August,6,Size Issue,Fall,S,0
+H&M,Bottoms,Red,36.85,5,false,0,36.85,FB000464,2025,Qtr 3,July,3,"",Spring,XL,0
+H&M,Bottoms,Red,72.59,5,false,36.5,114.32,FB000664,2025,Qtr 3,August,6,"",Summer,XXL,41
+H&M,Bottoms,Red,47.71,2,false,28.4,66.63,FB000879,2025,Qtr 3,August,6,"",Winter,M,32
+H&M,Bottoms,Red,32.8,3,false,49.8,65.34,FB001315,2025,Qtr 3,August,6,"",Winter,XXL,9
+H&M,Bottoms,Red,47.01,2,false,0,47.01,FB001470,2025,Qtr 3,August,6,"",Winter,S,17
+H&M,Bottoms,Red,69.11,3,false,41.3,117.73,FB002000,2025,Qtr 3,August,6,"",Fall,XXL,8
+H&M,Bottoms,White,55.94,2,false,40,93.23,FB000090,2025,Qtr 3,August,6,"",Summer,XXL,46
+H&M,Bottoms,White,106.37,5,false,0,106.37,FB000323,2025,Qtr 2,April,6,"",Spring,L,37
+H&M,Bottoms,White,57.87,5,false,38.9,94.71,FB000534,2024,Qtr 3,August,16,"",Spring,L,39
+H&M,Bottoms,White,25.16,3,false,0,25.16,FB000790,2025,Qtr 3,August,6,"",Summer,S,37
+H&M,Bottoms,White,26.1,5,false,57.5,61.42,FB000818,2025,Qtr 3,August,6,"",Summer,M,3
+H&M,Bottoms,White,76.36,4,false,1.4,77.44,FB001792,2025,Qtr 3,August,6,"",Summer,S,18
+H&M,Bottoms,White,64.07,3,false,0,64.07,FB001847,2025,Qtr 1,March,18,"",Spring,S,10
+Mango,Bottoms,Beige,26.06,3,false,21.8,33.33,FB000021,2025,Qtr 3,August,6,"",Fall,L,42
+Mango,Bottoms,Beige,21.92,3,false,16.2,26.16,FB000321,2025,Qtr 3,August,6,"",Fall,S,13
+Mango,Bottoms,Beige,42.38,3,false,37.7,68.02,FB000557,2025,Qtr 3,August,6,"",Winter,L,40
+Mango,Bottoms,Beige,93.01,2,false,0,93.01,FB000626,2025,Qtr 3,August,6,"",Fall,M,34
+Mango,Bottoms,Black,64.3,3,false,42.2,111.25,FB000304,2025,Qtr 3,August,6,"",Winter,XL,34
+Mango,Bottoms,Black,102.82,4,false,0,102.82,FB000333,2025,Qtr 3,August,6,"",Summer,XL,50
+Mango,Bottoms,Black,69.03,2,false,40.7,116.41,FB000341,2025,Qtr 3,August,6,"",Summer,S,23
+Mango,Bottoms,Blue,69.11,4,false,0,69.11,FB000293,2025,Qtr 3,August,6,"",Fall,M,18
+Mango,Bottoms,Blue,40.76,3,false,27.9,56.53,FB000394,2025,Qtr 3,August,6,"",Fall,M,22
+Mango,Bottoms,Blue,51.86,3,false,11.8,58.8,FB000689,2025,Qtr 3,August,6,"",Summer,S,8
+Mango,Bottoms,Blue,117.21,4,false,0,117.21,FB001584,2025,Qtr 3,August,6,"",Summer,XXL,14
+Mango,Bottoms,Blue,23.54,2,false,37.9,37.9,FB001983,2025,Qtr 3,August,6,"",Summer,S,34
+Mango,Bottoms,Brown,16.19,2,false,50.5,32.7,FB000245,2025,Qtr 3,August,6,"",Fall,M,46
+Mango,Bottoms,Brown,51.94,4,false,0,51.94,FB000655,2025,Qtr 3,August,6,"",Summer,XXL,9
+Mango,Bottoms,Brown,94.85,2,false,0,94.85,FB000706,2025,Qtr 3,August,6,"",Summer,XXL,28
+Mango,Bottoms,Brown,84.72,5,false,19.6,105.37,FB001699,2025,Qtr 3,August,6,"",Summer,S,39
+Mango,Bottoms,Gray,79.34,5,false,0,79.34,FB000160,2025,Qtr 3,August,6,"",Winter,XXL,30
+Mango,Bottoms,Gray,47.58,5,false,38.8,77.74,FB000783,2025,Qtr 3,July,11,"",Spring,L,23
+Mango,Bottoms,Gray,84.8,5,false,0,84.8,FB001565,2025,Qtr 3,July,8,"",Spring,XXL,46
+Mango,Bottoms,Gray,23.66,3,false,55.9,53.64,FB001724,2025,Qtr 3,August,6,"",Fall,L,10
+Mango,Bottoms,Green,96.11,5,false,0,96.11,FB000132,2025,Qtr 2,April,12,"",Spring,S,13
+Mango,Bottoms,Green,32.5,5,false,5.4,34.36,FB000303,2025,Qtr 3,August,6,"",Summer,XL,49
+Mango,Bottoms,Green,43.44,2,false,42.7,75.82,FB000560,2025,Qtr 3,August,6,"",Summer,L,11
+Mango,Bottoms,Green,117.63,2,false,0,117.63,FB000880,2024,Qtr 3,September,28,"",Spring,L,18
+Mango,Bottoms,Green,55.09,3,false,51.6,113.83,FB001285,2025,Qtr 3,August,6,"",Fall,XXL,12
+Mango,Bottoms,Green,27.54,4,false,56.8,63.74,FB001427,2025,Qtr 3,August,6,"",Winter,S,15
+Mango,Bottoms,Green,88.94,3,true,4.2,92.84,FB000347,2025,Qtr 1,January,13,Size Issue,Spring,S,0
+Mango,Bottoms,Green,55.1,5,true,17,66.38,FB001380,2025,Qtr 3,August,6,Size Issue,Summer,XL,24
+Mango,Bottoms,Navy,108.89,3,false,0,108.89,FB001857,2025,Qtr 3,August,6,"",Summer,XXL,50
+Mango,Bottoms,Pink,88.4,2,false,0,88.4,FB000335,2025,Qtr 3,August,6,"",Fall,L,1
+Mango,Bottoms,Pink,49.87,3,false,0,49.87,FB000456,2025,Qtr 3,August,6,"",Summer,XXL,17
+Mango,Bottoms,Pink,66.69,3,false,37.8,107.22,FB000906,2025,Qtr 3,July,11,"",Spring,XL,21
+Mango,Bottoms,Pink,62.64,2,false,27.6,86.52,FB000980,2025,Qtr 3,August,6,"",Fall,S,47
+Mango,Bottoms,Pink,22.24,3,false,20.9,28.11,FB001412,2025,Qtr 3,August,6,"",Fall,XL,6
+Mango,Bottoms,Pink,76.45,1,true,0,76.45,FB001710,2025,Qtr 2,June,10,Color Mismatch,Spring,L,16
+Mango,Bottoms,Pink,96.96,4,true,16.1,115.57,FB001760,2025,Qtr 3,August,6,Size Issue,Winter,L,32
+Mango,Bottoms,Purple,41.07,5,false,0,41.07,FB000610,2025,Qtr 3,August,6,"",Summer,XL,10
+Mango,Bottoms,Purple,34.13,2,false,56.3,78.09,FB001856,2025,Qtr 2,April,23,"",Spring,L,20
+Mango,Bottoms,Purple,42.47,5,true,0,42.47,FB000509,2024,Qtr 4,November,14,Changed Mind,Spring,XL,33
+Mango,Bottoms,Purple,52.42,3,true,6.7,56.18,FB001825,2025,Qtr 3,August,6,Changed Mind,Summer,S,35
+Mango,Bottoms,Red,46.76,3,false,0,46.76,FB000730,2025,Qtr 3,August,6,"",Fall,S,38
+Mango,Bottoms,Red,56.95,3,false,22.8,73.77,FB000885,2024,Qtr 3,August,18,"",Spring,XL,0
+Mango,Bottoms,Red,93.59,2,false,0,93.59,FB001167,2025,Qtr 3,August,6,"",Winter,XXL,38
+Mango,Bottoms,Red,116.58,2,false,0,116.58,FB001243,2025,Qtr 3,August,6,"",Fall,S,47
+Mango,Bottoms,Red,39.28,2,false,48.9,76.86,FB001581,2025,Qtr 3,August,6,"",Winter,L,5
+Mango,Bottoms,Red,83.96,4,false,22.2,107.92,FB002094,2025,Qtr 3,August,6,"",Fall,XXL,35
+Mango,Bottoms,Red,62.32,3,true,16.8,74.9,FB001083,2025,Qtr 3,August,6,Color Mismatch,Fall,M,13
+Mango,Bottoms,Red,47.66,3,true,26.4,64.75,FB001266,2025,Qtr 3,August,6,Wrong Item,Winter,L,7
+Mango,Bottoms,White,64.28,3,false,0,64.28,FB000272,2025,Qtr 3,August,6,"",Summer,XXL,46
+Mango,Bottoms,White,57.88,3,false,0,57.88,FB000308,2025,Qtr 3,August,6,"",Summer,M,39
+Mango,Bottoms,White,28.9,5,false,0,28.9,FB000958,2025,Qtr 3,August,6,"",Summer,XXL,5
+Mango,Bottoms,White,29.77,5,false,57.4,69.88,FB001084,2025,Qtr 3,August,6,"",Winter,M,30
+Mango,Bottoms,White,92.59,3,false,0,92.59,FB001185,2025,Qtr 3,August,6,"",Fall,S,39
+Mango,Bottoms,White,111.91,2,false,0,111.91,FB001494,2025,Qtr 3,July,22,"",Spring,S,28
+Mango,Bottoms,White,67.76,4,true,21.7,86.54,FB000066,2025,Qtr 2,June,1,Changed Mind,Spring,S,21
+Uniqlo,Bottoms,Beige,69.03,4,false,40,115.05,FB001863,2025,Qtr 3,August,6,"",Summer,S,48
+Uniqlo,Bottoms,Black,62.93,3,false,0,62.93,FB000119,2025,Qtr 3,August,6,"",Winter,S,49
+Uniqlo,Bottoms,Black,34.16,2,false,0,34.16,FB002073,2025,Qtr 3,August,6,"",Winter,M,37
+Uniqlo,Bottoms,Blue,67.3,2,false,7.1,72.44,FB000191,2025,Qtr 3,August,6,"",Fall,XXL,10
+Uniqlo,Bottoms,Blue,79.27,4,false,0,79.27,FB001269,2025,Qtr 2,May,11,"",Spring,L,13
+Uniqlo,Bottoms,Blue,23.29,2,false,7.9,25.29,FB001332,2025,Qtr 3,August,6,"",Fall,L,39
+Uniqlo,Bottoms,Blue,38.7,4,false,0,38.7,FB001929,2025,Qtr 3,August,6,"",Winter,XXL,11
+Uniqlo,Bottoms,Brown,66.51,3,false,0,66.51,FB000190,2024,Qtr 4,October,4,"",Spring,XXL,32
+Uniqlo,Bottoms,Brown,99.67,5,false,0,99.67,FB000282,2025,Qtr 3,August,6,"",Fall,S,13
+Uniqlo,Bottoms,Gray,109.81,2,false,0,109.81,FB000629,2025,Qtr 3,July,24,"",Spring,XL,17
+Uniqlo,Bottoms,Gray,54.84,4,false,0,54.84,FB000860,2024,Qtr 3,September,22,"",Spring,XL,12
+Uniqlo,Bottoms,Gray,48.27,3,false,0,48.27,FB001419,2025,Qtr 3,August,6,"",Fall,M,33
+Uniqlo,Bottoms,Gray,13.03,5,true,54.7,28.76,FB001571,2025,Qtr 2,May,14,Color Mismatch,Spring,L,2
+Uniqlo,Bottoms,Green,50.34,3,false,19.2,62.3,FB001293,2025,Qtr 3,August,6,"",Fall,L,9
+Uniqlo,Bottoms,Green,71.74,3,false,0,71.74,FB001324,2025,Qtr 3,August,6,"",Fall,S,16
+Uniqlo,Bottoms,Green,100.14,5,false,0,100.14,FB001342,2025,Qtr 3,August,6,"",Winter,S,48
+Uniqlo,Bottoms,Green,29.5,3,false,0,29.5,FB001897,2025,Qtr 3,August,6,"",Winter,S,36
+Uniqlo,Bottoms,Navy,20.9,5,false,58.2,50.01,FB000104,2025,Qtr 3,August,6,"",Winter,L,32
+Uniqlo,Bottoms,Navy,47.23,4,false,9.9,52.42,FB000809,2024,Qtr 4,October,16,"",Spring,M,42
+Uniqlo,Bottoms,Navy,59.36,3,false,0,59.36,FB000977,2025,Qtr 3,August,6,"",Fall,XXL,16
+Uniqlo,Bottoms,Pink,61.78,4,false,0,61.78,FB000898,2025,Qtr 3,July,30,"",Spring,M,24
+Uniqlo,Bottoms,Pink,81.34,5,false,15,95.7,FB001240,2025,Qtr 3,August,6,"",Summer,L,9
+Uniqlo,Bottoms,Pink,71.54,3,false,26,96.68,FB001909,2024,Qtr 3,September,21,"",Spring,S,16
+Uniqlo,Bottoms,Pink,56.57,5,true,0,56.57,FB002146,2025,Qtr 3,August,6,Size Issue,Summer,S,43
+Uniqlo,Bottoms,Purple,114.29,4,false,0,114.29,FB001423,2025,Qtr 3,August,6,"",Fall,S,9
+Uniqlo,Bottoms,Purple,30.91,2,false,0,30.91,FB001841,2025,Qtr 3,August,6,"",Summer,L,45
+Uniqlo,Bottoms,Red,26.99,4,false,34,40.89,FB000026,2025,Qtr 2,June,11,"",Spring,M,16
+Uniqlo,Bottoms,Red,60.09,1,false,28.5,84.04,FB000918,2025,Qtr 3,August,6,"",Fall,XL,3
+Uniqlo,Bottoms,Red,39.84,3,false,0,39.84,FB000921,2025,Qtr 2,April,18,"",Spring,L,24
+Uniqlo,Bottoms,Red,102.07,3,true,0,102.07,FB000658,2025,Qtr 3,August,6,Color Mismatch,Summer,S,26
+Uniqlo,Bottoms,White,96.55,5,false,0,96.55,FB000471,2025,Qtr 3,August,6,"",Summer,S,17
+Uniqlo,Bottoms,White,60.13,3,false,0,60.13,FB001378,2025,Qtr 3,August,6,"",Winter,L,27
+Uniqlo,Bottoms,White,28.38,2,true,41.7,48.68,FB001280,2025,Qtr 3,August,6,Damaged,Summer,S,20
+Zara,Bottoms,Beige,15.45,4,false,52.4,32.46,FB000095,2025,Qtr 3,August,6,"",Fall,S,14
+Zara,Bottoms,Beige,22.61,4,false,58.8,54.88,FB000139,2025,Qtr 3,August,6,"",Winter,XXL,50
+Zara,Bottoms,Beige,10.55,3,false,59.4,25.98,FB000584,2025,Qtr 3,August,6,"",Winter,L,40
+Zara,Bottoms,Beige,109.36,2,false,0,109.36,FB000805,2025,Qtr 3,August,6,"",Fall,S,0
+Zara,Bottoms,Beige,41.6,3,false,41.9,71.6,FB001170,2025,Qtr 2,April,12,"",Spring,L,16
+Zara,Bottoms,Beige,47.28,3,false,39.1,77.64,FB001706,2025,Qtr 3,August,6,"",Summer,XXL,19
+Zara,Bottoms,Beige,29.07,3,false,0,29.07,FB001945,2025,Qtr 3,August,6,"",Summer,XL,41
+Zara,Bottoms,Beige,75.78,4,false,0,75.78,FB002118,2025,Qtr 1,January,28,"",Spring,L,12
+Zara,Bottoms,Black,71.19,2,false,3.9,74.08,FB000186,2025,Qtr 3,August,6,"",Summer,XXL,37
+Zara,Bottoms,Black,87.03,5,false,0,87.03,FB000219,2025,Qtr 3,August,6,"",Winter,S,39
+Zara,Bottoms,Black,95.11,2,false,17.8,115.7,FB000255,2025,Qtr 3,August,6,"",Winter,S,32
+Zara,Bottoms,Black,52.36,3,false,0,52.36,FB000947,2025,Qtr 2,April,22,"",Spring,XXL,35
+Zara,Bottoms,Black,33.13,4,false,0,33.13,FB001043,2025,Qtr 3,August,6,"",Summer,XL,41
+Zara,Bottoms,Black,108.65,3,false,0,108.65,FB001473,2025,Qtr 3,August,6,"",Fall,L,26
+Zara,Bottoms,Blue,108.24,3,false,0,108.24,FB000265,2025,Qtr 3,August,6,"",Fall,XXL,8
+Zara,Bottoms,Blue,76.11,3,false,9.6,84.19,FB000761,2025,Qtr 3,August,6,"",Winter,XXL,45
+Zara,Bottoms,Blue,105.21,5,false,0,105.21,FB001525,2024,Qtr 4,November,2,"",Spring,S,41
+Zara,Bottoms,Blue,96.82,2,false,0,96.82,FB001534,2025,Qtr 3,August,6,"",Winter,M,0
+Zara,Bottoms,Brown,27.85,2,false,0,27.85,FB000339,2025,Qtr 3,August,6,"",Winter,S,0
+Zara,Bottoms,Brown,49.07,3,false,6.4,52.43,FB000633,2025,Qtr 3,August,6,"",Winter,S,42
+Zara,Bottoms,Brown,53.48,2,false,44.8,96.88,FB001282,2025,Qtr 3,August,6,"",Fall,XXL,15
+Zara,Bottoms,Brown,47.08,3,false,8,51.17,FB001360,2025,Qtr 3,August,6,"",Winter,XL,7
+Zara,Bottoms,Brown,96.42,5,false,4.6,101.07,FB001387,2025,Qtr 3,August,6,"",Summer,S,19
+Zara,Bottoms,Brown,104.25,4,false,0,104.25,FB001801,2025,Qtr 3,August,6,"",Fall,L,35
+Zara,Bottoms,Brown,61.96,3,true,26.3,84.07,FB000058,2024,Qtr 4,October,25,Size Issue,Spring,XL,19
+Zara,Bottoms,Gray,24.49,3,false,54.5,53.83,FB000007,2024,Qtr 4,October,29,"",Spring,S,38
+Zara,Bottoms,Gray,87.08,3,false,11.1,97.95,FB000337,2025,Qtr 3,August,6,"",Fall,XXL,25
+Zara,Bottoms,Gray,102.16,3,false,0,102.16,FB000440,2025,Qtr 3,August,6,"",Winter,S,50
+Zara,Bottoms,Gray,91.65,4,false,0,91.65,FB000520,2025,Qtr 3,August,6,"",Summer,M,40
+Zara,Bottoms,Gray,43.1,5,false,0,43.1,FB000611,2025,Qtr 3,August,6,"",Winter,XL,34
+Zara,Bottoms,Gray,47.33,3,false,10.6,52.94,FB000639,2025,Qtr 3,August,6,"",Fall,L,50
+Zara,Bottoms,Gray,98.69,2,false,10.4,110.15,FB000868,2025,Qtr 3,August,6,"",Fall,XL,36
+Zara,Bottoms,Gray,102.25,4,false,0,102.25,FB000924,2025,Qtr 3,August,6,"",Winter,XL,6
+Zara,Bottoms,Gray,119.84,2,false,0,119.84,FB001312,2024,Qtr 3,September,27,"",Spring,S,47
+Zara,Bottoms,Gray,64.5,2,false,40.6,108.59,FB001416,2025,Qtr 3,August,6,"",Fall,S,9
+Zara,Bottoms,Gray,25.97,2,false,0,25.97,FB001511,2024,Qtr 4,November,28,"",Spring,M,31
+Zara,Bottoms,Gray,52.73,5,false,0,52.73,FB002122,2025,Qtr 3,August,6,"",Fall,L,10
+Zara,Bottoms,Gray,34.07,5,true,0,34.07,FB000985,2025,Qtr 3,August,6,Wrong Item,Summer,XL,25
+Zara,Bottoms,Green,32.37,2,false,3,33.37,FB000099,2025,Qtr 3,August,6,"",Summer,S,40
+Zara,Bottoms,Green,28.62,3,false,33.3,42.91,FB000201,2024,Qtr 4,November,23,"",Spring,S,18
+Zara,Bottoms,Green,115.14,3,false,0,115.14,FB000694,2025,Qtr 3,August,6,"",Fall,S,43
+Zara,Bottoms,Green,71.09,4,false,7.6,76.94,FB001072,2025,Qtr 3,August,6,"",Fall,XXL,20
+Zara,Bottoms,Green,34.6,3,false,5.3,36.54,FB001744,2025,Qtr 3,August,6,"",Fall,S,13
+Zara,Bottoms,Green,84.58,5,false,0,84.58,FB001959,2025,Qtr 1,January,17,"",Spring,L,33
+Zara,Bottoms,Green,53.74,2,false,19,66.34,FB001989,2025,Qtr 3,August,6,"",Fall,S,42
+Zara,Bottoms,Navy,56.14,5,false,0,56.14,FB001815,2025,Qtr 3,August,6,"",Summer,L,16
+Zara,Bottoms,Pink,62.18,5,false,20.7,78.41,FB000794,2025,Qtr 3,August,6,"",Summer,S,9
+Zara,Bottoms,Pink,79.62,5,false,0,79.62,FB000813,2025,Qtr 3,August,6,"",Winter,XXL,37
+Zara,Bottoms,Pink,80,3,false,10.3,89.19,FB001563,2025,Qtr 3,August,6,"",Summer,M,4
+Zara,Bottoms,Pink,20.46,3,false,38.4,33.22,FB001587,2025,Qtr 3,August,6,"",Fall,L,11
+Zara,Bottoms,Pink,36.23,3,false,0,36.23,FB002066,2025,Qtr 3,August,6,"",Winter,XL,49
+Zara,Bottoms,Pink,108.79,5,true,8.4,118.77,FB001156,2025,Qtr 3,August,6,Wrong Item,Fall,S,30
+Zara,Bottoms,Pink,54.44,3,true,36.7,86,FB002082,2025,Qtr 2,April,23,Size Issue,Spring,S,18
+Zara,Bottoms,Purple,56.05,3,false,0,56.05,FB000428,2025,Qtr 3,July,16,"",Spring,XXL,9
+Zara,Bottoms,Purple,104.16,2,false,0,104.16,FB000536,2025,Qtr 3,August,6,"",Summer,L,21
+Zara,Bottoms,Purple,82.37,4,false,0,82.37,FB000845,2025,Qtr 2,June,4,"",Spring,M,49
+Zara,Bottoms,Purple,96.76,3,false,0,96.76,FB001237,2025,Qtr 1,February,26,"",Spring,M,6
+Zara,Bottoms,Purple,36.93,3,false,42.9,64.68,FB001286,2025,Qtr 3,August,6,"",Summer,S,36
+Zara,Bottoms,Purple,90.9,5,false,23.1,118.21,FB001329,2025,Qtr 3,August,6,"",Winter,S,15
+Zara,Bottoms,Purple,48.62,3,true,0,48.62,FB001598,2025,Qtr 3,August,6,Damaged,Winter,M,3
+Zara,Bottoms,Purple,43.04,5,true,0,43.04,FB002103,2025,Qtr 3,August,6,Wrong Item,Summer,S,26
+Zara,Bottoms,Red,60.25,5,false,0,60.25,FB000236,2024,Qtr 3,August,16,"",Spring,XXL,25
+Zara,Bottoms,Red,88.58,3,false,0,88.58,FB000820,2025,Qtr 3,August,6,"",Fall,L,50
+Zara,Bottoms,Red,23.7,4,false,45.3,43.33,FB000986,2025,Qtr 3,August,6,"",Winter,XXL,1
+Zara,Bottoms,Red,26.7,2,false,16.5,31.98,FB001115,2025,Qtr 3,August,6,"",Winter,S,48
+Zara,Bottoms,Red,109.05,4,false,0,109.05,FB001223,2025,Qtr 3,August,6,"",Fall,XXL,13
+Zara,Bottoms,White,48.4,1,false,19.5,60.12,FB000101,2025,Qtr 3,August,6,"",Fall,L,42
+Zara,Bottoms,White,93.38,4,false,0,93.38,FB000601,2025,Qtr 3,August,6,"",Fall,M,7
+Zara,Bottoms,White,50.59,2,false,38,81.59,FB000839,2025,Qtr 3,August,6,"",Summer,XL,31
+Ann Taylor,Dresses,Beige,89.1,3,false,0,89.1,FB002008,2025,Qtr 3,August,6,"",Winter,XXL,8
+Ann Taylor,Dresses,Black,133.12,2,false,0,133.12,FB000273,2025,Qtr 3,August,6,"",Fall,M,35
+Ann Taylor,Dresses,Black,47.44,5,false,55.9,107.58,FB001067,2025,Qtr 1,February,15,"",Spring,S,19
+Ann Taylor,Dresses,Black,158.24,4,false,0,158.24,FB001689,2025,Qtr 3,August,6,"",Winter,L,41
+Ann Taylor,Dresses,Blue,174.13,4,false,0,174.13,FB000083,2025,Qtr 3,August,6,"",Winter,S,34
+Ann Taylor,Dresses,Blue,79.04,5,false,0,79.04,FB001599,2025,Qtr 3,August,6,"",Winter,M,4
+Ann Taylor,Dresses,Blue,78.3,3,false,0,78.3,FB001831,2025,Qtr 1,March,14,"",Spring,XXL,19
+Ann Taylor,Dresses,Brown,45.3,5,false,55.9,102.71,FB001781,2025,Qtr 3,August,6,"",Summer,XL,31
+Ann Taylor,Dresses,Gray,131.5,3,false,0,131.5,FB000141,2024,Qtr 4,November,3,"",Spring,S,5
+Ann Taylor,Dresses,Gray,36.35,3,false,49.4,71.84,FB001112,2025,Qtr 3,August,6,"",Fall,L,25
+Ann Taylor,Dresses,Gray,89.36,2,false,29.2,126.21,FB001409,2024,Qtr 3,August,15,"",Spring,L,25
+Ann Taylor,Dresses,Gray,135.97,2,false,0,135.97,FB002016,2024,Qtr 3,September,10,"",Spring,S,30
+Ann Taylor,Dresses,Gray,45.97,4,true,0,45.97,FB000175,2024,Qtr 3,August,28,Quality Issue,Spring,M,37
+Ann Taylor,Dresses,Gray,100.35,3,true,42.9,175.74,FB001687,2025,Qtr 3,August,6,Changed Mind,Winter,XXL,48
+Ann Taylor,Dresses,Gray,142.43,5,true,0,142.43,FB001860,2025,Qtr 3,August,6,Size Issue,Summer,S,15
+Ann Taylor,Dresses,Green,167.23,3,false,5.9,177.72,FB000505,2025,Qtr 3,August,6,"",Winter,XL,47
+Ann Taylor,Dresses,Green,147.58,5,false,0,147.58,FB001031,2025,Qtr 3,August,6,"",Summer,S,10
+Ann Taylor,Dresses,Green,156.24,5,false,0,156.24,FB001700,2025,Qtr 3,August,6,"",Winter,S,15
+Ann Taylor,Dresses,Green,55.21,4,true,0,55.21,FB000416,2025,Qtr 3,August,6,Wrong Item,Summer,M,2
+Ann Taylor,Dresses,Navy,37.36,5,false,26.3,50.69,FB000424,2024,Qtr 4,October,29,"",Spring,M,37
+Ann Taylor,Dresses,Navy,67,5,false,18,81.71,FB000846,2025,Qtr 3,August,6,"",Summer,S,28
+Ann Taylor,Dresses,Navy,63.46,2,false,0,63.46,FB002046,2025,Qtr 3,August,6,"",Fall,XXL,36
+Ann Taylor,Dresses,Navy,92.75,3,true,0,92.75,FB000996,2025,Qtr 3,August,6,Changed Mind,Winter,XL,29
+Ann Taylor,Dresses,Pink,80.27,5,false,46.8,150.89,FB000401,2025,Qtr 3,August,6,"",Fall,XL,18
+Ann Taylor,Dresses,Pink,103.11,3,false,0,103.11,FB000686,2025,Qtr 3,August,6,"",Winter,L,17
+Ann Taylor,Dresses,Pink,140.06,3,false,0,140.06,FB001117,2025,Qtr 3,August,6,"",Fall,XL,37
+Ann Taylor,Dresses,Pink,102.47,4,false,11.2,115.39,FB001540,2025,Qtr 3,August,6,"",Fall,XXL,4
+Ann Taylor,Dresses,Pink,106.12,4,false,20.3,133.15,FB002031,2025,Qtr 2,June,3,"",Spring,XXL,9
+Ann Taylor,Dresses,Pink,84.75,3,true,27.8,117.38,FB000787,2025,Qtr 3,August,6,Quality Issue,Summer,S,34
+Ann Taylor,Dresses,Red,131.92,3,false,0,131.92,FB000635,2025,Qtr 3,August,6,"",Fall,L,10
+Ann Taylor,Dresses,Red,69.54,3,false,0,69.54,FB000835,2025,Qtr 3,August,6,"",Winter,S,21
+Ann Taylor,Dresses,Red,134.77,5,false,0,134.77,FB000871,2025,Qtr 3,August,6,"",Fall,L,36
+Ann Taylor,Dresses,Red,50.76,5,false,0,50.76,FB001435,2025,Qtr 3,August,6,"",Winter,L,45
+Ann Taylor,Dresses,White,114.35,2,false,0,114.35,FB000029,2025,Qtr 3,August,6,"",Summer,L,6
+Ann Taylor,Dresses,White,141.42,3,false,0,141.42,FB000561,2025,Qtr 1,March,25,"",Spring,M,10
+Ann Taylor,Dresses,White,63.02,3,false,0,63.02,FB000811,2025,Qtr 3,August,6,"",Fall,XL,37
+Ann Taylor,Dresses,White,60.87,3,false,0,60.87,FB001558,2025,Qtr 3,August,6,"",Fall,XL,35
+Ann Taylor,Dresses,White,73.6,2,false,10,81.78,FB001978,2025,Qtr 3,August,6,"",Winter,XL,24
+Ann Taylor,Dresses,White,69.55,3,false,55.7,157,FB002041,2025,Qtr 3,August,6,"",Summer,XL,6
+Ann Taylor,Dresses,White,151.83,5,true,0,151.83,FB001795,2025,Qtr 2,June,17,Wrong Item,Spring,XXL,24
+Banana Republic,Dresses,Beige,91.61,2,false,0,91.61,FB000780,2025,Qtr 3,August,6,"",Summer,S,31
+Banana Republic,Dresses,Black,163.27,3,false,0,163.27,FB000353,2025,Qtr 2,April,23,"",Spring,S,24
+Banana Republic,Dresses,Blue,88.65,4,false,0,88.65,FB000313,2025,Qtr 3,August,6,"",Winter,XL,11
+Banana Republic,Dresses,Blue,36,3,false,51.9,74.84,FB000669,2025,Qtr 3,August,6,"",Summer,XL,35
+Banana Republic,Dresses,Blue,79.98,2,false,0,79.98,FB001032,2025,Qtr 3,August,6,"",Summer,XL,25
+Banana Republic,Dresses,Blue,146.37,2,false,1.1,148,FB001314,2025,Qtr 1,February,23,"",Spring,XL,43
+Banana Republic,Dresses,Blue,175.11,3,false,0,175.11,FB001384,2025,Qtr 3,August,6,"",Summer,M,39
+Banana Republic,Dresses,Blue,48.04,4,false,0,48.04,FB001437,2025,Qtr 2,May,1,"",Spring,XL,20
+Banana Republic,Dresses,Blue,126.26,4,true,5.7,133.89,FB002007,2025,Qtr 3,August,6,Size Issue,Winter,XXL,17
+Banana Republic,Dresses,Brown,27.7,5,false,49.6,54.97,FB000386,2024,Qtr 4,October,8,"",Spring,XL,48
+Banana Republic,Dresses,Brown,131.62,3,false,3,135.69,FB000999,2024,Qtr 3,August,29,"",Spring,S,16
+Banana Republic,Dresses,Brown,126.11,4,false,0,126.11,FB001676,2025,Qtr 3,August,6,"",Fall,L,16
+Banana Republic,Dresses,Brown,37.7,5,true,50.3,75.85,FB001132,2025,Qtr 3,August,6,Quality Issue,Fall,S,50
+Banana Republic,Dresses,Brown,50.58,4,true,0,50.58,FB002173,2025,Qtr 3,August,6,Changed Mind,Winter,L,1
+Banana Republic,Dresses,Gray,29.9,2,false,56.4,68.57,FB000461,2025,Qtr 3,August,6,"",Winter,M,30
+Banana Republic,Dresses,Gray,77.48,3,false,37.6,124.17,FB001140,2025,Qtr 3,August,6,"",Fall,M,24
+Banana Republic,Dresses,Gray,75.23,2,true,0,75.23,FB000731,2025,Qtr 3,August,6,Quality Issue,Winter,L,42
+Banana Republic,Dresses,Green,55.47,3,false,0,55.47,FB000751,2025,Qtr 3,August,6,"",Winter,XL,18
+Banana Republic,Dresses,Green,113.34,3,false,0,113.34,FB001664,2025,Qtr 3,August,6,"",Fall,S,13
+Banana Republic,Dresses,Green,138.15,5,false,5.1,145.57,FB001874,2025,Qtr 3,August,6,"",Winter,XL,8
+Banana Republic,Dresses,Green,91.36,2,true,0,91.36,FB000024,2025,Qtr 3,August,6,Size Issue,Summer,XL,37
+Banana Republic,Dresses,Green,133.51,2,true,0,133.51,FB001481,2025,Qtr 3,August,6,Quality Issue,Summer,M,5
+Banana Republic,Dresses,Navy,137.59,3,false,0,137.59,FB000595,2025,Qtr 3,August,6,"",Fall,M,18
+Banana Republic,Dresses,Navy,95.68,3,false,10.6,107.02,FB000847,2025,Qtr 3,August,6,"",Winter,XXL,6
+Banana Republic,Dresses,Navy,39.13,2,false,40.3,65.54,FB001613,2025,Qtr 3,August,6,"",Winter,XXL,27
+Banana Republic,Dresses,Navy,139.27,3,false,8.9,152.88,FB002148,2025,Qtr 3,August,6,"",Fall,M,19
+Banana Republic,Dresses,Navy,136.97,5,true,0,136.97,FB000088,2024,Qtr 4,October,25,Quality Issue,Spring,S,17
+Banana Republic,Dresses,Pink,73.07,5,false,0,73.07,FB001071,2025,Qtr 3,August,6,"",Fall,L,5
+Banana Republic,Dresses,Purple,79.13,4,false,0,79.13,FB000131,2024,Qtr 4,November,16,"",Spring,XL,11
+Banana Republic,Dresses,Purple,106.2,5,false,0,106.2,FB000429,2025,Qtr 3,August,6,"",Fall,XL,35
+Banana Republic,Dresses,Purple,68.43,3,false,0,68.43,FB000510,2025,Qtr 3,August,6,"",Summer,XL,16
+Banana Republic,Dresses,Purple,150.58,3,false,0,150.58,FB001246,2024,Qtr 4,December,19,"",Spring,XXL,38
+Banana Republic,Dresses,Purple,46.42,5,false,23.1,60.37,FB001762,2025,Qtr 1,March,14,"",Spring,S,30
+Banana Republic,Dresses,Purple,119.59,2,false,14.5,139.87,FB002115,2024,Qtr 3,September,13,"",Spring,S,13
+Banana Republic,Dresses,Purple,59.25,3,true,29.4,83.92,FB000941,2025,Qtr 3,August,6,Quality Issue,Summer,L,20
+Banana Republic,Dresses,Red,99.97,2,false,0,99.97,FB001745,2024,Qtr 4,October,16,"",Spring,M,38
+Banana Republic,Dresses,Red,69.54,4,true,0,69.54,FB001780,2025,Qtr 3,August,6,Size Issue,Summer,M,40
+Banana Republic,Dresses,White,110.09,4,false,0,110.09,FB000038,2025,Qtr 3,August,6,"",Summer,L,32
+Banana Republic,Dresses,White,163.5,5,false,0,163.5,FB000102,2025,Qtr 3,August,6,"",Winter,S,34
+Banana Republic,Dresses,White,98.33,4,false,0,98.33,FB001050,2025,Qtr 3,August,6,"",Summer,XL,46
+Banana Republic,Dresses,White,105.1,4,false,21.5,133.88,FB001485,2025,Qtr 3,August,6,"",Fall,XL,42
+Banana Republic,Dresses,White,103.9,5,false,0,103.9,FB001568,2025,Qtr 3,August,6,"",Winter,L,40
+Banana Republic,Dresses,White,169.32,3,false,0,169.32,FB001735,2024,Qtr 4,December,17,"",Spring,S,19
+Banana Republic,Dresses,White,100.03,2,true,0,100.03,FB001178,2025,Qtr 3,August,6,Quality Issue,Winter,XL,36
+Forever21,Dresses,Black,126.37,2,false,0,126.37,FB000760,2025,Qtr 3,August,6,"",Summer,S,42
+Forever21,Dresses,Black,154.11,4,false,0,154.11,FB002157,2025,Qtr 3,August,6,"",Summer,M,50
+Forever21,Dresses,Black,43.72,3,true,22.4,56.34,FB000233,2025,Qtr 3,August,6,Wrong Item,Winter,L,37
+Forever21,Dresses,Black,70.23,4,true,39.4,115.89,FB000823,2025,Qtr 3,August,6,Damaged,Winter,S,14
+Forever21,Dresses,Blue,141.84,2,false,0,141.84,FB000398,2025,Qtr 3,August,6,"",Winter,L,39
+Forever21,Dresses,Blue,42.36,3,false,53.2,90.52,FB000908,2025,Qtr 3,July,28,"",Spring,S,37
+Forever21,Dresses,Blue,171.1,3,false,0,171.1,FB001051,2025,Qtr 3,July,23,"",Spring,S,34
+Forever21,Dresses,Blue,58.05,5,false,54.6,127.87,FB001848,2025,Qtr 3,August,6,"",Fall,S,14
+Forever21,Dresses,Blue,128.55,4,false,0,128.55,FB001855,2025,Qtr 3,August,6,"",Winter,L,1
+Forever21,Dresses,Blue,47.72,3,false,35,73.42,FB001865,2025,Qtr 3,August,6,"",Fall,S,44
+Forever21,Dresses,Brown,92.8,3,false,0,92.8,FB000312,2025,Qtr 3,August,6,"",Winter,XXL,25
+Forever21,Dresses,Brown,46.63,5,false,5.5,49.34,FB001361,2025,Qtr 3,August,6,"",Summer,XXL,10
+Forever21,Dresses,Brown,74.53,3,false,0,74.53,FB001779,2025,Qtr 3,August,6,"",Summer,XL,9
+Forever21,Dresses,Brown,41.14,4,true,35.5,63.79,FB000738,2025,Qtr 3,August,6,Quality Issue,Fall,XXL,15
+Forever21,Dresses,Brown,160.38,3,true,0,160.38,FB001908,2025,Qtr 3,August,6,Wrong Item,Summer,S,27
+Forever21,Dresses,Gray,47.4,4,false,21.4,60.3,FB000169,2025,Qtr 3,August,6,"",Fall,XXL,4
+Forever21,Dresses,Gray,39.3,3,false,50.9,80.04,FB000247,2025,Qtr 3,August,6,"",Summer,M,45
+Forever21,Dresses,Green,124.16,3,false,9.5,137.19,FB000069,2025,Qtr 2,April,1,"",Spring,S,17
+Forever21,Dresses,Green,98.92,5,false,41.7,169.68,FB000242,2025,Qtr 3,August,6,"",Fall,XXL,43
+Forever21,Dresses,Green,145.37,5,false,8.8,159.4,FB000326,2025,Qtr 3,August,6,"",Fall,M,43
+Forever21,Dresses,Green,93.46,4,false,36.8,147.88,FB000768,2024,Qtr 3,September,8,"",Spring,XL,37
+Forever21,Dresses,Green,56.45,5,false,40.3,94.56,FB001879,2025,Qtr 2,June,14,"",Spring,XXL,41
+Forever21,Dresses,Green,115.98,4,false,0,115.98,FB002001,2025,Qtr 3,August,6,"",Fall,XL,42
+Forever21,Dresses,Navy,92.73,2,false,0,92.73,FB000271,2025,Qtr 3,August,6,"",Summer,L,15
+Forever21,Dresses,Navy,38.51,2,false,52.1,80.4,FB000332,2025,Qtr 3,August,6,"",Fall,S,7
+Forever21,Dresses,Navy,76.23,3,false,36.7,120.42,FB001230,2025,Qtr 3,August,6,"",Fall,S,46
+Forever21,Dresses,Navy,88.71,4,false,0,88.71,FB001245,2025,Qtr 3,August,6,"",Summer,L,3
+Forever21,Dresses,Pink,57.33,2,false,0,57.33,FB000264,2025,Qtr 3,August,6,"",Summer,S,23
+Forever21,Dresses,Pink,162.65,2,false,0,162.65,FB000957,2025,Qtr 3,August,6,"",Winter,M,36
+Forever21,Dresses,Pink,89.78,3,false,43.5,158.9,FB001482,2025,Qtr 3,August,6,"",Summer,S,46
+Forever21,Dresses,Pink,115.4,5,false,0,115.4,FB002089,2025,Qtr 3,August,6,"",Winter,S,7
+Forever21,Dresses,Pink,101.39,3,true,0,101.39,FB000241,2025,Qtr 3,August,6,Size Issue,Fall,S,33
+Forever21,Dresses,Red,166.53,2,false,0,166.53,FB000355,2025,Qtr 3,August,6,"",Summer,L,28
+Forever21,Dresses,Red,31.77,3,true,56.5,73.04,FB000359,2025,Qtr 3,August,6,Changed Mind,Summer,L,15
+Forever21,Dresses,White,111.29,5,false,0,111.29,FB000493,2025,Qtr 3,August,6,"",Summer,XXL,48
+Forever21,Dresses,White,155.57,4,false,0,155.57,FB001052,2025,Qtr 3,August,6,"",Winter,S,48
+Forever21,Dresses,White,142.88,2,false,4.8,150.08,FB001650,2025,Qtr 3,August,6,"",Winter,M,24
+Forever21,Dresses,White,34.97,3,false,49.4,69.12,FB001824,2025,Qtr 3,August,6,"",Summer,XL,45
+Forever21,Dresses,White,54.81,2,true,0,54.81,FB000962,2025,Qtr 3,August,6,Wrong Item,Fall,S,41
+Gap,Dresses,Beige,88.33,3,false,32.6,131.05,FB001803,2025,Qtr 3,August,6,"",Winter,XXL,9
+Gap,Dresses,Black,28.68,4,false,45.9,53.01,FB000126,2025,Qtr 1,January,14,"",Spring,XXL,37
+Gap,Dresses,Black,85.08,3,false,0,85.08,FB000225,2025,Qtr 3,August,6,"",Winter,XL,29
+Gap,Dresses,Black,153.12,4,false,0,153.12,FB001017,2025,Qtr 3,August,6,"",Winter,L,27
+Gap,Dresses,Black,114.2,3,false,0,114.2,FB001671,2025,Qtr 3,August,6,"",Summer,XXL,15
+Gap,Dresses,Black,61.9,5,false,0,61.9,FB001730,2025,Qtr 3,August,6,"",Summer,L,29
+Gap,Dresses,Black,53.13,5,false,0,53.13,FB001980,2025,Qtr 3,August,6,"",Fall,S,5
+Gap,Dresses,Blue,49.44,4,false,0,49.44,FB000391,2025,Qtr 3,August,6,"",Fall,XL,19
+Gap,Dresses,Blue,37.94,3,false,59.5,93.68,FB001654,2025,Qtr 2,April,24,"",Spring,S,21
+Gap,Dresses,Brown,90.97,2,false,45.9,168.16,FB001198,2025,Qtr 3,August,6,"",Summer,S,44
+Gap,Dresses,Brown,85.25,2,false,34,129.16,FB001859,2025,Qtr 3,August,6,"",Summer,XXL,24
+Gap,Dresses,Gray,66.57,4,false,42.7,116.18,FB000567,2025,Qtr 3,August,6,"",Winter,S,3
+Gap,Dresses,Gray,95.99,1,false,40.9,162.42,FB001127,2025,Qtr 3,August,6,"",Summer,L,32
+Gap,Dresses,Gray,35.87,3,false,24.4,47.45,FB001549,2025,Qtr 2,June,15,"",Spring,XL,42
+Gap,Dresses,Gray,107.49,4,false,0,107.49,FB001928,2025,Qtr 3,August,6,"",Fall,XL,49
+Gap,Dresses,Gray,171.16,5,false,0,171.16,FB002159,2025,Qtr 3,August,6,"",Winter,XXL,26
+Gap,Dresses,Green,50.41,3,false,28,70.01,FB000590,2025,Qtr 3,August,6,"",Winter,S,23
+Gap,Dresses,Green,115.61,2,false,0,115.61,FB001391,2025,Qtr 3,August,6,"",Winter,XXL,35
+Gap,Dresses,Navy,94.17,3,false,0,94.17,FB001421,2025,Qtr 3,August,6,"",Fall,M,2
+Gap,Dresses,Pink,50.05,5,false,13,57.53,FB000194,2025,Qtr 3,August,6,"",Winter,XL,12
+Gap,Dresses,Purple,111.81,2,false,0,111.81,FB001720,2024,Qtr 3,August,21,"",Spring,L,45
+Gap,Dresses,Purple,92.59,4,true,0,92.59,FB001846,2025,Qtr 3,August,6,Size Issue,Fall,XL,29
+Gap,Dresses,Red,82.7,4,false,0,82.7,FB000299,2025,Qtr 3,August,6,"",Summer,XXL,20
+Gap,Dresses,Red,34.52,3,false,28.3,48.14,FB001000,2025,Qtr 3,August,6,"",Fall,L,41
+Gap,Dresses,Red,113.05,2,false,0,113.05,FB001682,2025,Qtr 3,August,6,"",Fall,M,47
+Gap,Dresses,Red,91.85,3,false,35.3,141.97,FB002084,2025,Qtr 3,August,6,"",Summer,S,12
+Gap,Dresses,Red,110.89,2,true,15.8,131.7,FB001583,2024,Qtr 3,August,12,Damaged,Spring,XL,49
+Gap,Dresses,White,99.57,5,false,7.5,107.64,FB000764,2024,Qtr 3,September,10,"",Spring,S,21
+H&M,Dresses,Beige,71.14,4,false,0,71.14,FB000415,2025,Qtr 3,August,6,"",Fall,XXL,33
+H&M,Dresses,Beige,86.38,3,false,0,86.38,FB001033,2025,Qtr 3,August,6,"",Fall,S,40
+H&M,Dresses,Beige,160.05,4,false,0,160.05,FB001346,2025,Qtr 3,August,6,"",Winter,L,23
+H&M,Dresses,Beige,65.48,3,true,33.8,98.91,FB001870,2025,Qtr 3,August,6,Color Mismatch,Fall,L,33
+H&M,Dresses,Black,63.77,5,false,50.6,129.08,FB000460,2025,Qtr 3,August,6,"",Fall,S,10
+H&M,Dresses,Black,140.07,3,false,0,140.07,FB000604,2025,Qtr 3,August,6,"",Winter,XXL,15
+H&M,Dresses,Black,128.56,3,false,0,128.56,FB000646,2025,Qtr 3,August,6,"",Winter,M,45
+H&M,Dresses,Black,96.57,2,false,0,96.57,FB001061,2025,Qtr 3,August,6,"",Summer,S,6
+H&M,Dresses,Black,154.02,4,false,0,154.02,FB002010,2025,Qtr 3,August,6,"",Summer,L,21
+H&M,Dresses,Blue,161.14,2,false,0,161.14,FB000262,2025,Qtr 3,August,6,"",Summer,XL,44
+H&M,Dresses,Blue,138.45,4,false,0,138.45,FB000541,2025,Qtr 1,March,28,"",Spring,XL,18
+H&M,Dresses,Blue,75.52,3,false,0,75.52,FB000771,2025,Qtr 3,August,6,"",Winter,S,2
+H&M,Dresses,Blue,97.14,5,false,0,97.14,FB001175,2025,Qtr 3,August,6,"",Summer,L,20
+H&M,Dresses,Blue,111.55,3,false,0,111.55,FB001768,2025,Qtr 3,August,6,"",Fall,L,14
+H&M,Dresses,Blue,60.08,4,false,55.3,134.41,FB002151,2025,Qtr 3,August,6,"",Fall,XL,12
+H&M,Dresses,Blue,68.72,2,true,0,68.72,FB000155,2025,Qtr 3,August,6,Quality Issue,Summer,M,28
+H&M,Dresses,Brown,97.43,4,false,10.8,109.23,FB001094,2025,Qtr 3,August,6,"",Summer,XL,38
+H&M,Dresses,Brown,63.31,3,false,39,103.78,FB001102,2024,Qtr 4,October,12,"",Spring,XL,5
+H&M,Dresses,Gray,119.4,5,false,0,119.4,FB000564,2025,Qtr 3,August,6,"",Fall,S,45
+H&M,Dresses,Gray,173,4,false,0,173,FB000758,2025,Qtr 2,April,12,"",Spring,L,13
+H&M,Dresses,Gray,80.19,4,false,0,80.19,FB001643,2025,Qtr 3,August,6,"",Summer,M,43
+H&M,Dresses,Green,125.46,2,false,0,125.46,FB001516,2025,Qtr 3,August,6,"",Fall,XL,26
+H&M,Dresses,Green,105.59,5,false,0,105.59,FB002132,2025,Qtr 2,June,27,"",Spring,M,37
+H&M,Dresses,Navy,86.75,2,false,30,123.93,FB000482,2025,Qtr 3,July,31,"",Spring,S,39
+H&M,Dresses,Navy,95.73,5,false,0,95.73,FB000513,2025,Qtr 3,August,6,"",Summer,M,6
+H&M,Dresses,Navy,51.93,3,false,53.5,111.67,FB000789,2025,Qtr 1,February,5,"",Spring,XL,19
+H&M,Dresses,Navy,126.76,3,false,0,126.76,FB001554,2025,Qtr 3,August,6,"",Winter,S,24
+H&M,Dresses,Navy,105.98,3,true,0,105.98,FB002109,2024,Qtr 4,October,2,Size Issue,Spring,XL,32
+H&M,Dresses,Pink,167.64,5,false,0,167.64,FB000447,2025,Qtr 3,August,6,"",Summer,L,18
+H&M,Dresses,Pink,61.67,3,false,3.5,63.91,FB001322,2025,Qtr 2,May,19,"",Spring,S,14
+H&M,Dresses,Pink,51.48,1,false,0,51.48,FB001707,2025,Qtr 3,August,6,"",Winter,XL,10
+H&M,Dresses,Pink,179.71,4,false,0,179.71,FB001770,2025,Qtr 3,August,6,"",Fall,M,9
+H&M,Dresses,Pink,47.92,3,false,42.2,82.9,FB002005,2025,Qtr 3,August,6,"",Fall,L,4
+H&M,Dresses,Pink,53.23,3,true,0,53.23,FB001088,2025,Qtr 3,August,6,Color Mismatch,Summer,S,41
+H&M,Dresses,Purple,64.08,4,false,50,128.15,FB000113,2025,Qtr 3,August,6,"",Fall,S,28
+H&M,Dresses,Purple,66.31,4,false,0,66.31,FB000318,2025,Qtr 3,August,6,"",Summer,L,47
+H&M,Dresses,Purple,64.46,4,false,48.4,124.92,FB000940,2025,Qtr 2,May,3,"",Spring,M,22
+H&M,Dresses,Purple,169.89,2,false,0,169.89,FB001496,2025,Qtr 3,August,6,"",Summer,S,17
+H&M,Dresses,Purple,100.08,5,false,0,100.08,FB001503,2025,Qtr 3,August,6,"",Summer,S,23
+H&M,Dresses,Red,95.81,5,false,0,95.81,FB000581,2025,Qtr 2,May,9,"",Spring,M,47
+H&M,Dresses,Red,67.63,5,false,0,67.63,FB001154,2025,Qtr 3,August,6,"",Winter,M,9
+H&M,Dresses,Red,118.93,4,false,31.6,173.88,FB001345,2025,Qtr 3,August,6,"",Fall,XL,5
+H&M,Dresses,White,57.85,3,false,53,123.08,FB000647,2025,Qtr 3,August,6,"",Summer,L,38
+H&M,Dresses,White,66.17,3,false,0,66.17,FB001271,2025,Qtr 3,August,6,"",Winter,S,1
+Mango,Dresses,Beige,86.9,3,false,23.4,113.44,FB001311,2025,Qtr 1,March,7,"",Spring,S,1
+Mango,Dresses,Beige,55.44,3,false,14.8,65.07,FB001411,2025,Qtr 3,August,6,"",Winter,M,21
+Mango,Dresses,Beige,111.66,2,false,0,111.66,FB001957,2025,Qtr 3,August,6,"",Winter,S,26
+Mango,Dresses,Beige,87.82,5,false,0,87.82,FB001963,2025,Qtr 3,August,6,"",Summer,XXL,24
+Mango,Dresses,Beige,63.41,5,false,48.2,122.41,FB002050,2025,Qtr 3,August,6,"",Winter,L,49
+Mango,Dresses,Black,93.81,3,false,44.6,169.34,FB000421,2025,Qtr 3,August,6,"",Summer,M,37
+Mango,Dresses,Black,32.69,3,false,45.2,59.66,FB000657,2025,Qtr 3,August,6,"",Summer,L,14
+Mango,Dresses,Black,144.1,3,false,0,144.1,FB001093,2025,Qtr 3,August,6,"",Winter,XL,36
+Mango,Dresses,Blue,71.32,2,false,22.1,91.55,FB000008,2025,Qtr 3,August,6,"",Winter,XL,47
+Mango,Dresses,Blue,144.43,4,false,0,144.43,FB000643,2025,Qtr 3,August,6,"",Winter,S,41
+Mango,Dresses,Blue,50.87,2,false,6.6,54.46,FB000972,2025,Qtr 3,August,6,"",Summer,XL,17
+Mango,Dresses,Blue,74.77,3,false,47.7,142.96,FB001001,2025,Qtr 3,August,6,"",Fall,S,7
+Mango,Dresses,Blue,155.32,5,false,0,155.32,FB001348,2025,Qtr 3,August,6,"",Fall,S,19
+Mango,Dresses,Blue,103.85,4,false,0,103.85,FB001999,2025,Qtr 3,August,6,"",Winter,XXL,26
+Mango,Dresses,Blue,121.25,5,true,7.5,131.08,FB000316,2024,Qtr 4,December,4,Wrong Item,Spring,S,20
+Mango,Dresses,Brown,68.49,2,false,45.5,125.67,FB000778,2025,Qtr 3,August,6,"",Winter,XXL,27
+Mango,Dresses,Brown,101.08,1,false,35.9,157.69,FB001143,2025,Qtr 3,August,6,"",Winter,XXL,6
+Mango,Dresses,Brown,77.08,3,false,37,122.35,FB001385,2025,Qtr 3,August,6,"",Fall,S,25
+Mango,Dresses,Gray,63.74,4,false,6.3,68.03,FB000967,2025,Qtr 3,August,6,"",Winter,S,43
+Mango,Dresses,Green,100.96,4,false,0,100.96,FB000075,2025,Qtr 2,May,10,"",Spring,S,32
+Mango,Dresses,Green,119.96,5,false,0,119.96,FB000619,2025,Qtr 3,August,6,"",Fall,XL,5
+Mango,Dresses,Green,115.57,3,false,0,115.57,FB000945,2025,Qtr 3,August,6,"",Summer,L,32
+Mango,Dresses,Green,156.27,3,false,0,156.27,FB001327,2025,Qtr 3,August,6,"",Fall,S,43
+Mango,Dresses,Green,78.09,2,false,0,78.09,FB001754,2025,Qtr 3,August,6,"",Fall,XXL,6
+Mango,Dresses,Green,77.32,3,true,0,77.32,FB001606,2025,Qtr 3,August,6,Color Mismatch,Winter,XXL,30
+Mango,Dresses,Green,76.02,5,true,24.8,101.09,FB001727,2024,Qtr 3,September,2,Damaged,Spring,XL,7
+Mango,Dresses,Navy,97.06,4,false,0,97.06,FB000708,2025,Qtr 3,August,6,"",Summer,S,24
+Mango,Dresses,Navy,122.39,2,false,6.8,131.32,FB001121,2025,Qtr 3,August,6,"",Winter,XL,18
+Mango,Dresses,Navy,68.51,3,false,0,68.51,FB001431,2025,Qtr 3,August,6,"",Winter,M,1
+Mango,Dresses,Navy,65.35,4,false,24.5,86.55,FB002048,2025,Qtr 3,August,6,"",Summer,S,40
+Mango,Dresses,Navy,53.17,5,true,0,53.17,FB000641,2025,Qtr 3,August,6,Changed Mind,Fall,L,14
+Mango,Dresses,Pink,108.19,3,false,0,108.19,FB001010,2025,Qtr 3,August,6,"",Fall,XXL,21
+Mango,Dresses,Pink,102.04,4,false,0,102.04,FB001079,2025,Qtr 3,August,6,"",Fall,L,34
+Mango,Dresses,Pink,59.13,2,false,42.2,102.3,FB001260,2025,Qtr 2,May,30,"",Spring,XL,43
+Mango,Dresses,Pink,103.34,3,false,9.2,113.81,FB001303,2025,Qtr 3,August,6,"",Summer,XXL,11
+Mango,Dresses,Pink,67.02,4,false,28.9,94.26,FB001797,2025,Qtr 3,August,6,"",Summer,XXL,44
+Mango,Dresses,Pink,169.64,2,false,0,169.64,FB001844,2025,Qtr 3,August,6,"",Fall,S,5
+Mango,Dresses,Pink,144.23,2,false,17,173.77,FB002071,2024,Qtr 4,November,20,"",Spring,XL,5
+Mango,Dresses,Pink,118.46,3,false,0,118.46,FB002161,2025,Qtr 3,August,6,"",Winter,XXL,40
+Mango,Dresses,Pink,82.26,4,true,50.4,165.84,FB000298,2025,Qtr 3,August,6,Damaged,Fall,S,17
+Mango,Dresses,Pink,148.98,3,true,0,148.98,FB000674,2024,Qtr 4,October,26,Wrong Item,Spring,S,11
+Mango,Dresses,Purple,41.83,3,false,21.8,53.49,FB000742,2025,Qtr 3,August,6,"",Winter,S,41
+Mango,Dresses,Purple,75.86,3,false,44.3,136.2,FB000863,2024,Qtr 4,November,21,"",Spring,S,49
+Mango,Dresses,Purple,58.08,2,false,0,58.08,FB001819,2025,Qtr 3,August,6,"",Summer,XL,42
+Mango,Dresses,Red,153.32,3,false,0,153.32,FB000077,2024,Qtr 3,September,13,"",Spring,XXL,43
+Mango,Dresses,Red,75.54,5,false,0,75.54,FB000598,2025,Qtr 3,August,6,"",Fall,M,6
+Mango,Dresses,White,51.16,3,false,36.8,80.95,FB000324,2025,Qtr 3,August,6,"",Fall,XL,16
+Mango,Dresses,White,69.78,2,false,3,71.94,FB000504,2025,Qtr 3,August,6,"",Fall,XXL,45
+Mango,Dresses,White,70.38,2,false,0,70.38,FB000732,2025,Qtr 3,August,6,"",Summer,XL,37
+Mango,Dresses,White,145.8,4,false,0,145.8,FB001615,2024,Qtr 3,September,27,"",Spring,S,13
+Uniqlo,Dresses,Beige,48.15,2,false,0,48.15,FB000014,2025,Qtr 3,August,6,"",Fall,S,39
+Uniqlo,Dresses,Beige,126.37,2,false,0,126.37,FB000103,2024,Qtr 4,November,8,"",Spring,S,25
+Uniqlo,Dresses,Beige,85.12,5,false,35.4,131.76,FB000393,2025,Qtr 3,August,6,"",Fall,S,21
+Uniqlo,Dresses,Black,97.03,3,false,41.2,165.01,FB002037,2024,Qtr 4,October,19,"",Spring,XL,22
+Uniqlo,Dresses,Blue,79.54,4,false,10.8,89.17,FB000322,2025,Qtr 3,August,6,"",Winter,XXL,27
+Uniqlo,Dresses,Blue,153.18,2,false,0,153.18,FB001651,2025,Qtr 3,August,6,"",Summer,L,26
+Uniqlo,Dresses,Blue,85.49,4,false,0,85.49,FB002136,2024,Qtr 4,December,16,"",Spring,L,0
+Uniqlo,Dresses,Blue,91.14,2,true,20.2,114.21,FB001119,2025,Qtr 3,August,6,Wrong Item,Winter,XL,5
+Uniqlo,Dresses,Blue,78.47,2,true,22.9,101.78,FB001262,2025,Qtr 3,August,6,Damaged,Summer,S,5
+Uniqlo,Dresses,Brown,73.65,4,false,0,73.65,FB000046,2025,Qtr 3,August,6,"",Summer,XL,33
+Uniqlo,Dresses,Brown,117.23,3,true,0,117.23,FB000558,2025,Qtr 3,August,6,Changed Mind,Fall,M,30
+Uniqlo,Dresses,Gray,35.31,5,false,27.8,48.91,FB000716,2025,Qtr 3,August,6,"",Winter,XL,0
+Uniqlo,Dresses,Gray,134.02,5,false,3,138.17,FB000854,2025,Qtr 2,April,4,"",Spring,XL,34
+Uniqlo,Dresses,Gray,68.79,3,false,53.9,149.22,FB001713,2025,Qtr 3,August,6,"",Fall,XL,41
+Uniqlo,Dresses,Green,170.38,5,false,0,170.38,FB001605,2024,Qtr 3,September,5,"",Spring,XL,23
+Uniqlo,Dresses,Navy,52.45,2,false,0,52.45,FB000855,2025,Qtr 3,August,6,"",Fall,M,16
+Uniqlo,Dresses,Navy,152.97,4,false,5.3,161.53,FB001510,2025,Qtr 3,August,6,"",Summer,L,33
+Uniqlo,Dresses,Pink,175.86,5,false,0,175.86,FB000288,2025,Qtr 3,August,6,"",Fall,S,0
+Uniqlo,Dresses,Pink,135.99,3,false,0,135.99,FB000741,2025,Qtr 3,August,6,"",Summer,XL,34
+Uniqlo,Dresses,Pink,52.1,5,false,44.7,94.21,FB002032,2025,Qtr 3,August,6,"",Fall,L,48
+Uniqlo,Dresses,Pink,29.26,2,true,53.6,63.07,FB001623,2025,Qtr 2,May,20,Color Mismatch,Spring,S,4
+Uniqlo,Dresses,Purple,146.68,3,false,0,146.68,FB002004,2024,Qtr 3,August,7,"",Spring,L,8
+Uniqlo,Dresses,Red,128.3,5,false,1.4,130.12,FB000227,2025,Qtr 3,August,6,"",Fall,XXL,0
+Uniqlo,Dresses,Red,47.21,5,false,57.1,110.04,FB000397,2025,Qtr 3,August,6,"",Fall,S,0
+Uniqlo,Dresses,Red,156.85,4,false,0,156.85,FB000725,2025,Qtr 2,April,1,"",Spring,S,48
+Uniqlo,Dresses,Red,167.46,2,false,0,167.46,FB000975,2024,Qtr 3,August,18,"",Spring,S,4
+Uniqlo,Dresses,White,55.08,5,false,0,55.08,FB001081,2025,Qtr 3,August,6,"",Summer,S,48
+Uniqlo,Dresses,White,163.17,3,false,9.3,179.9,FB001247,2025,Qtr 3,August,6,"",Summer,XXL,34
+Uniqlo,Dresses,White,161.79,4,false,0,161.79,FB001504,2025,Qtr 3,August,6,"",Fall,L,44
+Uniqlo,Dresses,White,154.6,5,true,0,154.6,FB000838,2025,Qtr 3,August,6,Changed Mind,Winter,S,38
+Zara,Dresses,Beige,121.3,3,false,0,121.3,FB000549,2025,Qtr 3,August,6,"",Fall,M,33
+Zara,Dresses,Beige,168.92,5,false,0,168.92,FB000553,2025,Qtr 3,July,14,"",Spring,L,11
+Zara,Dresses,Beige,31.63,3,false,39,51.86,FB001162,2025,Qtr 3,August,6,"",Summer,XL,40
+Zara,Dresses,Beige,54.79,3,false,52.8,116.09,FB001382,2025,Qtr 3,August,6,"",Summer,S,22
+Zara,Dresses,Beige,139.26,4,false,0,139.26,FB001546,2025,Qtr 1,January,2,"",Spring,S,32
+Zara,Dresses,Black,177.1,2,false,0,177.1,FB002022,2025,Qtr 3,August,6,"",Winter,S,49
+Zara,Dresses,Black,93.5,4,false,0,93.5,FB002133,2025,Qtr 3,August,6,"",Fall,S,4
+Zara,Dresses,Blue,109.47,4,false,29.4,155.06,FB000153,2025,Qtr 3,August,6,"",Winter,XXL,5
+Zara,Dresses,Blue,121.68,2,false,0,121.68,FB000185,2025,Qtr 3,August,6,"",Fall,L,9
+Zara,Dresses,Blue,168.96,3,false,0,168.96,FB000267,2025,Qtr 3,August,6,"",Winter,S,9
+Zara,Dresses,Blue,89.69,5,false,0,89.69,FB000278,2025,Qtr 3,August,6,"",Winter,L,50
+Zara,Dresses,Blue,146.07,4,false,0,146.07,FB002015,2025,Qtr 3,July,9,"",Spring,S,33
+Zara,Dresses,Brown,131.05,3,false,18.4,160.6,FB000220,2025,Qtr 3,August,6,"",Winter,XXL,41
+Zara,Dresses,Gray,36.86,4,false,59.5,91,FB000110,2025,Qtr 3,August,6,"",Winter,S,5
+Zara,Dresses,Gray,113.21,5,false,0,113.21,FB000523,2025,Qtr 3,August,6,"",Winter,S,12
+Zara,Dresses,Green,152.65,4,false,0,152.65,FB000882,2025,Qtr 3,August,6,"",Winter,S,27
+Zara,Dresses,Green,174.86,5,false,0,174.86,FB001177,2025,Qtr 3,August,6,"",Winter,XL,43
+Zara,Dresses,Green,131.05,5,false,0,131.05,FB002137,2025,Qtr 3,August,6,"",Summer,M,23
+Zara,Dresses,Green,114.53,4,true,29.4,162.23,FB000196,2025,Qtr 3,August,6,Quality Issue,Fall,XXL,41
+Zara,Dresses,Navy,133.82,2,false,0,133.82,FB000118,2024,Qtr 4,November,25,"",Spring,M,12
+Zara,Dresses,Navy,53.59,3,false,46.7,100.55,FB000350,2025,Qtr 1,February,1,"",Spring,S,30
+Zara,Dresses,Navy,61.24,3,false,0,61.24,FB001196,2025,Qtr 2,April,5,"",Spring,L,3
+Zara,Dresses,Navy,82.01,3,false,52.3,171.93,FB001536,2025,Qtr 3,August,6,"",Summer,XXL,28
+Zara,Dresses,Navy,81.56,3,false,0,81.56,FB001919,2025,Qtr 1,January,9,"",Spring,L,28
+Zara,Dresses,Navy,90.32,3,false,0,90.32,FB001969,2025,Qtr 1,March,26,"",Spring,XL,41
+Zara,Dresses,Navy,67.06,4,false,45.4,122.82,FB001998,2024,Qtr 3,August,30,"",Spring,S,9
+Zara,Dresses,Navy,62.47,2,true,21.1,79.18,FB001244,2025,Qtr 3,August,6,Changed Mind,Winter,XL,36
+Zara,Dresses,Navy,175.43,2,true,0,175.43,FB002002,2025,Qtr 3,August,6,Color Mismatch,Fall,L,3
+Zara,Dresses,Pink,173.42,5,false,0,173.42,FB000189,2025,Qtr 3,August,6,"",Summer,L,47
+Zara,Dresses,Pink,122.8,5,false,7.4,132.61,FB000527,2025,Qtr 3,August,6,"",Winter,S,0
+Zara,Dresses,Purple,76.24,3,false,0,76.24,FB001163,2025,Qtr 1,January,7,"",Spring,S,14
+Zara,Dresses,Purple,148.33,3,false,5,156.14,FB001552,2025,Qtr 3,August,6,"",Fall,XL,39
+Zara,Dresses,Purple,42.41,3,false,59.8,105.5,FB001950,2025,Qtr 3,August,6,"",Summer,XL,34
+Zara,Dresses,Purple,49.89,4,true,0,49.89,FB001179,2025,Qtr 3,August,6,Wrong Item,Winter,S,0
+Zara,Dresses,Red,110.16,3,false,19.1,136.17,FB000479,2025,Qtr 3,August,6,"",Winter,XL,14
+Zara,Dresses,Red,96.59,3,false,33.3,144.81,FB000491,2025,Qtr 3,August,6,"",Summer,M,33
+Zara,Dresses,Red,82.5,3,false,0,82.5,FB000814,2025,Qtr 3,August,6,"",Winter,M,0
+Zara,Dresses,Red,62.82,3,false,0,62.82,FB001011,2024,Qtr 4,October,8,"",Spring,L,36
+Zara,Dresses,Red,171.92,2,false,0,171.92,FB001972,2025,Qtr 2,June,8,"",Spring,L,12
+Zara,Dresses,Red,95.33,3,true,0,95.33,FB000608,2025,Qtr 2,June,7,Quality Issue,Spring,M,36
+Zara,Dresses,Red,140.34,3,true,0,140.34,FB000861,2025,Qtr 3,August,6,Changed Mind,Winter,L,23
+Zara,Dresses,White,41.28,2,false,56.1,94.03,FB000875,2024,Qtr 4,December,16,"",Spring,M,16
+Ann Taylor,Outerwear,Beige,172.25,3,false,22.6,222.55,FB000085,2025,Qtr 1,February,10,"",Spring,XL,50
+Ann Taylor,Outerwear,Beige,100.27,4,false,0,100.27,FB001381,2025,Qtr 1,March,3,"",Spring,S,37
+Ann Taylor,Outerwear,Beige,123.04,2,false,0,123.04,FB001641,2025,Qtr 2,April,5,"",Spring,XXL,13
+Ann Taylor,Outerwear,Beige,155.85,3,false,0,155.85,FB001901,2025,Qtr 3,August,6,"",Summer,S,38
+Ann Taylor,Outerwear,Beige,74.1,4,true,53.7,160.05,FB001911,2025,Qtr 3,August,6,Quality Issue,Fall,S,2
+Ann Taylor,Outerwear,Black,228.94,4,false,0.3,229.63,FB000465,2025,Qtr 3,August,6,"",Winter,S,30
+Ann Taylor,Outerwear,Black,235.33,5,true,0,235.33,FB001047,2025,Qtr 3,August,6,Size Issue,Summer,M,11
+Ann Taylor,Outerwear,Black,118.92,2,true,0,118.92,FB001662,2025,Qtr 3,August,6,Wrong Item,Summer,XL,36
+Ann Taylor,Outerwear,Blue,83.24,3,false,0,83.24,FB000883,2025,Qtr 3,August,6,"",Summer,XL,16
+Ann Taylor,Outerwear,Blue,118.37,3,false,0,118.37,FB001776,2025,Qtr 3,August,6,"",Fall,M,45
+Ann Taylor,Outerwear,Blue,89.13,5,false,0,89.13,FB002123,2025,Qtr 3,August,6,"",Fall,L,17
+Ann Taylor,Outerwear,Brown,174.05,3,false,0,174.05,FB000816,2025,Qtr 2,April,13,"",Spring,S,9
+Ann Taylor,Outerwear,Brown,147.5,3,false,0,147.5,FB001884,2025,Qtr 3,August,6,"",Summer,S,4
+Ann Taylor,Outerwear,Brown,152.64,5,false,0,152.64,FB001930,2025,Qtr 2,April,5,"",Spring,S,19
+Ann Taylor,Outerwear,Gray,154.18,3,false,23,200.24,FB000747,2025,Qtr 3,August,6,"",Winter,XXL,38
+Ann Taylor,Outerwear,Gray,73.69,5,false,40.9,124.69,FB001531,2025,Qtr 3,August,6,"",Fall,S,9
+Ann Taylor,Outerwear,Gray,244.13,4,true,0,244.13,FB002027,2025,Qtr 3,August,6,Size Issue,Summer,S,2
+Ann Taylor,Outerwear,Green,131.74,5,false,0,131.74,FB000798,2024,Qtr 3,September,13,"",Spring,XXL,46
+Ann Taylor,Outerwear,Green,117.45,4,false,9.5,129.78,FB000998,2025,Qtr 3,August,6,"",Summer,XL,17
+Ann Taylor,Outerwear,Green,126.14,4,false,0,126.14,FB001236,2025,Qtr 2,May,18,"",Spring,L,24
+Ann Taylor,Outerwear,Green,103.92,3,false,0,103.92,FB002077,2024,Qtr 4,October,24,"",Spring,XL,5
+Ann Taylor,Outerwear,Navy,229.04,5,false,0,229.04,FB000545,2025,Qtr 3,August,6,"",Fall,M,5
+Ann Taylor,Outerwear,Navy,142.34,3,false,0,142.34,FB000893,2025,Qtr 3,August,6,"",Winter,S,43
+Ann Taylor,Outerwear,Navy,158.31,5,false,0,158.31,FB001259,2025,Qtr 3,August,6,"",Fall,XXL,7
+Ann Taylor,Outerwear,Navy,73.56,3,true,27.9,102.03,FB000612,2025,Qtr 3,August,6,Size Issue,Winter,XXL,21
+Ann Taylor,Outerwear,Navy,245.75,3,true,0,245.75,FB000923,2025,Qtr 3,August,6,Changed Mind,Summer,L,12
+Ann Taylor,Outerwear,Navy,45.35,5,true,43.7,80.55,FB001172,2024,Qtr 4,October,21,Changed Mind,Spring,S,41
+Ann Taylor,Outerwear,Pink,98.61,3,false,0,98.61,FB000129,2025,Qtr 1,March,5,"",Spring,S,1
+Ann Taylor,Outerwear,Pink,145.02,3,false,0,145.02,FB000413,2025,Qtr 3,August,6,"",Fall,L,36
+Ann Taylor,Outerwear,Pink,137.38,4,false,0,137.38,FB000497,2025,Qtr 3,August,6,"",Summer,L,43
+Ann Taylor,Outerwear,Pink,234.14,2,false,0,234.14,FB000528,2025,Qtr 3,August,6,"",Fall,XL,40
+Ann Taylor,Outerwear,Pink,155.3,3,false,0,155.3,FB000917,2025,Qtr 3,August,6,"",Fall,S,9
+Ann Taylor,Outerwear,Pink,90.58,1,false,0,90.58,FB001392,2025,Qtr 3,August,6,"",Winter,S,1
+Ann Taylor,Outerwear,Pink,81.67,4,true,0,81.67,FB001351,2025,Qtr 3,August,6,Damaged,Summer,M,34
+Ann Taylor,Outerwear,Purple,176.1,5,false,0,176.1,FB000292,2025,Qtr 3,August,6,"",Winter,S,12
+Ann Taylor,Outerwear,Purple,143.76,2,false,0,143.76,FB001495,2025,Qtr 3,August,6,"",Fall,S,7
+Ann Taylor,Outerwear,Purple,119.78,2,true,0,119.78,FB000648,2025,Qtr 2,April,4,Color Mismatch,Spring,S,22
+Ann Taylor,Outerwear,Red,101.75,4,false,0,101.75,FB000315,2025,Qtr 3,August,6,"",Summer,S,7
+Ann Taylor,Outerwear,Red,194.78,3,false,0,194.78,FB001746,2025,Qtr 3,August,6,"",Summer,XL,31
+Ann Taylor,Outerwear,Red,130.65,3,false,0,130.65,FB001878,2025,Qtr 3,August,6,"",Summer,XXL,20
+Ann Taylor,Outerwear,White,80.35,3,false,0,80.35,FB000515,2025,Qtr 3,August,6,"",Summer,L,28
+Ann Taylor,Outerwear,White,205.77,1,false,0,205.77,FB000636,2025,Qtr 1,January,31,"",Spring,S,38
+Ann Taylor,Outerwear,White,128.92,2,false,0,128.92,FB001187,2025,Qtr 3,July,10,"",Spring,L,40
+Ann Taylor,Outerwear,White,179.58,3,false,14.2,209.3,FB001443,2025,Qtr 1,March,5,"",Spring,L,29
+Ann Taylor,Outerwear,White,80.04,3,false,0,80.04,FB001556,2025,Qtr 3,August,6,"",Winter,M,13
+Ann Taylor,Outerwear,White,180.49,3,true,0,180.49,FB000810,2025,Qtr 3,August,6,Wrong Item,Fall,S,18
+Ann Taylor,Outerwear,White,116.49,4,true,0,116.49,FB001074,2025,Qtr 3,August,6,Damaged,Winter,S,17
+Banana Republic,Outerwear,Beige,170,3,false,3.2,175.62,FB002009,2025,Qtr 3,August,6,"",Winter,XL,46
+Banana Republic,Outerwear,Beige,124.36,3,false,37.7,199.61,FB002149,2025,Qtr 3,August,6,"",Winter,M,6
+Banana Republic,Outerwear,Black,127.75,4,false,0,127.75,FB000425,2025,Qtr 3,August,6,"",Fall,XL,32
+Banana Republic,Outerwear,Black,104.18,5,false,0,104.18,FB000982,2025,Qtr 3,August,6,"",Fall,L,12
+Banana Republic,Outerwear,Black,108.28,5,false,24.6,143.61,FB001334,2025,Qtr 3,August,6,"",Summer,XL,50
+Banana Republic,Outerwear,Black,128.11,4,false,44.6,231.24,FB002061,2025,Qtr 3,August,6,"",Summer,XXL,15
+Banana Republic,Outerwear,Black,92.25,4,true,0,92.25,FB001089,2025,Qtr 2,May,28,Wrong Item,Spring,XXL,22
+Banana Republic,Outerwear,Blue,160.24,3,false,3.4,165.88,FB000408,2025,Qtr 3,August,6,"",Winter,S,42
+Banana Republic,Outerwear,Blue,135.38,4,false,23,175.82,FB000791,2025,Qtr 3,August,6,"",Fall,XL,1
+Banana Republic,Outerwear,Blue,85.81,5,false,20.3,107.67,FB001953,2025,Qtr 3,August,6,"",Winter,L,16
+Banana Republic,Outerwear,Brown,199.89,5,false,9.2,220.14,FB000263,2025,Qtr 2,June,27,"",Spring,XXL,23
+Banana Republic,Outerwear,Brown,91.08,5,false,0,91.08,FB000677,2025,Qtr 3,August,6,"",Fall,XXL,47
+Banana Republic,Outerwear,Brown,103.65,1,false,0,103.65,FB001111,2024,Qtr 4,November,16,"",Spring,XXL,4
+Banana Republic,Outerwear,Brown,87.09,3,false,0,87.09,FB001203,2025,Qtr 3,August,6,"",Fall,XL,8
+Banana Republic,Outerwear,Brown,101.93,3,false,0,101.93,FB001234,2025,Qtr 3,August,6,"",Fall,S,31
+Banana Republic,Outerwear,Brown,99.02,2,false,0,99.02,FB001320,2024,Qtr 4,October,16,"",Spring,L,21
+Banana Republic,Outerwear,Brown,155.75,3,false,0,155.75,FB001893,2025,Qtr 1,March,25,"",Spring,XL,0
+Banana Republic,Outerwear,Brown,203.02,4,true,0,203.02,FB001539,2025,Qtr 2,May,17,Quality Issue,Spring,S,23
+Banana Republic,Outerwear,Gray,142.59,4,false,0,142.59,FB000020,2025,Qtr 3,August,6,"",Summer,XXL,1
+Banana Republic,Outerwear,Gray,112.28,5,false,0,112.28,FB001263,2025,Qtr 3,August,6,"",Summer,M,41
+Banana Republic,Outerwear,Gray,177.82,2,false,0,177.82,FB001523,2025,Qtr 3,August,6,"",Summer,L,9
+Banana Republic,Outerwear,Gray,141.44,3,false,0,141.44,FB001794,2025,Qtr 3,August,6,"",Winter,S,34
+Banana Republic,Outerwear,Gray,218.41,4,false,2.7,224.47,FB001898,2025,Qtr 1,January,27,"",Spring,S,15
+Banana Republic,Outerwear,Green,127.19,4,false,43.7,225.92,FB000718,2025,Qtr 3,August,6,"",Winter,L,30
+Banana Republic,Outerwear,Green,69.53,4,false,46.2,129.24,FB001096,2025,Qtr 1,March,27,"",Spring,M,28
+Banana Republic,Outerwear,Green,105.3,3,false,0,105.3,FB001553,2025,Qtr 3,August,6,"",Summer,S,1
+Banana Republic,Outerwear,Green,109.82,3,false,0,109.82,FB001601,2025,Qtr 3,August,6,"",Summer,M,32
+Banana Republic,Outerwear,Green,144.47,3,true,20.2,181.04,FB000371,2025,Qtr 3,August,6,Size Issue,Winter,XXL,17
+Banana Republic,Outerwear,Green,96.03,3,true,44.1,171.78,FB002124,2025,Qtr 3,August,6,Color Mismatch,Summer,L,25
+Banana Republic,Outerwear,Navy,101.77,3,false,48.8,198.76,FB000251,2025,Qtr 2,April,26,"",Spring,L,36
+Banana Republic,Outerwear,Navy,90.27,5,false,0,90.27,FB000444,2025,Qtr 2,April,16,"",Spring,L,35
+Banana Republic,Outerwear,Navy,229.17,2,false,0,229.17,FB001567,2025,Qtr 3,July,17,"",Spring,S,37
+Banana Republic,Outerwear,Navy,168.8,1,false,0,168.8,FB001787,2025,Qtr 3,August,6,"",Fall,XXL,1
+Banana Republic,Outerwear,Navy,84.58,3,true,50.2,169.84,FB000325,2025,Qtr 3,August,6,Quality Issue,Summer,M,21
+Banana Republic,Outerwear,Navy,63.86,3,true,54.3,139.73,FB001804,2025,Qtr 1,March,27,Changed Mind,Spring,S,38
+Banana Republic,Outerwear,Pink,209.6,2,false,6.3,223.69,FB000489,2025,Qtr 3,August,6,"",Fall,L,18
+Banana Republic,Outerwear,Pink,82.48,4,false,50.7,167.31,FB001936,2025,Qtr 3,August,6,"",Fall,S,9
+Banana Republic,Outerwear,Pink,159.18,3,true,0,159.18,FB000494,2025,Qtr 3,August,6,Quality Issue,Winter,S,38
+Banana Republic,Outerwear,Pink,168.02,2,true,0,168.02,FB002098,2025,Qtr 3,August,6,Size Issue,Winter,L,30
+Banana Republic,Outerwear,Purple,208.15,3,false,6.6,222.86,FB000300,2024,Qtr 4,December,19,"",Spring,S,29
+Banana Republic,Outerwear,Purple,122.66,3,false,43,215.19,FB000793,2025,Qtr 3,August,6,"",Fall,M,48
+Banana Republic,Outerwear,Purple,189.28,3,true,0,189.28,FB000712,2025,Qtr 3,August,6,Wrong Item,Summer,L,41
+Banana Republic,Outerwear,Red,133.92,3,false,0,133.92,FB001141,2025,Qtr 2,April,13,"",Spring,L,41
+Banana Republic,Outerwear,Red,203.4,2,false,0,203.4,FB001343,2025,Qtr 3,August,6,"",Winter,L,18
+Banana Republic,Outerwear,Red,135.02,4,true,0,135.02,FB001358,2025,Qtr 3,July,30,Changed Mind,Spring,XL,25
+Banana Republic,Outerwear,White,99.5,5,false,55.2,222.09,FB000073,2025,Qtr 3,August,6,"",Summer,M,21
+Banana Republic,Outerwear,White,80.11,2,false,0,80.11,FB000367,2025,Qtr 2,April,16,"",Spring,L,34
+Banana Republic,Outerwear,White,52.12,4,false,58.2,124.68,FB000463,2025,Qtr 3,August,6,"",Fall,XXL,44
+Banana Republic,Outerwear,White,180.89,3,false,18.7,222.5,FB000970,2025,Qtr 3,August,6,"",Winter,S,47
+Banana Republic,Outerwear,White,218.06,4,false,0,218.06,FB001529,2025,Qtr 3,August,6,"",Fall,S,32
+Banana Republic,Outerwear,White,234.63,5,false,0,234.63,FB001920,2025,Qtr 1,February,7,"",Spring,M,30
+Banana Republic,Outerwear,White,138.87,4,false,0,138.87,FB001942,2025,Qtr 3,August,6,"",Winter,S,37
+Forever21,Outerwear,Beige,180.91,4,false,0,180.91,FB000942,2025,Qtr 3,August,6,"",Fall,S,10
+Forever21,Outerwear,Beige,124.13,5,false,0,124.13,FB001417,2025,Qtr 3,August,6,"",Summer,XL,33
+Forever21,Outerwear,Beige,123.27,3,false,0,123.27,FB001576,2025,Qtr 3,August,6,"",Summer,S,13
+Forever21,Outerwear,Black,142.55,5,false,0,142.55,FB001979,2025,Qtr 3,August,6,"",Winter,L,21
+Forever21,Outerwear,Blue,120.68,2,false,0,120.68,FB000869,2024,Qtr 4,December,21,"",Spring,S,6
+Forever21,Outerwear,Blue,115.29,5,true,30.9,166.85,FB001627,2025,Qtr 3,August,6,Changed Mind,Fall,M,14
+Forever21,Outerwear,Gray,191.47,3,false,17.3,231.52,FB000785,2025,Qtr 3,August,6,"",Summer,S,49
+Forever21,Outerwear,Gray,103.49,2,false,0,103.49,FB000842,2025,Qtr 3,August,6,"",Fall,S,12
+Forever21,Outerwear,Gray,144.64,5,false,0,144.64,FB002043,2025,Qtr 3,August,6,"",Winter,L,0
+Forever21,Outerwear,Gray,249.98,4,false,0,249.98,FB002076,2025,Qtr 3,August,6,"",Fall,S,46
+Forever21,Outerwear,Green,39.92,4,false,54.8,88.32,FB001082,2025,Qtr 3,August,6,"",Winter,L,36
+Forever21,Outerwear,Green,160.27,2,false,0,160.27,FB001250,2025,Qtr 3,August,6,"",Winter,M,11
+Forever21,Outerwear,Green,83.2,3,false,48.4,161.25,FB001366,2024,Qtr 4,November,11,"",Spring,S,32
+Forever21,Outerwear,Green,167.73,5,false,0,167.73,FB001822,2025,Qtr 3,August,6,"",Winter,S,4
+Forever21,Outerwear,Navy,109.74,2,false,0,109.74,FB000261,2025,Qtr 3,August,6,"",Summer,XL,45
+Forever21,Outerwear,Navy,132.99,3,false,44.9,241.37,FB000865,2025,Qtr 2,May,15,"",Spring,S,23
+Forever21,Outerwear,Navy,152.12,2,false,22.6,196.54,FB001035,2025,Qtr 2,May,12,"",Spring,L,33
+Forever21,Outerwear,Navy,225.64,2,false,0,225.64,FB001183,2025,Qtr 3,August,6,"",Fall,S,31
+Forever21,Outerwear,Pink,127.99,3,false,0,127.99,FB000138,2025,Qtr 3,August,6,"",Fall,M,16
+Forever21,Outerwear,Pink,145.93,2,false,0,145.93,FB000717,2025,Qtr 3,August,6,"",Fall,L,19
+Forever21,Outerwear,Pink,100.23,4,false,0,100.23,FB001055,2025,Qtr 3,August,6,"",Summer,M,12
+Forever21,Outerwear,Pink,222.01,3,false,0,222.01,FB001784,2025,Qtr 3,August,6,"",Winter,XL,27
+Forever21,Outerwear,Pink,160.12,3,false,5.8,169.98,FB002113,2025,Qtr 3,August,6,"",Fall,M,12
+Forever21,Outerwear,Pink,202.53,3,false,8.6,221.59,FB002143,2025,Qtr 3,August,6,"",Summer,XXL,5
+Forever21,Outerwear,Purple,128.6,3,false,0,128.6,FB000797,2025,Qtr 3,August,6,"",Summer,S,11
+Forever21,Outerwear,Purple,87.07,5,false,16.9,104.78,FB000951,2025,Qtr 3,August,6,"",Winter,L,43
+Forever21,Outerwear,Purple,83.83,5,false,16.5,100.39,FB001040,2025,Qtr 3,August,6,"",Fall,XXL,17
+Forever21,Outerwear,Purple,122.31,4,false,10.2,136.2,FB001498,2025,Qtr 3,August,6,"",Winter,S,10
+Forever21,Outerwear,Purple,218.64,3,false,0,218.64,FB001618,2025,Qtr 3,August,6,"",Fall,M,5
+Forever21,Outerwear,Purple,226.99,2,false,5.9,241.22,FB001830,2025,Qtr 3,August,6,"",Summer,S,13
+Forever21,Outerwear,Purple,182.4,3,false,18.9,224.91,FB001892,2024,Qtr 3,September,19,"",Spring,L,50
+Forever21,Outerwear,Red,206.91,3,false,0,206.91,FB000224,2025,Qtr 3,August,6,"",Summer,S,34
+Forever21,Outerwear,Red,68.68,2,false,58.4,165.1,FB000800,2025,Qtr 3,August,6,"",Winter,XL,29
+Forever21,Outerwear,Red,135.3,5,false,0,135.3,FB001248,2025,Qtr 1,February,16,"",Spring,XL,19
+Forever21,Outerwear,Red,225.01,2,true,0,225.01,FB000944,2025,Qtr 3,August,6,Size Issue,Summer,XL,50
+Forever21,Outerwear,White,222.26,5,false,0,222.26,FB000052,2025,Qtr 2,May,3,"",Spring,S,50
+Forever21,Outerwear,White,108.62,5,false,54.8,240.32,FB000226,2024,Qtr 4,December,27,"",Spring,XXL,3
+Gap,Outerwear,Beige,114.4,3,false,40.4,191.95,FB000645,2025,Qtr 3,August,6,"",Winter,XL,21
+Gap,Outerwear,Black,202.28,3,false,0,202.28,FB001123,2025,Qtr 3,August,6,"",Fall,S,4
+Gap,Outerwear,Black,141.83,3,true,0,141.83,FB000913,2025,Qtr 3,August,6,Color Mismatch,Summer,S,2
+Gap,Outerwear,Blue,133.26,2,false,0,133.26,FB000142,2025,Qtr 3,August,6,"",Summer,M,29
+Gap,Outerwear,Blue,96.55,3,false,51.3,198.26,FB000866,2025,Qtr 3,August,6,"",Fall,XXL,38
+Gap,Outerwear,Blue,62.59,5,false,32.8,93.14,FB001965,2025,Qtr 3,August,6,"",Summer,L,45
+Gap,Outerwear,Blue,82.33,3,true,0.7,82.91,FB001578,2025,Qtr 3,August,6,Damaged,Summer,S,24
+Gap,Outerwear,Brown,179.8,2,false,0,179.8,FB000409,2025,Qtr 3,August,6,"",Fall,S,25
+Gap,Outerwear,Brown,169.82,4,false,0,169.82,FB000533,2025,Qtr 3,August,6,"",Fall,M,28
+Gap,Outerwear,Brown,88.87,3,false,0,88.87,FB001146,2025,Qtr 3,August,6,"",Winter,M,27
+Gap,Outerwear,Gray,174.86,2,false,0,174.86,FB000537,2025,Qtr 3,August,6,"",Winter,XXL,15
+Gap,Outerwear,Gray,140.07,3,false,0,140.07,FB001796,2025,Qtr 3,August,6,"",Winter,XL,23
+Gap,Outerwear,Green,102.85,3,false,15.2,121.29,FB000056,2025,Qtr 3,August,6,"",Summer,S,42
+Gap,Outerwear,Green,204.68,4,false,0,204.68,FB000500,2025,Qtr 3,August,6,"",Winter,S,33
+Gap,Outerwear,Green,92.96,2,false,16.8,111.73,FB001827,2025,Qtr 2,May,29,"",Spring,L,41
+Gap,Outerwear,Green,162.81,3,false,0,162.81,FB002003,2025,Qtr 1,January,10,"",Spring,S,40
+Gap,Outerwear,Green,126.65,5,true,48,243.56,FB000076,2024,Qtr 4,October,14,Changed Mind,Spring,XL,22
+Gap,Outerwear,Green,80.15,4,true,26.6,109.2,FB002128,2025,Qtr 3,August,6,Quality Issue,Winter,L,21
+Gap,Outerwear,Navy,133.52,4,false,0,133.52,FB000385,2025,Qtr 3,August,6,"",Winter,M,27
+Gap,Outerwear,Navy,175.7,3,false,0,175.7,FB000419,2025,Qtr 1,February,23,"",Spring,XXL,20
+Gap,Outerwear,Navy,186.78,3,false,0,186.78,FB001181,2025,Qtr 3,August,6,"",Summer,S,22
+Gap,Outerwear,Navy,141.92,2,false,0,141.92,FB001946,2025,Qtr 3,August,6,"",Summer,S,37
+Gap,Outerwear,Purple,178.39,5,false,0,178.39,FB001027,2025,Qtr 3,August,6,"",Fall,L,29
+Gap,Outerwear,Purple,95.48,3,false,34.2,145.1,FB001337,2025,Qtr 3,August,6,"",Fall,S,14
+Gap,Outerwear,Purple,85.2,4,false,39.8,141.53,FB001548,2025,Qtr 3,August,6,"",Fall,M,47
+Gap,Outerwear,Purple,218.42,5,true,0,218.42,FB000062,2025,Qtr 3,August,6,Changed Mind,Fall,M,33
+Gap,Outerwear,Purple,71.88,5,true,53,152.93,FB000492,2025,Qtr 3,August,6,Changed Mind,Winter,S,2
+Gap,Outerwear,Red,91.65,3,false,12.3,104.5,FB000193,2025,Qtr 3,August,6,"",Summer,XXL,42
+Gap,Outerwear,Red,132.92,2,false,0,132.92,FB000377,2025,Qtr 3,August,6,"",Fall,S,36
+Gap,Outerwear,Red,166.88,2,false,0,166.88,FB001469,2025,Qtr 3,August,6,"",Summer,S,10
+Gap,Outerwear,Red,155.2,5,false,0,155.2,FB002090,2025,Qtr 3,August,6,"",Winter,S,5
+Gap,Outerwear,Red,119.36,3,true,0,119.36,FB002085,2025,Qtr 3,July,2,Size Issue,Spring,S,30
+Gap,Outerwear,White,91.95,3,false,0,91.95,FB000502,2025,Qtr 3,August,6,"",Summer,XXL,1
+Gap,Outerwear,White,140.1,4,false,0,140.1,FB000786,2025,Qtr 3,August,6,"",Winter,XL,14
+Gap,Outerwear,White,232.19,2,true,0,232.19,FB000331,2025,Qtr 3,August,6,Changed Mind,Summer,L,31
+H&M,Outerwear,Beige,191.54,2,false,0,191.54,FB000229,2024,Qtr 4,October,10,"",Spring,S,18
+H&M,Outerwear,Beige,237.24,5,false,4.3,247.9,FB000258,2024,Qtr 4,December,25,"",Spring,XXL,25
+H&M,Outerwear,Beige,161.51,5,false,0,161.51,FB001501,2024,Qtr 4,November,2,"",Spring,L,22
+H&M,Outerwear,Beige,208.57,4,false,0,208.57,FB001582,2025,Qtr 3,August,6,"",Winter,S,24
+H&M,Outerwear,Beige,202.13,5,false,3.6,209.68,FB001639,2025,Qtr 3,August,6,"",Fall,M,18
+H&M,Outerwear,Black,79.1,4,false,28.3,110.32,FB000157,2025,Qtr 3,August,6,"",Winter,XXL,49
+H&M,Outerwear,Black,109.5,3,false,1.4,111.05,FB000383,2025,Qtr 3,August,6,"",Summer,M,7
+H&M,Outerwear,Black,158.84,5,false,0,158.84,FB000670,2025,Qtr 2,April,16,"",Spring,S,30
+H&M,Outerwear,Black,169.69,2,false,0,169.69,FB001442,2025,Qtr 3,August,6,"",Summer,L,29
+H&M,Outerwear,Black,126.33,3,false,34.6,193.17,FB001647,2025,Qtr 3,August,6,"",Winter,XXL,26
+H&M,Outerwear,Black,183.05,5,false,0,183.05,FB001994,2025,Qtr 3,August,6,"",Fall,S,4
+H&M,Outerwear,Black,121.03,2,true,0,121.03,FB000252,2025,Qtr 3,August,6,Changed Mind,Fall,L,14
+H&M,Outerwear,Blue,121.56,4,false,0,121.56,FB001597,2025,Qtr 3,August,6,"",Fall,XL,18
+H&M,Outerwear,Brown,123.55,2,false,0,123.55,FB001785,2025,Qtr 3,August,6,"",Summer,L,28
+H&M,Outerwear,Brown,246.65,3,true,0,246.65,FB000223,2025,Qtr 3,August,6,Damaged,Summer,XL,17
+H&M,Outerwear,Brown,100.44,3,true,56.8,232.5,FB001204,2025,Qtr 3,August,6,Size Issue,Summer,S,23
+H&M,Outerwear,Gray,151.1,3,false,0,151.1,FB001028,2025,Qtr 1,March,22,"",Spring,XL,24
+H&M,Outerwear,Gray,215.06,2,false,0,215.06,FB001793,2025,Qtr 3,August,6,"",Summer,S,50
+H&M,Outerwear,Gray,102.68,2,false,0,102.68,FB001802,2025,Qtr 3,August,6,"",Winter,L,18
+H&M,Outerwear,Gray,205.37,2,true,0,205.37,FB001956,2025,Qtr 3,August,6,Damaged,Winter,XL,25
+H&M,Outerwear,Green,153.59,3,true,0,153.59,FB001013,2025,Qtr 3,August,6,Damaged,Winter,XXL,31
+H&M,Outerwear,Navy,205.91,5,false,0,205.91,FB001057,2025,Qtr 3,August,6,"",Fall,XXL,3
+H&M,Outerwear,Navy,229.8,4,false,0,229.8,FB001290,2025,Qtr 3,August,6,"",Summer,S,46
+H&M,Outerwear,Navy,52.01,2,true,43.8,92.54,FB000518,2025,Qtr 3,August,6,Damaged,Fall,M,33
+H&M,Outerwear,Pink,221.33,3,false,10.9,248.41,FB000010,2025,Qtr 3,August,6,"",Fall,XXL,37
+H&M,Outerwear,Pink,72.26,2,false,36.9,114.51,FB000338,2025,Qtr 3,August,6,"",Summer,M,33
+H&M,Outerwear,Pink,162.78,3,false,0,162.78,FB000781,2025,Qtr 3,August,6,"",Summer,S,0
+H&M,Outerwear,Purple,180.83,2,false,0,180.83,FB001210,2024,Qtr 3,September,2,"",Spring,M,20
+H&M,Outerwear,Purple,133.7,4,false,38.1,215.99,FB001873,2025,Qtr 3,August,6,"",Winter,S,14
+H&M,Outerwear,Purple,167.02,3,true,0,167.02,FB000221,2025,Qtr 1,January,30,Size Issue,Spring,S,26
+H&M,Outerwear,Red,137.16,4,false,0,137.16,FB000181,2024,Qtr 3,September,26,"",Spring,S,34
+H&M,Outerwear,Red,119.96,2,false,0,119.96,FB000204,2025,Qtr 3,August,6,"",Summer,S,20
+H&M,Outerwear,Red,55.33,3,false,58.2,132.38,FB000983,2025,Qtr 3,August,6,"",Winter,L,24
+H&M,Outerwear,Red,80.04,3,false,42.5,139.2,FB001229,2024,Qtr 4,October,2,"",Spring,M,27
+H&M,Outerwear,Red,86.3,4,false,0,86.3,FB001300,2025,Qtr 3,August,6,"",Winter,L,33
+H&M,Outerwear,Red,116.1,4,true,0,116.1,FB000438,2025,Qtr 3,August,6,Changed Mind,Summer,L,27
+H&M,Outerwear,Red,60.17,3,true,28.1,83.68,FB001935,2025,Qtr 3,August,6,Quality Issue,Summer,L,46
+H&M,Outerwear,White,246.49,5,false,0,246.49,FB000577,2025,Qtr 3,August,6,"",Fall,XXL,20
+H&M,Outerwear,White,122.53,3,false,0,122.53,FB000752,2024,Qtr 3,September,21,"",Spring,XXL,25
+H&M,Outerwear,White,151.62,4,false,0,151.62,FB001882,2025,Qtr 3,July,11,"",Spring,L,41
+H&M,Outerwear,White,77.44,2,false,29.3,109.53,FB001938,2024,Qtr 4,November,2,"",Spring,XXL,35
+Mango,Outerwear,Black,132.58,2,false,0,132.58,FB000600,2025,Qtr 3,August,6,"",Fall,L,45
+Mango,Outerwear,Black,238.11,3,false,0,238.11,FB000936,2025,Qtr 3,August,6,"",Summer,S,49
+Mango,Outerwear,Blue,101.04,4,false,0,101.04,FB000961,2025,Qtr 3,August,6,"",Summer,S,35
+Mango,Outerwear,Blue,93.27,3,false,28.3,130.09,FB001356,2025,Qtr 3,August,6,"",Fall,XL,41
+Mango,Outerwear,Blue,213.98,3,false,0,213.98,FB001758,2025,Qtr 3,August,6,"",Summer,S,38
+Mango,Outerwear,Brown,55.16,3,false,52.6,116.37,FB001193,2025,Qtr 3,August,6,"",Winter,XXL,43
+Mango,Outerwear,Brown,182.42,3,false,23.2,237.53,FB001350,2025,Qtr 3,August,6,"",Winter,XXL,23
+Mango,Outerwear,Brown,239.65,3,false,0,239.65,FB001976,2025,Qtr 3,August,6,"",Winter,S,27
+Mango,Outerwear,Gray,145.16,3,false,10.2,161.65,FB000279,2025,Qtr 1,March,30,"",Spring,XXL,42
+Mango,Outerwear,Gray,86.92,3,false,35.3,134.35,FB000782,2025,Qtr 3,August,6,"",Winter,M,36
+Mango,Outerwear,Gray,216.26,2,false,0,216.26,FB000935,2025,Qtr 2,April,16,"",Spring,S,26
+Mango,Outerwear,Gray,198.58,3,false,0,198.58,FB001600,2025,Qtr 1,January,24,"",Spring,S,46
+Mango,Outerwear,Green,208.82,2,false,0,208.82,FB000651,2025,Qtr 3,August,6,"",Fall,S,45
+Mango,Outerwear,Green,194.79,3,false,0.3,195.38,FB000763,2025,Qtr 3,August,6,"",Fall,M,30
+Mango,Outerwear,Green,198.44,3,false,0,198.44,FB001053,2025,Qtr 3,August,6,"",Fall,L,40
+Mango,Outerwear,Green,128.98,1,false,30.9,186.66,FB001750,2025,Qtr 3,August,6,"",Summer,S,7
+Mango,Outerwear,Green,184.24,4,false,0,184.24,FB001914,2025,Qtr 3,August,6,"",Fall,S,49
+Mango,Outerwear,Navy,180.21,3,false,16.5,215.82,FB001577,2025,Qtr 3,August,6,"",Summer,L,9
+Mango,Outerwear,Navy,187.63,2,false,0,187.63,FB001646,2025,Qtr 2,April,25,"",Spring,M,25
+Mango,Outerwear,Navy,89.26,4,false,0,89.26,FB001670,2025,Qtr 3,August,6,"",Winter,XL,43
+Mango,Outerwear,Navy,152.64,3,true,29,214.99,FB001004,2024,Qtr 3,September,6,Wrong Item,Spring,L,32
+Mango,Outerwear,Pink,169.03,2,false,0,169.03,FB000287,2025,Qtr 3,August,6,"",Winter,XL,16
+Mango,Outerwear,Pink,209.52,3,false,0,209.52,FB000836,2025,Qtr 3,August,6,"",Winter,S,48
+Mango,Outerwear,Pink,149.04,2,false,17.5,180.65,FB001095,2025,Qtr 3,August,6,"",Winter,XL,41
+Mango,Outerwear,Pink,153.46,2,false,0,153.46,FB001690,2025,Qtr 3,August,6,"",Fall,L,27
+Mango,Outerwear,Purple,57.25,5,false,58.5,137.95,FB000019,2025,Qtr 3,August,6,"",Summer,M,16
+Mango,Outerwear,Purple,157.45,3,false,0,157.45,FB000310,2025,Qtr 2,May,26,"",Spring,L,7
+Mango,Outerwear,Purple,209.66,3,false,0,209.66,FB001273,2025,Qtr 3,August,6,"",Fall,L,30
+Mango,Outerwear,Purple,138.55,2,false,0,138.55,FB001630,2025,Qtr 3,August,6,"",Fall,M,25
+Mango,Outerwear,Purple,79.2,2,false,56.4,181.66,FB001931,2025,Qtr 3,August,6,"",Fall,S,43
+Mango,Outerwear,Purple,172.93,5,true,0,172.93,FB000644,2025,Qtr 2,April,12,Quality Issue,Spring,S,43
+Mango,Outerwear,Red,184.64,3,false,7.4,199.39,FB000072,2025,Qtr 3,August,6,"",Summer,XXL,49
+Mango,Outerwear,Red,100.39,5,false,36.6,158.34,FB001572,2025,Qtr 1,January,27,"",Spring,XXL,11
+Mango,Outerwear,White,79.98,2,false,0.9,80.71,FB001383,2025,Qtr 3,August,6,"",Fall,S,11
+Mango,Outerwear,White,154.12,2,false,28.8,216.46,FB001622,2024,Qtr 3,August,12,"",Spring,S,43
+Uniqlo,Outerwear,Beige,86.13,3,false,0,86.13,FB000364,2025,Qtr 3,August,6,"",Fall,S,28
+Uniqlo,Outerwear,Beige,176.15,4,false,14,204.82,FB000585,2025,Qtr 3,August,6,"",Summer,L,27
+Uniqlo,Outerwear,Beige,129.46,4,false,0,129.46,FB000756,2025,Qtr 3,August,6,"",Winter,XL,32
+Uniqlo,Outerwear,Beige,72.33,5,false,51.9,150.37,FB000956,2025,Qtr 3,August,6,"",Fall,XL,15
+Uniqlo,Outerwear,Black,92.83,2,false,0,92.83,FB000111,2025,Qtr 3,July,20,"",Spring,L,9
+Uniqlo,Outerwear,Black,248.05,5,false,0,248.05,FB001415,2025,Qtr 2,April,29,"",Spring,M,17
+Uniqlo,Outerwear,Black,70.84,2,false,11.9,80.41,FB001619,2025,Qtr 3,August,6,"",Fall,S,35
+Uniqlo,Outerwear,Black,100.23,3,true,14.6,117.36,FB000250,2025,Qtr 3,August,6,Size Issue,Fall,S,33
+Uniqlo,Outerwear,Blue,37.61,3,false,58,89.55,FB001629,2025,Qtr 3,August,6,"",Summer,M,21
+Uniqlo,Outerwear,Blue,208.93,3,false,0,208.93,FB001747,2025,Qtr 3,August,6,"",Fall,S,12
+Uniqlo,Outerwear,Brown,180.57,3,false,0,180.57,FB000470,2025,Qtr 3,August,6,"",Summer,S,28
+Uniqlo,Outerwear,Brown,168.13,3,false,0,168.13,FB000726,2025,Qtr 2,April,18,"",Spring,S,42
+Uniqlo,Outerwear,Brown,127.59,5,false,0,127.59,FB000754,2025,Qtr 2,May,8,"",Spring,S,1
+Uniqlo,Outerwear,Brown,237.65,4,false,0,237.65,FB001465,2025,Qtr 3,August,6,"",Fall,L,3
+Uniqlo,Outerwear,Brown,124.8,2,false,10.2,138.98,FB001880,2025,Qtr 3,July,22,"",Spring,S,36
+Uniqlo,Outerwear,Gray,241.09,3,false,0,241.09,FB000087,2025,Qtr 3,August,6,"",Summer,M,26
+Uniqlo,Outerwear,Gray,204.21,4,false,0,204.21,FB000177,2025,Qtr 3,August,6,"",Winter,M,5
+Uniqlo,Outerwear,Gray,82.8,2,false,29.5,117.45,FB000329,2025,Qtr 3,August,6,"",Summer,S,43
+Uniqlo,Outerwear,Gray,89.37,3,false,33.6,134.59,FB001169,2025,Qtr 3,August,6,"",Winter,XXL,42
+Uniqlo,Outerwear,Gray,175.42,4,false,0,175.42,FB002030,2025,Qtr 3,August,6,"",Winter,L,5
+Uniqlo,Outerwear,Gray,174.72,3,true,24.3,230.81,FB001191,2025,Qtr 3,August,6,Size Issue,Fall,XXL,26
+Uniqlo,Outerwear,Green,198.58,3,false,12.8,227.73,FB000009,2025,Qtr 1,March,24,"",Spring,XL,14
+Uniqlo,Outerwear,Green,121.91,5,false,39.7,202.18,FB000719,2025,Qtr 3,August,6,"",Summer,XL,20
+Uniqlo,Outerwear,Green,162.75,5,false,0,162.75,FB001492,2025,Qtr 3,August,6,"",Fall,L,13
+Uniqlo,Outerwear,Green,170.91,2,true,0,170.91,FB001133,2025,Qtr 3,August,6,Quality Issue,Summer,L,36
+Uniqlo,Outerwear,Green,216.73,3,true,0,216.73,FB001962,2025,Qtr 3,August,6,Wrong Item,Summer,M,5
+Uniqlo,Outerwear,Navy,47.34,5,false,54.6,104.27,FB000246,2025,Qtr 3,August,6,"",Fall,L,42
+Uniqlo,Outerwear,Navy,217.34,5,false,0,217.34,FB000405,2025,Qtr 3,August,6,"",Winter,S,4
+Uniqlo,Outerwear,Navy,167.39,2,false,0,167.39,FB001527,2025,Qtr 3,August,6,"",Winter,M,43
+Uniqlo,Outerwear,Navy,197.11,3,false,3.6,204.47,FB001764,2025,Qtr 3,August,6,"",Summer,S,26
+Uniqlo,Outerwear,Pink,110.22,2,false,0,110.22,FB000217,2025,Qtr 3,August,6,"",Fall,XL,4
+Uniqlo,Outerwear,Pink,199.01,5,false,0,199.01,FB000275,2025,Qtr 3,August,6,"",Summer,XL,8
+Uniqlo,Outerwear,Pink,76.25,5,false,13.3,87.95,FB000934,2025,Qtr 3,August,6,"",Fall,XXL,4
+Uniqlo,Outerwear,Pink,220.71,4,false,4.2,230.39,FB001775,2024,Qtr 4,October,15,"",Spring,S,34
+Uniqlo,Outerwear,Pink,206.94,4,false,0,206.94,FB002054,2025,Qtr 3,August,6,"",Summer,S,43
+Uniqlo,Outerwear,Purple,110.25,3,false,49.4,217.89,FB000538,2024,Qtr 4,November,27,"",Spring,L,42
+Uniqlo,Outerwear,Purple,237.7,3,false,0.5,238.89,FB000687,2025,Qtr 3,August,6,"",Fall,M,28
+Uniqlo,Outerwear,Purple,138.89,3,false,0,138.89,FB000843,2025,Qtr 1,January,30,"",Spring,L,10
+Uniqlo,Outerwear,Purple,213.94,5,false,0,213.94,FB001107,2025,Qtr 3,August,6,"",Fall,XXL,16
+Uniqlo,Outerwear,Purple,221.94,2,false,0,221.94,FB001155,2025,Qtr 3,August,6,"",Summer,S,35
+Uniqlo,Outerwear,Purple,144.27,3,false,19.6,179.44,FB001291,2025,Qtr 3,August,6,"",Fall,S,42
+Uniqlo,Outerwear,Red,137.13,3,false,44.1,245.31,FB001636,2025,Qtr 3,August,6,"",Summer,XXL,44
+Uniqlo,Outerwear,White,153.88,3,false,0,153.88,FB000574,2025,Qtr 3,August,6,"",Winter,S,42
+Uniqlo,Outerwear,White,122.92,3,false,0,122.92,FB000987,2024,Qtr 4,November,6,"",Spring,XL,41
+Uniqlo,Outerwear,White,241.81,4,false,0,241.81,FB001621,2025,Qtr 3,August,6,"",Fall,S,38
+Uniqlo,Outerwear,White,147.53,5,true,0,147.53,FB000900,2025,Qtr 3,August,6,Quality Issue,Winter,L,33
+Zara,Outerwear,Beige,48.02,2,false,45.3,87.78,FB000145,2025,Qtr 1,February,17,"",Spring,L,34
+Zara,Outerwear,Beige,129.48,2,false,23.1,168.38,FB000852,2025,Qtr 2,June,4,"",Spring,S,3
+Zara,Outerwear,Beige,88.94,3,false,0,88.94,FB001056,2025,Qtr 3,August,6,"",Winter,XXL,36
+Zara,Outerwear,Beige,113.82,3,false,30.5,163.77,FB001448,2025,Qtr 3,August,6,"",Fall,XL,10
+Zara,Outerwear,Beige,215.1,3,false,0,215.1,FB002011,2025,Qtr 3,August,6,"",Fall,S,16
+Zara,Outerwear,Beige,228.46,3,true,0,228.46,FB001569,2025,Qtr 1,February,7,Quality Issue,Spring,S,7
+Zara,Outerwear,Black,158.37,3,false,0,158.37,FB000372,2025,Qtr 1,February,15,"",Spring,XL,33
+Zara,Outerwear,Black,112.29,2,true,40.8,189.68,FB000400,2024,Qtr 3,September,21,Damaged,Spring,L,27
+Zara,Outerwear,Blue,71.51,3,false,12.4,81.63,FB000628,2025,Qtr 3,August,6,"",Fall,M,3
+Zara,Outerwear,Blue,46.52,5,false,59.8,115.73,FB001130,2024,Qtr 3,September,28,"",Spring,M,10
+Zara,Outerwear,Blue,223.53,5,false,1.2,226.24,FB001813,2025,Qtr 1,February,20,"",Spring,XL,24
+Zara,Outerwear,Brown,172.59,3,false,0,172.59,FB000154,2025,Qtr 3,August,6,"",Winter,L,1
+Zara,Outerwear,Brown,161.72,5,false,14.9,190.03,FB001446,2025,Qtr 3,July,24,"",Spring,S,35
+Zara,Outerwear,Gray,68.33,3,false,47.5,130.16,FB001016,2025,Qtr 3,August,6,"",Winter,S,21
+Zara,Outerwear,Gray,156.54,2,false,0,156.54,FB001101,2025,Qtr 3,August,6,"",Fall,S,23
+Zara,Outerwear,Gray,107.81,3,false,0,107.81,FB001195,2025,Qtr 3,August,6,"",Winter,XL,15
+Zara,Outerwear,Gray,227.92,3,false,0,227.92,FB001767,2025,Qtr 3,August,6,"",Summer,S,34
+Zara,Outerwear,Green,220.99,4,false,0,220.99,FB000249,2025,Qtr 3,August,6,"",Fall,M,42
+Zara,Outerwear,Green,208.8,2,false,0,208.8,FB000475,2025,Qtr 3,August,6,"",Winter,L,13
+Zara,Outerwear,Green,245.87,3,false,0,245.87,FB000684,2025,Qtr 2,June,24,"",Spring,M,27
+Zara,Outerwear,Green,126.27,5,false,0,126.27,FB000899,2025,Qtr 3,August,6,"",Summer,M,1
+Zara,Outerwear,Green,48.03,4,false,58.7,116.29,FB001917,2025,Qtr 3,August,6,"",Winter,XXL,34
+Zara,Outerwear,Green,225.21,4,true,0,225.21,FB000715,2025,Qtr 3,August,6,Changed Mind,Fall,XXL,27
+Zara,Outerwear,Navy,105.05,4,false,51.4,216.16,FB000043,2025,Qtr 3,August,6,"",Winter,S,36
+Zara,Outerwear,Navy,80.54,2,true,0,80.54,FB001296,2025,Qtr 3,August,6,Size Issue,Summer,S,3
+Zara,Outerwear,Pink,123.02,2,false,12.9,141.24,FB000927,2024,Qtr 4,October,2,"",Spring,XXL,23
+Zara,Outerwear,Pink,93.11,3,false,0,93.11,FB001136,2025,Qtr 3,August,6,"",Summer,S,43
+Zara,Outerwear,Pink,108.58,3,false,0,108.58,FB001708,2025,Qtr 3,August,6,"",Fall,M,44
+Zara,Outerwear,Purple,44.85,3,true,45.9,82.91,FB000123,2025,Qtr 3,August,6,Quality Issue,Winter,XXL,24
+Zara,Outerwear,Red,196.01,3,false,0,196.01,FB000001,2025,Qtr 3,July,5,"",Spring,XL,37
+Zara,Outerwear,Red,248.58,2,false,0,248.58,FB000120,2025,Qtr 3,July,4,"",Spring,L,27
+Zara,Outerwear,Red,193.14,4,false,0,193.14,FB000448,2025,Qtr 3,August,6,"",Fall,XXL,7
+Zara,Outerwear,Red,192.58,2,false,0,192.58,FB000990,2025,Qtr 2,April,17,"",Spring,S,16
+Zara,Outerwear,Red,129.86,2,false,0,129.86,FB001267,2025,Qtr 3,August,6,"",Winter,L,41
+Zara,Outerwear,Red,183.6,3,false,0,183.6,FB001886,2025,Qtr 3,August,6,"",Fall,S,10
+Zara,Outerwear,Red,79,3,true,50.2,158.64,FB001836,2025,Qtr 3,August,6,Changed Mind,Fall,M,7
+Zara,Outerwear,White,166.76,5,false,0,166.76,FB000054,2025,Qtr 2,June,12,"",Spring,S,21
+Zara,Outerwear,White,215.93,4,false,0,215.93,FB000495,2025,Qtr 3,August,6,"",Winter,XXL,43
+Zara,Outerwear,White,146.45,4,false,0,146.45,FB001400,2025,Qtr 3,August,6,"",Winter,M,45
+Zara,Outerwear,White,142.88,2,false,26.5,194.39,FB002034,2025,Qtr 2,April,15,"",Spring,S,12
+Zara,Outerwear,White,118.57,2,true,0,118.57,FB002160,2025,Qtr 3,August,6,Quality Issue,Summer,XXL,6
+Ann Taylor,Shoes,Beige,173.69,4,false,0,173.69,FB001100,2025,Qtr 3,August,6,"",Fall,XL,25
+Ann Taylor,Shoes,Beige,127.52,4,false,0,127.52,FB001212,2025,Qtr 3,August,6,"",Summer,XXL,0
+Ann Taylor,Shoes,Beige,66.58,4,false,0,66.58,FB002169,2025,Qtr 3,August,6,"",Winter,L,45
+Ann Taylor,Shoes,Black,192.74,5,false,0,192.74,FB000652,2025,Qtr 3,August,6,"",Winter,M,43
+Ann Taylor,Shoes,Black,144.02,4,false,18.1,175.85,FB001054,2025,Qtr 1,January,29,"",Spring,M,4
+Ann Taylor,Shoes,Black,126.74,3,false,0,126.74,FB001756,2025,Qtr 3,August,6,"",Winter,L,2
+Ann Taylor,Shoes,Black,93.55,2,true,25.9,126.25,FB000773,2025,Qtr 3,August,6,Size Issue,Summer,S,40
+Ann Taylor,Shoes,Blue,81.64,2,false,0,81.64,FB000127,2024,Qtr 4,December,6,"",Spring,XXL,50
+Ann Taylor,Shoes,Blue,48.76,3,true,40.6,82.08,FB000340,2025,Qtr 2,May,23,Quality Issue,Spring,XL,43
+Ann Taylor,Shoes,Brown,44.41,4,true,59.7,110.2,FB001725,2025,Qtr 3,August,6,Color Mismatch,Fall,L,13
+Ann Taylor,Shoes,Gray,69.98,3,false,56.6,161.24,FB000966,2025,Qtr 3,August,6,"",Summer,M,8
+Ann Taylor,Shoes,Gray,137.33,5,false,0,137.33,FB001252,2025,Qtr 3,August,6,"",Summer,L,35
+Ann Taylor,Shoes,Gray,33.56,5,false,58.8,81.46,FB001397,2025,Qtr 3,August,6,"",Summer,L,37
+Ann Taylor,Shoes,Gray,115.77,3,false,0,115.77,FB001736,2024,Qtr 4,November,24,"",Spring,S,43
+Ann Taylor,Shoes,Gray,162.97,3,true,0,162.97,FB000829,2024,Qtr 4,November,22,Wrong Item,Spring,XL,47
+Ann Taylor,Shoes,Green,157.42,3,false,0,157.42,FB000285,2025,Qtr 3,August,6,"",Winter,M,38
+Ann Taylor,Shoes,Green,137.24,4,false,8.9,150.65,FB001988,2025,Qtr 3,August,6,"",Winter,M,43
+Ann Taylor,Shoes,Green,95.92,3,true,27.3,131.94,FB001626,2025,Qtr 3,August,6,Damaged,Fall,XXL,6
+Ann Taylor,Shoes,Navy,190.78,4,false,0,190.78,FB001338,2025,Qtr 3,August,6,"",Summer,XXL,39
+Ann Taylor,Shoes,Purple,93.6,5,false,0,93.6,FB000891,2024,Qtr 3,September,9,"",Spring,L,49
+Ann Taylor,Shoes,Purple,184.87,2,false,0,184.87,FB001205,2024,Qtr 3,September,28,"",Spring,S,32
+Ann Taylor,Shoes,Purple,158.01,3,false,0,158.01,FB001367,2025,Qtr 3,August,6,"",Fall,S,19
+Ann Taylor,Shoes,Purple,63.76,3,true,47.4,121.21,FB000968,2025,Qtr 3,August,6,Changed Mind,Fall,S,45
+Ann Taylor,Shoes,Purple,137.83,4,true,0,137.83,FB001281,2025,Qtr 3,August,6,Changed Mind,Winter,S,32
+Ann Taylor,Shoes,Red,28.99,5,false,53.5,62.35,FB001171,2025,Qtr 3,August,6,"",Summer,XL,1
+Ann Taylor,Shoes,Red,87.83,3,true,22,112.6,FB000535,2025,Qtr 3,July,22,Color Mismatch,Spring,XL,29
+Ann Taylor,Shoes,Red,132.82,3,true,0,132.82,FB001943,2025,Qtr 1,March,17,Changed Mind,Spring,S,40
+Ann Taylor,Shoes,White,136.32,4,false,6.6,145.95,FB000061,2025,Qtr 3,August,6,"",Summer,M,15
+Ann Taylor,Shoes,White,98.31,3,false,21.5,125.24,FB000128,2024,Qtr 3,September,6,"",Spring,XXL,7
+Ann Taylor,Shoes,White,74.48,3,false,53.7,160.87,FB000850,2025,Qtr 3,August,6,"",Winter,XL,18
+Ann Taylor,Shoes,White,98.88,3,false,10.2,110.11,FB001225,2025,Qtr 3,August,6,"",Winter,M,47
+Ann Taylor,Shoes,White,78.01,2,false,45.4,142.87,FB001941,2025,Qtr 3,August,6,"",Fall,S,20
+Ann Taylor,Shoes,White,154.02,2,false,0,154.02,FB002176,2025,Qtr 3,August,6,"",Summer,XXL,23
+Ann Taylor,Shoes,White,69.82,3,true,0,69.82,FB000071,2025,Qtr 3,August,6,Wrong Item,Winter,XL,46
+Banana Republic,Shoes,Beige,171.48,3,false,0,171.48,FB001173,2025,Qtr 3,August,6,"",Winter,M,15
+Banana Republic,Shoes,Beige,101.19,3,false,47.5,192.74,FB001487,2025,Qtr 3,August,6,"",Summer,XL,40
+Banana Republic,Shoes,Beige,94.1,2,false,0,94.1,FB001678,2025,Qtr 3,August,6,"",Fall,S,24
+Banana Republic,Shoes,Beige,143.45,3,true,0,143.45,FB000259,2024,Qtr 3,September,27,Quality Issue,Spring,XL,39
+Banana Republic,Shoes,Black,129.33,4,false,0,129.33,FB000481,2025,Qtr 3,August,6,"",Winter,S,15
+Banana Republic,Shoes,Black,94.35,4,false,40.2,157.78,FB001648,2025,Qtr 3,August,2,"",Spring,M,23
+Banana Republic,Shoes,Black,70.83,4,true,23.9,93.07,FB000203,2025,Qtr 3,August,6,Changed Mind,Summer,S,10
+Banana Republic,Shoes,Blue,94.29,2,false,0,94.29,FB000150,2024,Qtr 3,September,15,"",Spring,L,18
+Banana Republic,Shoes,Blue,187.58,3,false,0,187.58,FB000412,2025,Qtr 3,August,6,"",Summer,XL,46
+Banana Republic,Shoes,Blue,167.86,4,false,0,167.86,FB000487,2025,Qtr 3,August,6,"",Summer,XL,17
+Banana Republic,Shoes,Blue,30.14,3,false,52.8,63.86,FB000774,2025,Qtr 3,August,6,"",Summer,S,23
+Banana Republic,Shoes,Blue,73.08,3,false,34.3,111.24,FB000976,2025,Qtr 3,August,6,"",Fall,L,3
+Banana Republic,Shoes,Blue,167.89,1,false,0,167.89,FB001125,2025,Qtr 3,August,6,"",Summer,L,12
+Banana Republic,Shoes,Blue,96.9,5,false,0,96.9,FB001401,2025,Qtr 1,February,3,"",Spring,M,24
+Banana Republic,Shoes,Blue,95.52,4,false,0,95.52,FB001835,2025,Qtr 3,August,6,"",Summer,S,47
+Banana Republic,Shoes,Blue,175.31,3,false,0,175.31,FB001971,2025,Qtr 3,August,6,"",Summer,S,13
+Banana Republic,Shoes,Blue,180.99,5,false,0,180.99,FB002044,2025,Qtr 3,August,6,"",Fall,L,0
+Banana Republic,Shoes,Brown,149.71,3,false,6.4,159.95,FB001729,2025,Qtr 3,August,6,"",Summer,S,39
+Banana Republic,Shoes,Brown,98.15,4,false,43.8,174.65,FB002057,2025,Qtr 3,August,6,"",Winter,S,28
+Banana Republic,Shoes,Brown,96.99,3,false,16.5,116.15,FB002167,2025,Qtr 3,August,6,"",Winter,M,11
+Banana Republic,Shoes,Gray,51.79,4,false,54,112.59,FB000344,2025,Qtr 3,August,6,"",Winter,S,17
+Banana Republic,Shoes,Gray,99.51,4,false,42.7,173.66,FB001189,2025,Qtr 3,August,6,"",Winter,L,1
+Banana Republic,Shoes,Gray,198.22,3,false,0,198.22,FB002051,2025,Qtr 3,August,6,"",Winter,XXL,12
+Banana Republic,Shoes,Gray,142.58,5,true,0,142.58,FB000195,2025,Qtr 3,August,6,Quality Issue,Summer,XXL,25
+Banana Republic,Shoes,Gray,179.82,3,true,0,179.82,FB000910,2025,Qtr 3,August,6,Damaged,Winter,S,28
+Banana Republic,Shoes,Green,78.91,5,false,41.7,135.36,FB000436,2024,Qtr 4,December,20,"",Spring,XL,17
+Banana Republic,Shoes,Green,80,3,false,5.4,84.57,FB001316,2025,Qtr 3,July,17,"",Spring,M,33
+Banana Republic,Shoes,Green,143.88,4,false,0,143.88,FB001812,2025,Qtr 3,August,6,"",Summer,S,1
+Banana Republic,Shoes,Green,94.83,3,false,0,94.83,FB001915,2024,Qtr 3,September,8,"",Spring,S,23
+Banana Republic,Shoes,Green,35.38,3,true,56.3,80.96,FB001292,2025,Qtr 3,August,6,Changed Mind,Fall,L,41
+Banana Republic,Shoes,Green,184.7,3,true,0,184.7,FB001951,2024,Qtr 3,September,19,Size Issue,Spring,XXL,39
+Banana Republic,Shoes,Navy,58.36,4,false,11.4,65.87,FB000152,2025,Qtr 3,August,6,"",Winter,M,15
+Banana Republic,Shoes,Navy,128.35,3,false,0,128.35,FB000853,2025,Qtr 3,August,6,"",Winter,S,20
+Banana Republic,Shoes,Navy,199.46,2,false,0,199.46,FB000978,2025,Qtr 3,August,6,"",Fall,S,15
+Banana Republic,Shoes,Navy,194.05,2,false,0,194.05,FB001468,2025,Qtr 3,August,6,"",Fall,XXL,7
+Banana Republic,Shoes,Navy,47.32,5,false,26.8,64.65,FB001733,2025,Qtr 3,August,6,"",Winter,S,28
+Banana Republic,Shoes,Navy,195.03,5,false,0,195.03,FB001875,2025,Qtr 3,August,6,"",Fall,S,44
+Banana Republic,Shoes,Navy,114.34,3,true,28.2,159.25,FB001535,2025,Qtr 3,August,6,Wrong Item,Fall,S,1
+Banana Republic,Shoes,Pink,144.61,3,false,0,144.61,FB000356,2025,Qtr 3,August,6,"",Summer,XL,21
+Banana Republic,Shoes,Pink,95.57,4,false,20.3,119.91,FB001471,2025,Qtr 3,August,6,"",Winter,XXL,15
+Banana Republic,Shoes,Pink,142.71,1,false,0,142.71,FB001524,2025,Qtr 3,August,6,"",Winter,L,28
+Banana Republic,Shoes,Purple,61.55,4,false,36,96.17,FB000295,2025,Qtr 3,August,6,"",Fall,M,45
+Banana Republic,Shoes,Purple,174.53,3,false,0,174.53,FB000881,2025,Qtr 3,August,6,"",Winter,M,45
+Banana Republic,Shoes,Purple,89.5,5,false,0,89.5,FB001500,2025,Qtr 3,August,6,"",Winter,L,5
+Banana Republic,Shoes,Purple,124.53,4,false,12.3,142,FB001515,2025,Qtr 3,August,6,"",Summer,S,39
+Banana Republic,Shoes,Purple,149.65,4,false,0,149.65,FB001595,2025,Qtr 3,August,6,"",Winter,M,26
+Banana Republic,Shoes,Purple,73.93,3,false,0,73.93,FB001832,2025,Qtr 3,August,6,"",Winter,M,0
+Banana Republic,Shoes,Red,104.4,4,false,0,104.4,FB000174,2025,Qtr 3,August,6,"",Winter,XL,41
+Banana Republic,Shoes,Red,169.77,5,false,0,169.77,FB001895,2025,Qtr 3,August,6,"",Fall,L,39
+Banana Republic,Shoes,Red,84.65,4,false,0,84.65,FB001900,2025,Qtr 3,July,26,"",Spring,XXL,49
+Banana Republic,Shoes,Red,67.84,2,false,0,67.84,FB001947,2025,Qtr 3,August,6,"",Summer,XL,24
+Banana Republic,Shoes,Red,113.58,5,true,0,113.58,FB000170,2025,Qtr 3,August,6,Wrong Item,Winter,XXL,33
+Banana Republic,Shoes,White,162.5,3,false,0,162.5,FB001226,2025,Qtr 3,August,6,"",Summer,XL,45
+Banana Republic,Shoes,White,65.48,5,false,0,65.48,FB001340,2025,Qtr 3,August,6,"",Winter,XXL,7
+Banana Republic,Shoes,White,150.96,5,false,0,150.96,FB001890,2025,Qtr 3,August,6,"",Winter,L,18
+Banana Republic,Shoes,White,95.85,3,false,27.6,132.39,FB002035,2024,Qtr 4,October,31,"",Spring,L,16
+Banana Republic,Shoes,White,72.51,5,true,8.9,79.59,FB001564,2025,Qtr 3,August,6,Wrong Item,Summer,L,16
+Forever21,Shoes,Beige,123.23,5,false,0,123.23,FB001287,2025,Qtr 3,August,6,"",Fall,L,40
+Forever21,Shoes,Beige,64.96,2,false,43.2,114.37,FB001614,2025,Qtr 3,August,6,"",Summer,S,16
+Forever21,Shoes,Beige,87.74,3,true,40,146.23,FB001759,2025,Qtr 1,January,27,Quality Issue,Spring,XXL,17
+Forever21,Shoes,Black,84.97,4,false,8.3,92.66,FB002111,2025,Qtr 3,August,6,"",Fall,S,5
+Forever21,Shoes,Blue,118.97,4,false,0,118.97,FB001114,2025,Qtr 3,August,6,"",Winter,L,45
+Forever21,Shoes,Brown,136,5,false,0,136,FB000239,2025,Qtr 3,August,1,"",Spring,L,46
+Forever21,Shoes,Brown,120.11,5,false,0,120.11,FB000943,2024,Qtr 4,December,24,"",Spring,XXL,27
+Forever21,Shoes,Brown,73.81,2,false,0,73.81,FB001211,2025,Qtr 3,August,6,"",Summer,L,44
+Forever21,Shoes,Brown,68.24,5,true,55.5,153.34,FB001065,2025,Qtr 3,August,6,Wrong Item,Summer,M,46
+Forever21,Shoes,Gray,79.77,4,false,51.5,164.48,FB001685,2024,Qtr 3,September,7,"",Spring,XL,27
+Forever21,Shoes,Green,42.12,5,false,34.5,64.31,FB000552,2025,Qtr 3,August,6,"",Summer,XXL,48
+Forever21,Shoes,Green,62.69,3,false,57,145.79,FB000727,2025,Qtr 3,August,6,"",Summer,S,46
+Forever21,Shoes,Green,79.17,5,false,16.6,94.93,FB000909,2025,Qtr 3,August,6,"",Summer,XXL,39
+Forever21,Shoes,Green,109.25,4,false,35.3,168.85,FB001477,2025,Qtr 3,August,6,"",Winter,XL,10
+Forever21,Shoes,Green,106.79,4,false,46.1,198.13,FB001509,2025,Qtr 2,May,19,"",Spring,L,8
+Forever21,Shoes,Green,94.49,2,false,0,94.49,FB001617,2025,Qtr 3,August,6,"",Summer,XXL,30
+Forever21,Shoes,Navy,61.04,2,false,0,61.04,FB001020,2025,Qtr 3,August,6,"",Fall,M,43
+Forever21,Shoes,Navy,45.06,2,false,47.5,85.83,FB001216,2025,Qtr 3,August,6,"",Winter,L,8
+Forever21,Shoes,Navy,180.67,5,false,0,180.67,FB001508,2025,Qtr 3,August,6,"",Winter,M,31
+Forever21,Shoes,Pink,60.25,2,false,24.3,79.59,FB000390,2025,Qtr 3,August,6,"",Summer,L,37
+Forever21,Shoes,Pink,133.02,3,false,27.1,182.47,FB001829,2025,Qtr 3,August,6,"",Winter,M,40
+Forever21,Shoes,Purple,86.81,1,false,23,112.74,FB000283,2025,Qtr 3,August,6,"",Fall,S,37
+Forever21,Shoes,Purple,91.98,4,false,0,91.98,FB000373,2025,Qtr 3,August,6,"",Summer,XXL,48
+Forever21,Shoes,Purple,73.72,4,false,47,139.1,FB001078,2025,Qtr 1,January,4,"",Spring,XL,6
+Forever21,Shoes,Red,173.91,3,false,0,173.91,FB000143,2025,Qtr 3,August,6,"",Winter,XL,21
+Forever21,Shoes,Red,130.21,5,false,0,130.21,FB000620,2025,Qtr 3,August,6,"",Fall,XXL,50
+Forever21,Shoes,White,60.34,3,false,0,60.34,FB000306,2025,Qtr 3,August,6,"",Summer,M,4
+Forever21,Shoes,White,36.23,4,false,50.2,72.75,FB000979,2025,Qtr 3,August,6,"",Fall,M,28
+Forever21,Shoes,White,128.27,3,false,0,128.27,FB001176,2025,Qtr 3,August,6,"",Fall,S,28
+Forever21,Shoes,White,93.63,5,false,0,93.63,FB001398,2025,Qtr 3,August,6,"",Winter,S,47
+Forever21,Shoes,White,60.93,5,true,43.1,107.09,FB001838,2025,Qtr 1,February,14,Changed Mind,Spring,L,16
+Gap,Shoes,Beige,123.53,5,false,0,123.53,FB000017,2025,Qtr 3,August,6,"",Summer,S,14
+Gap,Shoes,Beige,175.91,3,false,0,175.91,FB000159,2025,Qtr 3,August,6,"",Fall,S,4
+Gap,Shoes,Beige,104.4,2,false,45.2,190.52,FB001562,2025,Qtr 3,August,6,"",Winter,XL,2
+Gap,Shoes,Beige,183.3,2,false,0,183.3,FB001620,2025,Qtr 3,August,6,"",Winter,XL,7
+Gap,Shoes,Beige,117.82,5,false,0,117.82,FB001782,2025,Qtr 3,August,6,"",Summer,L,7
+Gap,Shoes,Beige,98.49,3,true,37,156.34,FB000914,2025,Qtr 2,April,13,Size Issue,Spring,L,45
+Gap,Shoes,Black,165.1,3,false,0,165.1,FB000542,2025,Qtr 3,August,6,"",Summer,S,7
+Gap,Shoes,Black,131.55,2,false,0,131.55,FB000989,2025,Qtr 3,August,6,"",Summer,XXL,45
+Gap,Shoes,Black,164.75,4,false,0,164.75,FB001814,2025,Qtr 2,May,2,"",Spring,XXL,8
+Gap,Shoes,Black,70.71,3,false,0,70.71,FB001872,2025,Qtr 3,August,6,"",Summer,M,8
+Gap,Shoes,Blue,77.54,4,false,0,77.54,FB000130,2025,Qtr 3,August,6,"",Fall,S,36
+Gap,Shoes,Blue,72.73,3,false,9.9,80.72,FB000474,2025,Qtr 3,August,6,"",Fall,L,37
+Gap,Shoes,Blue,103.51,4,false,47.1,195.67,FB001097,2025,Qtr 3,August,6,"",Summer,S,36
+Gap,Shoes,Blue,64.11,4,false,58.5,154.48,FB002083,2025,Qtr 3,August,6,"",Summer,XXL,19
+Gap,Shoes,Brown,43.06,5,false,56.4,98.76,FB000919,2025,Qtr 3,August,6,"",Fall,S,22
+Gap,Shoes,Brown,117.57,5,false,0,117.57,FB001365,2025,Qtr 3,August,6,"",Fall,XL,30
+Gap,Shoes,Brown,69.95,2,false,19.5,86.89,FB001491,2025,Qtr 3,August,6,"",Winter,S,49
+Gap,Shoes,Gray,147.25,3,false,0,147.25,FB000543,2025,Qtr 3,August,6,"",Winter,XXL,15
+Gap,Shoes,Gray,61.75,5,false,5.1,65.07,FB001128,2025,Qtr 1,January,17,"",Spring,S,16
+Gap,Shoes,Gray,152.32,3,false,0,152.32,FB001153,2025,Qtr 2,June,9,"",Spring,S,15
+Gap,Shoes,Gray,86.56,2,true,20.7,109.15,FB000993,2025,Qtr 3,August,6,Changed Mind,Fall,S,28
+Gap,Shoes,Green,83.5,3,false,33.1,124.81,FB000874,2025,Qtr 3,August,6,"",Fall,S,45
+Gap,Shoes,Green,66.4,2,false,58.4,159.62,FB001396,2025,Qtr 3,August,6,"",Summer,S,45
+Gap,Shoes,Green,68.31,2,false,59.7,169.5,FB001672,2025,Qtr 3,August,6,"",Summer,L,16
+Gap,Shoes,Green,99.26,3,true,0,99.26,FB000166,2025,Qtr 3,August,6,Quality Issue,Fall,XL,33
+Gap,Shoes,Green,159.16,3,true,0,159.16,FB001843,2025,Qtr 3,August,6,Changed Mind,Summer,XL,40
+Gap,Shoes,Navy,44.68,2,false,57.1,104.14,FB000053,2025,Qtr 3,August,6,"",Summer,S,14
+Gap,Shoes,Navy,105.71,2,false,32.2,155.92,FB001026,2024,Qtr 4,October,2,"",Spring,XXL,5
+Gap,Shoes,Navy,142.36,5,false,21.6,181.58,FB001866,2025,Qtr 3,August,6,"",Fall,L,14
+Gap,Shoes,Navy,121.55,3,true,0,121.55,FB000660,2025,Qtr 3,August,6,Damaged,Summer,M,16
+Gap,Shoes,Pink,41.53,3,false,54.9,92.09,FB000722,2025,Qtr 1,January,19,"",Spring,S,44
+Gap,Shoes,Pink,153.19,3,false,14.7,179.59,FB001075,2025,Qtr 3,August,6,"",Fall,XL,47
+Gap,Shoes,Pink,75.92,1,true,27.4,104.57,FB001298,2025,Qtr 3,August,6,Quality Issue,Winter,XL,7
+Gap,Shoes,Pink,129,4,true,0,129,FB002125,2025,Qtr 3,August,6,Changed Mind,Winter,M,13
+Gap,Shoes,Purple,99.33,4,false,0,99.33,FB000995,2025,Qtr 2,May,21,"",Spring,M,16
+Gap,Shoes,Purple,86.1,3,false,0,86.1,FB001341,2024,Qtr 4,December,27,"",Spring,S,4
+Gap,Shoes,Red,77.63,3,false,0,77.63,FB000030,2024,Qtr 4,October,24,"",Spring,XL,1
+Gap,Shoes,Red,75.3,4,false,20.5,94.72,FB000825,2025,Qtr 3,August,6,"",Winter,L,24
+Gap,Shoes,Red,54.69,4,false,32.7,81.26,FB001777,2025,Qtr 3,August,6,"",Winter,M,2
+Gap,Shoes,White,71.94,4,false,0,71.94,FB000473,2025,Qtr 3,August,6,"",Fall,S,45
+Gap,Shoes,White,46.85,3,false,57.8,111.02,FB000894,2025,Qtr 2,May,19,"",Spring,S,11
+Gap,Shoes,White,102.61,4,false,0,102.61,FB002079,2025,Qtr 3,August,6,"",Winter,XXL,47
+H&M,Shoes,Beige,97.42,2,false,0,97.42,FB000837,2025,Qtr 3,August,6,"",Fall,XXL,35
+H&M,Shoes,Beige,137.81,3,false,8.3,150.28,FB001194,2025,Qtr 1,January,22,"",Spring,L,48
+H&M,Shoes,Beige,150.49,3,false,5.5,159.25,FB002018,2025,Qtr 3,August,6,"",Winter,S,8
+H&M,Shoes,Black,120.44,3,false,5.4,127.31,FB001218,2025,Qtr 3,August,6,"",Summer,XL,34
+H&M,Shoes,Black,106.09,3,false,43.3,187.11,FB001309,2025,Qtr 3,August,6,"",Fall,XL,26
+H&M,Shoes,Black,95.85,5,false,0,95.85,FB001757,2025,Qtr 1,February,15,"",Spring,XL,45
+H&M,Shoes,Blue,50.86,5,false,55.3,113.79,FB000089,2024,Qtr 4,December,29,"",Spring,M,47
+H&M,Shoes,Blue,63.12,3,false,0,63.12,FB000765,2024,Qtr 4,November,8,"",Spring,L,35
+H&M,Shoes,Blue,70.28,5,false,0,70.28,FB001493,2025,Qtr 3,August,6,"",Summer,M,27
+H&M,Shoes,Blue,35.69,4,false,57.1,83.2,FB001763,2025,Qtr 3,August,6,"",Winter,M,10
+H&M,Shoes,Blue,162.91,2,false,16.2,194.4,FB001894,2025,Qtr 3,August,6,"",Winter,XL,36
+H&M,Shoes,Blue,55.4,2,false,32,81.47,FB001952,2024,Qtr 3,September,1,"",Spring,S,2
+H&M,Shoes,Blue,138.79,3,true,0,138.79,FB001517,2025,Qtr 3,August,6,Size Issue,Winter,L,16
+H&M,Shoes,Blue,189.24,4,true,0,189.24,FB002060,2025,Qtr 3,August,6,Color Mismatch,Fall,L,25
+H&M,Shoes,Brown,170.43,3,false,0,170.43,FB001180,2025,Qtr 3,August,6,"",Fall,XL,22
+H&M,Shoes,Brown,146.6,4,false,14.9,172.27,FB001544,2025,Qtr 3,August,6,"",Fall,L,8
+H&M,Shoes,Brown,53.34,5,false,55,118.53,FB001818,2025,Qtr 2,April,25,"",Spring,XXL,2
+H&M,Shoes,Gray,109.76,5,false,0,109.76,FB000231,2025,Qtr 3,August,6,"",Summer,S,16
+H&M,Shoes,Gray,85.54,3,false,0,85.54,FB000302,2025,Qtr 3,August,6,"",Fall,XXL,30
+H&M,Shoes,Gray,91.28,5,false,25.2,122.03,FB001369,2025,Qtr 3,August,6,"",Summer,XL,21
+H&M,Shoes,Gray,108.82,3,false,11.2,122.55,FB002070,2024,Qtr 4,October,2,"",Spring,XXL,23
+H&M,Shoes,Green,87.07,5,false,18,106.18,FB000064,2025,Qtr 3,August,6,"",Summer,L,11
+H&M,Shoes,Green,88.94,4,false,0,88.94,FB000254,2025,Qtr 3,August,6,"",Summer,XL,29
+H&M,Shoes,Green,84.99,4,false,57.3,199.03,FB000807,2025,Qtr 3,August,6,"",Summer,S,37
+H&M,Shoes,Green,87.32,5,false,50.1,174.99,FB000907,2025,Qtr 3,August,6,"",Fall,XXL,7
+H&M,Shoes,Green,41.81,2,false,58.6,101,FB001192,2025,Qtr 3,July,4,"",Spring,S,44
+H&M,Shoes,Green,147.52,4,false,0,147.52,FB001389,2025,Qtr 1,January,8,"",Spring,M,41
+H&M,Shoes,Green,36.56,3,false,52.8,77.45,FB001940,2025,Qtr 3,August,6,"",Fall,M,6
+H&M,Shoes,Green,104.19,5,false,0,104.19,FB001961,2025,Qtr 3,August,6,"",Summer,M,4
+H&M,Shoes,Navy,183.15,5,false,0,183.15,FB000109,2025,Qtr 3,August,6,"",Fall,S,23
+H&M,Shoes,Navy,110.94,4,false,42.1,191.61,FB000963,2025,Qtr 3,August,6,"",Summer,M,28
+H&M,Shoes,Navy,189.44,2,false,1.3,191.94,FB001454,2025,Qtr 3,August,6,"",Fall,S,39
+H&M,Shoes,Navy,82.65,5,false,0,82.65,FB001716,2025,Qtr 3,August,6,"",Fall,XXL,30
+H&M,Shoes,Navy,118.02,3,false,15,138.85,FB001820,2025,Qtr 3,August,6,"",Summer,S,17
+H&M,Shoes,Navy,62.5,2,true,0,62.5,FB000407,2025,Qtr 3,August,6,Changed Mind,Winter,XL,0
+H&M,Shoes,Navy,110.54,3,true,0,110.54,FB001944,2025,Qtr 3,August,6,Size Issue,Summer,L,24
+H&M,Shoes,Pink,96.7,3,false,0,96.7,FB000580,2025,Qtr 3,August,6,"",Summer,M,28
+H&M,Shoes,Pink,88,2,false,0,88,FB000834,2025,Qtr 3,August,6,"",Winter,S,2
+H&M,Shoes,Pink,172.41,3,false,0,172.41,FB000902,2025,Qtr 3,August,6,"",Fall,M,33
+H&M,Shoes,Pink,64.4,5,false,0,64.4,FB000984,2025,Qtr 3,August,6,"",Fall,XL,40
+H&M,Shoes,Purple,101.16,3,false,10.9,113.53,FB000124,2025,Qtr 3,August,6,"",Summer,S,40
+H&M,Shoes,Purple,77.72,2,false,0,77.72,FB000531,2025,Qtr 3,August,6,"",Winter,S,48
+H&M,Shoes,Purple,136.1,4,false,24.1,179.31,FB001668,2025,Qtr 3,July,13,"",Spring,XXL,0
+H&M,Shoes,Purple,87.11,3,false,0,87.11,FB002130,2025,Qtr 3,August,6,"",Winter,M,36
+H&M,Shoes,Purple,102.46,4,true,0,102.46,FB001239,2024,Qtr 4,December,17,Quality Issue,Spring,S,20
+H&M,Shoes,Red,84.31,4,false,0,84.31,FB000105,2025,Qtr 3,August,6,"",Winter,S,10
+H&M,Shoes,Red,56.3,3,false,10.1,62.62,FB001064,2025,Qtr 2,April,15,"",Spring,XL,32
+H&M,Shoes,White,68.97,3,false,30.3,98.95,FB000572,2025,Qtr 3,August,6,"",Summer,S,16
+H&M,Shoes,White,65.8,4,false,0,65.8,FB000596,2025,Qtr 3,August,6,"",Fall,L,46
+H&M,Shoes,White,185.13,5,false,0,185.13,FB000599,2025,Qtr 2,May,9,"",Spring,L,49
+H&M,Shoes,White,171.53,5,false,0,171.53,FB000856,2025,Qtr 3,August,6,"",Winter,S,12
+H&M,Shoes,White,72.99,3,false,22.4,94.06,FB001134,2025,Qtr 3,August,6,"",Fall,XL,0
+H&M,Shoes,White,155.66,4,false,0,155.66,FB001257,2025,Qtr 3,August,6,"",Winter,L,3
+H&M,Shoes,White,161.1,2,false,8.8,176.64,FB001434,2025,Qtr 3,August,6,"",Summer,S,1
+H&M,Shoes,White,178.56,3,false,0,178.56,FB002164,2025,Qtr 1,March,16,"",Spring,XL,46
+H&M,Shoes,White,98.22,4,false,0,98.22,FB002168,2025,Qtr 3,August,6,"",Winter,S,27
+Mango,Shoes,Beige,50.85,5,false,52.9,107.96,FB000457,2025,Qtr 3,August,6,"",Fall,S,2
+Mango,Shoes,Beige,80.56,2,false,0,80.56,FB000904,2025,Qtr 3,August,6,"",Summer,S,7
+Mango,Shoes,Beige,49.35,4,false,59.8,122.77,FB001376,2025,Qtr 3,August,6,"",Fall,M,33
+Mango,Shoes,Beige,139.91,4,false,0,139.91,FB001737,2025,Qtr 3,August,6,"",Fall,S,9
+Mango,Shoes,Black,112.5,5,false,0,112.5,FB000336,2025,Qtr 3,August,6,"",Winter,S,11
+Mango,Shoes,Black,91.53,2,false,0,91.53,FB000439,2025,Qtr 3,August,6,"",Fall,L,8
+Mango,Shoes,Black,94.49,3,false,31.7,138.35,FB000458,2025,Qtr 3,August,6,"",Summer,M,3
+Mango,Shoes,Black,129.76,3,false,0,129.76,FB001452,2025,Qtr 3,August,6,"",Summer,XXL,39
+Mango,Shoes,Black,111.88,5,false,0,111.88,FB001607,2025,Qtr 3,August,6,"",Winter,S,17
+Mango,Shoes,Black,154.21,3,false,5.9,163.88,FB001743,2025,Qtr 3,August,6,"",Fall,XXL,39
+Mango,Shoes,Black,72.47,4,false,31.6,105.95,FB002047,2025,Qtr 2,April,1,"",Spring,S,38
+Mango,Shoes,Black,194.24,2,true,0,194.24,FB000158,2025,Qtr 3,August,6,Changed Mind,Summer,XXL,17
+Mango,Shoes,Black,123.14,2,true,0,123.14,FB000539,2025,Qtr 3,August,6,Wrong Item,Winter,L,15
+Mango,Shoes,Black,90.97,3,true,22.5,117.38,FB000697,2025,Qtr 3,August,6,Color Mismatch,Winter,S,42
+Mango,Shoes,Black,110.1,4,true,0,110.1,FB001222,2025,Qtr 3,August,6,Changed Mind,Fall,M,13
+Mango,Shoes,Black,89.12,3,true,0,89.12,FB002087,2025,Qtr 3,August,6,Damaged,Winter,M,27
+Mango,Shoes,Blue,162.16,3,false,2.6,166.49,FB000060,2025,Qtr 3,August,6,"",Winter,XXL,27
+Mango,Shoes,Brown,169.75,3,false,0,169.75,FB000289,2025,Qtr 3,August,6,"",Summer,L,5
+Mango,Shoes,Brown,186.07,3,false,0,186.07,FB000565,2025,Qtr 3,August,6,"",Summer,M,41
+Mango,Shoes,Brown,109.46,5,false,0,109.46,FB000566,2025,Qtr 3,August,6,"",Summer,XL,38
+Mango,Shoes,Brown,39.89,4,false,58.6,96.36,FB000671,2025,Qtr 1,February,10,"",Spring,M,16
+Mango,Shoes,Brown,109.15,3,false,0,109.15,FB001370,2024,Qtr 4,November,11,"",Spring,S,11
+Mango,Shoes,Brown,152.95,2,false,5.7,162.19,FB001701,2025,Qtr 3,August,6,"",Winter,S,39
+Mango,Shoes,Brown,143.27,3,false,0,143.27,FB001948,2025,Qtr 3,August,6,"",Winter,S,0
+Mango,Shoes,Brown,80.41,3,false,0,80.41,FB002099,2025,Qtr 3,August,6,"",Fall,M,46
+Mango,Shoes,Gray,154.92,3,false,8.8,169.87,FB001251,2025,Qtr 3,August,6,"",Winter,M,36
+Mango,Shoes,Green,82.78,3,false,20.6,104.26,FB000430,2025,Qtr 3,August,6,"",Fall,L,31
+Mango,Shoes,Green,131.25,2,false,0,131.25,FB000432,2025,Qtr 2,June,18,"",Spring,L,12
+Mango,Shoes,Green,175.22,5,false,0,175.22,FB000682,2025,Qtr 3,August,6,"",Summer,S,8
+Mango,Shoes,Green,65.18,2,false,30.8,94.19,FB000803,2025,Qtr 3,August,6,"",Fall,S,31
+Mango,Shoes,Green,70.56,3,false,23.6,92.35,FB000965,2024,Qtr 4,November,28,"",Spring,XXL,32
+Mango,Shoes,Navy,72.59,5,false,54.1,158.15,FB000476,2025,Qtr 3,August,6,"",Summer,M,36
+Mango,Shoes,Navy,103.11,3,false,11.4,116.38,FB001323,2025,Qtr 3,August,6,"",Fall,S,15
+Mango,Shoes,Navy,71.46,4,false,0,71.46,FB001410,2025,Qtr 3,August,6,"",Fall,S,2
+Mango,Shoes,Navy,185.96,2,false,0,185.96,FB001681,2025,Qtr 3,August,6,"",Summer,M,35
+Mango,Shoes,Pink,102.55,5,false,30.3,147.13,FB000047,2025,Qtr 3,August,6,"",Summer,L,13
+Mango,Shoes,Pink,152.6,3,false,20,190.75,FB000178,2025,Qtr 3,August,6,"",Fall,XXL,47
+Mango,Shoes,Pink,124.26,4,false,0,124.26,FB000480,2024,Qtr 3,August,8,"",Spring,S,44
+Mango,Shoes,Pink,154.82,5,false,0,154.82,FB001118,2025,Qtr 3,August,6,"",Fall,S,10
+Mango,Shoes,Pink,151.35,3,false,0,151.35,FB001373,2025,Qtr 3,August,6,"",Fall,S,18
+Mango,Shoes,Pink,75.95,3,false,0,75.95,FB001406,2025,Qtr 3,August,6,"",Summer,L,14
+Mango,Shoes,Pink,155.85,4,false,0,155.85,FB001436,2025,Qtr 3,August,6,"",Fall,XL,1
+Mango,Shoes,Pink,80.6,4,false,56.4,184.87,FB001958,2025,Qtr 3,August,6,"",Summer,S,10
+Mango,Shoes,Purple,138.69,3,false,0,138.69,FB000418,2024,Qtr 4,December,2,"",Spring,M,0
+Mango,Shoes,Purple,101.14,3,false,0,101.14,FB001014,2025,Qtr 3,August,6,"",Winter,XL,43
+Mango,Shoes,Purple,64.94,5,false,0,64.94,FB001426,2025,Qtr 3,August,6,"",Winter,L,32
+Mango,Shoes,Red,32.35,2,false,50.7,65.61,FB000779,2025,Qtr 3,August,6,"",Winter,S,23
+Mango,Shoes,Red,169.47,4,false,9.6,187.47,FB001201,2025,Qtr 3,August,6,"",Summer,M,28
+Mango,Shoes,Red,186.53,3,false,0,186.53,FB001474,2025,Qtr 3,August,6,"",Summer,L,31
+Mango,Shoes,Red,52.59,3,true,33.7,79.32,FB000591,2025,Qtr 3,August,6,Size Issue,Fall,S,38
+Mango,Shoes,White,70.04,3,false,0,70.04,FB000343,2025,Qtr 3,August,6,"",Fall,M,12
+Mango,Shoes,White,50,4,false,39.8,83.05,FB000363,2025,Qtr 3,August,6,"",Winter,L,5
+Mango,Shoes,White,97.9,2,false,0,97.9,FB001656,2025,Qtr 3,August,6,"",Summer,S,29
+Mango,Shoes,White,178.7,2,false,6.3,190.71,FB002141,2025,Qtr 3,August,6,"",Summer,M,1
+Uniqlo,Shoes,Beige,152.53,5,false,0,152.53,FB000320,2024,Qtr 4,November,21,"",Spring,S,24
+Uniqlo,Shoes,Black,75.36,3,false,0,75.36,FB000004,2025,Qtr 3,July,7,"",Spring,XL,48
+Uniqlo,Shoes,Black,93.06,5,false,42.7,162.41,FB000198,2025,Qtr 3,August,6,"",Fall,L,22
+Uniqlo,Shoes,Black,71.44,4,false,0,71.44,FB000277,2025,Qtr 3,August,6,"",Summer,S,45
+Uniqlo,Shoes,Black,93.35,3,false,35.7,145.18,FB000420,2025,Qtr 3,August,6,"",Summer,S,25
+Uniqlo,Shoes,Black,124.2,1,false,0,124.2,FB000562,2024,Qtr 3,August,28,"",Spring,L,24
+Uniqlo,Shoes,Black,146.43,3,false,0,146.43,FB001249,2025,Qtr 3,August,6,"",Fall,XXL,7
+Uniqlo,Shoes,Black,116.76,3,false,0,116.76,FB002078,2025,Qtr 3,August,6,"",Summer,XL,13
+Uniqlo,Shoes,Black,140.39,3,false,19.2,173.75,FB002155,2025,Qtr 3,August,6,"",Summer,S,38
+Uniqlo,Shoes,Black,93.42,3,true,15.7,110.82,FB000734,2025,Qtr 3,August,6,Size Issue,Summer,S,43
+Uniqlo,Shoes,Blue,146.98,4,false,0,146.98,FB000012,2025,Qtr 3,August,6,"",Winter,S,2
+Uniqlo,Shoes,Blue,74.54,4,false,0,74.54,FB000484,2024,Qtr 4,November,7,"",Spring,S,4
+Uniqlo,Shoes,Blue,154.82,3,false,0,154.82,FB001274,2025,Qtr 3,August,6,"",Summer,S,31
+Uniqlo,Shoes,Blue,127.99,3,false,0,127.99,FB001386,2025,Qtr 3,August,6,"",Winter,S,14
+Uniqlo,Shoes,Blue,195.83,3,false,0,195.83,FB001887,2025,Qtr 3,August,6,"",Summer,L,14
+Uniqlo,Shoes,Blue,88.42,4,true,0,88.42,FB000597,2025,Qtr 3,August,6,Damaged,Winter,XL,44
+Uniqlo,Shoes,Blue,100.39,4,true,0,100.39,FB001126,2025,Qtr 1,March,7,Quality Issue,Spring,XL,24
+Uniqlo,Shoes,Brown,167.27,4,false,0,167.27,FB001313,2025,Qtr 3,August,6,"",Fall,XXL,9
+Uniqlo,Shoes,Brown,111.03,2,false,44.3,199.33,FB001506,2024,Qtr 4,November,20,"",Spring,L,19
+Uniqlo,Shoes,Brown,121.33,5,false,0,121.33,FB001753,2025,Qtr 3,August,6,"",Summer,M,30
+Uniqlo,Shoes,Brown,178.05,3,false,0,178.05,FB002064,2025,Qtr 1,March,8,"",Spring,L,24
+Uniqlo,Shoes,Gray,65.5,2,false,3.3,67.74,FB000441,2025,Qtr 3,August,6,"",Winter,L,23
+Uniqlo,Shoes,Gray,142.83,4,false,0,142.83,FB001085,2025,Qtr 3,August,6,"",Fall,S,25
+Uniqlo,Shoes,Gray,77.92,4,false,25.8,105.01,FB001424,2025,Qtr 3,August,6,"",Fall,XL,17
+Uniqlo,Shoes,Gray,132.08,2,false,10.9,148.24,FB001634,2024,Qtr 3,August,27,"",Spring,S,44
+Uniqlo,Shoes,Gray,141.29,3,false,14.3,164.86,FB001742,2025,Qtr 1,March,14,"",Spring,S,7
+Uniqlo,Shoes,Gray,76.3,3,false,0,76.3,FB001995,2025,Qtr 3,July,3,"",Spring,M,35
+Uniqlo,Shoes,Green,138.41,4,false,0,138.41,FB001138,2024,Qtr 4,November,17,"",Spring,M,40
+Uniqlo,Shoes,Green,106.37,2,false,0,106.37,FB001318,2025,Qtr 3,August,6,"",Summer,L,30
+Uniqlo,Shoes,Green,119.78,3,false,0,119.78,FB001362,2025,Qtr 2,June,10,"",Spring,S,40
+Uniqlo,Shoes,Green,102.95,4,false,0,102.95,FB001933,2025,Qtr 3,August,6,"",Winter,XXL,38
+Uniqlo,Shoes,Green,73.65,2,true,38.1,118.98,FB001063,2025,Qtr 3,August,6,Color Mismatch,Winter,S,36
+Uniqlo,Shoes,Green,66.6,3,true,17.4,80.63,FB001726,2025,Qtr 3,August,6,Damaged,Summer,XXL,6
+Uniqlo,Shoes,Navy,99.44,2,false,6.4,106.24,FB000091,2024,Qtr 3,September,9,"",Spring,S,50
+Uniqlo,Shoes,Navy,61.08,3,true,0,61.08,FB000121,2025,Qtr 3,August,6,Changed Mind,Fall,XXL,27
+Uniqlo,Shoes,Pink,80.62,4,false,47.6,153.85,FB000244,2025,Qtr 3,August,6,"",Summer,XXL,12
+Uniqlo,Shoes,Pink,126.23,3,false,0,126.23,FB000544,2025,Qtr 3,August,6,"",Fall,L,48
+Uniqlo,Shoes,Pink,75.87,2,false,12.6,86.81,FB000688,2025,Qtr 3,August,6,"",Summer,S,6
+Uniqlo,Shoes,Pink,60.38,3,false,0,60.38,FB000831,2025,Qtr 2,April,29,"",Spring,L,0
+Uniqlo,Shoes,Pink,112.77,5,false,0,112.77,FB000937,2025,Qtr 3,August,6,"",Winter,XXL,11
+Uniqlo,Shoes,Pink,199.14,3,false,0,199.14,FB000954,2025,Qtr 3,August,6,"",Fall,S,18
+Uniqlo,Shoes,Purple,118.99,4,false,11.6,134.6,FB000427,2025,Qtr 3,August,6,"",Fall,L,47
+Uniqlo,Shoes,Purple,169.89,2,false,0,169.89,FB000696,2025,Qtr 3,July,14,"",Spring,M,12
+Uniqlo,Shoes,Purple,52.21,4,false,56,118.67,FB001734,2025,Qtr 2,April,26,"",Spring,XXL,27
+Uniqlo,Shoes,Purple,103.9,3,false,0,103.9,FB002097,2025,Qtr 3,July,23,"",Spring,L,27
+Uniqlo,Shoes,Red,189.32,3,false,0,189.32,FB002040,2025,Qtr 3,August,6,"",Fall,S,35
+Uniqlo,Shoes,Red,71.29,5,true,0,71.29,FB000031,2025,Qtr 3,August,6,Quality Issue,Summer,S,37
+Uniqlo,Shoes,Red,78.44,3,true,0,78.44,FB001993,2024,Qtr 3,September,20,Quality Issue,Spring,S,42
+Uniqlo,Shoes,White,171.07,3,false,0,171.07,FB001277,2025,Qtr 3,August,6,"",Summer,S,25
+Uniqlo,Shoes,White,154.13,5,true,0,154.13,FB000140,2024,Qtr 4,October,1,Size Issue,Spring,L,31
+Zara,Shoes,Beige,62.76,5,false,0,62.76,FB000483,2025,Qtr 3,August,6,"",Summer,S,12
+Zara,Shoes,Beige,102.61,3,false,20.8,129.56,FB002052,2025,Qtr 3,August,6,"",Winter,M,3
+Zara,Shoes,Black,38.84,2,false,49.5,76.92,FB000093,2025,Qtr 3,August,6,"",Summer,S,7
+Zara,Shoes,Black,140.28,2,false,0,140.28,FB001276,2025,Qtr 3,August,6,"",Summer,S,10
+Zara,Shoes,Black,109.85,4,false,7.8,119.14,FB001649,2025,Qtr 3,August,6,"",Winter,L,20
+Zara,Shoes,Black,51.82,4,false,24.2,68.37,FB001913,2025,Qtr 3,August,6,"",Fall,S,8
+Zara,Shoes,Blue,137.16,4,false,0,137.16,FB001068,2025,Qtr 2,April,2,"",Spring,XL,34
+Zara,Shoes,Blue,78.07,2,false,39.9,129.9,FB002117,2025,Qtr 3,August,6,"",Winter,XL,28
+Zara,Shoes,Blue,114.84,3,true,0,114.84,FB001120,2025,Qtr 3,August,6,Color Mismatch,Winter,XL,38
+Zara,Shoes,Brown,74.48,4,false,0,74.48,FB000240,2025,Qtr 3,August,6,"",Fall,L,24
+Zara,Shoes,Brown,62.71,5,false,55.3,140.29,FB000374,2025,Qtr 3,August,6,"",Winter,S,5
+Zara,Shoes,Brown,162.9,2,false,0,162.9,FB000889,2025,Qtr 3,August,6,"",Fall,L,30
+Zara,Shoes,Brown,160.59,3,false,0,160.59,FB002126,2025,Qtr 3,August,6,"",Summer,S,8
+Zara,Shoes,Gray,109.55,2,false,0,109.55,FB000638,2025,Qtr 3,August,6,"",Summer,L,32
+Zara,Shoes,Gray,142.84,3,false,0,142.84,FB000988,2025,Qtr 1,February,14,"",Spring,S,36
+Zara,Shoes,Gray,128.31,4,true,0,128.31,FB001113,2025,Qtr 3,August,6,Changed Mind,Winter,L,36
+Zara,Shoes,Gray,112.1,2,true,0,112.1,FB001603,2025,Qtr 3,August,6,Color Mismatch,Winter,L,5
+Zara,Shoes,Green,170.24,3,false,14.2,198.42,FB000039,2025,Qtr 3,August,6,"",Winter,S,10
+Zara,Shoes,Green,120.28,2,false,17,144.92,FB000202,2025,Qtr 3,August,6,"",Summer,XL,32
+Zara,Shoes,Green,135.39,4,false,0,135.39,FB000434,2025,Qtr 3,August,6,"",Winter,S,26
+Zara,Shoes,Green,112.8,5,false,31.8,165.39,FB000511,2025,Qtr 3,August,6,"",Fall,S,9
+Zara,Shoes,Green,133.52,3,false,0,133.52,FB001923,2024,Qtr 4,October,4,"",Spring,S,32
+Zara,Shoes,Green,81.59,3,false,0,81.59,FB001964,2025,Qtr 3,August,6,"",Summer,L,5
+Zara,Shoes,Green,78.6,4,false,7.4,84.88,FB002017,2025,Qtr 1,March,26,"",Spring,L,42
+Zara,Shoes,Green,122.7,3,false,0,122.7,FB002162,2025,Qtr 3,August,6,"",Summer,L,9
+Zara,Shoes,Navy,159.93,3,true,4.2,166.94,FB000435,2025,Qtr 3,August,6,Color Mismatch,Winter,XL,17
+Zara,Shoes,Pink,129.85,4,false,0,129.85,FB000044,2025,Qtr 2,April,25,"",Spring,XL,36
+Zara,Shoes,Pink,173.15,3,false,0,173.15,FB000795,2025,Qtr 3,August,6,"",Summer,XXL,45
+Zara,Shoes,Pink,128.68,3,false,0,128.68,FB000955,2025,Qtr 3,August,6,"",Fall,M,8
+Zara,Shoes,Purple,143.78,2,false,0,143.78,FB000033,2024,Qtr 4,October,16,"",Spring,XL,43
+Zara,Shoes,Purple,191.96,3,false,0,191.96,FB000084,2025,Qtr 3,August,6,"",Summer,S,50
+Zara,Shoes,Purple,117.85,4,false,0,117.85,FB000294,2024,Qtr 4,December,23,"",Spring,S,34
+Zara,Shoes,Purple,140.17,4,false,0,140.17,FB001086,2025,Qtr 3,August,6,"",Fall,L,43
+Zara,Shoes,Red,80.14,5,false,0,80.14,FB000296,2025,Qtr 1,March,31,"",Spring,XXL,10
+Zara,Shoes,Red,145.4,2,false,0,145.4,FB000654,2025,Qtr 3,August,6,"",Summer,S,14
+Zara,Shoes,Red,100.53,3,false,8.2,109.51,FB000876,2025,Qtr 3,August,6,"",Fall,S,12
+Zara,Shoes,Red,67.88,5,false,44.1,121.43,FB001616,2025,Qtr 3,August,6,"",Summer,S,2
+Zara,Shoes,Red,115.09,3,false,0,115.09,FB001806,2025,Qtr 3,August,6,"",Fall,L,10
+Zara,Shoes,Red,124.56,3,false,0,124.56,FB001840,2025,Qtr 3,August,6,"",Summer,XL,18
+Zara,Shoes,Red,78.46,4,false,31.1,113.88,FB001968,2025,Qtr 2,June,10,"",Spring,S,22
+Zara,Shoes,Red,151.27,4,true,0,151.27,FB001679,2025,Qtr 3,August,6,Damaged,Fall,M,39
+Zara,Shoes,White,158.77,3,false,10.7,177.79,FB001336,2025,Qtr 3,August,6,"",Summer,L,37
+Zara,Shoes,White,158.29,2,false,0,158.29,FB001489,2025,Qtr 3,August,6,"",Winter,S,5
+Zara,Shoes,White,72.29,3,false,0,72.29,FB001497,2025,Qtr 3,August,6,"",Winter,XL,0
+Zara,Shoes,White,83.17,4,false,0,83.17,FB001596,2024,Qtr 3,September,3,"",Spring,S,48
+Zara,Shoes,White,75.36,3,false,7.7,81.65,FB002110,2025,Qtr 3,August,6,"",Summer,L,23
+Zara,Shoes,White,168.36,3,true,0,168.36,FB000165,2025,Qtr 3,August,6,Damaged,Winter,M,47
+Zara,Shoes,White,105.72,3,true,43.4,186.78,FB001458,2024,Qtr 4,October,3,Damaged,Spring,S,42
+Ann Taylor,Tops,Beige,36.78,3,false,46,68.11,FB000149,2025,Qtr 3,August,6,"",Summer,M,3
+Ann Taylor,Tops,Beige,106.67,2,false,8.8,116.96,FB000208,2025,Qtr 2,April,29,"",Spring,XL,33
+Ann Taylor,Tops,Beige,34.43,4,false,33.4,51.69,FB000496,2024,Qtr 3,August,7,"",Spring,L,36
+Ann Taylor,Tops,Beige,57.27,4,false,2.1,58.5,FB000662,2025,Qtr 2,May,23,"",Spring,S,24
+Ann Taylor,Tops,Beige,35.26,3,false,0,35.26,FB001456,2025,Qtr 3,August,6,"",Winter,XXL,47
+Ann Taylor,Tops,Beige,41.37,2,false,27.5,57.06,FB001688,2024,Qtr 4,December,25,"",Spring,S,43
+Ann Taylor,Tops,Beige,29.01,2,true,27.7,40.12,FB001304,2025,Qtr 3,August,6,Size Issue,Summer,XXL,29
+Ann Taylor,Tops,Black,28.79,5,false,0,28.79,FB000176,2025,Qtr 3,August,6,"",Summer,XXL,4
+Ann Taylor,Tops,Black,81.2,2,false,0,81.2,FB000192,2025,Qtr 3,August,6,"",Fall,S,3
+Ann Taylor,Tops,Black,52.07,2,false,55,115.71,FB000455,2025,Qtr 3,August,6,"",Winter,XL,6
+Ann Taylor,Tops,Black,30.46,2,false,0,30.46,FB000896,2025,Qtr 3,August,6,"",Summer,S,19
+Ann Taylor,Tops,Black,97.17,3,false,0,97.17,FB001021,2025,Qtr 3,August,6,"",Summer,S,35
+Ann Taylor,Tops,Blue,38.56,2,false,0,38.56,FB001425,2025,Qtr 2,May,30,"",Spring,XL,39
+Ann Taylor,Tops,Blue,46.06,3,false,12.2,52.46,FB001574,2024,Qtr 4,December,19,"",Spring,S,39
+Ann Taylor,Tops,Blue,60.92,3,true,0,60.92,FB001368,2025,Qtr 3,August,6,Quality Issue,Summer,L,25
+Ann Taylor,Tops,Brown,95.55,5,false,0,95.55,FB001399,2025,Qtr 3,August,6,"",Summer,M,25
+Ann Taylor,Tops,Brown,92.28,4,false,7.4,99.65,FB001854,2025,Qtr 3,August,6,"",Summer,S,31
+Ann Taylor,Tops,Brown,40.28,4,false,0,40.28,FB002012,2025,Qtr 3,August,6,"",Fall,M,35
+Ann Taylor,Tops,Gray,94.97,5,false,0,94.97,FB000151,2025,Qtr 3,August,6,"",Winter,XL,46
+Ann Taylor,Tops,Gray,21.23,3,false,16.7,25.49,FB000211,2025,Qtr 2,May,23,"",Spring,S,32
+Ann Taylor,Tops,Gray,86.87,4,false,24.3,114.76,FB001922,2025,Qtr 3,August,6,"",Fall,S,10
+Ann Taylor,Tops,Gray,76.33,2,true,0,76.33,FB000925,2025,Qtr 3,August,6,Wrong Item,Summer,M,15
+Ann Taylor,Tops,Green,78.86,5,false,0,78.86,FB000042,2025,Qtr 3,August,6,"",Summer,M,22
+Ann Taylor,Tops,Green,38.9,5,false,0,38.9,FB001834,2025,Qtr 3,August,6,"",Summer,S,1
+Ann Taylor,Tops,Green,36.04,3,true,49.7,71.66,FB001066,2025,Qtr 3,August,6,Color Mismatch,Summer,L,33
+Ann Taylor,Tops,Green,32.91,3,true,56.1,74.96,FB002045,2025,Qtr 3,August,6,Wrong Item,Fall,M,16
+Ann Taylor,Tops,Navy,102.35,4,false,0,102.35,FB000018,2025,Qtr 3,August,6,"",Winter,L,14
+Ann Taylor,Tops,Navy,74.09,4,false,0,74.09,FB000466,2024,Qtr 3,September,7,"",Spring,S,35
+Ann Taylor,Tops,Navy,103.96,4,false,0,103.96,FB000540,2025,Qtr 3,August,6,"",Winter,XL,23
+Ann Taylor,Tops,Navy,94.3,3,false,0,94.3,FB000745,2025,Qtr 3,August,6,"",Fall,L,16
+Ann Taylor,Tops,Navy,25.97,3,false,15.7,30.81,FB001174,2024,Qtr 3,September,19,"",Spring,XL,4
+Ann Taylor,Tops,Navy,60.08,3,false,0,60.08,FB001478,2025,Qtr 3,August,6,"",Winter,L,26
+Ann Taylor,Tops,Navy,79.33,4,true,0,79.33,FB000559,2025,Qtr 1,January,30,Changed Mind,Spring,S,10
+Ann Taylor,Tops,Pink,38.5,4,false,0,38.5,FB000556,2025,Qtr 1,March,6,"",Spring,S,2
+Ann Taylor,Tops,Pink,115.58,3,false,0,115.58,FB001916,2025,Qtr 3,August,6,"",Summer,M,37
+Ann Taylor,Tops,Purple,58.56,3,false,0,58.56,FB000446,2025,Qtr 1,January,23,"",Spring,L,21
+Ann Taylor,Tops,Purple,51.94,3,false,45.4,95.13,FB000693,2025,Qtr 3,August,6,"",Fall,XXL,46
+Ann Taylor,Tops,Purple,83.98,2,false,0,83.98,FB000788,2024,Qtr 3,August,29,"",Spring,S,23
+Ann Taylor,Tops,Purple,69.77,5,false,0,69.77,FB000939,2024,Qtr 4,November,9,"",Spring,XXL,29
+Ann Taylor,Tops,Purple,63.39,3,false,0,63.39,FB001453,2025,Qtr 3,August,6,"",Fall,XL,50
+Ann Taylor,Tops,Purple,32.18,2,true,1.4,32.64,FB000468,2025,Qtr 2,May,6,Changed Mind,Spring,L,29
+Ann Taylor,Tops,Red,74.07,2,false,0,74.07,FB001199,2025,Qtr 3,August,6,"",Fall,M,47
+Ann Taylor,Tops,Red,70.88,3,false,0,70.88,FB001433,2025,Qtr 3,August,6,"",Fall,S,5
+Ann Taylor,Tops,Red,35.74,3,true,0,35.74,FB001219,2025,Qtr 3,August,6,Color Mismatch,Fall,L,33
+Ann Taylor,Tops,White,91.55,5,false,19.1,113.17,FB000082,2025,Qtr 3,August,6,"",Fall,M,15
+Ann Taylor,Tops,White,90.63,5,false,0,90.63,FB000268,2025,Qtr 3,August,6,"",Fall,S,33
+Ann Taylor,Tops,White,97.84,3,false,0,97.84,FB000368,2025,Qtr 3,August,6,"",Fall,L,16
+Ann Taylor,Tops,White,69.33,5,false,0,69.33,FB001490,2025,Qtr 3,August,6,"",Winter,L,26
+Banana Republic,Tops,Beige,34.73,3,false,59.1,84.92,FB001659,2025,Qtr 3,August,6,"",Winter,L,42
+Banana Republic,Tops,Beige,25.63,2,false,0,25.63,FB001868,2025,Qtr 3,August,6,"",Winter,XXL,27
+Banana Republic,Tops,Black,105.02,3,false,0,105.02,FB000005,2025,Qtr 3,August,6,"",Winter,XL,10
+Banana Republic,Tops,Black,14.87,3,false,49,29.16,FB000895,2025,Qtr 3,August,6,"",Winter,L,31
+Banana Republic,Tops,Black,30.69,4,false,11.2,34.56,FB001046,2025,Qtr 3,August,6,"",Fall,S,46
+Banana Republic,Tops,Black,58.07,3,true,39.4,95.82,FB000284,2025,Qtr 3,August,6,Damaged,Summer,S,6
+Banana Republic,Tops,Black,79.9,5,true,18.9,98.52,FB000802,2025,Qtr 3,August,6,Wrong Item,Fall,XL,37
+Banana Republic,Tops,Blue,28.78,3,false,0,28.78,FB000156,2024,Qtr 4,October,3,"",Spring,XL,21
+Banana Republic,Tops,Blue,59.6,3,false,0,59.6,FB000210,2025,Qtr 3,August,6,"",Fall,S,40
+Banana Republic,Tops,Blue,26.19,2,false,59.3,64.34,FB001924,2025,Qtr 3,August,6,"",Winter,S,34
+Banana Republic,Tops,Blue,38.72,4,false,0,38.72,FB002021,2025,Qtr 3,August,6,"",Summer,M,35
+Banana Republic,Tops,Brown,32.89,5,false,0,32.89,FB001024,2025,Qtr 3,July,8,"",Spring,S,6
+Banana Republic,Tops,Brown,28.18,5,false,40.4,47.29,FB001034,2025,Qtr 3,August,6,"",Summer,XXL,26
+Banana Republic,Tops,Brown,71.83,5,false,0,71.83,FB001402,2025,Qtr 3,August,6,"",Fall,XXL,46
+Banana Republic,Tops,Brown,72.42,3,false,34.7,110.9,FB001683,2025,Qtr 3,August,6,"",Summer,L,2
+Banana Republic,Tops,Gray,88.23,2,false,0,88.23,FB000034,2025,Qtr 3,August,6,"",Summer,XL,44
+Banana Republic,Tops,Gray,32.92,4,false,57.5,77.46,FB000199,2025,Qtr 3,August,6,"",Fall,M,23
+Banana Republic,Tops,Gray,50.17,3,false,35.1,77.3,FB001363,2025,Qtr 3,July,26,"",Spring,S,16
+Banana Republic,Tops,Gray,85.94,2,false,0,85.94,FB001390,2025,Qtr 3,August,6,"",Fall,S,49
+Banana Republic,Tops,Gray,38.12,3,false,0,38.12,FB001970,2025,Qtr 3,August,6,"",Summer,L,44
+Banana Republic,Tops,Green,111.3,2,false,0,111.3,FB000045,2025,Qtr 3,August,6,"",Winter,XXL,11
+Banana Republic,Tops,Green,106.49,4,false,0,106.49,FB000183,2025,Qtr 3,August,6,"",Winter,XL,23
+Banana Republic,Tops,Green,70.77,4,false,0,70.77,FB000841,2025,Qtr 3,August,6,"",Fall,S,5
+Banana Republic,Tops,Green,116.4,4,false,1,117.58,FB001355,2025,Qtr 3,August,6,"",Summer,XXL,27
+Banana Republic,Tops,Navy,63.23,3,false,19.1,78.16,FB000081,2025,Qtr 3,July,25,"",Spring,S,23
+Banana Republic,Tops,Navy,35.15,3,false,0,35.15,FB000929,2025,Qtr 3,August,6,"",Summer,M,38
+Banana Republic,Tops,Navy,27.35,3,false,30.9,39.58,FB001628,2025,Qtr 3,August,6,"",Winter,S,17
+Banana Republic,Tops,Pink,70.48,2,false,0,70.48,FB001538,2024,Qtr 4,November,27,"",Spring,XXL,22
+Banana Republic,Tops,Pink,62.07,3,false,47.7,118.69,FB001652,2025,Qtr 3,August,6,"",Winter,S,11
+Banana Republic,Tops,Purple,60.54,2,false,0,60.54,FB000526,2025,Qtr 2,April,10,"",Spring,S,35
+Banana Republic,Tops,Purple,55.64,5,false,35.8,86.67,FB000713,2025,Qtr 3,August,6,"",Summer,XXL,2
+Banana Republic,Tops,Purple,84.83,5,false,26.8,115.89,FB001116,2025,Qtr 3,August,6,"",Winter,XXL,26
+Banana Republic,Tops,Purple,108.92,2,false,0,108.92,FB001215,2025,Qtr 3,August,6,"",Winter,S,6
+Banana Republic,Tops,Purple,55.65,5,false,12.3,63.45,FB001731,2025,Qtr 3,August,6,"",Fall,XL,23
+Banana Republic,Tops,Purple,88.64,3,false,0,88.64,FB001954,2025,Qtr 3,August,6,"",Summer,XL,33
+Banana Republic,Tops,Red,49.68,3,false,0,49.68,FB000621,2025,Qtr 3,August,6,"",Winter,S,15
+Banana Republic,Tops,Red,96.08,3,false,0,96.08,FB000631,2025,Qtr 3,August,6,"",Winter,S,7
+Banana Republic,Tops,Red,43.16,2,false,16.8,51.88,FB000862,2025,Qtr 3,August,6,"",Fall,M,30
+Banana Republic,Tops,Red,66.9,3,false,0,66.9,FB002120,2025,Qtr 2,May,7,"",Spring,L,1
+Banana Republic,Tops,Red,56.38,3,false,0,56.38,FB002127,2025,Qtr 3,August,6,"",Summer,L,9
+Banana Republic,Tops,Red,23.47,4,true,45.9,43.38,FB001637,2024,Qtr 4,December,3,Changed Mind,Spring,XXL,47
+Banana Republic,Tops,White,119.29,3,false,0,119.29,FB001069,2025,Qtr 3,August,6,"",Winter,M,3
+Banana Republic,Tops,White,104.45,3,false,3.1,107.79,FB001150,2025,Qtr 3,August,6,"",Fall,XL,6
+Forever21,Tops,Beige,51.72,3,false,0,51.72,FB001002,2025,Qtr 1,February,14,"",Spring,L,50
+Forever21,Tops,Beige,40.6,3,false,55.4,91.03,FB001029,2025,Qtr 3,August,6,"",Summer,XXL,2
+Forever21,Tops,Beige,119.38,5,false,0,119.38,FB001270,2025,Qtr 1,February,20,"",Spring,S,18
+Forever21,Tops,Beige,51.09,3,false,39.9,85,FB001512,2025,Qtr 3,August,6,"",Summer,L,44
+Forever21,Tops,Black,76.5,5,false,0,76.5,FB000068,2025,Qtr 1,January,26,"",Spring,XL,17
+Forever21,Tops,Black,111.64,5,false,0,111.64,FB000426,2025,Qtr 3,August,6,"",Winter,XL,13
+Forever21,Tops,Black,84.17,4,false,0,84.17,FB001709,2025,Qtr 3,August,6,"",Winter,XXL,20
+Forever21,Tops,Black,81.2,2,false,0,81.2,FB002101,2025,Qtr 3,August,6,"",Fall,XXL,27
+Forever21,Tops,Blue,57.05,4,false,29.1,80.47,FB000025,2025,Qtr 3,August,6,"",Fall,S,38
+Forever21,Tops,Blue,46.21,2,false,9.5,51.06,FB000376,2025,Qtr 3,August,6,"",Winter,XL,34
+Forever21,Tops,Blue,32.63,4,false,12.1,37.12,FB001018,2025,Qtr 3,August,6,"",Summer,XXL,43
+Forever21,Tops,Blue,46.83,4,false,35.7,72.83,FB001168,2025,Qtr 3,August,6,"",Fall,L,11
+Forever21,Tops,Blue,59.53,2,false,0,59.53,FB001347,2025,Qtr 3,August,6,"",Winter,S,28
+Forever21,Tops,Blue,29.61,1,false,0,29.61,FB002026,2025,Qtr 3,August,6,"",Fall,L,9
+Forever21,Tops,Brown,20.07,4,false,39.2,33.01,FB000179,2025,Qtr 3,August,6,"",Winter,S,16
+Forever21,Tops,Brown,81.84,3,false,0,81.84,FB000915,2025,Qtr 3,August,6,"",Summer,S,41
+Forever21,Tops,Brown,84.75,3,false,0,84.75,FB001200,2025,Qtr 3,August,6,"",Winter,XXL,7
+Forever21,Tops,Brown,52.38,3,false,17.8,63.72,FB001632,2025,Qtr 3,August,6,"",Fall,XL,45
+Forever21,Tops,Brown,16.14,2,true,48.5,31.34,FB001869,2025,Qtr 3,August,6,Size Issue,Winter,L,36
+Forever21,Tops,Green,100.17,2,false,0,100.17,FB001157,2025,Qtr 3,August,6,"",Fall,S,18
+Forever21,Tops,Green,93.74,4,false,0,93.74,FB001590,2024,Qtr 4,December,27,"",Spring,S,39
+Forever21,Tops,Green,86.82,5,false,0,86.82,FB001934,2025,Qtr 3,August,6,"",Winter,XXL,0
+Forever21,Tops,Navy,44.79,4,false,0,44.79,FB001438,2025,Qtr 1,January,19,"",Spring,S,7
+Forever21,Tops,Pink,111.14,2,false,0,111.14,FB000209,2025,Qtr 3,August,6,"",Fall,XXL,49
+Forever21,Tops,Pink,74.77,3,false,34,113.29,FB000743,2025,Qtr 3,August,6,"",Summer,S,10
+Forever21,Tops,Pink,105.85,3,false,0,105.85,FB001739,2025,Qtr 3,August,6,"",Summer,L,29
+Forever21,Tops,Pink,115.44,2,false,0,115.44,FB002033,2025,Qtr 3,August,6,"",Winter,M,21
+Forever21,Tops,Pink,73.76,2,false,0,73.76,FB002065,2024,Qtr 3,August,19,"",Spring,S,25
+Forever21,Tops,Purple,37.1,5,false,59.5,91.6,FB001060,2025,Qtr 3,August,6,"",Summer,L,2
+Forever21,Tops,Red,29.88,2,false,18.9,36.84,FB000555,2025,Qtr 3,August,6,"",Winter,S,39
+Forever21,Tops,Red,94.31,3,false,0,94.31,FB000704,2025,Qtr 3,August,6,"",Summer,L,20
+Forever21,Tops,Red,49.12,3,false,0,49.12,FB001109,2025,Qtr 2,June,28,"",Spring,M,47
+Forever21,Tops,Red,92.5,3,false,0,92.5,FB001499,2025,Qtr 3,August,6,"",Summer,S,15
+Forever21,Tops,White,116.48,2,false,0,116.48,FB001660,2025,Qtr 3,August,6,"",Fall,S,3
+Gap,Tops,Beige,88.41,5,false,0,88.41,FB000234,2025,Qtr 3,August,6,"",Fall,L,24
+Gap,Tops,Beige,25.86,2,false,0,25.86,FB001330,2025,Qtr 3,August,6,"",Fall,S,46
+Gap,Tops,Beige,115.5,3,true,0,115.5,FB001037,2025,Qtr 3,August,6,Quality Issue,Summer,XXL,36
+Gap,Tops,Black,91.83,5,false,0,91.83,FB000100,2025,Qtr 3,August,6,"",Summer,L,39
+Gap,Tops,Black,25.96,2,false,0,25.96,FB000235,2024,Qtr 4,October,4,"",Spring,S,2
+Gap,Tops,Black,33.63,5,false,0,33.63,FB001233,2025,Qtr 3,August,6,"",Summer,XL,13
+Gap,Tops,Black,34.3,2,false,30.9,49.64,FB001305,2025,Qtr 3,August,6,"",Winter,M,21
+Gap,Tops,Black,57.67,5,false,40.4,96.77,FB001319,2025,Qtr 3,August,6,"",Summer,XXL,31
+Gap,Tops,Black,36.91,3,false,8.9,40.52,FB001665,2025,Qtr 3,August,6,"",Summer,L,13
+Gap,Tops,Black,48.21,5,false,51.8,100.03,FB002154,2025,Qtr 3,August,6,"",Fall,XL,43
+Gap,Tops,Black,112.63,4,true,0,112.63,FB000136,2024,Qtr 4,October,14,Quality Issue,Spring,L,50
+Gap,Tops,Black,18.86,4,true,31.8,27.65,FB001704,2025,Qtr 3,August,6,Size Issue,Fall,M,2
+Gap,Tops,Blue,59.21,3,false,35.9,92.37,FB000187,2025,Qtr 3,August,6,"",Fall,M,20
+Gap,Tops,Blue,82.8,3,false,17.6,100.48,FB000849,2025,Qtr 3,August,6,"",Fall,L,19
+Gap,Tops,Blue,40.54,3,false,55.2,90.48,FB001395,2025,Qtr 3,August,6,"",Summer,XL,26
+Gap,Tops,Brown,70.36,3,false,0,70.36,FB000274,2025,Qtr 3,August,6,"",Winter,XXL,0
+Gap,Tops,Brown,41.58,2,false,0,41.58,FB000582,2025,Qtr 3,August,6,"",Fall,M,3
+Gap,Tops,Brown,75,2,false,0,75,FB000627,2025,Qtr 3,August,6,"",Winter,S,19
+Gap,Tops,Brown,70.24,5,false,33.8,106.11,FB001087,2025,Qtr 3,August,6,"",Winter,M,15
+Gap,Tops,Brown,52.87,3,false,19,65.27,FB001483,2024,Qtr 3,August,29,"",Spring,S,48
+Gap,Tops,Brown,34.8,3,true,42.5,60.53,FB000517,2025,Qtr 3,August,6,Color Mismatch,Winter,S,8
+Gap,Tops,Gray,71.44,5,false,0,71.44,FB001049,2025,Qtr 3,August,6,"",Winter,XL,18
+Gap,Tops,Gray,31.36,4,false,0,31.36,FB001206,2025,Qtr 3,August,6,"",Fall,S,50
+Gap,Tops,Gray,93.46,3,false,0,93.46,FB001635,2025,Qtr 1,February,12,"",Spring,XL,20
+Gap,Tops,Gray,105.37,2,false,0,105.37,FB001740,2025,Qtr 2,April,15,"",Spring,XL,24
+Gap,Tops,Gray,26.51,2,true,48.3,51.28,FB001826,2025,Qtr 3,August,6,Changed Mind,Winter,S,9
+Gap,Tops,Green,42.92,5,false,40.8,72.5,FB001152,2024,Qtr 4,December,30,"",Spring,S,23
+Gap,Tops,Green,23.46,3,false,40.1,39.16,FB001788,2025,Qtr 3,August,6,"",Fall,S,4
+Gap,Tops,Green,39.12,3,false,37.7,62.79,FB001903,2025,Qtr 3,August,6,"",Summer,L,5
+Gap,Tops,Green,20.15,5,false,24,26.51,FB002025,2025,Qtr 2,May,24,"",Spring,S,1
+Gap,Tops,Green,101.88,3,true,0,101.88,FB000411,2025,Qtr 1,March,14,Size Issue,Spring,S,46
+Gap,Tops,Navy,108.49,4,false,0,108.49,FB000182,2025,Qtr 3,August,6,"",Fall,M,7
+Gap,Tops,Navy,100.03,2,false,0,100.03,FB001041,2025,Qtr 3,August,6,"",Fall,S,39
+Gap,Tops,Navy,35.41,5,true,0,35.41,FB001555,2025,Qtr 3,August,6,Damaged,Winter,L,48
+Gap,Tops,Pink,114.03,3,false,0,114.03,FB000485,2025,Qtr 3,August,6,"",Summer,S,2
+Gap,Tops,Pink,90.73,2,false,0,90.73,FB000827,2025,Qtr 3,August,6,"",Summer,S,14
+Gap,Tops,Pink,110.81,3,false,0,110.81,FB001444,2025,Qtr 3,August,6,"",Summer,XXL,24
+Gap,Tops,Pink,111.09,3,false,0,111.09,FB001480,2025,Qtr 3,August,6,"",Fall,M,24
+Gap,Tops,Pink,43.45,3,false,0,43.45,FB001712,2025,Qtr 3,July,17,"",Spring,S,30
+Gap,Tops,Pink,50.3,2,false,0,50.3,FB001877,2024,Qtr 3,August,18,"",Spring,L,23
+Gap,Tops,Purple,28.3,3,false,24.4,37.43,FB000032,2025,Qtr 2,April,16,"",Spring,L,5
+Gap,Tops,Purple,104.94,2,false,0,104.94,FB000361,2025,Qtr 3,August,6,"",Winter,S,42
+Gap,Tops,Purple,33.46,4,false,0,33.46,FB001579,2025,Qtr 3,August,6,"",Winter,XL,36
+Gap,Tops,Purple,75.22,3,true,0,75.22,FB000571,2025,Qtr 3,August,6,Size Issue,Summer,M,22
+Gap,Tops,Purple,21.15,3,true,26.4,28.73,FB002042,2024,Qtr 4,October,10,Size Issue,Spring,S,47
+Gap,Tops,Red,72.69,3,false,0,72.69,FB001364,2025,Qtr 3,August,6,"",Fall,S,6
+Gap,Tops,Red,64.84,4,false,0,64.84,FB001393,2024,Qtr 4,October,26,"",Spring,S,25
+Gap,Tops,Red,32.01,4,true,0,32.01,FB000459,2025,Qtr 2,May,9,Wrong Item,Spring,S,43
+Gap,Tops,White,71.99,3,false,24.4,95.22,FB001344,2025,Qtr 3,August,6,"",Winter,S,26
+Gap,Tops,White,74.13,3,false,0,74.13,FB001551,2024,Qtr 4,November,13,"",Spring,L,23
+H&M,Tops,Beige,102.99,4,false,0,102.99,FB000144,2025,Qtr 3,July,16,"",Spring,L,41
+H&M,Tops,Beige,59.58,4,false,0,59.58,FB000695,2025,Qtr 3,August,6,"",Summer,L,27
+H&M,Tops,Beige,55.97,3,false,0,55.97,FB001561,2025,Qtr 3,August,6,"",Summer,L,30
+H&M,Tops,Beige,70.41,4,false,7.1,75.79,FB001702,2025,Qtr 1,March,29,"",Spring,M,13
+H&M,Tops,Beige,73.71,4,true,0,73.71,FB000057,2025,Qtr 3,July,10,Quality Issue,Spring,S,35
+H&M,Tops,Beige,74.3,4,true,0,74.3,FB000700,2025,Qtr 3,August,6,Wrong Item,Winter,L,31
+H&M,Tops,Black,72.95,5,false,0,72.95,FB000667,2025,Qtr 3,August,6,"",Summer,L,27
+H&M,Tops,Black,33.06,3,false,46.4,61.67,FB000691,2025,Qtr 3,July,15,"",Spring,XL,50
+H&M,Tops,Black,56.55,2,false,20.9,71.49,FB001190,2025,Qtr 1,January,12,"",Spring,S,33
+H&M,Tops,Black,52.05,3,false,55.4,116.71,FB001459,2025,Qtr 3,August,6,"",Summer,L,15
+H&M,Tops,Black,19.62,1,false,29,27.64,FB001645,2025,Qtr 3,August,6,"",Summer,M,19
+H&M,Tops,Black,79.47,4,false,0,79.47,FB001823,2025,Qtr 3,August,6,"",Winter,XXL,31
+H&M,Tops,Black,71.68,2,false,0,71.68,FB001867,2025,Qtr 3,August,5,"",Spring,L,0
+H&M,Tops,Blue,45.4,5,false,56.1,103.42,FB000200,2025,Qtr 3,August,6,"",Fall,XXL,4
+H&M,Tops,Blue,50.09,4,false,0,50.09,FB000346,2025,Qtr 3,August,6,"",Summer,L,47
+H&M,Tops,Blue,29.35,2,false,36.8,46.44,FB001283,2025,Qtr 1,March,11,"",Spring,XL,19
+H&M,Tops,Brown,39.56,3,false,0,39.56,FB000573,2025,Qtr 1,January,21,"",Spring,XL,15
+H&M,Tops,Brown,27.27,3,false,2.6,28,FB000632,2025,Qtr 3,August,6,"",Winter,S,2
+H&M,Tops,Brown,44.42,3,false,0,44.42,FB001741,2025,Qtr 3,August,6,"",Summer,S,49
+H&M,Tops,Brown,63.67,2,false,0,63.67,FB002075,2025,Qtr 3,August,6,"",Summer,M,18
+H&M,Tops,Brown,59.8,3,true,0,59.8,FB001559,2025,Qtr 2,April,6,Size Issue,Spring,L,50
+H&M,Tops,Gray,52.26,3,false,41.3,89.03,FB001030,2025,Qtr 3,August,6,"",Fall,M,50
+H&M,Tops,Green,30.79,4,false,0,30.79,FB000079,2025,Qtr 3,August,6,"",Summer,S,36
+H&M,Tops,Green,69.94,4,false,23.7,91.67,FB001331,2025,Qtr 3,August,6,"",Fall,S,3
+H&M,Tops,Green,17.65,5,false,43.6,31.3,FB001404,2025,Qtr 1,March,6,"",Spring,S,21
+H&M,Tops,Green,29.12,3,false,0,29.12,FB001413,2025,Qtr 1,March,25,"",Spring,L,14
+H&M,Tops,Green,33.55,5,false,29,47.25,FB001589,2025,Qtr 2,June,20,"",Spring,L,38
+H&M,Tops,Green,41.52,3,false,54.1,90.46,FB002059,2025,Qtr 3,August,6,"",Fall,M,15
+H&M,Tops,Navy,86.58,2,false,27.8,119.91,FB000382,2024,Qtr 3,September,28,"",Spring,S,12
+H&M,Tops,Navy,80.54,3,false,0,80.54,FB001279,2024,Qtr 4,December,10,"",Spring,XL,50
+H&M,Tops,Navy,117.02,5,false,1.7,119.04,FB001295,2025,Qtr 3,August,6,"",Summer,XXL,34
+H&M,Tops,Navy,29.17,2,false,0,29.17,FB001403,2025,Qtr 3,August,6,"",Summer,L,17
+H&M,Tops,Navy,40.68,2,true,0,40.68,FB001661,2025,Qtr 3,August,6,Changed Mind,Summer,XL,41
+H&M,Tops,Navy,109.76,2,true,0,109.76,FB001986,2025,Qtr 1,January,12,Quality Issue,Spring,L,23
+H&M,Tops,Pink,64.96,3,false,31,94.15,FB002068,2025,Qtr 3,August,6,"",Winter,XL,25
+H&M,Tops,Purple,95.19,5,false,0,95.19,FB000360,2025,Qtr 1,February,9,"",Spring,L,13
+H&M,Tops,Purple,89.36,5,true,0,89.36,FB000137,2025,Qtr 3,August,6,Damaged,Summer,S,24
+H&M,Tops,Red,58.65,2,false,0,58.65,FB000216,2025,Qtr 3,August,6,"",Summer,XXL,4
+H&M,Tops,Red,54.87,3,false,13.6,63.51,FB000593,2025,Qtr 3,August,6,"",Summer,XXL,19
+H&M,Tops,Red,90.41,3,false,0,90.41,FB001977,2025,Qtr 3,August,6,"",Fall,M,11
+H&M,Tops,White,110.78,2,false,0,110.78,FB000135,2025,Qtr 1,January,13,"",Spring,S,9
+H&M,Tops,White,88.62,3,false,0,88.62,FB000253,2025,Qtr 3,August,6,"",Fall,L,48
+H&M,Tops,White,104.22,3,false,6,110.87,FB000744,2025,Qtr 3,August,6,"",Winter,L,15
+H&M,Tops,White,77.99,3,false,0,77.99,FB001673,2025,Qtr 3,August,6,"",Fall,S,42
+H&M,Tops,White,63.92,5,false,0,63.92,FB001809,2025,Qtr 3,August,6,"",Fall,L,10
+H&M,Tops,White,53.87,5,true,0,53.87,FB001151,2025,Qtr 3,August,6,Damaged,Summer,S,50
+Mango,Tops,Beige,79.66,2,false,0,79.66,FB000015,2025,Qtr 3,August,6,"",Winter,M,7
+Mango,Tops,Beige,66.28,3,false,32,97.47,FB000423,2025,Qtr 3,August,6,"",Fall,M,27
+Mango,Tops,Beige,30.78,4,false,0,30.78,FB001889,2025,Qtr 2,June,13,"",Spring,XL,28
+Mango,Tops,Beige,110.77,3,false,0,110.77,FB002140,2025,Qtr 3,August,6,"",Fall,XXL,48
+Mango,Tops,Beige,111.7,3,true,0,111.7,FB001985,2025,Qtr 3,August,6,Size Issue,Summer,L,2
+Mango,Tops,Black,116.84,5,false,0,116.84,FB000011,2025,Qtr 2,April,25,"",Spring,L,3
+Mango,Tops,Black,28.59,2,false,0,28.59,FB000059,2025,Qtr 3,August,6,"",Summer,S,39
+Mango,Tops,Black,83.09,3,false,0,83.09,FB000291,2025,Qtr 3,August,6,"",Fall,M,22
+Mango,Tops,Black,42.5,3,false,56.7,98.16,FB000525,2025,Qtr 1,February,5,"",Spring,L,44
+Mango,Tops,Black,91.03,3,false,0,91.03,FB001039,2025,Qtr 3,August,6,"",Fall,XXL,20
+Mango,Tops,Black,31.41,3,false,0,31.41,FB002172,2025,Qtr 3,August,6,"",Summer,XL,10
+Mango,Tops,Blue,25.15,3,false,0,25.15,FB000309,2025,Qtr 3,August,6,"",Summer,S,34
+Mango,Tops,Blue,41.46,4,false,0,41.46,FB000392,2025,Qtr 3,August,6,"",Winter,S,36
+Mango,Tops,Blue,94.92,4,false,0,94.92,FB000676,2025,Qtr 3,August,6,"",Winter,S,5
+Mango,Tops,Brown,80.26,5,false,1.2,81.23,FB000857,2025,Qtr 3,August,6,"",Fall,XXL,10
+Mango,Tops,Brown,75.84,5,false,0,75.84,FB001430,2025,Qtr 2,April,7,"",Spring,XL,8
+Mango,Tops,Gray,49.22,3,false,0.8,49.62,FB000801,2024,Qtr 4,November,17,"",Spring,XL,22
+Mango,Tops,Gray,117.39,4,false,0,117.39,FB001023,2025,Qtr 3,August,6,"",Fall,L,14
+Mango,Tops,Gray,107.15,3,true,0,107.15,FB000301,2025,Qtr 3,August,6,Wrong Item,Winter,L,33
+Mango,Tops,Green,33.28,5,false,37.5,53.25,FB000792,2025,Qtr 3,August,6,"",Summer,S,33
+Mango,Tops,Green,103.16,3,false,6.6,110.45,FB002121,2025,Qtr 3,August,6,"",Fall,L,6
+Mango,Tops,Green,42.58,2,true,36.4,66.95,FB000207,2024,Qtr 3,September,28,Quality Issue,Spring,M,44
+Mango,Tops,Navy,104.09,3,false,0,104.09,FB001070,2024,Qtr 4,December,21,"",Spring,M,29
+Mango,Tops,Navy,114.32,5,false,0,114.32,FB001238,2025,Qtr 3,August,6,"",Winter,S,27
+Mango,Tops,Navy,26.11,5,false,0,26.11,FB001837,2025,Qtr 3,August,6,"",Fall,XL,41
+Mango,Tops,Navy,64.22,5,false,2.7,66,FB001885,2025,Qtr 3,August,6,"",Fall,S,42
+Mango,Tops,Pink,114.86,2,false,0,114.86,FB000184,2025,Qtr 3,August,6,"",Winter,XXL,48
+Mango,Tops,Pink,108.75,4,false,0,108.75,FB000724,2025,Qtr 3,August,6,"",Fall,L,38
+Mango,Tops,Pink,62.07,3,false,32.1,91.41,FB001122,2025,Qtr 3,August,6,"",Fall,S,49
+Mango,Tops,Pink,56.35,2,false,0,56.35,FB001328,2025,Qtr 3,August,6,"",Fall,S,31
+Mango,Tops,Pink,14.63,5,false,48.2,28.24,FB001532,2025,Qtr 3,August,6,"",Summer,S,20
+Mango,Tops,Pink,50.9,2,false,0,50.9,FB001905,2025,Qtr 3,August,6,"",Fall,XL,1
+Mango,Tops,Pink,118.95,2,true,0,118.95,FB000698,2025,Qtr 3,August,6,Quality Issue,Winter,S,18
+Mango,Tops,Pink,100.5,3,true,0,100.5,FB000964,2025,Qtr 3,August,6,Damaged,Summer,XXL,12
+Mango,Tops,Purple,41.05,3,false,0,41.05,FB001019,2025,Qtr 3,August,6,"",Summer,XXL,24
+Mango,Tops,Red,112.86,3,false,0,112.86,FB000074,2025,Qtr 3,August,6,"",Fall,S,8
+Mango,Tops,Red,65.95,3,false,33.8,99.62,FB000114,2025,Qtr 3,August,6,"",Summer,XXL,27
+Mango,Tops,Red,97.05,3,false,0,97.05,FB000812,2024,Qtr 4,December,25,"",Spring,XL,9
+Mango,Tops,Red,23.04,2,false,46.7,43.22,FB001732,2025,Qtr 3,August,6,"",Summer,S,29
+Mango,Tops,Red,100.11,5,false,0,100.11,FB002106,2025,Qtr 3,August,6,"",Summer,L,41
+Mango,Tops,White,116.61,3,false,0,116.61,FB000133,2024,Qtr 4,November,4,"",Spring,XL,31
+Mango,Tops,White,99.26,3,false,13.9,115.29,FB001184,2025,Qtr 3,August,6,"",Fall,S,37
+Mango,Tops,White,26.85,3,false,0,26.85,FB001408,2025,Qtr 3,August,6,"",Fall,L,26
+Mango,Tops,White,83.16,4,false,17.3,100.56,FB002142,2025,Qtr 3,August,6,"",Fall,L,21
+Uniqlo,Tops,Beige,77.3,5,false,15.8,91.8,FB000146,2025,Qtr 3,August,6,"",Winter,L,30
+Uniqlo,Tops,Beige,34.06,5,false,0,34.06,FB000188,2025,Qtr 3,August,6,"",Summer,XXL,39
+Uniqlo,Tops,Beige,40.2,3,false,3.3,41.57,FB001077,2025,Qtr 3,August,6,"",Fall,L,5
+Uniqlo,Tops,Beige,80.39,3,false,0,80.39,FB001265,2025,Qtr 3,August,6,"",Winter,XXL,24
+Uniqlo,Tops,Beige,72.78,4,false,0,72.78,FB002039,2025,Qtr 3,August,6,"",Fall,XL,49
+Uniqlo,Tops,Beige,75.54,4,false,0,75.54,FB002139,2025,Qtr 3,August,6,"",Fall,M,7
+Uniqlo,Tops,Beige,70.89,5,true,0,70.89,FB001594,2025,Qtr 3,August,6,Size Issue,Summer,XXL,14
+Uniqlo,Tops,Black,103.65,4,false,0,103.65,FB000832,2025,Qtr 3,August,6,"",Summer,XXL,29
+Uniqlo,Tops,Black,29.93,3,false,0,29.93,FB000872,2024,Qtr 4,October,10,"",Spring,S,13
+Uniqlo,Tops,Black,85.01,5,false,0,85.01,FB002171,2025,Qtr 3,August,6,"",Winter,XL,39
+Uniqlo,Tops,Blue,99.71,2,false,0,99.71,FB000213,2024,Qtr 3,August,21,"",Spring,L,23
+Uniqlo,Tops,Blue,51.85,3,false,0,51.85,FB000720,2025,Qtr 3,August,6,"",Fall,XL,28
+Uniqlo,Tops,Blue,76.95,3,false,0,76.95,FB001439,2025,Qtr 1,January,12,"",Spring,S,9
+Uniqlo,Tops,Brown,77.8,4,false,23.7,101.96,FB000911,2025,Qtr 2,May,21,"",Spring,L,29
+Uniqlo,Tops,Gray,75.34,3,false,0,75.34,FB000721,2025,Qtr 3,August,6,"",Summer,L,21
+Uniqlo,Tops,Gray,30.53,3,false,0,30.53,FB000769,2025,Qtr 3,August,6,"",Fall,L,25
+Uniqlo,Tops,Gray,69,5,false,0,69,FB001657,2025,Qtr 3,August,6,"",Summer,S,32
+Uniqlo,Tops,Gray,114.63,4,true,0,114.63,FB000348,2025,Qtr 3,August,6,Changed Mind,Summer,XXL,47
+Uniqlo,Tops,Gray,43.59,2,true,6.6,46.67,FB000583,2025,Qtr 3,August,6,Quality Issue,Summer,XL,35
+Uniqlo,Tops,Green,52.07,3,false,45,94.68,FB000569,2025,Qtr 3,August,6,"",Winter,S,47
+Uniqlo,Tops,Green,33.35,2,false,0,33.35,FB001148,2025,Qtr 3,August,6,"",Fall,XL,29
+Uniqlo,Tops,Green,94.82,2,false,17.4,114.8,FB001932,2025,Qtr 2,May,17,"",Spring,XL,4
+Uniqlo,Tops,Navy,91.6,3,false,0,91.6,FB001774,2025,Qtr 3,August,6,"",Winter,XL,6
+Uniqlo,Tops,Navy,89.39,5,false,0,89.39,FB001982,2025,Qtr 3,August,6,"",Fall,M,33
+Uniqlo,Tops,Pink,119.64,3,false,0,119.64,FB000002,2025,Qtr 3,August,6,"",Winter,L,2
+Uniqlo,Tops,Pink,118.14,3,false,0,118.14,FB002024,2025,Qtr 3,August,6,"",Summer,L,33
+Uniqlo,Tops,Purple,62.21,3,false,0,62.21,FB001160,2025,Qtr 3,July,23,"",Spring,S,38
+Uniqlo,Tops,Purple,80.97,3,false,0,80.97,FB001353,2025,Qtr 3,August,6,"",Fall,XXL,13
+Uniqlo,Tops,Purple,63.69,3,false,0,63.69,FB001357,2025,Qtr 3,August,6,"",Fall,S,11
+Uniqlo,Tops,Purple,31.49,4,false,10.1,35.03,FB001644,2025,Qtr 2,May,30,"",Spring,XXL,5
+Uniqlo,Tops,Purple,104.75,3,false,0,104.75,FB001752,2024,Qtr 4,October,26,"",Spring,M,11
+Uniqlo,Tops,Purple,34.72,3,false,0,34.72,FB001927,2025,Qtr 3,August,6,"",Fall,M,7
+Uniqlo,Tops,Red,26.01,4,false,0,26.01,FB000375,2025,Qtr 1,February,23,"",Spring,XL,9
+Uniqlo,Tops,Red,103.14,5,false,0,103.14,FB000422,2025,Qtr 3,August,6,"",Summer,L,13
+Uniqlo,Tops,Red,25.45,4,false,0,25.45,FB001048,2024,Qtr 3,August,10,"",Spring,S,29
+Uniqlo,Tops,Red,61.42,4,false,0,61.42,FB001609,2024,Qtr 3,August,22,"",Spring,XL,41
+Uniqlo,Tops,Red,50.49,5,false,0,50.49,FB001655,2025,Qtr 3,August,6,"",Summer,S,30
+Uniqlo,Tops,Red,109.19,5,false,0,109.19,FB001755,2025,Qtr 3,August,6,"",Fall,XXL,47
+Uniqlo,Tops,White,112.88,5,false,5.7,119.7,FB000036,2025,Qtr 3,August,6,"",Winter,XXL,37
+Uniqlo,Tops,White,117.86,3,false,0,117.86,FB000041,2025,Qtr 3,August,6,"",Summer,S,6
+Uniqlo,Tops,White,85.94,5,false,0,85.94,FB000387,2025,Qtr 3,August,6,"",Winter,L,42
+Uniqlo,Tops,White,86.82,2,false,11.3,97.88,FB000637,2025,Qtr 3,August,6,"",Winter,XL,27
+Uniqlo,Tops,White,29.04,5,false,0,29.04,FB001684,2025,Qtr 3,August,6,"",Summer,XXL,4
+Zara,Tops,Beige,116.82,3,false,0,116.82,FB000997,2025,Qtr 3,August,6,"",Summer,S,34
+Zara,Tops,Beige,53.37,2,false,0,53.37,FB001842,2025,Qtr 3,August,6,"",Winter,S,15
+Zara,Tops,Beige,81.82,4,false,0,81.82,FB002104,2025,Qtr 2,May,9,"",Spring,S,1
+Zara,Tops,Beige,20.05,2,true,57.4,47.07,FB000314,2025,Qtr 3,August,6,Size Issue,Winter,XXL,24
+Zara,Tops,Beige,52.38,2,true,47.6,99.96,FB000396,2025,Qtr 3,August,6,Quality Issue,Winter,L,18
+Zara,Tops,Black,82.94,2,false,0,82.94,FB000212,2025,Qtr 3,July,17,"",Spring,M,46
+Zara,Tops,Black,60.64,2,false,26.1,82.06,FB000317,2025,Qtr 3,August,6,"",Fall,S,32
+Zara,Tops,Black,61.34,4,false,35.4,94.96,FB000417,2025,Qtr 3,August,6,"",Summer,XXL,34
+Zara,Tops,Black,34.65,5,false,59.4,85.34,FB000452,2025,Qtr 3,August,6,"",Winter,XL,5
+Zara,Tops,Black,99.57,1,false,0,99.57,FB001144,2025,Qtr 3,August,6,"",Winter,L,17
+Zara,Tops,Black,65.51,2,false,28.8,92.01,FB001221,2025,Qtr 3,August,6,"",Winter,XXL,37
+Zara,Tops,Black,40.51,3,true,48.1,78.05,FB001751,2025,Qtr 3,August,6,Changed Mind,Winter,S,36
+Zara,Tops,Blue,49.56,4,false,28.8,69.6,FB000969,2025,Qtr 3,August,6,"",Winter,L,42
+Zara,Tops,Blue,32.46,3,false,20.1,40.62,FB001254,2025,Qtr 3,August,6,"",Summer,XXL,7
+Zara,Tops,Blue,88.77,5,false,0,88.77,FB001420,2025,Qtr 2,May,16,"",Spring,XL,40
+Zara,Tops,Blue,74.52,2,true,33.3,111.72,FB000395,2025,Qtr 3,August,6,Quality Issue,Winter,L,47
+Zara,Tops,Blue,77.38,5,true,8.8,84.85,FB001137,2025,Qtr 3,August,6,Changed Mind,Winter,S,19
+Zara,Tops,Blue,89.62,5,true,0,89.62,FB001902,2025,Qtr 3,August,6,Color Mismatch,Winter,XL,0
+Zara,Tops,Brown,49.67,3,false,0,49.67,FB000116,2024,Qtr 3,September,6,"",Spring,XXL,37
+Zara,Tops,Brown,59.98,4,false,27.3,82.51,FB000776,2025,Qtr 3,August,6,"",Fall,M,9
+Zara,Tops,Brown,29.2,2,false,5.5,30.9,FB000960,2024,Qtr 4,November,6,"",Spring,S,25
+Zara,Tops,Brown,85.25,3,false,0,85.25,FB001537,2025,Qtr 3,August,6,"",Summer,S,11
+Zara,Tops,Gray,91.09,5,false,2.4,93.33,FB000065,2025,Qtr 3,August,6,"",Winter,S,20
+Zara,Tops,Gray,72.72,2,false,0,72.72,FB001036,2025,Qtr 1,January,31,"",Spring,XXL,23
+Zara,Tops,Gray,79.63,5,false,24.3,105.19,FB001697,2025,Qtr 2,June,14,"",Spring,S,47
+Zara,Tops,Gray,26.09,5,true,0,26.09,FB000222,2025,Qtr 3,August,6,Damaged,Summer,XXL,32
+Zara,Tops,Green,47.88,2,false,0,47.88,FB001669,2024,Qtr 4,December,21,"",Spring,XXL,44
+Zara,Tops,Navy,33.77,4,false,0,33.77,FB000579,2025,Qtr 3,August,6,"",Summer,M,12
+Zara,Tops,Pink,69.36,3,false,0,69.36,FB000218,2025,Qtr 3,August,6,"",Summer,XXL,25
+Zara,Tops,Pink,25.9,3,false,35.2,39.97,FB000305,2025,Qtr 1,January,22,"",Spring,XXL,15
+Zara,Tops,Pink,22.97,5,false,47.1,43.43,FB000586,2025,Qtr 3,August,6,"",Winter,XXL,44
+Zara,Tops,Pink,24.42,4,false,57.4,57.32,FB001012,2025,Qtr 3,August,6,"",Summer,S,46
+Zara,Tops,Pink,59.77,2,true,11.1,67.23,FB001428,2025,Qtr 3,August,6,Wrong Item,Summer,XL,39
+Zara,Tops,Purple,39.23,3,false,19.8,48.92,FB000070,2025,Qtr 3,August,6,"",Summer,XL,17
+Zara,Tops,Purple,58.16,5,false,0,58.16,FB000650,2025,Qtr 3,July,2,"",Spring,S,29
+Zara,Tops,Purple,106.2,2,false,0,106.2,FB001258,2025,Qtr 3,August,6,"",Summer,S,10
+Zara,Tops,Purple,77.87,3,false,0,77.87,FB001278,2025,Qtr 3,August,6,"",Summer,M,4
+Zara,Tops,Purple,74.3,5,false,0,74.3,FB001486,2024,Qtr 4,December,7,"",Spring,XXL,24
+Zara,Tops,Purple,84.21,4,false,0,84.21,FB001996,2025,Qtr 1,January,15,"",Spring,S,43
+Zara,Tops,Red,57.91,4,false,0,57.91,FB000740,2025,Qtr 1,March,13,"",Spring,XL,33
+Zara,Tops,Red,105.1,5,false,0,105.1,FB001907,2024,Qtr 3,August,28,"",Spring,XXL,39
+Zara,Tops,Red,44.28,3,false,18.4,54.26,FB001992,2025,Qtr 3,August,6,"",Fall,XL,29
+Zara,Tops,Red,92.25,3,true,0,92.25,FB000172,2025,Qtr 3,August,6,Damaged,Winter,S,13
+Zara,Tops,White,80.06,5,false,25.4,107.32,FB000147,2025,Qtr 3,August,6,"",Winter,L,50
+Zara,Tops,White,48.12,2,false,56.7,111.14,FB000406,2025,Qtr 3,August,6,"",Summer,XL,29
+Zara,Tops,White,85.92,3,false,0,85.92,FB000477,2025,Qtr 3,August,6,"",Fall,S,12
+Zara,Tops,White,41.23,2,false,19.7,51.35,FB000710,2025,Qtr 3,August,6,"",Fall,M,39
+Zara,Tops,White,103.28,2,false,1.6,104.96,FB000770,2025,Qtr 3,August,6,"",Fall,S,33
+Zara,Tops,White,16.85,3,false,40.3,28.23,FB001625,2025,Qtr 3,August,6,"",Fall,XXL,21
+Zara,Tops,White,92.9,3,false,0,92.9,FB002006,2025,Qtr 3,August,6,"",Fall,S,30
+Zara,Tops,White,100.98,3,false,0,100.98,FB002029,2025,Qtr 3,August,6,"",Fall,S,41

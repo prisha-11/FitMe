@@ -32,6 +32,11 @@ def load_and_preprocess():
     if not os.path.exists(DATA_PATH):
         return False
         
+    # Reset models so we don't carry over old models to new datasets
+    rf_model = None
+    lr_model = None
+    encoders_global = {}
+        
     df = pd.read_csv(DATA_PATH)
     df_clean = df.copy()
     
@@ -54,17 +59,23 @@ def load_and_preprocess():
     df_encoded_global = df_encoded
     
     # Train Models
+    # Try to find target columns heuristically if exact names don't exist
+    cols_lower = {c.lower(): c for c in df_encoded.columns}
+    
+    risk_col = cols_lower.get('risk_level', cols_lower.get('risk', None))
+    sales_col = cols_lower.get('sales_volume', cols_lower.get('sales', None))
+    
     # 1. Classification (Risk_Level)
-    if 'Risk_Level' in df_encoded.columns:
-        X_clf = df_encoded.drop(columns=['Risk_Level', 'Product_ID'], errors='ignore')
-        y_clf = df_encoded['Risk_Level']
+    if risk_col:
+        X_clf = df_encoded.drop(columns=[risk_col, 'Product_ID'], errors='ignore')
+        y_clf = df_encoded[risk_col]
         rf_model = RandomForestClassifier(n_estimators=50, random_state=42)
         rf_model.fit(X_clf, y_clf)
         
     # 2. Regression (Sales_Volume)
-    if 'Sales_Volume' in df_encoded.columns:
-        X_reg = df_encoded.drop(columns=['Sales_Volume', 'Product_ID', 'Risk_Level'], errors='ignore')
-        y_reg = df_encoded['Sales_Volume']
+    if sales_col:
+        X_reg = df_encoded.drop(columns=[sales_col, 'Product_ID', risk_col] if risk_col else [sales_col, 'Product_ID'], errors='ignore')
+        y_reg = df_encoded[sales_col]
         lr_model = LinearRegression()
         lr_model.fit(X_reg, y_reg)
         
@@ -124,22 +135,31 @@ def get_price_vs_sales():
 
 @app.get("/api/models/evaluation")
 def get_model_evaluation():
-    if df_global is None or rf_model is None or lr_model is None:
-        raise HTTPException(status_code=400, detail="Models not trained")
+    if df_global is None:
+        raise HTTPException(status_code=400, detail="Data not loaded")
         
-    # Re-evaluate on train set for simplicity in this demo endpoint
-    X_clf = df_encoded_global.drop(columns=['Risk_Level', 'Product_ID'], errors='ignore')
-    y_clf = df_encoded_global['Risk_Level']
-    acc = accuracy_score(y_clf, rf_model.predict(X_clf))
+    cols_lower = {c.lower(): c for c in df_encoded_global.columns}
+    risk_col = cols_lower.get('risk_level', cols_lower.get('risk', None))
+    sales_col = cols_lower.get('sales_volume', cols_lower.get('sales', None))
     
-    X_reg = df_encoded_global.drop(columns=['Sales_Volume', 'Product_ID', 'Risk_Level'], errors='ignore')
-    y_reg = df_encoded_global['Sales_Volume']
-    r2 = r2_score(y_reg, lr_model.predict(X_reg))
+    acc = 0.0
+    r2 = 0.0
+    
+    # Re-evaluate on train set for simplicity in this demo endpoint
+    if rf_model and risk_col:
+        X_clf = df_encoded_global.drop(columns=[risk_col, 'Product_ID'], errors='ignore')
+        y_clf = df_encoded_global[risk_col]
+        acc = accuracy_score(y_clf, rf_model.predict(X_clf))
+        
+    if lr_model and sales_col:
+        X_reg = df_encoded_global.drop(columns=[sales_col, 'Product_ID', risk_col] if risk_col else [sales_col, 'Product_ID'], errors='ignore')
+        y_reg = df_encoded_global[sales_col]
+        r2 = r2_score(y_reg, lr_model.predict(X_reg))
     
     return {
-        "classification_accuracy": round(acc * 100, 1),
-        "regression_r2": round(r2, 3),
-        "recommendation": "Models are highly accurate and ready for prescriptive analytics."
+        "classification_accuracy": round(acc * 100, 1) if acc > 0 else "--",
+        "regression_r2": round(r2, 3) if r2 != 0.0 else "--",
+        "recommendation": "Models are ready." if rf_model and lr_model else "Some models could not be trained due to missing target columns (Risk/Sales)."
     }
 
 @app.post("/api/upload")
@@ -161,4 +181,4 @@ async def upload_dataset(file: UploadFile = File(...)):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8001)
