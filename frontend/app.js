@@ -14,6 +14,9 @@ async function fetchStats() {
     }
 }
 
+let categoryChartInstance = null;
+let riskChartInstance = null;
+
 async function renderCategorySalesChart() {
     try {
         const res = await fetch(`${API_BASE}/charts/category-sales`);
@@ -70,8 +73,11 @@ async function renderCategorySalesChart() {
             }
         };
 
-        var chart = new ApexCharts(document.querySelector("#chart-category-sales"), options);
-        chart.render();
+        if (categoryChartInstance) {
+            categoryChartInstance.destroy();
+        }
+        categoryChartInstance = new ApexCharts(document.querySelector("#chart-category-sales"), options);
+        categoryChartInstance.render();
     } catch (e) {
         console.error("Error rendering category sales chart", e);
     }
@@ -116,8 +122,11 @@ async function renderRiskDistributionChart() {
             tooltip: { theme: 'dark' }
         };
 
-        var chart = new ApexCharts(document.querySelector("#chart-risk-dist"), options);
-        chart.render();
+        if (riskChartInstance) {
+            riskChartInstance.destroy();
+        }
+        riskChartInstance = new ApexCharts(document.querySelector("#chart-risk-dist"), options);
+        riskChartInstance.render();
     } catch (e) {
         console.error("Error rendering risk distribution chart", e);
     }
