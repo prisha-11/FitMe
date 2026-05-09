@@ -148,4 +148,13 @@ document.addEventListener('DOMContentLoaded', () => {
     renderCategorySalesChart();
     renderRiskDistributionChart();
     fetchMLEvaluation();
+
+    // Setup sidebar interactions
+    const navItems = document.querySelectorAll('.nav-item');
+    navItems.forEach(item => {
+        item.addEventListener('click', function(e) {
+            navItems.forEach(nav => nav.classList.remove('active'));
+            this.classList.add('active');
+        });
+    });
 });
