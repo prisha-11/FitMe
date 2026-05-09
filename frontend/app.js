@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8082/api';
+const API_BASE = 'http://localhost:8083/api';
 
 async function fetchStats() {
     try {
@@ -253,4 +253,45 @@ document.addEventListener('DOMContentLoaded', () => {
             alert("An error occurred during upload.");
         }
     });
+    // Setup Web Scraper
+    const scrapeBtn = document.getElementById('scrape-btn');
+    if (scrapeBtn) {
+        scrapeBtn.addEventListener('click', async () => {
+            const product = document.getElementById('scrape-product').value;
+            const price = parseFloat(document.getElementById('scrape-price').value);
+            
+            if (!product || isNaN(price)) {
+                alert("Please enter both a product name and our current price.");
+                return;
+            }
+            
+            const originalText = scrapeBtn.innerHTML;
+            scrapeBtn.innerHTML = `Scraping...`;
+            
+            try {
+                const res = await fetch(`${API_BASE}/scrape`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ product_name: product, our_price: price })
+                });
+                
+                const data = await res.json();
+                
+                document.getElementById('scrape-results').style.display = 'block';
+                
+                if (res.ok) {
+                    document.getElementById('comp-avg-price').innerText = `$${data.competitor_avg.toFixed(2)}`;
+                    document.getElementById('comp-count').innerText = data.items_scraped;
+                    document.getElementById('comp-prescription').innerText = data.prescription;
+                } else {
+                    document.getElementById('comp-prescription').innerText = "Failed to scrape data. Please try another product.";
+                }
+            } catch (err) {
+                console.error(err);
+                alert("Scraping request failed.");
+            }
+            
+            scrapeBtn.innerHTML = originalText;
+        });
+    }
 });

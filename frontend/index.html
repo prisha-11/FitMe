@@ -35,6 +35,10 @@
                     <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
                     Predictive Forecasts
                 </a>
+                <a href="#competitor" class="nav-item" data-target="competitor">
+                    <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                    Competitor Web Scraper
+                </a>
             </nav>
             <div class="system-status">
                 <div class="status-indicator online"></div>
@@ -134,21 +138,55 @@
                     <div class="metric-progress"><div class="progress-fill blue" id="ml-r2-bar" style="width: 0%"></div></div>
                 </div>
 
-            </section>
+            <!-- Recommendations View -->
+        <section id="recommendations" class="view-section ml-grid">
+            <div class="ml-card glass-panel prescriptive-card" style="grid-column: span 2;">
+                <h3>Predictive Forecasts</h3>
+                <p style="color: #94a3b8; margin-bottom: 20px; font-size: 14px;">Top items by predicted demand (based on Linear Regression model)</p>
+                <div id="predictive-list" style="display: flex; flex-direction: column; gap: 15px;">
+                    <!-- Forecasts will be injected here via JS -->
+                    <div style="color: #94a3b8; font-style: italic;">Loading predictive model data...</div>
+                </div>
+            </div>
+        </section>
 
-            <section id="recommendations" class="view-section ml-grid">
-                <div class="ml-card glass-panel prescriptive-card" style="grid-column: span 2;">
-                    <h3>Predictive Forecasts</h3>
-                    <p style="color: #94a3b8; margin-bottom: 20px; font-size: 14px;">Top items by predicted demand (based on Linear Regression model)</p>
-                    <div id="predictive-list" style="display: flex; flex-direction: column; gap: 15px;">
-                        <!-- Forecasts will be injected here via JS -->
-                        <div style="color: #94a3b8; font-style: italic;">Loading predictive model data...</div>
+        <!-- Competitor Web Scraper View -->
+        <section id="competitor" class="view-section ml-grid">
+            <div class="ml-card glass-panel prescriptive-card" style="grid-column: span 2;">
+                <h3>Live Competitor Analysis</h3>
+                <p style="color: #94a3b8; font-size: 14px;">Web-scrape real-time market data to receive dynamic pricing prescriptions.</p>
+                
+                <div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+                    <input type="text" id="scrape-product" placeholder="Product search (e.g. Nike T-Shirt)" style="flex: 1; min-width: 200px; padding: 12px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); background: rgba(0,0,0,0.2); color: white;">
+                    <input type="number" id="scrape-price" placeholder="Our Price ($)" style="width: 140px; padding: 12px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); background: rgba(0,0,0,0.2); color: white;">
+                    <button id="scrape-btn" class="btn primary">
+                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="margin-right: 5px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                        Run Web Scraper
+                    </button>
+                </div>
+                
+                <div id="scrape-results" style="margin-top: 25px; display: none;">
+                    <div style="background: rgba(255,255,255,0.03); border-radius: 8px; padding: 20px; border-left: 4px solid #3b82f6;">
+                        <h4 style="margin: 0 0 15px 0; color: #f8f9fa;">Market Insight</h4>
+                        <div style="display: flex; gap: 40px; margin-bottom: 20px;">
+                            <div>
+                                <div style="color: #94a3b8; font-size: 12px; margin-bottom: 4px;">Competitor Average</div>
+                                <div id="comp-avg-price" style="font-size: 24px; font-weight: bold; color: #f8f9fa;">$--</div>
+                            </div>
+                            <div>
+                                <div style="color: #94a3b8; font-size: 12px; margin-bottom: 4px;">Sites Scraped</div>
+                                <div id="comp-count" style="font-size: 24px; font-weight: bold; color: #f8f9fa;">--</div>
+                            </div>
+                        </div>
+                        <h4 style="margin: 0 0 10px 0; color: #f8f9fa;">Prescriptive Action</h4>
+                        <p id="comp-prescription" style="color: #a78bfa; margin: 0; line-height: 1.5;"></p>
                     </div>
                 </div>
-            </section>
+            </div>
+        </section>
         </main>
     </div>
     
-    <script src="app.js?v=6"></script>
+    <script src="app.js?v=8"></script>
 </body>
 </html>
