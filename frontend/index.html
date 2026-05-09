@@ -33,7 +33,7 @@
                 </a>
                 <a href="#recommendations" class="nav-item" data-target="recommendations">
                     <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
-                    Recommendations
+                    Predictive Forecasts
                 </a>
             </nav>
             <div class="system-status">
@@ -50,6 +50,7 @@
                     <p>Real-time ML-driven prescriptive analytics</p>
                 </div>
                 <div class="header-actions">
+                    <span id="current-file-name" style="color: #94a3b8; font-size: 14px; margin-right: 15px; font-weight: 500;">clothes_inventory.csv</span>
                     <label for="csv-upload" class="upload-btn">
                         <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
                         Upload CSV
@@ -137,35 +138,17 @@
 
             <section id="recommendations" class="view-section ml-grid">
                 <div class="ml-card glass-panel prescriptive-card" style="grid-column: span 2;">
-                    <h3>Prescriptive Recommendations</h3>
-                    <ul class="action-list">
-                        <li class="action-item danger">
-                            <div class="action-icon">!</div>
-                            <div class="action-text">
-                                <strong>High Risk Products</strong>
-                                <p>Apply 20-30% discounts immediately. Halt reorders.</p>
-                            </div>
-                        </li>
-                        <li class="action-item warning">
-                            <div class="action-icon">~</div>
-                            <div class="action-text">
-                                <strong>Medium Risk Products</strong>
-                                <p>Bundle with top-selling items to move stock.</p>
-                            </div>
-                        </li>
-                        <li class="action-item success">
-                            <div class="action-icon">✓</div>
-                            <div class="action-text">
-                                <strong>Low Risk Products</strong>
-                                <p>Increase marketing spend. Expedite next shipment.</p>
-                            </div>
-                        </li>
-                    </ul>
+                    <h3>Predictive Forecasts</h3>
+                    <p style="color: #94a3b8; margin-bottom: 20px; font-size: 14px;">Top items by predicted demand (based on Linear Regression model)</p>
+                    <div id="predictive-list" style="display: flex; flex-direction: column; gap: 15px;">
+                        <!-- Forecasts will be injected here via JS -->
+                        <div style="color: #94a3b8; font-style: italic;">Loading predictive model data...</div>
+                    </div>
                 </div>
             </section>
         </main>
     </div>
     
-    <script src="app.js?v=4"></script>
+    <script src="app.js?v=6"></script>
 </body>
 </html>

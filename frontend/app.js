@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8081/api';
+const API_BASE = 'http://localhost:8082/api';
 
 async function fetchStats() {
     try {
@@ -151,12 +151,45 @@ async function fetchMLEvaluation() {
     }
 }
 
+async function fetchPredictions() {
+    try {
+        const res = await fetch(`${API_BASE}/models/predictions`);
+        const data = await res.json();
+        
+        const listDiv = document.getElementById('predictive-list');
+        listDiv.innerHTML = '';
+        
+        if (!data.predictions || data.predictions.length === 0) {
+            listDiv.innerHTML = '<div style="color: #ef4444; font-style: italic;">Unable to generate forecasts. Check dataset columns.</div>';
+            return;
+        }
+        
+        data.predictions.forEach((item, index) => {
+            const html = `
+                <div style="display: flex; justify-content: space-between; align-items: center; padding: 12px 15px; background: rgba(255,255,255,0.03); border-radius: 8px; border-left: 3px solid #8b5cf6;">
+                    <div style="display: flex; align-items: center; gap: 12px;">
+                        <span style="color: #94a3b8; font-weight: bold;">#${index+1}</span>
+                        <span style="color: #f8f9fa; font-weight: 500;">${item.name}</span>
+                    </div>
+                    <div style="color: #10b981; font-weight: bold;">
+                        +${item.prediction} <span style="font-size: 12px; color: #94a3b8; font-weight: normal;">Units</span>
+                    </div>
+                </div>
+            `;
+            listDiv.innerHTML += html;
+        });
+    } catch (e) {
+        console.error("Error fetching predictions", e);
+    }
+}
+
 // Initialize Dashboard
 document.addEventListener('DOMContentLoaded', () => {
     fetchStats();
     renderCategorySalesChart();
     renderRiskDistributionChart();
     fetchMLEvaluation();
+    fetchPredictions();
 
     // Setup sidebar interactions
     const navItems = document.querySelectorAll('.nav-item');
@@ -184,18 +217,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Setup CSV Upload
     const uploadInput = document.getElementById('csv-upload');
+    const uploadBtn = document.querySelector('.upload-btn');
     uploadInput.addEventListener('change', async function(e) {
         const file = e.target.files[0];
         if (!file) return;
 
+        document.getElementById('current-file-name').innerText = file.name;
+        const originalText = uploadBtn.innerHTML;
         const formData = new FormData();
         formData.append("file", file);
 
         try {
             // Optional: Show loading state on button
-            const btnLabel = document.querySelector('.upload-btn');
-            const originalText = btnLabel.innerHTML;
-            btnLabel.innerHTML = `Uploading...`;
+            uploadBtn.innerHTML = `Uploading...`;
 
             const res = await fetch(`${API_BASE}/upload`, {
                 method: 'POST',
@@ -208,11 +242,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 renderCategorySalesChart();
                 renderRiskDistributionChart();
                 fetchMLEvaluation();
+                fetchPredictions();
                 alert("Dataset uploaded and models retrained successfully!");
             } else {
                 alert("Failed to upload dataset.");
             }
-            btnLabel.innerHTML = originalText;
+            uploadBtn.innerHTML = originalText;
         } catch (err) {
             console.error("Upload error:", err);
             alert("An error occurred during upload.");

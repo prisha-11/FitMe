@@ -200,6 +200,38 @@ def get_model_evaluation():
         "recommendation": "Models are ready." if rf_model and lr_model else "Some models could not be trained due to missing target columns (Risk/Sales)."
     }
 
+@app.get("/api/models/predictions")
+def get_predictions():
+    if df_global is None or lr_model is None:
+        return {"predictions": []}
+        
+    sales_col = find_col(df_encoded_global, ['sales', 'volume', 'qty', 'quantity'])
+    risk_col = find_col(df_encoded_global, ['risk', 'status'])
+    cat_col = find_col(df_global, ['category', 'type', 'brand', 'product', 'name', 'item'])
+    
+    if not sales_col: return {"predictions": []}
+    
+    X_reg = df_encoded_global.drop(columns=[sales_col, 'Product_ID', risk_col] if risk_col else [sales_col, 'Product_ID'], errors='ignore')
+    
+    try:
+        preds = lr_model.predict(X_reg)
+        df_pred = df_global.copy()
+        df_pred['Predicted_Value'] = preds
+        
+        top_items = df_pred.sort_values(by='Predicted_Value', ascending=False).head(5)
+        
+        results = []
+        for i, row in top_items.iterrows():
+            name = str(row[cat_col]) if cat_col else f"Item #{i}"
+            results.append({
+                "name": name,
+                "prediction": round(float(row['Predicted_Value']), 1)
+            })
+            
+        return {"predictions": results}
+    except Exception as e:
+        return {"predictions": []}
+
 @app.post("/api/upload")
 async def upload_dataset(file: UploadFile = File(...)):
     global DATA_PATH
@@ -219,4 +251,4 @@ async def upload_dataset(file: UploadFile = File(...)):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8081)
+    uvicorn.run(app, host="0.0.0.0", port=8082)
