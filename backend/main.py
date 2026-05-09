@@ -69,11 +69,8 @@ def load_and_preprocess():
     df_encoded_global = df_encoded
     
     # Train Models
-    # Try to find target columns heuristically if exact names don't exist
-    cols_lower = {c.lower(): c for c in df_encoded.columns}
-    
-    risk_col = cols_lower.get('risk_level', cols_lower.get('risk', None))
-    sales_col = cols_lower.get('sales_volume', cols_lower.get('sales', None))
+    risk_col = find_col(df_encoded, ['risk', 'status'])
+    sales_col = find_col(df_encoded, ['sales', 'volume', 'qty', 'quantity'])
     
     # 1. Classification (Risk_Level)
     if risk_col:
@@ -180,9 +177,8 @@ def get_model_evaluation():
     if df_global is None:
         raise HTTPException(status_code=400, detail="Data not loaded")
         
-    cols_lower = {c.lower(): c for c in df_encoded_global.columns}
-    risk_col = cols_lower.get('risk_level', cols_lower.get('risk', None))
-    sales_col = cols_lower.get('sales_volume', cols_lower.get('sales', None))
+    risk_col = find_col(df_encoded_global, ['risk', 'status'])
+    sales_col = find_col(df_encoded_global, ['sales', 'volume', 'qty', 'quantity'])
     
     acc = 0.0
     r2 = 0.0
@@ -223,4 +219,4 @@ async def upload_dataset(file: UploadFile = File(...)):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8080)
+    uvicorn.run(app, host="0.0.0.0", port=8081)
