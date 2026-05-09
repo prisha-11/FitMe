@@ -27,6 +27,16 @@ encoders_global = {}
 rf_model = None
 lr_model = None
 
+def find_col(df, keywords):
+    if df is None: return None
+    cols_lower = {c.lower(): c for c in df.columns}
+    for kw in keywords:
+        for c_lower, c_actual in cols_lower.items():
+            if kw in c_lower:
+                return c_actual
+    # Fallback to first text/numeric column depending on keyword if absolutely necessary, but safer to return None
+    return None
+
 def load_and_preprocess():
     global df_global, df_encoded_global, encoders_global, rf_model, lr_model
     if not os.path.exists(DATA_PATH):
@@ -90,10 +100,14 @@ def get_dashboard_stats():
     if df_global is None:
         raise HTTPException(status_code=404, detail="Data not loaded")
     
+    price_col = find_col(df_global, ['price', 'cost'])
+    sales_col = find_col(df_global, ['sales', 'volume', 'qty', 'quantity'])
+    risk_col = find_col(df_global, ['risk'])
+    
     total_products = len(df_global)
-    avg_price = float(df_global['Price'].mean())
-    total_sales = int(df_global['Sales_Volume'].sum())
-    high_risk_count = int(len(df_global[df_global['Risk_Level'] == 'High']))
+    avg_price = float(df_global[price_col].mean()) if price_col else 0.0
+    total_sales = int(df_global[sales_col].sum()) if sales_col else 0
+    high_risk_count = int(len(df_global[df_global[risk_col].astype(str).str.contains('High|Critical|Bad', case=False, na=False)])) if risk_col else 0
     
     return {
         "total_products": total_products,
@@ -106,19 +120,47 @@ def get_dashboard_stats():
 def get_category_sales():
     if df_global is None:
         return []
-    cat_sales = df_global.groupby("Category")["Sales_Volume"].sum().reset_index()
+        
+    cat_col = find_col(df_global, ['category', 'type', 'brand', 'product'])
+    sales_col = find_col(df_global, ['sales', 'volume', 'qty', 'quantity'])
+    
+    if not cat_col or not sales_col:
+        # Fallback to just returning first categorical vs first numerical
+        cat_cols = df_global.select_dtypes(exclude=np.number).columns
+        num_cols = df_global.select_dtypes(include=np.number).columns
+        if len(cat_cols) > 0 and len(num_cols) > 0:
+            cat_col, sales_col = cat_cols[0], num_cols[0]
+        else:
+            return {"labels": [], "series": []}
+            
+    cat_sales = df_global.groupby(cat_col)[sales_col].sum().reset_index()
     return {
-        "labels": cat_sales["Category"].tolist(),
-        "series": cat_sales["Sales_Volume"].tolist()
+        "labels": cat_sales[cat_col].astype(str).tolist(),
+        "series": cat_sales[sales_col].tolist()
     }
 
 @app.get("/api/charts/risk-distribution")
 def get_risk_distribution():
     if df_global is None:
         return []
-    risk_counts = df_global["Risk_Level"].value_counts().reset_index()
+        
+    risk_col = find_col(df_global, ['risk', 'status'])
+    if not risk_col:
+        # Fallback to first categorical column with few unique values
+        cat_cols = df_global.select_dtypes(exclude=np.number).columns
+        for c in cat_cols:
+            if df_global[c].nunique() <= 5:
+                risk_col = c
+                break
+        if not risk_col and len(cat_cols) > 0:
+            risk_col = cat_cols[0]
+        else:
+            return {"labels": [], "series": []}
+            
+    risk_counts = df_global[risk_col].value_counts().reset_index()
+    risk_counts.columns = ['Risk_Level', 'count']
     return {
-        "labels": risk_counts["Risk_Level"].tolist(),
+        "labels": risk_counts["Risk_Level"].astype(str).tolist(),
         "series": risk_counts["count"].tolist()
     }
 
@@ -181,4 +223,4 @@ async def upload_dataset(file: UploadFile = File(...)):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8001)
+    uvicorn.run(app, host="0.0.0.0", port=8080)

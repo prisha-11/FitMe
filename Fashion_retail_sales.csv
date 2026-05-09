@@ -1,0 +1,3268 @@
+﻿Year,Quarter,Month,Day,Item Purchased,Count of Customer Reference ID,Payment Method,Sum of Review Rating,Sum of Purchase Amount (USD)
+2022,Qtr 4,October,2,Belt,1,Credit Card,4,130
+2022,Qtr 4,October,2,Blouse,1,Cash,2,126
+2022,Qtr 4,October,2,Handbag,2,Credit Card,6,74
+2022,Qtr 4,October,2,Loafers,1,Credit Card,2,157
+2022,Qtr 4,October,2,Polo Shirt,1,Credit Card,2,200
+2022,Qtr 4,October,2,Raincoat,1,Credit Card,4,193
+2022,Qtr 4,October,2,Tank Top,1,Cash,2,99
+2022,Qtr 4,October,2,T-shirt,1,Cash,3,157
+2022,Qtr 4,October,3,Blazer,1,Credit Card,4,133
+2022,Qtr 4,October,3,Bowtie,1,Credit Card,2,22
+2022,Qtr 4,October,3,Flip-Flops,1,Cash,4,157
+2022,Qtr 4,October,3,Flip-Flops,1,Credit Card,3,130
+2022,Qtr 4,October,3,Hoodie,1,Cash,4,62
+2022,Qtr 4,October,3,Onesie,1,Credit Card,3,157
+2022,Qtr 4,October,3,Poncho,1,Cash,2,14
+2022,Qtr 4,October,3,Skirt,1,Cash,3,44
+2022,Qtr 4,October,3,Sneakers,1,Credit Card,5,157
+2022,Qtr 4,October,3,Socks,1,Cash,2,148
+2022,Qtr 4,October,3,Sunglasses,1,Credit Card,2,32
+2022,Qtr 4,October,3,Tank Top,1,Cash,3,40
+2022,Qtr 4,October,3,T-shirt,1,Cash,4,191
+2022,Qtr 4,October,3,Vest,1,Cash,5,83
+2022,Qtr 4,October,3,Vest,1,Credit Card,3,30
+2022,Qtr 4,October,4,Backpack,1,Cash,5,59
+2022,Qtr 4,October,4,Boots,1,Credit Card,4,124
+2022,Qtr 4,October,4,Gloves,1,Credit Card,5,92
+2022,Qtr 4,October,4,Hoodie,1,Cash,3,71
+2022,Qtr 4,October,4,Jacket,1,Cash,4,32
+2022,Qtr 4,October,4,Pajamas,1,Credit Card,3,97
+2022,Qtr 4,October,4,Slippers,1,Credit Card,5,167
+2022,Qtr 4,October,4,Socks,1,Credit Card,3,150
+2022,Qtr 4,October,4,Sun Hat,1,Cash,5,104
+2022,Qtr 4,October,4,Sunglasses,1,Cash,3,175
+2022,Qtr 4,October,4,Trench Coat,1,Credit Card,4,157
+2022,Qtr 4,October,5,Backpack,1,Cash,3,197
+2022,Qtr 4,October,5,Blazer,1,Cash,3,125
+2022,Qtr 4,October,5,Camisole,1,Credit Card,2,51
+2022,Qtr 4,October,5,Flip-Flops,1,Cash,5,200
+2022,Qtr 4,October,5,Overalls,1,Credit Card,5,146
+2022,Qtr 4,October,5,Pajamas,1,Cash,2,62
+2022,Qtr 4,October,5,Pajamas,1,Credit Card,4,70
+2022,Qtr 4,October,5,Pants,1,Credit Card,3,43
+2022,Qtr 4,October,5,Shorts,1,Credit Card,5,157
+2022,Qtr 4,October,5,Skirt,1,Credit Card,4,25
+2022,Qtr 4,October,5,Sun Hat,1,Cash,4,83
+2022,Qtr 4,October,5,Trench Coat,1,Credit Card,2,85
+2022,Qtr 4,October,5,Trousers,1,Credit Card,4,73
+2022,Qtr 4,October,5,Umbrella,1,Credit Card,2,157
+2022,Qtr 4,October,6,Boots,1,Cash,5,97
+2022,Qtr 4,October,6,Coat,1,Cash,3,157
+2022,Qtr 4,October,6,Gloves,1,Cash,3,157
+2022,Qtr 4,October,6,Romper,1,Cash,2,127
+2022,Qtr 4,October,6,Skirt,1,Cash,5,39
+2022,Qtr 4,October,6,Sneakers,1,Credit Card,5,148
+2022,Qtr 4,October,6,Swimsuit,1,Cash,4,157
+2022,Qtr 4,October,7,Backpack,1,Cash,4,13
+2022,Qtr 4,October,7,Belt,1,Credit Card,2,117
+2022,Qtr 4,October,7,Blazer,1,Cash,2,120
+2022,Qtr 4,October,7,Boots,1,Cash,2,88
+2022,Qtr 4,October,7,Coat,1,Credit Card,3,90
+2022,Qtr 4,October,7,Flannel Shirt,1,Cash,4,105
+2022,Qtr 4,October,7,Jumpsuit,1,Credit Card,5,172
+2022,Qtr 4,October,7,Leggings,1,Credit Card,4,45
+2022,Qtr 4,October,7,Onesie,1,Cash,4,30
+2022,Qtr 4,October,7,Onesie,1,Credit Card,3,142
+2022,Qtr 4,October,7,Skirt,1,Credit Card,3,39
+2022,Qtr 4,October,7,Sneakers,1,Credit Card,3,146
+2022,Qtr 4,October,7,Tank Top,1,Credit Card,3,127
+2022,Qtr 4,October,7,Vest,1,Cash,5,19
+2022,Qtr 4,October,7,Vest,1,Credit Card,3,107
+2022,Qtr 4,October,8,Backpack,1,Cash,4,150
+2022,Qtr 4,October,8,Flip-Flops,1,Cash,4,136
+2022,Qtr 4,October,8,Jeans,1,Cash,4,157
+2022,Qtr 4,October,8,Jumpsuit,1,Cash,3,27
+2022,Qtr 4,October,8,Leggings,1,Credit Card,3,157
+2022,Qtr 4,October,8,Onesie,1,Credit Card,5,157
+2022,Qtr 4,October,8,Sandals,2,Cash,7,285
+2022,Qtr 4,October,8,Sneakers,1,Credit Card,3,76
+2022,Qtr 4,October,8,Socks,1,Cash,3,43
+2022,Qtr 4,October,8,Sun Hat,1,Cash,3,73
+2022,Qtr 4,October,8,Sunglasses,1,Cash,2,11
+2022,Qtr 4,October,8,Sunglasses,2,Credit Card,8,314
+2022,Qtr 4,October,9,Belt,1,Cash,4,170
+2022,Qtr 4,October,9,Belt,1,Credit Card,5,121
+2022,Qtr 4,October,9,Blazer,1,Credit Card,3,143
+2022,Qtr 4,October,9,Coat,1,Credit Card,4,49
+2022,Qtr 4,October,9,Hoodie,1,Credit Card,3,75
+2022,Qtr 4,October,9,Trousers,1,Cash,3,183
+2022,Qtr 4,October,9,Umbrella,1,Credit Card,3,157
+2022,Qtr 4,October,9,Wallet,1,Cash,5,93
+2022,Qtr 4,October,10,Blazer,1,Credit Card,2,142
+2022,Qtr 4,October,10,Handbag,1,Cash,5,192
+2022,Qtr 4,October,10,Jacket,1,Credit Card,5,35
+2022,Qtr 4,October,10,Leggings,1,Cash,5,33
+2022,Qtr 4,October,10,Overalls,1,Credit Card,3,98
+2022,Qtr 4,October,10,Polo Shirt,1,Cash,2,157
+2022,Qtr 4,October,10,Raincoat,2,Cash,9,214
+2022,Qtr 4,October,10,Tank Top,1,Cash,4,174
+2022,Qtr 4,October,10,Tie,1,Credit Card,4,144
+2022,Qtr 4,October,10,Trench Coat,2,Cash,7,259
+2022,Qtr 4,October,10,Trench Coat,1,Credit Card,5,116
+2022,Qtr 4,October,10,T-shirt,1,Credit Card,4,193
+2022,Qtr 4,October,11,Backpack,1,Credit Card,2,27
+2022,Qtr 4,October,11,Belt,1,Cash,5,30
+2022,Qtr 4,October,11,Belt,1,Credit Card,4,42
+2022,Qtr 4,October,11,Camisole,1,Credit Card,5,135
+2022,Qtr 4,October,11,Hoodie,1,Credit Card,5,2653
+2022,Qtr 4,October,11,Pants,2,Credit Card,7,211
+2022,Qtr 4,October,11,Shorts,1,Credit Card,5,104
+2022,Qtr 4,October,11,Socks,1,Credit Card,2,157
+2022,Qtr 4,October,11,Trench Coat,1,Credit Card,5,116
+2022,Qtr 4,October,11,Vest,1,Credit Card,3,10
+2022,Qtr 4,October,12,Blouse,1,Cash,2,128
+2022,Qtr 4,October,12,Coat,1,Credit Card,3,123
+2022,Qtr 4,October,12,Pajamas,1,Credit Card,3,157
+2022,Qtr 4,October,12,Raincoat,1,Credit Card,3,125
+2022,Qtr 4,October,12,Trousers,1,Credit Card,2,106
+2022,Qtr 4,October,12,T-shirt,1,Cash,3,31
+2022,Qtr 4,October,13,Blazer,1,Credit Card,5,151
+2022,Qtr 4,October,13,Flip-Flops,1,Cash,4,183
+2022,Qtr 4,October,13,Hoodie,1,Credit Card,2,179
+2022,Qtr 4,October,13,Kimono,1,Credit Card,4,161
+2022,Qtr 4,October,13,Loafers,1,Cash,2,13
+2022,Qtr 4,October,13,Onesie,1,Credit Card,4,70
+2022,Qtr 4,October,13,Polo Shirt,1,Credit Card,5,157
+2022,Qtr 4,October,13,Romper,1,Cash,4,157
+2022,Qtr 4,October,13,Wallet,1,Credit Card,4,129
+2022,Qtr 4,October,14,Blazer,1,Credit Card,4,47
+2022,Qtr 4,October,14,Camisole,1,Cash,5,102
+2022,Qtr 4,October,14,Polo Shirt,1,Credit Card,4,50
+2022,Qtr 4,October,14,Sneakers,2,Cash,9,333
+2022,Qtr 4,October,14,Socks,1,Credit Card,2,60
+2022,Qtr 4,October,15,Cardigan,1,Cash,2,149
+2022,Qtr 4,October,15,Flip-Flops,1,Credit Card,5,181
+2022,Qtr 4,October,15,Jacket,1,Cash,4,163
+2022,Qtr 4,October,15,Loafers,1,Cash,2,64
+2022,Qtr 4,October,15,Onesie,1,Cash,5,173
+2022,Qtr 4,October,15,Polo Shirt,1,Cash,4,42
+2022,Qtr 4,October,15,Poncho,1,Credit Card,4,170
+2022,Qtr 4,October,15,Romper,1,Cash,2,157
+2022,Qtr 4,October,15,Scarf,1,Cash,2,144
+2022,Qtr 4,October,15,Skirt,1,Cash,5,32
+2022,Qtr 4,October,15,Tank Top,1,Credit Card,5,85
+2022,Qtr 4,October,15,Tie,1,Cash,4,157
+2022,Qtr 4,October,15,Tie,1,Credit Card,4,56
+2022,Qtr 4,October,15,Vest,2,Credit Card,7,164
+2022,Qtr 4,October,16,Hat,1,Cash,4,55
+2022,Qtr 4,October,16,Hat,1,Credit Card,3,59
+2022,Qtr 4,October,16,Jumpsuit,1,Cash,5,149
+2022,Qtr 4,October,16,Kimono,1,Cash,4,25
+2022,Qtr 4,October,16,Romper,1,Credit Card,3,157
+2022,Qtr 4,October,17,Bowtie,1,Credit Card,5,61
+2022,Qtr 4,October,17,Cardigan,1,Credit Card,5,153
+2022,Qtr 4,October,17,Coat,1,Cash,5,157
+2022,Qtr 4,October,17,Hat,1,Credit Card,5,31
+2022,Qtr 4,October,17,Hoodie,2,Cash,10,215
+2022,Qtr 4,October,17,Jacket,1,Cash,3,116
+2022,Qtr 4,October,17,Pants,1,Cash,5,186
+2022,Qtr 4,October,17,Shorts,1,Credit Card,2,160
+2022,Qtr 4,October,17,Slippers,1,Cash,5,157
+2022,Qtr 4,October,17,Swimsuit,1,Credit Card,2,24
+2022,Qtr 4,October,17,Tie,1,Credit Card,4,36
+2022,Qtr 4,October,17,Trench Coat,1,Cash,2,90
+2022,Qtr 4,October,18,Bowtie,1,Cash,4,157
+2022,Qtr 4,October,18,Cardigan,1,Cash,5,157
+2022,Qtr 4,October,18,Handbag,1,Credit Card,3,157
+2022,Qtr 4,October,18,Jumpsuit,1,Credit Card,2,88
+2022,Qtr 4,October,18,Onesie,1,Cash,2,98
+2022,Qtr 4,October,18,Romper,1,Cash,3,157
+2022,Qtr 4,October,18,Shorts,1,Cash,5,157
+2022,Qtr 4,October,18,Tank Top,1,Credit Card,3,33
+2022,Qtr 4,October,18,Trench Coat,1,Credit Card,5,157
+2022,Qtr 4,October,18,Tunic,1,Cash,3,58
+2022,Qtr 4,October,18,Tunic,1,Credit Card,3,80
+2022,Qtr 4,October,18,Umbrella,1,Cash,4,157
+2022,Qtr 4,October,19,Boots,1,Cash,5,18
+2022,Qtr 4,October,19,Dress,1,Cash,4,42
+2022,Qtr 4,October,19,Dress,1,Credit Card,1,31
+2022,Qtr 4,October,19,Leggings,1,Credit Card,3,122
+2022,Qtr 4,October,19,Pajamas,1,Credit Card,2,61
+2022,Qtr 4,October,19,Poncho,1,Credit Card,3,28
+2022,Qtr 4,October,19,Raincoat,1,Credit Card,3,62
+2022,Qtr 4,October,19,Shorts,1,Credit Card,5,143
+2022,Qtr 4,October,19,Swimsuit,1,Cash,4,86
+2022,Qtr 4,October,19,T-shirt,1,Credit Card,3,175
+2022,Qtr 4,October,20,Dress,2,Credit Card,9,321
+2022,Qtr 4,October,20,Sunglasses,1,Cash,3,14
+2022,Qtr 4,October,20,Sunglasses,1,Credit Card,3,34
+2022,Qtr 4,October,20,Trousers,1,Cash,4,189
+2022,Qtr 4,October,21,Camisole,1,Cash,2,14
+2022,Qtr 4,October,21,Dress,1,Cash,2,21
+2022,Qtr 4,October,21,Loafers,1,Credit Card,3,195
+2022,Qtr 4,October,21,Shorts,1,Credit Card,2,67
+2022,Qtr 4,October,21,Vest,1,Cash,3,107
+2022,Qtr 4,October,22,Flip-Flops,2,Cash,6,167
+2022,Qtr 4,October,22,Gloves,1,Cash,4,153
+2022,Qtr 4,October,22,Jumpsuit,1,Cash,4,95
+2022,Qtr 4,October,22,Raincoat,1,Cash,4,157
+2022,Qtr 4,October,22,Shorts,1,Credit Card,2,183
+2022,Qtr 4,October,22,Slippers,1,Cash,4,137
+2022,Qtr 4,October,22,Tank Top,1,Cash,4,134
+2022,Qtr 4,October,22,Tank Top,1,Credit Card,3,49
+2022,Qtr 4,October,22,T-shirt,1,Cash,2,198
+2022,Qtr 4,October,22,Wallet,2,Credit Card,8,256
+2022,Qtr 4,October,23,Backpack,1,Cash,4,157
+2022,Qtr 4,October,23,Flip-Flops,1,Cash,4,157
+2022,Qtr 4,October,23,Hoodie,1,Credit Card,4,157
+2022,Qtr 4,October,23,Onesie,1,Cash,3,13
+2022,Qtr 4,October,23,Pajamas,1,Cash,3,58
+2022,Qtr 4,October,23,Pajamas,1,Credit Card,5,94
+2022,Qtr 4,October,23,Pants,1,Credit Card,5,157
+2022,Qtr 4,October,23,Poncho,1,Credit Card,3,105
+2022,Qtr 4,October,23,Skirt,1,Cash,3,49
+2022,Qtr 4,October,23,Slippers,1,Cash,2,116
+2022,Qtr 4,October,23,Sun Hat,1,Credit Card,5,143
+2022,Qtr 4,October,23,Tunic,1,Credit Card,3,178
+2022,Qtr 4,October,23,Wallet,1,Credit Card,5,172
+2022,Qtr 4,October,24,Backpack,1,Credit Card,4,57
+2022,Qtr 4,October,24,Blazer,1,Credit Card,3,22
+2022,Qtr 4,October,24,Flannel Shirt,1,Cash,5,157
+2022,Qtr 4,October,24,Overalls,1,Cash,4,49
+2022,Qtr 4,October,24,Socks,1,Credit Card,2,77
+2022,Qtr 4,October,24,Tank Top,1,Credit Card,3,40
+2022,Qtr 4,October,24,Trousers,1,Credit Card,3,130
+2022,Qtr 4,October,24,Tunic,1,Cash,3,159
+2022,Qtr 4,October,25,Backpack,1,Cash,3,140
+2022,Qtr 4,October,25,Blazer,1,Credit Card,3,4232
+2022,Qtr 4,October,25,Blouse,1,Cash,2,157
+2022,Qtr 4,October,25,Camisole,1,Credit Card,3,157
+2022,Qtr 4,October,25,Hat,1,Credit Card,3,54
+2022,Qtr 4,October,25,Kimono,1,Cash,2,162
+2022,Qtr 4,October,25,Loafers,1,Credit Card,4,157
+2022,Qtr 4,October,25,Pants,1,Credit Card,2,185
+2022,Qtr 4,October,25,Raincoat,1,Cash,3,33
+2022,Qtr 4,October,25,Sandals,1,Credit Card,2,181
+2022,Qtr 4,October,25,Sweater,1,Cash,5,99
+2022,Qtr 4,October,25,Swimsuit,1,Credit Card,5,79
+2022,Qtr 4,October,25,Trousers,1,Cash,3,157
+2022,Qtr 4,October,25,Umbrella,1,Credit Card,5,197
+2022,Qtr 4,October,26,Blouse,2,Credit Card,5,198
+2022,Qtr 4,October,26,Jumpsuit,1,Cash,3,81
+2022,Qtr 4,October,26,Skirt,1,Credit Card,3,157
+2022,Qtr 4,October,26,Slippers,1,Credit Card,4,31
+2022,Qtr 4,October,26,Sun Hat,1,Credit Card,5,157
+2022,Qtr 4,October,26,Umbrella,1,Cash,5,157
+2022,Qtr 4,October,27,Backpack,1,Credit Card,2,160
+2022,Qtr 4,October,27,Blazer,1,Cash,2,36
+2022,Qtr 4,October,27,Flip-Flops,1,Cash,4,157
+2022,Qtr 4,October,27,Gloves,1,Credit Card,4,17
+2022,Qtr 4,October,27,Hat,1,Cash,4,169
+2022,Qtr 4,October,27,Jacket,1,Credit Card,5,157
+2022,Qtr 4,October,27,Onesie,1,Credit Card,2,102
+2022,Qtr 4,October,27,Pants,1,Cash,3,176
+2022,Qtr 4,October,27,Raincoat,1,Cash,3,157
+2022,Qtr 4,October,27,Scarf,1,Cash,3,169
+2022,Qtr 4,October,27,Sneakers,1,Credit Card,3,16
+2022,Qtr 4,October,27,Sweater,1,Credit Card,3,48
+2022,Qtr 4,October,27,T-shirt,1,Cash,4,132
+2022,Qtr 4,October,28,Blouse,1,Cash,2,96
+2022,Qtr 4,October,28,Cardigan,1,Credit Card,3,19
+2022,Qtr 4,October,28,Dress,1,Cash,5,180
+2022,Qtr 4,October,28,Handbag,1,Cash,2,182
+2022,Qtr 4,October,28,Jacket,1,Credit Card,2,153
+2022,Qtr 4,October,28,Jeans,1,Credit Card,3,72
+2022,Qtr 4,October,28,Jumpsuit,1,Credit Card,3,97
+2022,Qtr 4,October,28,Pants,1,Credit Card,4,121
+2022,Qtr 4,October,28,Shorts,1,Credit Card,2,40
+2022,Qtr 4,October,28,Umbrella,1,Credit Card,3,188
+2022,Qtr 4,October,28,Wallet,1,Credit Card,2,62
+2022,Qtr 4,October,29,Belt,1,Cash,4,145
+2022,Qtr 4,October,29,Blazer,1,Cash,4,66
+2022,Qtr 4,October,29,Blazer,1,Credit Card,3,29
+2022,Qtr 4,October,29,Flannel Shirt,1,Cash,4,164
+2022,Qtr 4,October,29,Jeans,1,Cash,5,157
+2022,Qtr 4,October,29,Skirt,1,Credit Card,5,157
+2022,Qtr 4,October,29,T-shirt,1,Cash,4,97
+2022,Qtr 4,October,30,Belt,1,Credit Card,3,135
+2022,Qtr 4,October,30,Boots,1,Credit Card,5,157
+2022,Qtr 4,October,30,Gloves,1,Credit Card,3,189
+2022,Qtr 4,October,30,Kimono,1,Cash,5,157
+2022,Qtr 4,October,30,Pajamas,1,Cash,5,157
+2022,Qtr 4,October,30,Socks,1,Cash,4,22
+2022,Qtr 4,October,30,Swimsuit,1,Cash,1,55
+2022,Qtr 4,October,31,Cardigan,1,Cash,2,92
+2022,Qtr 4,October,31,Flannel Shirt,1,Cash,3,188
+2022,Qtr 4,October,31,Flip-Flops,1,Cash,2,27
+2022,Qtr 4,October,31,Kimono,1,Cash,3,117
+2022,Qtr 4,October,31,Leggings,1,Credit Card,2,17
+2022,Qtr 4,October,31,Overalls,1,Credit Card,4,157
+2022,Qtr 4,October,31,Pants,1,Cash,4,105
+2022,Qtr 4,October,31,Sandals,1,Cash,5,49
+2022,Qtr 4,October,31,Sandals,1,Credit Card,5,81
+2022,Qtr 4,October,31,Shorts,1,Cash,2,170
+2022,Qtr 4,October,31,Socks,1,Credit Card,5,67
+2022,Qtr 4,October,31,Tank Top,1,Cash,4,157
+2022,Qtr 4,October,31,Wallet,1,Cash,3,21
+2022,Qtr 4,November,1,Boots,1,Credit Card,3,181
+2022,Qtr 4,November,1,Flannel Shirt,1,Cash,4,64
+2022,Qtr 4,November,1,Jeans,1,Credit Card,5,116
+2022,Qtr 4,November,1,Leggings,1,Cash,5,157
+2022,Qtr 4,November,1,Loafers,1,Credit Card,2,144
+2022,Qtr 4,November,1,Pajamas,1,Credit Card,5,23
+2022,Qtr 4,November,1,Poncho,1,Cash,3,157
+2022,Qtr 4,November,1,Socks,1,Credit Card,2,37
+2022,Qtr 4,November,2,Backpack,1,Cash,4,40
+2022,Qtr 4,November,2,Bowtie,1,Credit Card,3,70
+2022,Qtr 4,November,2,Jeans,1,Cash,5,80
+2022,Qtr 4,November,2,Jumpsuit,1,Credit Card,3,114
+2022,Qtr 4,November,2,Romper,1,Credit Card,2,142
+2022,Qtr 4,November,2,Sneakers,2,Credit Card,6,269
+2022,Qtr 4,November,2,Tank Top,1,Credit Card,4,42
+2022,Qtr 4,November,2,Trousers,1,Cash,5,66
+2022,Qtr 4,November,3,Blouse,1,Credit Card,3,157
+2022,Qtr 4,November,3,Handbag,1,Credit Card,3,130
+2022,Qtr 4,November,3,Hat,1,Cash,2,54
+2022,Qtr 4,November,3,Pants,1,Cash,2,45
+2022,Qtr 4,November,3,Scarf,2,Cash,9,320
+2022,Qtr 4,November,3,Shorts,1,Cash,5,179
+2022,Qtr 4,November,3,Socks,1,Credit Card,2,102
+2022,Qtr 4,November,3,Trench Coat,1,Credit Card,4,13
+2022,Qtr 4,November,3,Wallet,1,Cash,3,160
+2022,Qtr 4,November,4,Blazer,1,Credit Card,3,39
+2022,Qtr 4,November,4,Camisole,1,Cash,5,147
+2022,Qtr 4,November,4,Jumpsuit,1,Credit Card,5,130
+2022,Qtr 4,November,4,Loafers,1,Credit Card,2,158
+2022,Qtr 4,November,4,Pants,1,Cash,4,23
+2022,Qtr 4,November,4,Raincoat,1,Cash,4,197
+2022,Qtr 4,November,4,Sandals,1,Cash,3,47
+2022,Qtr 4,November,4,Sun Hat,1,Cash,5,56
+2022,Qtr 4,November,4,T-shirt,1,Credit Card,2,157
+2022,Qtr 4,November,5,Bowtie,1,Credit Card,2,157
+2022,Qtr 4,November,5,Cardigan,1,Cash,2,122
+2022,Qtr 4,November,5,Jeans,1,Cash,2,148
+2022,Qtr 4,November,5,Loafers,1,Cash,3,198
+2022,Qtr 4,November,5,Onesie,1,Cash,5,157
+2022,Qtr 4,November,5,Polo Shirt,1,Credit Card,4,167
+2022,Qtr 4,November,5,Scarf,1,Cash,2,66
+2022,Qtr 4,November,5,Shorts,1,Cash,4,89
+2022,Qtr 4,November,5,Sweater,1,Credit Card,4,128
+2022,Qtr 4,November,5,T-shirt,1,Credit Card,4,99
+2022,Qtr 4,November,6,Backpack,1,Credit Card,2,175
+2022,Qtr 4,November,6,Sandals,1,Cash,2,159
+2022,Qtr 4,November,6,Shorts,1,Credit Card,5,21
+2022,Qtr 4,November,6,Slippers,1,Credit Card,5,58
+2022,Qtr 4,November,6,Sneakers,1,Credit Card,1,164
+2022,Qtr 4,November,6,Socks,1,Cash,3,195
+2022,Qtr 4,November,7,Boots,1,Credit Card,5,157
+2022,Qtr 4,November,7,Gloves,1,Credit Card,2,54
+2022,Qtr 4,November,7,Hat,1,Cash,3,19
+2022,Qtr 4,November,7,Jumpsuit,1,Cash,3,157
+2022,Qtr 4,November,7,Overalls,1,Credit Card,4,19
+2022,Qtr 4,November,7,Polo Shirt,1,Cash,5,117
+2022,Qtr 4,November,7,Poncho,1,Cash,3,107
+2022,Qtr 4,November,7,Sandals,2,Cash,10,206
+2022,Qtr 4,November,7,Sun Hat,1,Cash,5,118
+2022,Qtr 4,November,7,Tunic,1,Credit Card,1,155
+2022,Qtr 4,November,8,Coat,1,Cash,3,53
+2022,Qtr 4,November,8,Gloves,1,Cash,5,157
+2022,Qtr 4,November,8,Hoodie,1,Cash,3,157
+2022,Qtr 4,November,8,Jeans,1,Cash,4,105
+2022,Qtr 4,November,8,Overalls,1,Credit Card,2,157
+2022,Qtr 4,November,8,Pajamas,1,Credit Card,2,159
+2022,Qtr 4,November,8,Polo Shirt,1,Credit Card,5,197
+2022,Qtr 4,November,8,Swimsuit,1,Cash,4,119
+2022,Qtr 4,November,8,Tunic,1,Cash,3,101
+2022,Qtr 4,November,8,Tunic,1,Credit Card,4,126
+2022,Qtr 4,November,9,Blazer,1,Cash,3,110
+2022,Qtr 4,November,9,Gloves,1,Credit Card,3,44
+2022,Qtr 4,November,9,Jacket,1,Credit Card,4,141
+2022,Qtr 4,November,9,Jumpsuit,1,Credit Card,5,172
+2022,Qtr 4,November,9,Leggings,1,Credit Card,4,23
+2022,Qtr 4,November,9,Pajamas,1,Credit Card,3,157
+2022,Qtr 4,November,9,Pants,1,Cash,5,190
+2022,Qtr 4,November,9,Polo Shirt,1,Credit Card,4,145
+2022,Qtr 4,November,9,Romper,1,Credit Card,5,157
+2022,Qtr 4,November,9,Tank Top,1,Cash,3,153
+2022,Qtr 4,November,10,Blazer,1,Credit Card,2,157
+2022,Qtr 4,November,10,Blouse,1,Credit Card,3,115
+2022,Qtr 4,November,10,Dress,1,Cash,2,98
+2022,Qtr 4,November,10,Gloves,1,Credit Card,3,105
+2022,Qtr 4,November,10,Onesie,1,Cash,5,157
+2022,Qtr 4,November,10,Overalls,1,Credit Card,2,33
+2022,Qtr 4,November,10,Skirt,1,Credit Card,3,157
+2022,Qtr 4,November,10,Sunglasses,1,Cash,3,139
+2022,Qtr 4,November,10,Tie,1,Cash,5,91
+2022,Qtr 4,November,10,Trench Coat,1,Cash,5,125
+2022,Qtr 4,November,10,Trousers,1,Cash,5,2419
+2022,Qtr 4,November,10,Trousers,1,Credit Card,3,181
+2022,Qtr 4,November,10,Tunic,1,Cash,3,99
+2022,Qtr 4,November,10,Vest,1,Credit Card,4,28
+2022,Qtr 4,November,11,Hoodie,1,Credit Card,2,167
+2022,Qtr 4,November,11,Overalls,1,Credit Card,3,194
+2022,Qtr 4,November,11,Romper,1,Credit Card,2,85
+2022,Qtr 4,November,11,Skirt,1,Cash,4,36
+2022,Qtr 4,November,11,Sun Hat,1,Credit Card,2,111
+2022,Qtr 4,November,11,T-shirt,2,Cash,6,222
+2022,Qtr 4,November,12,Backpack,1,Credit Card,4,128
+2022,Qtr 4,November,12,Blazer,1,Cash,4,158
+2022,Qtr 4,November,12,Jumpsuit,1,Cash,5,42
+2022,Qtr 4,November,12,Skirt,1,Credit Card,2,161
+2022,Qtr 4,November,12,Trench Coat,1,Credit Card,4,104
+2022,Qtr 4,November,12,Vest,1,Credit Card,4,71
+2022,Qtr 4,November,13,Blouse,1,Cash,5,51
+2022,Qtr 4,November,13,Socks,1,Cash,2,24
+2022,Qtr 4,November,13,Sunglasses,1,Credit Card,2,157
+2022,Qtr 4,November,13,T-shirt,1,Cash,3,94
+2022,Qtr 4,November,14,Bowtie,1,Cash,3,94
+2022,Qtr 4,November,14,Polo Shirt,1,Credit Card,4,193
+2022,Qtr 4,November,14,Sandals,1,Cash,2,182
+2022,Qtr 4,November,14,Shorts,1,Cash,3,40
+2022,Qtr 4,November,14,T-shirt,1,Credit Card,3,174
+2022,Qtr 4,November,15,Handbag,1,Cash,2,94
+2022,Qtr 4,November,15,Hat,2,Credit Card,5,216
+2022,Qtr 4,November,15,Jumpsuit,1,Credit Card,4,162
+2022,Qtr 4,November,15,Onesie,1,Cash,4,176
+2022,Qtr 4,November,15,Overalls,1,Credit Card,4,170
+2022,Qtr 4,November,15,Romper,1,Cash,5,157
+2022,Qtr 4,November,15,Tunic,1,Cash,2,157
+2022,Qtr 4,November,15,Tunic,1,Credit Card,2,109
+2022,Qtr 4,November,16,Camisole,1,Cash,2,157
+2022,Qtr 4,November,16,Camisole,1,Credit Card,2,152
+2022,Qtr 4,November,16,Skirt,1,Cash,4,147
+2022,Qtr 4,November,16,Tank Top,1,Cash,4,111
+2022,Qtr 4,November,16,Vest,1,Cash,4,157
+2022,Qtr 4,November,17,Belt,1,Credit Card,4,32
+2022,Qtr 4,November,17,Blazer,1,Credit Card,4,118
+2022,Qtr 4,November,17,Boots,1,Credit Card,2,189
+2022,Qtr 4,November,17,Camisole,1,Cash,3,107
+2022,Qtr 4,November,17,Dress,1,Cash,4,157
+2022,Qtr 4,November,17,Loafers,1,Credit Card,3,95
+2022,Qtr 4,November,17,Poncho,1,Credit Card,3,73
+2022,Qtr 4,November,17,Shorts,1,Credit Card,3,105
+2022,Qtr 4,November,17,Sneakers,1,Credit Card,4,112
+2022,Qtr 4,November,17,Sunglasses,1,Cash,3,56
+2022,Qtr 4,November,17,Tie,1,Credit Card,5,14
+2022,Qtr 4,November,17,Wallet,1,Credit Card,5,126
+2022,Qtr 4,November,18,Blazer,1,Credit Card,4,157
+2022,Qtr 4,November,18,Gloves,1,Credit Card,3,150
+2022,Qtr 4,November,18,Hoodie,1,Credit Card,5,136
+2022,Qtr 4,November,18,Loafers,1,Cash,3,165
+2022,Qtr 4,November,18,Overalls,1,Cash,3,157
+2022,Qtr 4,November,18,Pants,1,Credit Card,2,119
+2022,Qtr 4,November,18,Sandals,1,Cash,4,97
+2022,Qtr 4,November,18,Skirt,1,Cash,3,58
+2022,Qtr 4,November,18,Umbrella,1,Cash,5,98
+2022,Qtr 4,November,18,Wallet,1,Cash,5,123
+2022,Qtr 4,November,19,Camisole,1,Cash,3,147
+2022,Qtr 4,November,19,Hat,1,Cash,2,157
+2022,Qtr 4,November,19,Hoodie,1,Credit Card,2,128
+2022,Qtr 4,November,19,Jeans,1,Cash,5,157
+2022,Qtr 4,November,19,Romper,1,Credit Card,5,147
+2022,Qtr 4,November,19,Scarf,1,Cash,2,96
+2022,Qtr 4,November,19,Scarf,1,Credit Card,5,107
+2022,Qtr 4,November,19,Sun Hat,1,Credit Card,5,105
+2022,Qtr 4,November,19,Sunglasses,1,Credit Card,3,93
+2022,Qtr 4,November,19,Swimsuit,1,Cash,3,153
+2022,Qtr 4,November,20,Belt,1,Cash,2,157
+2022,Qtr 4,November,20,Coat,1,Credit Card,3,101
+2022,Qtr 4,November,20,Flannel Shirt,1,Credit Card,4,157
+2022,Qtr 4,November,20,Vest,1,Credit Card,3,22
+2022,Qtr 4,November,21,Belt,1,Credit Card,4,157
+2022,Qtr 4,November,21,Bowtie,1,Cash,4,4418
+2022,Qtr 4,November,21,Handbag,1,Credit Card,5,115
+2022,Qtr 4,November,21,Onesie,1,Credit Card,4,154
+2022,Qtr 4,November,21,Romper,1,Credit Card,3,4465
+2022,Qtr 4,November,21,Sandals,1,Cash,5,179
+2022,Qtr 4,November,21,Scarf,1,Credit Card,2,18
+2022,Qtr 4,November,21,Socks,1,Cash,3,113
+2022,Qtr 4,November,21,Tank Top,1,Cash,3,19
+2022,Qtr 4,November,22,Boots,2,Credit Card,8,166
+2022,Qtr 4,November,22,Flip-Flops,1,Cash,4,108
+2022,Qtr 4,November,22,Hat,1,Cash,2,37
+2022,Qtr 4,November,22,Pajamas,2,Cash,7,154
+2022,Qtr 4,November,22,Poncho,1,Credit Card,4,188
+2022,Qtr 4,November,22,Romper,1,Credit Card,4,107
+2022,Qtr 4,November,22,Slippers,1,Credit Card,5,127
+2022,Qtr 4,November,22,Sneakers,1,Cash,3,63
+2022,Qtr 4,November,22,Tunic,1,Credit Card,3,157
+2022,Qtr 4,November,22,Umbrella,1,Cash,3,177
+2022,Qtr 4,November,23,Boots,1,Credit Card,2,157
+2022,Qtr 4,November,23,Bowtie,1,Cash,5,30
+2022,Qtr 4,November,23,Overalls,1,Credit Card,3,191
+2022,Qtr 4,November,23,Romper,1,Credit Card,5,157
+2022,Qtr 4,November,23,Slippers,1,Cash,2,80
+2022,Qtr 4,November,23,Swimsuit,2,Credit Card,8,270
+2022,Qtr 4,November,23,T-shirt,1,Credit Card,5,157
+2022,Qtr 4,November,24,Blazer,1,Credit Card,3,174
+2022,Qtr 4,November,24,Flannel Shirt,1,Cash,3,140
+2022,Qtr 4,November,24,Pants,1,Cash,3,35
+2022,Qtr 4,November,24,Shorts,1,Cash,3,196
+2022,Qtr 4,November,24,Skirt,1,Credit Card,2,157
+2022,Qtr 4,November,24,Tank Top,1,Cash,5,46
+2022,Qtr 4,November,25,Blazer,1,Credit Card,3,157
+2022,Qtr 4,November,25,Handbag,1,Cash,3,12
+2022,Qtr 4,November,25,Handbag,1,Credit Card,4,54
+2022,Qtr 4,November,25,Leggings,1,Credit Card,5,11
+2022,Qtr 4,November,25,Overalls,1,Cash,3,180
+2022,Qtr 4,November,25,Trousers,1,Cash,5,30
+2022,Qtr 4,November,26,Cardigan,1,Credit Card,4,148
+2022,Qtr 4,November,26,Trench Coat,1,Cash,5,157
+2022,Qtr 4,November,27,Bowtie,2,Cash,8,185
+2022,Qtr 4,November,27,Camisole,1,Credit Card,2,157
+2022,Qtr 4,November,27,Flannel Shirt,1,Credit Card,2,22
+2022,Qtr 4,November,27,Raincoat,1,Cash,3,70
+2022,Qtr 4,November,27,Sneakers,1,Credit Card,4,115
+2022,Qtr 4,November,27,Tank Top,1,Cash,2,185
+2022,Qtr 4,November,27,Wallet,1,Cash,5,3003
+2022,Qtr 4,November,28,Belt,1,Credit Card,2,157
+2022,Qtr 4,November,28,Jumpsuit,1,Cash,2,91
+2022,Qtr 4,November,28,Onesie,1,Cash,4,197
+2022,Qtr 4,November,28,Sandals,1,Credit Card,5,197
+2022,Qtr 4,November,28,Socks,1,Cash,2,123
+2022,Qtr 4,November,28,Socks,1,Credit Card,4,157
+2022,Qtr 4,November,29,Gloves,1,Cash,4,57
+2022,Qtr 4,November,29,Handbag,1,Credit Card,3,176
+2022,Qtr 4,November,29,Jumpsuit,1,Cash,3,65
+2022,Qtr 4,November,29,Sneakers,1,Credit Card,2,11
+2022,Qtr 4,November,29,Socks,1,Cash,2,35
+2022,Qtr 4,November,29,Sun Hat,1,Credit Card,3,170
+2022,Qtr 4,November,29,Swimsuit,1,Credit Card,2,30
+2022,Qtr 4,November,29,Tie,1,Cash,2,124
+2022,Qtr 4,November,29,T-shirt,1,Credit Card,4,198
+2022,Qtr 4,November,30,Flannel Shirt,1,Cash,2,75
+2022,Qtr 4,November,30,Handbag,1,Cash,2,158
+2022,Qtr 4,November,30,Jacket,1,Cash,4,11
+2022,Qtr 4,December,1,Belt,1,Credit Card,5,87
+2022,Qtr 4,December,1,Flannel Shirt,1,Credit Card,5,128
+2022,Qtr 4,December,1,Hat,1,Cash,3,20
+2022,Qtr 4,December,1,Overalls,1,Cash,2,23
+2022,Qtr 4,December,1,Pants,1,Cash,2,162
+2022,Qtr 4,December,1,Pants,1,Credit Card,3,113
+2022,Qtr 4,December,1,Slippers,1,Cash,2,22
+2022,Qtr 4,December,1,Sunglasses,1,Cash,4,79
+2022,Qtr 4,December,1,Sweater,1,Credit Card,4,157
+2022,Qtr 4,December,1,Trousers,1,Credit Card,3,48
+2022,Qtr 4,December,1,T-shirt,1,Credit Card,2,162
+2022,Qtr 4,December,2,Flip-Flops,1,Cash,4,198
+2022,Qtr 4,December,2,Loafers,1,Cash,3,67
+2022,Qtr 4,December,2,Overalls,1,Cash,4,135
+2022,Qtr 4,December,2,Overalls,1,Credit Card,5,142
+2022,Qtr 4,December,2,Raincoat,1,Cash,4,157
+2022,Qtr 4,December,2,Sandals,1,Cash,5,20
+2022,Qtr 4,December,2,Skirt,1,Cash,3,177
+2022,Qtr 4,December,2,Skirt,1,Credit Card,5,57
+2022,Qtr 4,December,2,Socks,1,Credit Card,3,157
+2022,Qtr 4,December,2,Sun Hat,1,Cash,5,33
+2022,Qtr 4,December,2,Swimsuit,1,Cash,5,157
+2022,Qtr 4,December,3,Sneakers,1,Cash,5,45
+2022,Qtr 4,December,3,Sneakers,1,Credit Card,4,157
+2022,Qtr 4,December,3,Trench Coat,1,Credit Card,2,157
+2022,Qtr 4,December,3,Tunic,1,Cash,2,107
+2022,Qtr 4,December,4,Handbag,1,Credit Card,4,53
+2022,Qtr 4,December,4,Hat,1,Credit Card,5,131
+2022,Qtr 4,December,4,Loafers,1,Cash,2,125
+2022,Qtr 4,December,4,Slippers,1,Credit Card,2,157
+2022,Qtr 4,December,4,Tank Top,1,Cash,4,67
+2022,Qtr 4,December,4,Trousers,1,Credit Card,3,157
+2022,Qtr 4,December,5,Blazer,1,Credit Card,3,157
+2022,Qtr 4,December,5,Boots,1,Credit Card,5,35
+2022,Qtr 4,December,5,Coat,1,Credit Card,2,46
+2022,Qtr 4,December,5,Gloves,1,Credit Card,3,162
+2022,Qtr 4,December,5,Jumpsuit,1,Cash,4,84
+2022,Qtr 4,December,5,Jumpsuit,1,Credit Card,2,78
+2022,Qtr 4,December,5,Onesie,1,Credit Card,4,165
+2022,Qtr 4,December,5,Trench Coat,1,Cash,5,25
+2022,Qtr 4,December,5,T-shirt,1,Credit Card,4,96
+2022,Qtr 4,December,6,Blouse,1,Credit Card,2,88
+2022,Qtr 4,December,6,Cardigan,1,Credit Card,3,96
+2022,Qtr 4,December,6,Dress,1,Credit Card,3,54
+2022,Qtr 4,December,6,Gloves,1,Credit Card,5,55
+2022,Qtr 4,December,6,Hat,1,Credit Card,4,93
+2022,Qtr 4,December,6,Jeans,1,Credit Card,2,87
+2022,Qtr 4,December,6,Kimono,1,Credit Card,5,186
+2022,Qtr 4,December,6,Polo Shirt,1,Credit Card,5,151
+2022,Qtr 4,December,6,Sandals,1,Cash,2,148
+2022,Qtr 4,December,6,Skirt,1,Cash,4,117
+2022,Qtr 4,December,6,Trousers,1,Credit Card,3,11
+2022,Qtr 4,December,6,Vest,1,Cash,4,146
+2022,Qtr 4,December,7,Blazer,1,Credit Card,4,164
+2022,Qtr 4,December,7,Bowtie,1,Cash,3,85
+2022,Qtr 4,December,7,Flannel Shirt,1,Cash,3,28
+2022,Qtr 4,December,7,Raincoat,1,Credit Card,4,185
+2022,Qtr 4,December,7,Swimsuit,1,Cash,2,164
+2022,Qtr 4,December,7,Tie,1,Credit Card,4,168
+2022,Qtr 4,December,7,Vest,1,Credit Card,2,106
+2022,Qtr 4,December,7,Wallet,1,Cash,2,157
+2022,Qtr 4,December,8,Blouse,1,Cash,2,186
+2022,Qtr 4,December,8,Bowtie,1,Cash,2,133
+2022,Qtr 4,December,8,Coat,1,Cash,2,127
+2022,Qtr 4,December,8,Dress,1,Credit Card,4,157
+2022,Qtr 4,December,8,Flannel Shirt,1,Cash,2,116
+2022,Qtr 4,December,8,Hoodie,1,Cash,2,88
+2022,Qtr 4,December,8,Jeans,1,Cash,5,157
+2022,Qtr 4,December,8,Onesie,1,Credit Card,4,99
+2022,Qtr 4,December,8,Shorts,1,Cash,4,198
+2022,Qtr 4,December,8,Shorts,1,Credit Card,5,148
+2022,Qtr 4,December,8,Slippers,1,Cash,4,176
+2022,Qtr 4,December,8,Sneakers,1,Cash,4,168
+2022,Qtr 4,December,8,Tank Top,1,Cash,4,157
+2022,Qtr 4,December,8,Trousers,1,Credit Card,3,183
+2022,Qtr 4,December,8,Umbrella,1,Credit Card,4,56
+2022,Qtr 4,December,8,Vest,1,Cash,3,157
+2022,Qtr 4,December,9,Backpack,1,Credit Card,5,157
+2022,Qtr 4,December,9,Belt,1,Credit Card,3,92
+2022,Qtr 4,December,9,Bowtie,1,Cash,3,87
+2022,Qtr 4,December,9,Flannel Shirt,1,Cash,3,144
+2022,Qtr 4,December,9,Gloves,1,Credit Card,4,170
+2022,Qtr 4,December,9,Jeans,1,Credit Card,5,131
+2022,Qtr 4,December,9,Pajamas,1,Credit Card,3,3728
+2022,Qtr 4,December,9,Polo Shirt,1,Credit Card,5,157
+2022,Qtr 4,December,9,Sunglasses,1,Credit Card,2,21
+2022,Qtr 4,December,9,Sweater,1,Credit Card,4,126
+2022,Qtr 4,December,9,Trousers,1,Cash,2,157
+2022,Qtr 4,December,9,Umbrella,2,Credit Card,6,192
+2022,Qtr 4,December,9,Wallet,1,Credit Card,5,193
+2022,Qtr 4,December,10,Belt,1,Cash,3,148
+2022,Qtr 4,December,10,Coat,1,Credit Card,4,148
+2022,Qtr 4,December,10,Kimono,1,Credit Card,3,157
+2022,Qtr 4,December,10,Pajamas,1,Credit Card,5,110
+2022,Qtr 4,December,10,Pants,1,Cash,3,56
+2022,Qtr 4,December,10,Pants,1,Credit Card,2,157
+2022,Qtr 4,December,10,Poncho,1,Cash,4,131
+2022,Qtr 4,December,10,Poncho,1,Credit Card,5,160
+2022,Qtr 4,December,10,Socks,1,Credit Card,3,157
+2022,Qtr 4,December,10,Sun Hat,1,Cash,2,142
+2022,Qtr 4,December,11,Flannel Shirt,1,Credit Card,2,157
+2022,Qtr 4,December,11,Hoodie,1,Cash,2,94
+2022,Qtr 4,December,11,Leggings,1,Credit Card,3,99
+2022,Qtr 4,December,11,Onesie,1,Cash,2,157
+2022,Qtr 4,December,11,Onesie,1,Credit Card,5,2914
+2022,Qtr 4,December,11,Pajamas,1,Credit Card,3,156
+2022,Qtr 4,December,11,Poncho,2,Cash,6,276
+2022,Qtr 4,December,11,Sun Hat,1,Credit Card,2,141
+2022,Qtr 4,December,11,Sunglasses,1,Credit Card,3,176
+2022,Qtr 4,December,11,Tank Top,1,Cash,2,157
+2022,Qtr 4,December,11,Umbrella,1,Cash,4,157
+2022,Qtr 4,December,12,Belt,1,Cash,5,157
+2022,Qtr 4,December,12,Camisole,1,Cash,3,157
+2022,Qtr 4,December,12,Dress,1,Credit Card,3,35
+2022,Qtr 4,December,12,Kimono,1,Cash,3,99
+2022,Qtr 4,December,12,Loafers,1,Cash,2,40
+2022,Qtr 4,December,12,Romper,1,Cash,4,19
+2022,Qtr 4,December,12,Sunglasses,2,Credit Card,8,139
+2022,Qtr 4,December,13,Backpack,1,Credit Card,2,101
+2022,Qtr 4,December,13,Cardigan,1,Credit Card,5,66
+2022,Qtr 4,December,13,Gloves,1,Credit Card,3,116
+2022,Qtr 4,December,13,Handbag,1,Credit Card,4,154
+2022,Qtr 4,December,13,Kimono,1,Credit Card,4,134
+2022,Qtr 4,December,13,Pants,1,Cash,3,178
+2022,Qtr 4,December,13,Sweater,1,Cash,3,157
+2022,Qtr 4,December,14,Boots,1,Credit Card,5,133
+2022,Qtr 4,December,14,Cardigan,2,Credit Card,7,199
+2022,Qtr 4,December,14,Coat,1,Cash,4,157
+2022,Qtr 4,December,14,Jumpsuit,1,Cash,3,136
+2022,Qtr 4,December,14,Onesie,1,Cash,2,48
+2022,Qtr 4,December,14,Pants,1,Cash,4,85
+2022,Qtr 4,December,14,Scarf,1,Credit Card,5,143
+2022,Qtr 4,December,14,Tie,1,Credit Card,3,157
+2022,Qtr 4,December,14,Wallet,1,Cash,3,39
+2022,Qtr 4,December,15,Backpack,1,Credit Card,3,174
+2022,Qtr 4,December,15,Blouse,1,Credit Card,4,126
+2022,Qtr 4,December,16,Jacket,1,Cash,2,136
+2022,Qtr 4,December,16,Onesie,1,Cash,5,77
+2022,Qtr 4,December,16,Onesie,1,Credit Card,2,13
+2022,Qtr 4,December,16,Polo Shirt,1,Cash,2,166
+2022,Qtr 4,December,16,Raincoat,1,Credit Card,4,99
+2022,Qtr 4,December,16,Romper,1,Cash,5,86
+2022,Qtr 4,December,16,Skirt,1,Cash,4,62
+2022,Qtr 4,December,16,Sneakers,1,Credit Card,2,34
+2022,Qtr 4,December,16,Socks,1,Cash,3,49
+2022,Qtr 4,December,16,Sun Hat,1,Credit Card,3,194
+2022,Qtr 4,December,16,Swimsuit,1,Credit Card,5,10
+2022,Qtr 4,December,16,Tank Top,1,Cash,5,82
+2022,Qtr 4,December,16,Trench Coat,1,Cash,2,86
+2022,Qtr 4,December,16,Umbrella,1,Cash,3,78
+2022,Qtr 4,December,17,Camisole,1,Credit Card,3,39
+2022,Qtr 4,December,17,Poncho,1,Credit Card,5,118
+2022,Qtr 4,December,17,Raincoat,1,Cash,2,140
+2022,Qtr 4,December,17,Sneakers,1,Cash,2,27
+2022,Qtr 4,December,17,Sweater,1,Cash,5,154
+2022,Qtr 4,December,17,Wallet,1,Cash,2,157
+2022,Qtr 4,December,17,Wallet,1,Credit Card,2,175
+2022,Qtr 4,December,18,Camisole,1,Cash,2,157
+2022,Qtr 4,December,18,Gloves,1,Credit Card,4,157
+2022,Qtr 4,December,18,Handbag,1,Cash,3,76
+2022,Qtr 4,December,18,Jumpsuit,1,Credit Card,4,193
+2022,Qtr 4,December,18,Pajamas,1,Cash,2,154
+2022,Qtr 4,December,18,Sweater,1,Cash,4,157
+2022,Qtr 4,December,18,Umbrella,2,Credit Card,8,135
+2022,Qtr 4,December,18,Vest,1,Cash,2,139
+2022,Qtr 4,December,19,Belt,1,Credit Card,5,28
+2022,Qtr 4,December,19,Blouse,1,Cash,2,157
+2022,Qtr 4,December,19,Blouse,1,Credit Card,2,194
+2022,Qtr 4,December,19,Flannel Shirt,2,Credit Card,4,219
+2022,Qtr 4,December,19,Flip-Flops,1,Cash,4,194
+2022,Qtr 4,December,19,Jeans,1,Cash,2,157
+2022,Qtr 4,December,19,Jumpsuit,1,Cash,4,40
+2022,Qtr 4,December,19,Kimono,1,Cash,3,68
+2022,Qtr 4,December,19,Sweater,2,Cash,8,5038
+2022,Qtr 4,December,19,Tank Top,2,Credit Card,6,237
+2022,Qtr 4,December,20,Blazer,1,Cash,2,103
+2022,Qtr 4,December,20,Coat,1,Credit Card,2,120
+2022,Qtr 4,December,20,Flannel Shirt,1,Credit Card,3,72
+2022,Qtr 4,December,20,Flip-Flops,1,Credit Card,4,4932
+2022,Qtr 4,December,20,Hoodie,1,Credit Card,2,119
+2022,Qtr 4,December,20,Jacket,1,Credit Card,3,54
+2022,Qtr 4,December,20,Skirt,1,Cash,5,157
+2022,Qtr 4,December,20,Vest,1,Credit Card,2,168
+2022,Qtr 4,December,21,Boots,1,Cash,4,198
+2022,Qtr 4,December,21,Bowtie,1,Credit Card,2,124
+2022,Qtr 4,December,21,Cardigan,1,Cash,3,67
+2022,Qtr 4,December,21,Dress,1,Cash,5,142
+2022,Qtr 4,December,21,Handbag,1,Cash,3,91
+2022,Qtr 4,December,21,Jacket,1,Cash,2,122
+2022,Qtr 4,December,21,Kimono,1,Credit Card,3,127
+2022,Qtr 4,December,21,Loafers,1,Credit Card,1,55
+2022,Qtr 4,December,21,Sneakers,1,Credit Card,3,125
+2022,Qtr 4,December,21,Sun Hat,1,Cash,4,162
+2022,Qtr 4,December,22,Backpack,1,Credit Card,4,123
+2022,Qtr 4,December,22,Blouse,1,Cash,2,171
+2022,Qtr 4,December,22,Boots,1,Cash,3,189
+2022,Qtr 4,December,22,Coat,1,Credit Card,5,28
+2022,Qtr 4,December,22,Hat,1,Credit Card,2,152
+2022,Qtr 4,December,22,Hoodie,1,Cash,5,157
+2022,Qtr 4,December,22,Jumpsuit,1,Credit Card,4,47
+2022,Qtr 4,December,22,Loafers,1,Credit Card,2,154
+2022,Qtr 4,December,22,Overalls,1,Credit Card,3,115
+2022,Qtr 4,December,22,Shorts,1,Credit Card,2,21
+2022,Qtr 4,December,22,Skirt,1,Credit Card,4,183
+2022,Qtr 4,December,22,Socks,1,Cash,2,157
+2022,Qtr 4,December,22,Trench Coat,1,Credit Card,5,166
+2022,Qtr 4,December,22,T-shirt,1,Cash,2,157
+2022,Qtr 4,December,23,Backpack,1,Credit Card,3,88
+2022,Qtr 4,December,23,Coat,1,Credit Card,5,17
+2022,Qtr 4,December,23,Loafers,1,Credit Card,5,187
+2022,Qtr 4,December,23,Onesie,2,Credit Card,7,327
+2022,Qtr 4,December,23,Socks,1,Cash,3,129
+2022,Qtr 4,December,23,Tank Top,1,Cash,4,109
+2022,Qtr 4,December,23,Tunic,1,Credit Card,2,4413
+2022,Qtr 4,December,24,Belt,1,Cash,4,19
+2022,Qtr 4,December,24,Blazer,1,Credit Card,4,157
+2022,Qtr 4,December,24,Blouse,1,Cash,5,176
+2022,Qtr 4,December,24,Boots,1,Cash,2,157
+2022,Qtr 4,December,24,Bowtie,1,Credit Card,2,145
+2022,Qtr 4,December,24,Kimono,1,Cash,4,131
+2022,Qtr 4,December,24,Polo Shirt,1,Cash,4,104
+2022,Qtr 4,December,24,Poncho,1,Credit Card,4,123
+2022,Qtr 4,December,24,Scarf,2,Credit Card,5,241
+2022,Qtr 4,December,24,Shorts,1,Cash,4,142
+2022,Qtr 4,December,24,Tunic,1,Credit Card,5,143
+2022,Qtr 4,December,25,Belt,1,Credit Card,2,101
+2022,Qtr 4,December,25,Jacket,1,Cash,3,180
+2022,Qtr 4,December,25,Loafers,1,Cash,5,93
+2022,Qtr 4,December,25,Pajamas,1,Cash,2,63
+2022,Qtr 4,December,25,Pants,1,Credit Card,5,114
+2022,Qtr 4,December,25,Poncho,1,Credit Card,2,195
+2022,Qtr 4,December,25,Raincoat,1,Cash,4,83
+2022,Qtr 4,December,25,Slippers,1,Cash,3,157
+2022,Qtr 4,December,25,Socks,1,Credit Card,3,152
+2022,Qtr 4,December,25,Tunic,1,Credit Card,2,23
+2022,Qtr 4,December,25,Wallet,1,Credit Card,5,92
+2022,Qtr 4,December,26,Blouse,1,Credit Card,3,157
+2022,Qtr 4,December,26,Dress,1,Credit Card,3,104
+2022,Qtr 4,December,26,Hoodie,1,Cash,5,100
+2022,Qtr 4,December,26,Kimono,1,Cash,2,92
+2022,Qtr 4,December,26,Loafers,2,Cash,8,166
+2022,Qtr 4,December,26,Trousers,1,Cash,2,167
+2022,Qtr 4,December,26,Trousers,1,Credit Card,2,157
+2022,Qtr 4,December,27,Blazer,1,Cash,5,111
+2022,Qtr 4,December,27,Boots,1,Cash,2,10
+2022,Qtr 4,December,27,Flip-Flops,1,Credit Card,2,51
+2022,Qtr 4,December,27,Gloves,1,Cash,4,43
+2022,Qtr 4,December,27,Hoodie,1,Cash,5,157
+2022,Qtr 4,December,27,Kimono,1,Cash,3,52
+2022,Qtr 4,December,27,Kimono,1,Credit Card,2,158
+2022,Qtr 4,December,27,Pajamas,1,Credit Card,3,157
+2022,Qtr 4,December,27,Shorts,1,Credit Card,5,135
+2022,Qtr 4,December,27,Slippers,1,Credit Card,2,33
+2022,Qtr 4,December,27,Tank Top,1,Cash,3,37
+2022,Qtr 4,December,27,Trousers,1,Credit Card,5,31
+2022,Qtr 4,December,27,Wallet,1,Credit Card,2,63
+2022,Qtr 4,December,28,Belt,1,Credit Card,3,157
+2022,Qtr 4,December,28,Blouse,1,Cash,2,148
+2022,Qtr 4,December,28,Blouse,1,Credit Card,5,188
+2022,Qtr 4,December,28,Bowtie,1,Credit Card,3,147
+2022,Qtr 4,December,28,Onesie,1,Credit Card,4,176
+2022,Qtr 4,December,28,Polo Shirt,1,Credit Card,2,196
+2022,Qtr 4,December,28,Sweater,1,Cash,4,87
+2022,Qtr 4,December,28,Swimsuit,1,Cash,3,46
+2022,Qtr 4,December,28,Wallet,1,Cash,4,107
+2022,Qtr 4,December,29,Backpack,1,Cash,3,157
+2022,Qtr 4,December,29,Handbag,2,Credit Card,7,128
+2022,Qtr 4,December,29,Jacket,1,Cash,2,91
+2022,Qtr 4,December,29,Overalls,1,Cash,2,162
+2022,Qtr 4,December,29,Overalls,1,Credit Card,2,18
+2022,Qtr 4,December,29,Pajamas,1,Cash,4,157
+2022,Qtr 4,December,29,Pants,1,Cash,3,102
+2022,Qtr 4,December,29,Pants,1,Credit Card,3,72
+2022,Qtr 4,December,29,Poncho,1,Cash,2,145
+2022,Qtr 4,December,29,T-shirt,1,Credit Card,2,157
+2022,Qtr 4,December,29,Umbrella,2,Cash,7,192
+2022,Qtr 4,December,30,Blouse,1,Credit Card,2,107
+2022,Qtr 4,December,30,Boots,1,Credit Card,5,157
+2022,Qtr 4,December,30,Camisole,1,Cash,2,106
+2022,Qtr 4,December,30,Cardigan,1,Cash,4,116
+2022,Qtr 4,December,30,Hoodie,1,Credit Card,4,81
+2022,Qtr 4,December,30,Kimono,1,Credit Card,4,100
+2022,Qtr 4,December,30,Loafers,1,Credit Card,2,137
+2022,Qtr 4,December,30,Romper,1,Credit Card,5,157
+2022,Qtr 4,December,30,Swimsuit,1,Credit Card,3,172
+2022,Qtr 4,December,30,Tank Top,1,Cash,3,162
+2022,Qtr 4,December,30,T-shirt,1,Credit Card,5,87
+2022,Qtr 4,December,31,Hat,1,Credit Card,2,45
+2022,Qtr 4,December,31,Pajamas,1,Credit Card,2,157
+2022,Qtr 4,December,31,Poncho,1,Cash,2,80
+2022,Qtr 4,December,31,Scarf,1,Cash,2,27
+2022,Qtr 4,December,31,Socks,1,Cash,2,157
+2022,Qtr 4,December,31,Tunic,1,Credit Card,5,140
+2023,Qtr 1,January,1,Handbag,1,Credit Card,3,156
+2023,Qtr 1,January,1,Loafers,1,Cash,2,82
+2023,Qtr 1,January,1,Sandals,1,Cash,2,128
+2023,Qtr 1,January,1,Slippers,1,Cash,5,157
+2023,Qtr 1,January,1,Sweater,1,Credit Card,4,69
+2023,Qtr 1,January,1,Swimsuit,1,Cash,4,199
+2023,Qtr 1,January,1,Tank Top,1,Cash,3,157
+2023,Qtr 1,January,1,Tie,1,Cash,3,157
+2023,Qtr 1,January,2,Backpack,1,Cash,5,139
+2023,Qtr 1,January,2,Cardigan,1,Credit Card,3,181
+2023,Qtr 1,January,2,Jacket,1,Cash,5,157
+2023,Qtr 1,January,2,Kimono,1,Credit Card,4,134
+2023,Qtr 1,January,2,Pajamas,1,Cash,2,175
+2023,Qtr 1,January,2,Polo Shirt,1,Cash,3,140
+2023,Qtr 1,January,2,Romper,1,Credit Card,3,36
+2023,Qtr 1,January,2,Sunglasses,2,Cash,4,150
+2023,Qtr 1,January,2,Tank Top,1,Cash,4,200
+2023,Qtr 1,January,2,Wallet,1,Cash,4,157
+2023,Qtr 1,January,3,Backpack,1,Credit Card,4,157
+2023,Qtr 1,January,3,Bowtie,1,Credit Card,2,43
+2023,Qtr 1,January,3,Coat,1,Credit Card,2,193
+2023,Qtr 1,January,3,Gloves,2,Cash,7,140
+2023,Qtr 1,January,3,Polo Shirt,1,Cash,3,76
+2023,Qtr 1,January,3,Raincoat,1,Credit Card,5,142
+2023,Qtr 1,January,3,Scarf,1,Credit Card,5,73
+2023,Qtr 1,January,3,Sneakers,1,Cash,5,157
+2023,Qtr 1,January,3,Sun Hat,1,Credit Card,5,74
+2023,Qtr 1,January,3,Sweater,1,Cash,4,191
+2023,Qtr 1,January,3,T-shirt,1,Credit Card,2,157
+2023,Qtr 1,January,3,Wallet,1,Credit Card,4,125
+2023,Qtr 1,January,4,Backpack,1,Credit Card,4,157
+2023,Qtr 1,January,4,Blazer,1,Credit Card,4,38
+2023,Qtr 1,January,4,Cardigan,1,Credit Card,5,131
+2023,Qtr 1,January,4,Coat,1,Cash,2,65
+2023,Qtr 1,January,4,Hat,1,Cash,3,157
+2023,Qtr 1,January,4,Kimono,1,Credit Card,4,42
+2023,Qtr 1,January,4,Pants,1,Credit Card,2,52
+2023,Qtr 1,January,4,Tunic,1,Cash,2,60
+2023,Qtr 1,January,5,Backpack,1,Credit Card,4,97
+2023,Qtr 1,January,5,Blazer,1,Credit Card,3,98
+2023,Qtr 1,January,5,Boots,1,Credit Card,2,139
+2023,Qtr 1,January,5,Camisole,1,Cash,3,77
+2023,Qtr 1,January,5,Cardigan,1,Credit Card,3,157
+2023,Qtr 1,January,5,Dress,1,Credit Card,3,157
+2023,Qtr 1,January,5,Flannel Shirt,1,Cash,4,183
+2023,Qtr 1,January,5,Kimono,1,Cash,5,157
+2023,Qtr 1,January,5,Onesie,1,Cash,5,32
+2023,Qtr 1,January,5,Overalls,1,Cash,2,36
+2023,Qtr 1,January,5,Poncho,1,Cash,4,139
+2023,Qtr 1,January,5,Sandals,1,Cash,5,10
+2023,Qtr 1,January,5,Swimsuit,1,Cash,5,151
+2023,Qtr 1,January,5,Wallet,1,Cash,5,60
+2023,Qtr 1,January,6,Gloves,1,Cash,4,66
+2023,Qtr 1,January,6,Jacket,1,Cash,2,86
+2023,Qtr 1,January,6,Jeans,1,Cash,3,71
+2023,Qtr 1,January,6,Sneakers,1,Cash,2,140
+2023,Qtr 1,January,6,Tunic,1,Credit Card,5,111
+2023,Qtr 1,January,7,Blouse,1,Credit Card,3,61
+2023,Qtr 1,January,7,Cardigan,1,Credit Card,2,157
+2023,Qtr 1,January,7,Dress,1,Cash,5,161
+2023,Qtr 1,January,7,Jeans,1,Credit Card,3,126
+2023,Qtr 1,January,7,Leggings,1,Cash,2,76
+2023,Qtr 1,January,7,Sneakers,1,Credit Card,3,44
+2023,Qtr 1,January,7,Tank Top,1,Credit Card,2,157
+2023,Qtr 1,January,7,Tie,1,Credit Card,3,110
+2023,Qtr 1,January,7,Tunic,1,Credit Card,5,154
+2023,Qtr 1,January,8,Blouse,1,Credit Card,5,157
+2023,Qtr 1,January,8,Dress,1,Cash,4,89
+2023,Qtr 1,January,8,Kimono,1,Cash,5,106
+2023,Qtr 1,January,8,Loafers,1,Credit Card,3,113
+2023,Qtr 1,January,8,Onesie,1,Credit Card,4,39
+2023,Qtr 1,January,8,Polo Shirt,1,Cash,4,87
+2023,Qtr 1,January,8,Scarf,1,Cash,2,74
+2023,Qtr 1,January,8,Sweater,1,Cash,5,121
+2023,Qtr 1,January,8,Vest,1,Credit Card,5,27
+2023,Qtr 1,January,9,Coat,1,Cash,2,123
+2023,Qtr 1,January,9,Gloves,1,Credit Card,4,172
+2023,Qtr 1,January,9,Onesie,1,Cash,3,23
+2023,Qtr 1,January,9,Romper,1,Cash,2,194
+2023,Qtr 1,January,9,Skirt,1,Cash,3,104
+2023,Qtr 1,January,9,Slippers,1,Cash,3,173
+2023,Qtr 1,January,9,Sunglasses,1,Credit Card,5,75
+2023,Qtr 1,January,9,Sweater,1,Cash,3,86
+2023,Qtr 1,January,10,Camisole,1,Cash,3,199
+2023,Qtr 1,January,10,Cardigan,1,Cash,3,130
+2023,Qtr 1,January,10,Raincoat,1,Credit Card,2,187
+2023,Qtr 1,January,10,Skirt,1,Cash,3,48
+2023,Qtr 1,January,10,Tank Top,1,Credit Card,5,157
+2023,Qtr 1,January,11,Backpack,1,Cash,3,109
+2023,Qtr 1,January,11,Backpack,1,Credit Card,2,157
+2023,Qtr 1,January,11,Belt,1,Credit Card,5,177
+2023,Qtr 1,January,11,Boots,1,Credit Card,3,157
+2023,Qtr 1,January,11,Coat,1,Credit Card,2,157
+2023,Qtr 1,January,11,Sun Hat,1,Credit Card,5,107
+2023,Qtr 1,January,11,Tie,1,Cash,3,47
+2023,Qtr 1,January,11,Trench Coat,1,Cash,5,35
+2023,Qtr 1,January,11,Trousers,1,Credit Card,2,16
+2023,Qtr 1,January,12,Belt,1,Credit Card,5,89
+2023,Qtr 1,January,12,Blazer,1,Credit Card,2,112
+2023,Qtr 1,January,12,Cardigan,1,Credit Card,4,138
+2023,Qtr 1,January,12,Dress,1,Credit Card,4,99
+2023,Qtr 1,January,12,Hat,1,Credit Card,3,180
+2023,Qtr 1,January,12,Onesie,1,Credit Card,2,152
+2023,Qtr 1,January,12,Pants,1,Cash,2,47
+2023,Qtr 1,January,12,Scarf,1,Cash,3,32
+2023,Qtr 1,January,12,Socks,1,Cash,2,157
+2023,Qtr 1,January,12,Trench Coat,1,Credit Card,4,101
+2023,Qtr 1,January,13,Backpack,1,Cash,3,157
+2023,Qtr 1,January,13,Backpack,1,Credit Card,2,190
+2023,Qtr 1,January,13,Skirt,1,Cash,3,37
+2023,Qtr 1,January,13,Skirt,1,Credit Card,5,69
+2023,Qtr 1,January,13,Sneakers,1,Credit Card,2,37
+2023,Qtr 1,January,13,Tank Top,1,Cash,4,28
+2023,Qtr 1,January,13,Wallet,1,Credit Card,3,88
+2023,Qtr 1,January,14,Backpack,1,Cash,3,120
+2023,Qtr 1,January,14,Belt,1,Credit Card,2,61
+2023,Qtr 1,January,14,Blouse,1,Cash,3,190
+2023,Qtr 1,January,14,Camisole,1,Credit Card,3,115
+2023,Qtr 1,January,14,Handbag,1,Credit Card,5,189
+2023,Qtr 1,January,14,Hoodie,1,Cash,4,150
+2023,Qtr 1,January,14,Jumpsuit,1,Credit Card,5,90
+2023,Qtr 1,January,14,Sneakers,1,Cash,3,30
+2023,Qtr 1,January,14,Trousers,1,Credit Card,3,140
+2023,Qtr 1,January,14,T-shirt,1,Cash,2,87
+2023,Qtr 1,January,14,T-shirt,1,Credit Card,2,107
+2023,Qtr 1,January,15,Blazer,2,Credit Card,6,303
+2023,Qtr 1,January,15,Flip-Flops,1,Credit Card,3,54
+2023,Qtr 1,January,15,Kimono,1,Cash,3,157
+2023,Qtr 1,January,15,Onesie,1,Cash,2,103
+2023,Qtr 1,January,15,Shorts,1,Cash,4,109
+2023,Qtr 1,January,15,Socks,1,Credit Card,3,64
+2023,Qtr 1,January,15,Sweater,1,Credit Card,2,172
+2023,Qtr 1,January,15,Tunic,1,Cash,3,183
+2023,Qtr 1,January,15,Umbrella,1,Cash,3,129
+2023,Qtr 1,January,15,Vest,1,Credit Card,3,104
+2023,Qtr 1,January,16,Backpack,1,Cash,3,157
+2023,Qtr 1,January,16,Belt,1,Cash,2,55
+2023,Qtr 1,January,16,Bowtie,1,Cash,4,157
+2023,Qtr 1,January,16,Coat,1,Cash,3,41
+2023,Qtr 1,January,16,Coat,1,Credit Card,3,93
+2023,Qtr 1,January,16,Handbag,1,Credit Card,3,87
+2023,Qtr 1,January,16,Hat,1,Cash,3,155
+2023,Qtr 1,January,16,Hat,1,Credit Card,4,157
+2023,Qtr 1,January,16,Onesie,1,Credit Card,4,192
+2023,Qtr 1,January,16,Slippers,1,Cash,4,124
+2023,Qtr 1,January,16,Tie,1,Cash,2,152
+2023,Qtr 1,January,16,Tie,1,Credit Card,4,157
+2023,Qtr 1,January,16,Wallet,1,Cash,5,119
+2023,Qtr 1,January,17,Belt,1,Cash,4,157
+2023,Qtr 1,January,17,Belt,2,Credit Card,5,211
+2023,Qtr 1,January,17,Boots,1,Credit Card,5,171
+2023,Qtr 1,January,17,Cardigan,2,Cash,6,161
+2023,Qtr 1,January,17,Handbag,1,Cash,5,37
+2023,Qtr 1,January,17,Jeans,1,Cash,4,142
+2023,Qtr 1,January,17,Onesie,1,Cash,2,169
+2023,Qtr 1,January,17,Poncho,1,Cash,2,157
+2023,Qtr 1,January,17,Skirt,1,Credit Card,3,72
+2023,Qtr 1,January,18,Belt,1,Cash,3,157
+2023,Qtr 1,January,18,Hoodie,1,Credit Card,4,141
+2023,Qtr 1,January,18,Jeans,1,Cash,4,137
+2023,Qtr 1,January,18,Jumpsuit,1,Cash,2,159
+2023,Qtr 1,January,18,Raincoat,1,Credit Card,3,91
+2023,Qtr 1,January,18,Sandals,1,Credit Card,5,193
+2023,Qtr 1,January,18,Scarf,1,Credit Card,3,42
+2023,Qtr 1,January,18,Trench Coat,1,Cash,2,157
+2023,Qtr 1,January,18,Trousers,1,Cash,4,199
+2023,Qtr 1,January,19,Hat,1,Cash,2,133
+2023,Qtr 1,January,19,Polo Shirt,1,Credit Card,5,32
+2023,Qtr 1,January,19,Trench Coat,1,Credit Card,3,130
+2023,Qtr 1,January,19,Tunic,1,Cash,4,113
+2023,Qtr 1,January,20,Boots,1,Credit Card,2,24
+2023,Qtr 1,January,20,Camisole,1,Cash,3,164
+2023,Qtr 1,January,20,Hat,1,Credit Card,5,157
+2023,Qtr 1,January,20,Jumpsuit,1,Cash,3,124
+2023,Qtr 1,January,20,Raincoat,1,Credit Card,3,109
+2023,Qtr 1,January,20,Sweater,1,Credit Card,3,157
+2023,Qtr 1,January,20,Tank Top,1,Cash,5,63
+2023,Qtr 1,January,20,Tank Top,1,Credit Card,2,113
+2023,Qtr 1,January,20,T-shirt,1,Cash,4,66
+2023,Qtr 1,January,21,Belt,2,Credit Card,9,251
+2023,Qtr 1,January,21,Blazer,1,Cash,5,157
+2023,Qtr 1,January,21,Flip-Flops,1,Credit Card,5,18
+2023,Qtr 1,January,21,Kimono,1,Cash,3,116
+2023,Qtr 1,January,21,Kimono,1,Credit Card,1,45
+2023,Qtr 1,January,21,Loafers,1,Credit Card,4,186
+2023,Qtr 1,January,21,Polo Shirt,1,Credit Card,4,157
+2023,Qtr 1,January,21,Scarf,1,Cash,5,20
+2023,Qtr 1,January,21,T-shirt,1,Cash,3,75
+2023,Qtr 1,January,21,Umbrella,1,Cash,2,115
+2023,Qtr 1,January,21,Vest,1,Cash,4,58
+2023,Qtr 1,January,22,Belt,1,Cash,4,139
+2023,Qtr 1,January,22,Belt,1,Credit Card,4,144
+2023,Qtr 1,January,22,Bowtie,1,Credit Card,4,187
+2023,Qtr 1,January,22,Coat,1,Cash,3,157
+2023,Qtr 1,January,22,Shorts,2,Cash,5,316
+2023,Qtr 1,January,22,Skirt,2,Credit Card,8,165
+2023,Qtr 1,January,22,Umbrella,1,Credit Card,4,151
+2023,Qtr 1,January,23,Camisole,1,Cash,3,44
+2023,Qtr 1,January,23,Dress,1,Credit Card,2,33
+2023,Qtr 1,January,23,Hoodie,1,Cash,3,167
+2023,Qtr 1,January,23,Hoodie,1,Credit Card,3,155
+2023,Qtr 1,January,23,Loafers,1,Credit Card,2,157
+2023,Qtr 1,January,23,Overalls,1,Credit Card,5,182
+2023,Qtr 1,January,23,Poncho,1,Credit Card,5,131
+2023,Qtr 1,January,23,Raincoat,1,Credit Card,2,73
+2023,Qtr 1,January,23,Shorts,1,Credit Card,2,26
+2023,Qtr 1,January,23,Sweater,1,Cash,2,157
+2023,Qtr 1,January,23,Tunic,1,Credit Card,2,146
+2023,Qtr 1,January,24,Blouse,1,Cash,2,66
+2023,Qtr 1,January,24,Handbag,1,Cash,2,157
+2023,Qtr 1,January,24,Hoodie,1,Credit Card,1,197
+2023,Qtr 1,January,24,Pajamas,1,Credit Card,4,111
+2023,Qtr 1,January,24,Sandals,1,Cash,2,177
+2023,Qtr 1,January,24,Sneakers,1,Cash,3,175
+2023,Qtr 1,January,24,Sweater,1,Cash,3,135
+2023,Qtr 1,January,25,Blouse,1,Cash,4,135
+2023,Qtr 1,January,25,Handbag,1,Credit Card,5,157
+2023,Qtr 1,January,25,Jacket,1,Credit Card,3,157
+2023,Qtr 1,January,25,Kimono,1,Credit Card,3,10
+2023,Qtr 1,January,25,Leggings,1,Cash,3,71
+2023,Qtr 1,January,25,Overalls,1,Credit Card,4,22
+2023,Qtr 1,January,25,Pants,1,Cash,5,55
+2023,Qtr 1,January,25,Pants,1,Credit Card,3,165
+2023,Qtr 1,January,25,Sweater,1,Credit Card,5,92
+2023,Qtr 1,January,25,Swimsuit,1,Credit Card,5,157
+2023,Qtr 1,January,25,Umbrella,1,Cash,5,157
+2023,Qtr 1,January,26,Blouse,1,Cash,4,162
+2023,Qtr 1,January,26,Boots,2,Credit Card,9,3229
+2023,Qtr 1,January,26,Camisole,1,Cash,4,118
+2023,Qtr 1,January,26,Dress,1,Cash,3,102
+2023,Qtr 1,January,26,Flip-Flops,1,Cash,2,81
+2023,Qtr 1,January,26,Pajamas,1,Cash,5,157
+2023,Qtr 1,January,26,Pants,2,Credit Card,7,56
+2023,Qtr 1,January,26,Romper,1,Credit Card,4,153
+2023,Qtr 1,January,26,Sunglasses,1,Credit Card,3,22
+2023,Qtr 1,January,26,Tank Top,1,Cash,4,178
+2023,Qtr 1,January,26,Trousers,1,Cash,5,31
+2023,Qtr 1,January,26,Umbrella,1,Credit Card,2,102
+2023,Qtr 1,January,27,Gloves,1,Credit Card,3,51
+2023,Qtr 1,January,27,Pants,1,Credit Card,3,98
+2023,Qtr 1,January,27,Scarf,1,Credit Card,3,181
+2023,Qtr 1,January,27,Sneakers,1,Credit Card,3,157
+2023,Qtr 1,January,27,Sunglasses,1,Cash,3,157
+2023,Qtr 1,January,28,Blazer,1,Credit Card,4,155
+2023,Qtr 1,January,28,Flip-Flops,2,Cash,8,212
+2023,Qtr 1,January,28,Handbag,1,Cash,4,199
+2023,Qtr 1,January,28,Hat,1,Credit Card,3,157
+2023,Qtr 1,January,28,Jumpsuit,1,Credit Card,2,157
+2023,Qtr 1,January,28,Loafers,1,Cash,2,157
+2023,Qtr 1,January,28,Loafers,1,Credit Card,3,157
+2023,Qtr 1,January,28,Sweater,1,Credit Card,5,191
+2023,Qtr 1,January,28,Trench Coat,1,Credit Card,5,52
+2023,Qtr 1,January,28,Vest,1,Credit Card,2,154
+2023,Qtr 1,January,29,Boots,1,Cash,2,63
+2023,Qtr 1,January,29,Camisole,1,Cash,4,58
+2023,Qtr 1,January,29,Jumpsuit,1,Credit Card,4,157
+2023,Qtr 1,January,29,Sweater,1,Cash,1,150
+2023,Qtr 1,January,29,Tank Top,1,Cash,3,85
+2023,Qtr 1,January,29,Trench Coat,1,Cash,5,2130
+2023,Qtr 1,January,29,Umbrella,1,Credit Card,2,101
+2023,Qtr 1,January,29,Vest,1,Credit Card,3,178
+2023,Qtr 1,January,29,Wallet,1,Credit Card,3,62
+2023,Qtr 1,January,30,Belt,1,Cash,5,32
+2023,Qtr 1,January,30,Hat,1,Cash,5,10
+2023,Qtr 1,January,30,Hoodie,1,Credit Card,5,77
+2023,Qtr 1,January,30,Jumpsuit,1,Credit Card,3,82
+2023,Qtr 1,January,30,Overalls,1,Cash,3,148
+2023,Qtr 1,January,30,Sunglasses,1,Credit Card,3,54
+2023,Qtr 1,January,30,Trench Coat,2,Cash,9,105
+2023,Qtr 1,January,30,T-shirt,1,Credit Card,5,67
+2023,Qtr 1,January,30,Tunic,1,Cash,5,126
+2023,Qtr 1,January,31,Cardigan,1,Cash,4,157
+2023,Qtr 1,January,31,Loafers,1,Cash,2,146
+2023,Qtr 1,January,31,Raincoat,1,Credit Card,5,188
+2023,Qtr 1,January,31,Romper,1,Credit Card,2,43
+2023,Qtr 1,January,31,Sandals,1,Credit Card,2,116
+2023,Qtr 1,January,31,Scarf,1,Credit Card,4,123
+2023,Qtr 1,January,31,Sneakers,1,Credit Card,4,132
+2023,Qtr 1,January,31,Socks,1,Cash,3,17
+2023,Qtr 1,January,31,Trousers,1,Credit Card,5,148
+2023,Qtr 1,February,1,Belt,1,Credit Card,3,132
+2023,Qtr 1,February,1,Coat,1,Credit Card,5,189
+2023,Qtr 1,February,1,Jeans,1,Cash,2,86
+2023,Qtr 1,February,1,Tie,1,Cash,3,112
+2023,Qtr 1,February,1,Trousers,1,Credit Card,3,157
+2023,Qtr 1,February,1,Vest,1,Credit Card,2,179
+2023,Qtr 1,February,2,Boots,1,Cash,3,56
+2023,Qtr 1,February,2,Dress,1,Cash,3,195
+2023,Qtr 1,February,2,Scarf,1,Cash,4,194
+2023,Qtr 1,February,2,Socks,1,Credit Card,2,157
+2023,Qtr 1,February,2,Trousers,1,Credit Card,3,50
+2023,Qtr 1,February,2,Tunic,1,Credit Card,4,166
+2023,Qtr 1,February,2,Vest,1,Cash,3,98
+2023,Qtr 1,February,3,Backpack,1,Cash,5,178
+2023,Qtr 1,February,3,Flannel Shirt,1,Cash,4,99
+2023,Qtr 1,February,3,Loafers,1,Credit Card,4,163
+2023,Qtr 1,February,3,Sweater,1,Credit Card,2,106
+2023,Qtr 1,February,3,Tie,1,Credit Card,3,168
+2023,Qtr 1,February,3,Tunic,1,Cash,1,157
+2023,Qtr 1,February,4,Cardigan,1,Credit Card,3,26
+2023,Qtr 1,February,4,Flannel Shirt,1,Credit Card,3,48
+2023,Qtr 1,February,4,Flip-Flops,1,Cash,3,181
+2023,Qtr 1,February,4,Gloves,1,Cash,3,101
+2023,Qtr 1,February,4,Leggings,1,Credit Card,2,56
+2023,Qtr 1,February,4,Poncho,1,Credit Card,5,117
+2023,Qtr 1,February,4,Raincoat,1,Credit Card,5,79
+2023,Qtr 1,February,4,Romper,1,Cash,3,49
+2023,Qtr 1,February,4,Sandals,1,Cash,5,120
+2023,Qtr 1,February,4,Skirt,1,Credit Card,2,157
+2023,Qtr 1,February,4,Sneakers,1,Cash,5,166
+2023,Qtr 1,February,4,Socks,1,Cash,4,121
+2023,Qtr 1,February,4,Tie,1,Credit Card,3,12
+2023,Qtr 1,February,4,Wallet,2,Credit Card,8,307
+2023,Qtr 1,February,5,Backpack,1,Credit Card,5,46
+2023,Qtr 1,February,5,Blouse,2,Credit Card,7,201
+2023,Qtr 1,February,5,Handbag,1,Credit Card,3,4619
+2023,Qtr 1,February,5,Kimono,1,Cash,3,88
+2023,Qtr 1,February,5,Pants,1,Cash,3,71
+2023,Qtr 1,February,5,Polo Shirt,1,Cash,3,45
+2023,Qtr 1,February,5,Scarf,1,Credit Card,2,165
+2023,Qtr 1,February,5,Shorts,1,Credit Card,4,157
+2023,Qtr 1,February,5,Trousers,1,Credit Card,4,102
+2023,Qtr 1,February,6,Backpack,1,Credit Card,5,82
+2023,Qtr 1,February,6,Cardigan,1,Cash,3,157
+2023,Qtr 1,February,6,Cardigan,1,Credit Card,4,174
+2023,Qtr 1,February,6,Coat,1,Cash,4,102
+2023,Qtr 1,February,6,Jumpsuit,1,Cash,3,154
+2023,Qtr 1,February,6,Vest,1,Credit Card,2,95
+2023,Qtr 1,February,7,Belt,1,Cash,5,76
+2023,Qtr 1,February,7,Belt,1,Credit Card,4,166
+2023,Qtr 1,February,7,Camisole,1,Cash,4,14
+2023,Qtr 1,February,7,Pajamas,1,Credit Card,4,140
+2023,Qtr 1,February,7,Pants,1,Cash,3,82
+2023,Qtr 1,February,7,Polo Shirt,1,Cash,2,187
+2023,Qtr 1,February,7,Scarf,1,Credit Card,3,199
+2023,Qtr 1,February,7,Slippers,1,Cash,2,178
+2023,Qtr 1,February,7,Vest,1,Credit Card,2,129
+2023,Qtr 1,February,7,Wallet,1,Credit Card,5,163
+2023,Qtr 1,February,8,Hat,1,Credit Card,3,136
+2023,Qtr 1,February,8,Poncho,1,Cash,5,186
+2023,Qtr 1,February,8,Tunic,1,Credit Card,3,13
+2023,Qtr 1,February,9,Backpack,1,Cash,2,71
+2023,Qtr 1,February,9,Dress,1,Cash,3,110
+2023,Qtr 1,February,9,Dress,1,Credit Card,4,41
+2023,Qtr 1,February,9,Handbag,1,Cash,5,49
+2023,Qtr 1,February,9,Hoodie,1,Cash,5,157
+2023,Qtr 1,February,9,Kimono,1,Credit Card,3,58
+2023,Qtr 1,February,9,Raincoat,1,Credit Card,5,138
+2023,Qtr 1,February,9,Romper,1,Credit Card,5,50
+2023,Qtr 1,February,9,Skirt,1,Credit Card,3,107
+2023,Qtr 1,February,9,Sneakers,1,Cash,4,157
+2023,Qtr 1,February,9,Sunglasses,1,Credit Card,3,154
+2023,Qtr 1,February,9,Vest,1,Cash,5,133
+2023,Qtr 1,February,9,Vest,1,Credit Card,2,167
+2023,Qtr 1,February,10,Camisole,1,Cash,3,145
+2023,Qtr 1,February,10,Hoodie,1,Credit Card,3,157
+2023,Qtr 1,February,10,Leggings,1,Cash,3,157
+2023,Qtr 1,February,10,Loafers,1,Cash,3,147
+2023,Qtr 1,February,10,Onesie,2,Cash,8,328
+2023,Qtr 1,February,10,Pants,1,Credit Card,3,157
+2023,Qtr 1,February,10,Tie,1,Cash,3,172
+2023,Qtr 1,February,11,Backpack,1,Credit Card,3,169
+2023,Qtr 1,February,11,Cardigan,1,Credit Card,5,33
+2023,Qtr 1,February,11,Coat,1,Cash,4,166
+2023,Qtr 1,February,11,Hat,1,Credit Card,3,131
+2023,Qtr 1,February,11,Jeans,2,Credit Card,9,2976
+2023,Qtr 1,February,11,Raincoat,1,Cash,3,180
+2023,Qtr 1,February,11,Scarf,1,Credit Card,5,147
+2023,Qtr 1,February,11,Sneakers,1,Cash,5,157
+2023,Qtr 1,February,11,Socks,1,Cash,3,78
+2023,Qtr 1,February,12,Hoodie,1,Credit Card,2,49
+2023,Qtr 1,February,12,Romper,1,Cash,3,157
+2023,Qtr 1,February,12,Sunglasses,1,Cash,3,40
+2023,Qtr 1,February,12,Tie,1,Credit Card,2,29
+2023,Qtr 1,February,12,Vest,1,Cash,2,157
+2023,Qtr 1,February,13,Blazer,1,Cash,3,14
+2023,Qtr 1,February,13,Flannel Shirt,1,Cash,3,43
+2023,Qtr 1,February,13,Overalls,1,Credit Card,3,55
+2023,Qtr 1,February,13,Raincoat,1,Cash,3,150
+2023,Qtr 1,February,13,Shorts,1,Credit Card,5,77
+2023,Qtr 1,February,13,Skirt,1,Credit Card,4,38
+2023,Qtr 1,February,13,Sneakers,1,Cash,2,192
+2023,Qtr 1,February,13,Sunglasses,1,Credit Card,3,61
+2023,Qtr 1,February,13,Tie,1,Cash,5,63
+2023,Qtr 1,February,13,Trench Coat,1,Cash,3,158
+2023,Qtr 1,February,13,Trench Coat,1,Credit Card,3,17
+2023,Qtr 1,February,13,T-shirt,1,Cash,4,190
+2023,Qtr 1,February,13,Tunic,1,Cash,2,196
+2023,Qtr 1,February,13,Vest,1,Cash,4,57
+2023,Qtr 1,February,14,Belt,1,Cash,5,134
+2023,Qtr 1,February,14,Boots,1,Credit Card,4,193
+2023,Qtr 1,February,14,Loafers,1,Credit Card,2,53
+2023,Qtr 1,February,14,Swimsuit,1,Cash,3,143
+2023,Qtr 1,February,14,Tank Top,1,Cash,5,157
+2023,Qtr 1,February,14,Tie,1,Credit Card,4,157
+2023,Qtr 1,February,15,Blouse,1,Credit Card,4,130
+2023,Qtr 1,February,15,Boots,1,Cash,5,157
+2023,Qtr 1,February,15,Boots,1,Credit Card,3,71
+2023,Qtr 1,February,15,Camisole,1,Cash,2,51
+2023,Qtr 1,February,15,Flannel Shirt,1,Cash,5,157
+2023,Qtr 1,February,15,Overalls,1,Cash,3,30
+2023,Qtr 1,February,15,Romper,1,Cash,4,94
+2023,Qtr 1,February,15,Shorts,2,Cash,8,314
+2023,Qtr 1,February,15,Tie,1,Cash,5,199
+2023,Qtr 1,February,15,T-shirt,1,Cash,2,47
+2023,Qtr 1,February,16,Belt,1,Cash,2,157
+2023,Qtr 1,February,16,Camisole,2,Cash,5,84
+2023,Qtr 1,February,16,Cardigan,1,Cash,3,110
+2023,Qtr 1,February,16,Cardigan,1,Credit Card,2,107
+2023,Qtr 1,February,16,Flannel Shirt,1,Credit Card,3,183
+2023,Qtr 1,February,16,Hat,1,Credit Card,3,68
+2023,Qtr 1,February,16,Jumpsuit,1,Cash,5,157
+2023,Qtr 1,February,16,Poncho,1,Cash,5,157
+2023,Qtr 1,February,16,Romper,1,Credit Card,5,13
+2023,Qtr 1,February,16,Shorts,1,Cash,3,36
+2023,Qtr 1,February,16,Skirt,1,Credit Card,3,179
+2023,Qtr 1,February,16,Sun Hat,1,Credit Card,3,106
+2023,Qtr 1,February,16,Tunic,1,Credit Card,2,143
+2023,Qtr 1,February,16,Umbrella,1,Cash,5,157
+2023,Qtr 1,February,16,Vest,1,Cash,4,80
+2023,Qtr 1,February,17,Bowtie,1,Credit Card,3,97
+2023,Qtr 1,February,17,Kimono,1,Cash,2,170
+2023,Qtr 1,February,17,Sandals,1,Cash,3,190
+2023,Qtr 1,February,17,Scarf,1,Credit Card,3,111
+2023,Qtr 1,February,17,Skirt,1,Cash,4,157
+2023,Qtr 1,February,17,Skirt,2,Credit Card,5,110
+2023,Qtr 1,February,17,Swimsuit,1,Credit Card,5,57
+2023,Qtr 1,February,17,Trench Coat,1,Cash,3,17
+2023,Qtr 1,February,17,Tunic,1,Cash,2,151
+2023,Qtr 1,February,17,Wallet,1,Credit Card,3,136
+2023,Qtr 1,February,18,Backpack,1,Credit Card,3,154
+2023,Qtr 1,February,18,Jacket,1,Cash,5,46
+2023,Qtr 1,February,18,Jeans,1,Cash,4,54
+2023,Qtr 1,February,18,Raincoat,1,Credit Card,3,157
+2023,Qtr 1,February,18,Shorts,1,Cash,3,133
+2023,Qtr 1,February,18,Sun Hat,1,Credit Card,5,157
+2023,Qtr 1,February,18,Swimsuit,1,Credit Card,3,157
+2023,Qtr 1,February,19,Blazer,1,Cash,3,157
+2023,Qtr 1,February,19,Blouse,1,Credit Card,5,55
+2023,Qtr 1,February,19,Jeans,1,Cash,3,167
+2023,Qtr 1,February,19,Leggings,1,Credit Card,2,157
+2023,Qtr 1,February,19,Pajamas,1,Credit Card,5,39
+2023,Qtr 1,February,19,Scarf,1,Credit Card,5,200
+2023,Qtr 1,February,19,Slippers,1,Cash,3,157
+2023,Qtr 1,February,19,Sweater,1,Credit Card,5,47
+2023,Qtr 1,February,19,Umbrella,1,Credit Card,4,107
+2023,Qtr 1,February,20,Camisole,1,Credit Card,4,109
+2023,Qtr 1,February,20,Flannel Shirt,1,Credit Card,2,32
+2023,Qtr 1,February,20,Hat,1,Credit Card,2,200
+2023,Qtr 1,February,20,Leggings,1,Cash,5,21
+2023,Qtr 1,February,20,Polo Shirt,1,Cash,2,157
+2023,Qtr 1,February,20,Scarf,1,Credit Card,4,33
+2023,Qtr 1,February,20,Skirt,1,Cash,1,157
+2023,Qtr 1,February,20,Sweater,1,Cash,2,90
+2023,Qtr 1,February,21,Backpack,1,Credit Card,3,130
+2023,Qtr 1,February,21,Boots,1,Cash,3,82
+2023,Qtr 1,February,21,Flip-Flops,1,Cash,2,30
+2023,Qtr 1,February,21,Hoodie,1,Cash,3,70
+2023,Qtr 1,February,21,Jacket,1,Credit Card,3,157
+2023,Qtr 1,February,21,Leggings,1,Cash,3,157
+2023,Qtr 1,February,21,Overalls,1,Cash,3,46
+2023,Qtr 1,February,21,Sandals,1,Credit Card,4,94
+2023,Qtr 1,February,21,Shorts,1,Cash,3,128
+2023,Qtr 1,February,21,Skirt,1,Cash,5,144
+2023,Qtr 1,February,21,Sweater,1,Cash,3,57
+2023,Qtr 1,February,21,Tank Top,1,Credit Card,2,31
+2023,Qtr 1,February,21,Trench Coat,1,Credit Card,5,33
+2023,Qtr 1,February,22,Backpack,1,Cash,2,157
+2023,Qtr 1,February,22,Blouse,1,Cash,3,157
+2023,Qtr 1,February,22,Boots,1,Cash,3,157
+2023,Qtr 1,February,22,Leggings,1,Credit Card,4,76
+2023,Qtr 1,February,22,Raincoat,1,Cash,2,157
+2023,Qtr 1,February,22,Sneakers,1,Credit Card,2,121
+2023,Qtr 1,February,22,Socks,2,Credit Card,8,2985
+2023,Qtr 1,February,22,Swimsuit,1,Credit Card,3,47
+2023,Qtr 1,February,22,T-shirt,1,Cash,5,157
+2023,Qtr 1,February,22,Wallet,1,Credit Card,4,64
+2023,Qtr 1,February,23,Coat,1,Cash,4,170
+2023,Qtr 1,February,23,Dress,1,Cash,5,157
+2023,Qtr 1,February,23,Handbag,1,Cash,4,18
+2023,Qtr 1,February,23,Hat,1,Cash,3,113
+2023,Qtr 1,February,23,Loafers,1,Credit Card,3,157
+2023,Qtr 1,February,23,Onesie,2,Cash,7,222
+2023,Qtr 1,February,23,Scarf,1,Credit Card,3,185
+2023,Qtr 1,February,23,Tank Top,1,Credit Card,2,128
+2023,Qtr 1,February,24,Backpack,1,Cash,5,124
+2023,Qtr 1,February,24,Cardigan,1,Cash,5,22
+2023,Qtr 1,February,24,Gloves,1,Cash,4,157
+2023,Qtr 1,February,24,Gloves,1,Credit Card,3,157
+2023,Qtr 1,February,24,Overalls,1,Cash,3,132
+2023,Qtr 1,February,24,Raincoat,1,Credit Card,2,60
+2023,Qtr 1,February,24,Slippers,1,Cash,3,157
+2023,Qtr 1,February,24,Sunglasses,1,Cash,3,80
+2023,Qtr 1,February,24,Tunic,1,Cash,2,49
+2023,Qtr 1,February,25,Belt,1,Credit Card,3,157
+2023,Qtr 1,February,25,Bowtie,1,Cash,4,15
+2023,Qtr 1,February,25,Flannel Shirt,1,Cash,2,157
+2023,Qtr 1,February,25,Gloves,1,Cash,4,35
+2023,Qtr 1,February,25,Sandals,1,Credit Card,5,44
+2023,Qtr 1,February,25,Tank Top,1,Credit Card,3,76
+2023,Qtr 1,February,26,Gloves,1,Credit Card,4,43
+2023,Qtr 1,February,26,Jacket,1,Credit Card,2,139
+2023,Qtr 1,February,26,Pajamas,1,Cash,3,157
+2023,Qtr 1,February,26,Poncho,1,Credit Card,4,36
+2023,Qtr 1,February,26,Shorts,1,Credit Card,2,78
+2023,Qtr 1,February,26,Tank Top,1,Credit Card,2,157
+2023,Qtr 1,February,26,Wallet,1,Credit Card,4,171
+2023,Qtr 1,February,27,Handbag,1,Cash,5,192
+2023,Qtr 1,February,27,Polo Shirt,1,Credit Card,2,160
+2023,Qtr 1,February,27,Romper,1,Credit Card,5,197
+2023,Qtr 1,February,27,Sunglasses,1,Cash,3,149
+2023,Qtr 1,February,27,Sunglasses,1,Credit Card,3,126
+2023,Qtr 1,February,27,Sweater,1,Credit Card,3,157
+2023,Qtr 1,February,27,Vest,1,Cash,1,122
+2023,Qtr 1,February,28,Belt,1,Credit Card,4,23
+2023,Qtr 1,February,28,Cardigan,1,Credit Card,3,90
+2023,Qtr 1,February,28,Jeans,1,Credit Card,5,157
+2023,Qtr 1,February,28,Swimsuit,1,Cash,5,3393
+2023,Qtr 1,February,28,Tie,1,Cash,3,70
+2023,Qtr 1,February,28,Trench Coat,1,Credit Card,5,172
+2023,Qtr 1,February,28,T-shirt,1,Cash,4,188
+2023,Qtr 1,February,28,Wallet,1,Credit Card,4,107
+2023,Qtr 1,March,1,Boots,1,Cash,3,70
+2023,Qtr 1,March,1,Boots,1,Credit Card,3,152
+2023,Qtr 1,March,1,Hat,1,Credit Card,2,36
+2023,Qtr 1,March,1,Jacket,1,Cash,5,132
+2023,Qtr 1,March,1,Pajamas,1,Credit Card,2,194
+2023,Qtr 1,March,1,Raincoat,1,Credit Card,5,142
+2023,Qtr 1,March,1,Shorts,1,Cash,4,120
+2023,Qtr 1,March,1,Sunglasses,1,Cash,5,157
+2023,Qtr 1,March,1,Sunglasses,1,Credit Card,5,157
+2023,Qtr 1,March,1,Sweater,1,Credit Card,2,167
+2023,Qtr 1,March,2,Blouse,1,Credit Card,3,3731
+2023,Qtr 1,March,2,Camisole,1,Cash,3,162
+2023,Qtr 1,March,2,Flannel Shirt,1,Cash,2,120
+2023,Qtr 1,March,2,Handbag,1,Cash,3,77
+2023,Qtr 1,March,2,Hat,1,Cash,3,46
+2023,Qtr 1,March,2,Loafers,1,Credit Card,4,147
+2023,Qtr 1,March,2,Overalls,1,Cash,4,28
+2023,Qtr 1,March,2,Pajamas,1,Credit Card,5,198
+2023,Qtr 1,March,2,Poncho,1,Credit Card,2,184
+2023,Qtr 1,March,2,Raincoat,1,Cash,3,152
+2023,Qtr 1,March,2,Scarf,1,Cash,4,88
+2023,Qtr 1,March,3,Boots,1,Cash,4,194
+2023,Qtr 1,March,3,Bowtie,1,Cash,3,43
+2023,Qtr 1,March,3,Dress,1,Cash,3,44
+2023,Qtr 1,March,3,Hoodie,1,Credit Card,3,157
+2023,Qtr 1,March,3,Polo Shirt,1,Cash,2,180
+2023,Qtr 1,March,3,Poncho,2,Credit Card,7,161
+2023,Qtr 1,March,3,Romper,1,Cash,3,12
+2023,Qtr 1,March,3,Shorts,1,Cash,3,65
+2023,Qtr 1,March,3,Slippers,1,Credit Card,2,112
+2023,Qtr 1,March,3,Sunglasses,1,Cash,3,130
+2023,Qtr 1,March,3,Swimsuit,1,Cash,4,161
+2023,Qtr 1,March,3,Tank Top,1,Cash,3,48
+2023,Qtr 1,March,3,Umbrella,1,Cash,2,157
+2023,Qtr 1,March,3,Vest,1,Cash,2,157
+2023,Qtr 1,March,4,Belt,2,Credit Card,8,217
+2023,Qtr 1,March,4,Camisole,1,Cash,2,125
+2023,Qtr 1,March,4,Gloves,1,Credit Card,3,64
+2023,Qtr 1,March,4,Loafers,1,Credit Card,2,148
+2023,Qtr 1,March,4,Pajamas,1,Credit Card,3,128
+2023,Qtr 1,March,4,Raincoat,1,Cash,1,157
+2023,Qtr 1,March,4,Romper,1,Cash,3,190
+2023,Qtr 1,March,4,Sandals,1,Cash,2,161
+2023,Qtr 1,March,4,Shorts,1,Credit Card,2,144
+2023,Qtr 1,March,4,Skirt,1,Credit Card,2,135
+2023,Qtr 1,March,4,Slippers,1,Credit Card,4,83
+2023,Qtr 1,March,4,Tank Top,1,Cash,3,153
+2023,Qtr 1,March,4,Wallet,2,Credit Card,8,208
+2023,Qtr 1,March,5,Blouse,1,Credit Card,3,139
+2023,Qtr 1,March,5,Flannel Shirt,1,Cash,3,159
+2023,Qtr 1,March,5,Flannel Shirt,2,Credit Card,7,269
+2023,Qtr 1,March,5,Gloves,1,Credit Card,5,114
+2023,Qtr 1,March,5,Hoodie,1,Credit Card,4,114
+2023,Qtr 1,March,5,Overalls,1,Credit Card,5,185
+2023,Qtr 1,March,5,Raincoat,1,Cash,3,157
+2023,Qtr 1,March,5,Shorts,1,Credit Card,4,41
+2023,Qtr 1,March,5,Tie,1,Cash,5,125
+2023,Qtr 1,March,5,Vest,1,Credit Card,3,68
+2023,Qtr 1,March,6,Backpack,1,Credit Card,3,185
+2023,Qtr 1,March,6,Bowtie,1,Credit Card,2,153
+2023,Qtr 1,March,6,Cardigan,1,Cash,4,111
+2023,Qtr 1,March,6,Pajamas,1,Cash,2,157
+2023,Qtr 1,March,6,Romper,1,Credit Card,3,157
+2023,Qtr 1,March,6,Trousers,1,Cash,4,157
+2023,Qtr 1,March,6,T-shirt,1,Credit Card,4,85
+2023,Qtr 1,March,6,Wallet,1,Credit Card,4,91
+2023,Qtr 1,March,7,Loafers,1,Credit Card,4,126
+2023,Qtr 1,March,7,Skirt,1,Cash,4,125
+2023,Qtr 1,March,7,Tie,1,Cash,4,198
+2023,Qtr 1,March,7,Trousers,1,Credit Card,4,47
+2023,Qtr 1,March,8,Boots,1,Cash,4,78
+2023,Qtr 1,March,8,Hat,1,Credit Card,2,168
+2023,Qtr 1,March,8,Jacket,1,Credit Card,3,82
+2023,Qtr 1,March,8,Loafers,1,Credit Card,4,166
+2023,Qtr 1,March,8,Poncho,1,Credit Card,2,75
+2023,Qtr 1,March,8,Shorts,1,Cash,3,127
+2023,Qtr 1,March,8,T-shirt,1,Cash,3,83
+2023,Qtr 1,March,8,Tunic,1,Cash,5,16
+2023,Qtr 1,March,8,Wallet,1,Credit Card,2,155
+2023,Qtr 1,March,9,Blouse,1,Credit Card,3,183
+2023,Qtr 1,March,9,Camisole,1,Credit Card,5,48
+2023,Qtr 1,March,9,Gloves,1,Credit Card,2,157
+2023,Qtr 1,March,9,Leggings,1,Cash,2,65
+2023,Qtr 1,March,9,Poncho,1,Cash,3,182
+2023,Qtr 1,March,9,Romper,1,Cash,5,182
+2023,Qtr 1,March,10,Gloves,1,Credit Card,2,171
+2023,Qtr 1,March,10,Loafers,2,Credit Card,10,351
+2023,Qtr 1,March,10,Sweater,1,Cash,4,157
+2023,Qtr 1,March,10,Swimsuit,1,Cash,2,157
+2023,Qtr 1,March,10,Tank Top,1,Credit Card,5,40
+2023,Qtr 1,March,11,Bowtie,1,Credit Card,3,28
+2023,Qtr 1,March,11,Camisole,1,Credit Card,2,157
+2023,Qtr 1,March,11,Jumpsuit,1,Cash,4,173
+2023,Qtr 1,March,11,Kimono,1,Cash,2,30
+2023,Qtr 1,March,11,Onesie,1,Credit Card,3,61
+2023,Qtr 1,March,11,Slippers,1,Credit Card,3,157
+2023,Qtr 1,March,11,Sun Hat,1,Cash,5,183
+2023,Qtr 1,March,11,Sunglasses,1,Cash,3,33
+2023,Qtr 1,March,11,Tie,1,Credit Card,4,49
+2023,Qtr 1,March,12,Belt,1,Credit Card,3,92
+2023,Qtr 1,March,12,Bowtie,1,Credit Card,3,121
+2023,Qtr 1,March,12,Camisole,1,Credit Card,3,114
+2023,Qtr 1,March,12,Jacket,1,Credit Card,5,175
+2023,Qtr 1,March,12,Jeans,1,Credit Card,5,56
+2023,Qtr 1,March,12,Pants,1,Cash,4,179
+2023,Qtr 1,March,12,Romper,1,Credit Card,5,136
+2023,Qtr 1,March,12,Sneakers,2,Credit Card,10,222
+2023,Qtr 1,March,12,Swimsuit,1,Credit Card,5,110
+2023,Qtr 1,March,13,Handbag,1,Credit Card,3,182
+2023,Qtr 1,March,13,Polo Shirt,1,Cash,3,134
+2023,Qtr 1,March,13,Scarf,1,Cash,4,115
+2023,Qtr 1,March,13,Scarf,1,Credit Card,4,185
+2023,Qtr 1,March,13,Sun Hat,1,Cash,5,78
+2023,Qtr 1,March,13,Sunglasses,1,Credit Card,3,157
+2023,Qtr 1,March,13,Sweater,1,Credit Card,4,64
+2023,Qtr 1,March,14,Boots,1,Cash,5,102
+2023,Qtr 1,March,14,Cardigan,1,Credit Card,3,132
+2023,Qtr 1,March,14,Flip-Flops,1,Credit Card,5,80
+2023,Qtr 1,March,14,Handbag,1,Cash,5,157
+2023,Qtr 1,March,14,Jacket,1,Cash,2,29
+2023,Qtr 1,March,14,Leggings,1,Cash,2,49
+2023,Qtr 1,March,14,Poncho,1,Credit Card,1,15
+2023,Qtr 1,March,14,Romper,1,Cash,5,78
+2023,Qtr 1,March,14,Socks,1,Cash,3,142
+2023,Qtr 1,March,15,Boots,1,Cash,2,198
+2023,Qtr 1,March,15,Bowtie,2,Cash,5,219
+2023,Qtr 1,March,15,Camisole,1,Credit Card,2,189
+2023,Qtr 1,March,15,Flannel Shirt,1,Cash,3,163
+2023,Qtr 1,March,15,Hoodie,1,Cash,3,131
+2023,Qtr 1,March,15,Kimono,1,Credit Card,5,125
+2023,Qtr 1,March,15,Leggings,1,Cash,4,3126
+2023,Qtr 1,March,15,Pajamas,1,Credit Card,2,190
+2023,Qtr 1,March,15,Poncho,1,Credit Card,3,157
+2023,Qtr 1,March,15,Romper,1,Cash,2,157
+2023,Qtr 1,March,15,Shorts,1,Credit Card,4,39
+2023,Qtr 1,March,15,Socks,1,Credit Card,3,193
+2023,Qtr 1,March,15,Sunglasses,2,Cash,6,121
+2023,Qtr 1,March,15,Tunic,1,Credit Card,3,61
+2023,Qtr 1,March,16,Blazer,1,Cash,4,56
+2023,Qtr 1,March,16,Bowtie,1,Cash,5,137
+2023,Qtr 1,March,16,Bowtie,1,Credit Card,4,12
+2023,Qtr 1,March,16,Coat,1,Credit Card,4,157
+2023,Qtr 1,March,16,Dress,1,Credit Card,4,146
+2023,Qtr 1,March,16,Flannel Shirt,1,Credit Card,2,157
+2023,Qtr 1,March,16,Slippers,2,Cash,6,332
+2023,Qtr 1,March,16,Sneakers,1,Credit Card,3,157
+2023,Qtr 1,March,16,Trench Coat,1,Cash,4,168
+2023,Qtr 1,March,17,Boots,1,Cash,2,127
+2023,Qtr 1,March,17,Hat,1,Cash,5,45
+2023,Qtr 1,March,17,Hoodie,1,Cash,2,116
+2023,Qtr 1,March,17,Kimono,1,Credit Card,4,157
+2023,Qtr 1,March,17,Sandals,1,Cash,4,71
+2023,Qtr 1,March,17,Sneakers,1,Cash,3,20
+2023,Qtr 1,March,17,Sneakers,1,Credit Card,3,157
+2023,Qtr 1,March,17,Umbrella,1,Cash,4,157
+2023,Qtr 1,March,18,Dress,1,Cash,4,40
+2023,Qtr 1,March,18,Flip-Flops,1,Cash,2,127
+2023,Qtr 1,March,18,Hoodie,1,Credit Card,5,31
+2023,Qtr 1,March,18,Jacket,1,Credit Card,4,140
+2023,Qtr 1,March,18,Jumpsuit,1,Cash,5,194
+2023,Qtr 1,March,18,Polo Shirt,1,Cash,3,157
+2023,Qtr 1,March,18,Tie,1,Credit Card,3,77
+2023,Qtr 1,March,18,Trousers,1,Cash,2,114
+2023,Qtr 1,March,18,T-shirt,1,Credit Card,3,148
+2023,Qtr 1,March,18,Umbrella,1,Cash,3,192
+2023,Qtr 1,March,18,Umbrella,1,Credit Card,4,172
+2023,Qtr 1,March,19,Belt,1,Credit Card,5,63
+2023,Qtr 1,March,19,Boots,1,Cash,1,34
+2023,Qtr 1,March,19,Flannel Shirt,1,Credit Card,3,157
+2023,Qtr 1,March,19,Hat,1,Cash,2,200
+2023,Qtr 1,March,19,Hoodie,1,Credit Card,5,170
+2023,Qtr 1,March,19,Romper,1,Credit Card,5,157
+2023,Qtr 1,March,19,Skirt,1,Credit Card,5,189
+2023,Qtr 1,March,19,Slippers,1,Cash,5,158
+2023,Qtr 1,March,19,Slippers,1,Credit Card,5,2356
+2023,Qtr 1,March,19,Trench Coat,1,Credit Card,4,157
+2023,Qtr 1,March,19,T-shirt,1,Cash,4,12
+2023,Qtr 1,March,20,Blazer,1,Credit Card,1,168
+2023,Qtr 1,March,20,Kimono,1,Cash,5,67
+2023,Qtr 1,March,20,Overalls,1,Credit Card,3,190
+2023,Qtr 1,March,20,Pajamas,1,Credit Card,5,133
+2023,Qtr 1,March,20,Polo Shirt,1,Cash,1,43
+2023,Qtr 1,March,20,Romper,1,Credit Card,2,77
+2023,Qtr 1,March,20,Sunglasses,1,Credit Card,2,172
+2023,Qtr 1,March,20,Sweater,1,Credit Card,3,165
+2023,Qtr 1,March,20,T-shirt,1,Credit Card,5,52
+2023,Qtr 1,March,21,Belt,1,Cash,3,16
+2023,Qtr 1,March,21,Belt,1,Credit Card,3,44
+2023,Qtr 1,March,21,Blouse,2,Cash,10,306
+2023,Qtr 1,March,21,Pants,2,Credit Card,7,94
+2023,Qtr 1,March,21,Sunglasses,1,Cash,2,70
+2023,Qtr 1,March,21,Trench Coat,1,Cash,3,182
+2023,Qtr 1,March,22,Backpack,1,Cash,2,115
+2023,Qtr 1,March,22,Flannel Shirt,1,Cash,3,137
+2023,Qtr 1,March,22,Overalls,1,Cash,5,150
+2023,Qtr 1,March,22,Raincoat,1,Cash,2,126
+2023,Qtr 1,March,22,Sunglasses,1,Credit Card,3,71
+2023,Qtr 1,March,22,Trench Coat,1,Cash,4,58
+2023,Qtr 1,March,22,Trench Coat,1,Credit Card,5,134
+2023,Qtr 1,March,22,Trousers,1,Credit Card,2,157
+2023,Qtr 1,March,23,Blazer,1,Cash,4,134
+2023,Qtr 1,March,23,Boots,1,Credit Card,5,157
+2023,Qtr 1,March,23,Flannel Shirt,1,Cash,4,191
+2023,Qtr 1,March,23,Jacket,1,Credit Card,2,11
+2023,Qtr 1,March,23,Shorts,1,Cash,4,192
+2023,Qtr 1,March,23,Socks,1,Credit Card,3,157
+2023,Qtr 1,March,23,Swimsuit,1,Cash,5,87
+2023,Qtr 1,March,23,Tank Top,1,Cash,5,2102
+2023,Qtr 1,March,23,Tunic,1,Cash,2,183
+2023,Qtr 1,March,24,Backpack,1,Credit Card,2,66
+2023,Qtr 1,March,24,Flip-Flops,1,Credit Card,4,157
+2023,Qtr 1,March,24,Overalls,1,Cash,3,157
+2023,Qtr 1,March,24,Romper,1,Cash,3,110
+2023,Qtr 1,March,24,Sandals,1,Cash,3,155
+2023,Qtr 1,March,24,Shorts,1,Cash,4,28
+2023,Qtr 1,March,24,Sneakers,1,Credit Card,5,196
+2023,Qtr 1,March,24,Sunglasses,1,Cash,4,159
+2023,Qtr 1,March,24,Sweater,1,Cash,4,196
+2023,Qtr 1,March,24,Tie,1,Credit Card,5,162
+2023,Qtr 1,March,24,Vest,1,Credit Card,5,183
+2023,Qtr 1,March,25,Backpack,1,Credit Card,5,111
+2023,Qtr 1,March,25,Kimono,1,Credit Card,3,78
+2023,Qtr 1,March,25,Pants,1,Credit Card,3,11
+2023,Qtr 1,March,25,Shorts,1,Credit Card,2,99
+2023,Qtr 1,March,25,Swimsuit,1,Credit Card,2,198
+2023,Qtr 1,March,25,Tie,1,Cash,4,49
+2023,Qtr 1,March,25,T-shirt,1,Cash,3,2108
+2023,Qtr 1,March,26,Boots,1,Cash,5,94
+2023,Qtr 1,March,26,Kimono,1,Credit Card,3,160
+2023,Qtr 1,March,26,Pajamas,1,Credit Card,5,172
+2023,Qtr 1,March,26,Poncho,1,Cash,5,157
+2023,Qtr 1,March,26,Skirt,1,Cash,5,157
+2023,Qtr 1,March,26,Trousers,1,Cash,4,157
+2023,Qtr 1,March,26,Tunic,1,Cash,1,65
+2023,Qtr 1,March,27,Cardigan,1,Cash,3,160
+2023,Qtr 1,March,27,Jacket,1,Credit Card,5,178
+2023,Qtr 1,March,27,Pajamas,1,Cash,2,157
+2023,Qtr 1,March,27,Pants,1,Cash,3,29
+2023,Qtr 1,March,27,Raincoat,1,Cash,2,123
+2023,Qtr 1,March,27,Vest,1,Credit Card,3,189
+2023,Qtr 1,March,28,Belt,1,Credit Card,3,157
+2023,Qtr 1,March,28,Flip-Flops,1,Cash,4,56
+2023,Qtr 1,March,28,Jeans,1,Cash,3,170
+2023,Qtr 1,March,28,Sun Hat,1,Cash,3,157
+2023,Qtr 1,March,28,Tank Top,1,Credit Card,5,157
+2023,Qtr 1,March,28,Trench Coat,1,Cash,3,200
+2023,Qtr 1,March,29,Gloves,1,Cash,4,33
+2023,Qtr 1,March,29,Polo Shirt,1,Cash,3,29
+2023,Qtr 1,March,29,Polo Shirt,1,Credit Card,3,157
+2023,Qtr 1,March,29,Sneakers,1,Cash,3,83
+2023,Qtr 1,March,29,Tie,1,Credit Card,3,63
+2023,Qtr 1,March,29,T-shirt,1,Cash,2,157
+2023,Qtr 1,March,30,Camisole,1,Cash,2,57
+2023,Qtr 1,March,30,Coat,1,Cash,5,24
+2023,Qtr 1,March,30,Flip-Flops,1,Cash,4,30
+2023,Qtr 1,March,30,Pajamas,1,Credit Card,3,47
+2023,Qtr 1,March,30,Scarf,1,Credit Card,5,176
+2023,Qtr 1,March,30,Sun Hat,1,Credit Card,2,157
+2023,Qtr 1,March,31,Cardigan,1,Cash,2,163
+2023,Qtr 1,March,31,Dress,1,Credit Card,5,71
+2023,Qtr 1,March,31,Raincoat,1,Cash,3,182
+2023,Qtr 1,March,31,Sandals,1,Credit Card,3,187
+2023,Qtr 1,March,31,Shorts,1,Credit Card,5,176
+2023,Qtr 1,March,31,Swimsuit,1,Cash,2,157
+2023,Qtr 1,March,31,Tank Top,1,Cash,2,27
+2023,Qtr 1,March,31,Wallet,1,Credit Card,3,149
+2023,Qtr 2,April,1,Gloves,1,Credit Card,5,112
+2023,Qtr 2,April,1,Handbag,1,Cash,5,55
+2023,Qtr 2,April,1,Overalls,1,Credit Card,2,33
+2023,Qtr 2,April,1,Pants,1,Cash,2,85
+2023,Qtr 2,April,1,Poncho,1,Credit Card,3,185
+2023,Qtr 2,April,1,Scarf,1,Cash,4,71
+2023,Qtr 2,April,1,Sunglasses,1,Cash,3,187
+2023,Qtr 2,April,1,Tank Top,1,Cash,5,114
+2023,Qtr 2,April,1,Tank Top,1,Credit Card,3,173
+2023,Qtr 2,April,1,Trench Coat,1,Cash,4,199
+2023,Qtr 2,April,2,Flannel Shirt,1,Cash,2,20
+2023,Qtr 2,April,2,Flannel Shirt,1,Credit Card,5,118
+2023,Qtr 2,April,2,Gloves,1,Cash,5,146
+2023,Qtr 2,April,2,Hoodie,1,Credit Card,3,157
+2023,Qtr 2,April,2,Jacket,1,Credit Card,2,174
+2023,Qtr 2,April,2,Kimono,1,Cash,2,156
+2023,Qtr 2,April,2,Pants,1,Credit Card,5,23
+2023,Qtr 2,April,2,Scarf,1,Credit Card,1,119
+2023,Qtr 2,April,2,Swimsuit,1,Credit Card,3,154
+2023,Qtr 2,April,3,Belt,1,Cash,3,69
+2023,Qtr 2,April,3,Boots,1,Cash,4,21
+2023,Qtr 2,April,3,Bowtie,1,Cash,5,160
+2023,Qtr 2,April,3,Pajamas,1,Credit Card,4,105
+2023,Qtr 2,April,3,Romper,1,Credit Card,3,147
+2023,Qtr 2,April,3,Sandals,1,Credit Card,4,195
+2023,Qtr 2,April,3,Scarf,1,Credit Card,5,129
+2023,Qtr 2,April,3,Sweater,1,Cash,4,26
+2023,Qtr 2,April,3,Swimsuit,1,Credit Card,3,157
+2023,Qtr 2,April,3,Vest,1,Cash,3,162
+2023,Qtr 2,April,4,Boots,1,Cash,5,136
+2023,Qtr 2,April,4,Handbag,1,Cash,5,150
+2023,Qtr 2,April,4,Jacket,1,Cash,2,73
+2023,Qtr 2,April,4,Slippers,1,Credit Card,5,180
+2023,Qtr 2,April,5,Coat,1,Cash,3,157
+2023,Qtr 2,April,5,Dress,1,Cash,2,172
+2023,Qtr 2,April,5,Gloves,1,Cash,5,4298
+2023,Qtr 2,April,5,Onesie,1,Credit Card,3,189
+2023,Qtr 2,April,5,Sunglasses,2,Cash,8,277
+2023,Qtr 2,April,5,Tank Top,1,Credit Card,3,41
+2023,Qtr 2,April,5,Wallet,1,Cash,3,176
+2023,Qtr 2,April,6,Blouse,1,Cash,5,179
+2023,Qtr 2,April,6,Camisole,1,Credit Card,2,99
+2023,Qtr 2,April,6,Gloves,1,Credit Card,5,135
+2023,Qtr 2,April,6,Hoodie,1,Credit Card,4,157
+2023,Qtr 2,April,6,Kimono,1,Cash,3,91
+2023,Qtr 2,April,6,Swimsuit,1,Cash,4,197
+2023,Qtr 2,April,6,Tank Top,1,Cash,4,147
+2023,Qtr 2,April,6,Tie,1,Cash,3,157
+2023,Qtr 2,April,7,Belt,1,Credit Card,2,137
+2023,Qtr 2,April,7,Coat,2,Credit Card,5,94
+2023,Qtr 2,April,7,Dress,1,Credit Card,3,170
+2023,Qtr 2,April,7,Jeans,1,Credit Card,5,160
+2023,Qtr 2,April,7,Poncho,1,Credit Card,4,91
+2023,Qtr 2,April,7,Raincoat,1,Credit Card,4,157
+2023,Qtr 2,April,8,Belt,1,Cash,4,157
+2023,Qtr 2,April,8,Dress,1,Credit Card,5,175
+2023,Qtr 2,April,8,Flip-Flops,1,Credit Card,5,196
+2023,Qtr 2,April,8,Skirt,1,Cash,4,147
+2023,Qtr 2,April,8,Tie,1,Cash,5,185
+2023,Qtr 2,April,9,Blazer,1,Cash,4,157
+2023,Qtr 2,April,9,Camisole,1,Cash,4,186
+2023,Qtr 2,April,9,Cardigan,1,Cash,2,2636
+2023,Qtr 2,April,9,Cardigan,1,Credit Card,5,71
+2023,Qtr 2,April,9,Flannel Shirt,1,Credit Card,3,157
+2023,Qtr 2,April,9,Jeans,1,Cash,3,149
+2023,Qtr 2,April,9,Pajamas,1,Cash,1,157
+2023,Qtr 2,April,9,Pajamas,1,Credit Card,2,150
+2023,Qtr 2,April,9,Pants,1,Cash,5,54
+2023,Qtr 2,April,9,Poncho,1,Cash,3,82
+2023,Qtr 2,April,9,Shorts,1,Credit Card,3,89
+2023,Qtr 2,April,9,Slippers,1,Cash,3,90
+2023,Qtr 2,April,10,Backpack,1,Credit Card,3,46
+2023,Qtr 2,April,10,Blazer,1,Cash,5,165
+2023,Qtr 2,April,10,Blouse,1,Cash,4,157
+2023,Qtr 2,April,10,Blouse,1,Credit Card,2,191
+2023,Qtr 2,April,10,Boots,1,Credit Card,5,36
+2023,Qtr 2,April,10,Coat,1,Credit Card,2,115
+2023,Qtr 2,April,10,Pajamas,1,Credit Card,5,157
+2023,Qtr 2,April,10,Pants,1,Credit Card,5,184
+2023,Qtr 2,April,10,Poncho,1,Credit Card,3,2383
+2023,Qtr 2,April,10,Skirt,1,Credit Card,3,11
+2023,Qtr 2,April,10,Tank Top,1,Credit Card,5,183
+2023,Qtr 2,April,10,Tie,1,Credit Card,3,128
+2023,Qtr 2,April,11,Jeans,1,Cash,5,173
+2023,Qtr 2,April,11,Jumpsuit,1,Credit Card,5,198
+2023,Qtr 2,April,11,Overalls,1,Cash,4,172
+2023,Qtr 2,April,11,Pajamas,1,Cash,3,157
+2023,Qtr 2,April,11,Pajamas,1,Credit Card,3,157
+2023,Qtr 2,April,11,Sandals,1,Cash,5,157
+2023,Qtr 2,April,11,Skirt,1,Cash,3,186
+2023,Qtr 2,April,11,Slippers,1,Credit Card,4,27
+2023,Qtr 2,April,11,Socks,1,Cash,2,35
+2023,Qtr 2,April,11,Tank Top,1,Cash,5,21
+2023,Qtr 2,April,12,Blouse,1,Credit Card,3,37
+2023,Qtr 2,April,12,Boots,1,Credit Card,2,11
+2023,Qtr 2,April,12,Camisole,1,Credit Card,4,25
+2023,Qtr 2,April,12,Dress,1,Credit Card,5,23
+2023,Qtr 2,April,12,Flip-Flops,1,Cash,5,93
+2023,Qtr 2,April,12,Handbag,1,Cash,3,157
+2023,Qtr 2,April,12,Hat,1,Credit Card,3,11
+2023,Qtr 2,April,12,Hoodie,1,Credit Card,3,157
+2023,Qtr 2,April,12,Kimono,1,Credit Card,5,22
+2023,Qtr 2,April,12,Shorts,1,Cash,5,141
+2023,Qtr 2,April,12,Sun Hat,1,Credit Card,5,157
+2023,Qtr 2,April,12,Tunic,1,Credit Card,2,4661
+2023,Qtr 2,April,12,Umbrella,1,Credit Card,5,43
+2023,Qtr 2,April,13,Dress,1,Credit Card,3,118
+2023,Qtr 2,April,13,Jacket,1,Credit Card,2,73
+2023,Qtr 2,April,13,Jumpsuit,1,Cash,3,149
+2023,Qtr 2,April,13,Loafers,1,Cash,3,54
+2023,Qtr 2,April,13,Loafers,1,Credit Card,2,157
+2023,Qtr 2,April,13,Pants,1,Credit Card,5,62
+2023,Qtr 2,April,13,Polo Shirt,1,Cash,3,157
+2023,Qtr 2,April,13,Skirt,1,Credit Card,4,157
+2023,Qtr 2,April,14,Camisole,1,Credit Card,3,175
+2023,Qtr 2,April,14,Hat,1,Cash,4,67
+2023,Qtr 2,April,14,Sweater,2,Credit Card,6,274
+2023,Qtr 2,April,15,Belt,1,Credit Card,4,101
+2023,Qtr 2,April,15,Blazer,1,Credit Card,5,18
+2023,Qtr 2,April,15,Jacket,1,Credit Card,3,16
+2023,Qtr 2,April,15,Onesie,1,Credit Card,2,31
+2023,Qtr 2,April,15,Polo Shirt,1,Credit Card,3,28
+2023,Qtr 2,April,15,Sandals,1,Cash,3,129
+2023,Qtr 2,April,15,Sandals,1,Credit Card,5,185
+2023,Qtr 2,April,15,Shorts,1,Credit Card,2,23
+2023,Qtr 2,April,15,Sun Hat,1,Credit Card,4,157
+2023,Qtr 2,April,15,Sunglasses,1,Credit Card,4,157
+2023,Qtr 2,April,16,Cardigan,1,Credit Card,2,109
+2023,Qtr 2,April,16,Flannel Shirt,1,Cash,2,51
+2023,Qtr 2,April,16,Flip-Flops,1,Cash,4,2026
+2023,Qtr 2,April,16,Gloves,1,Credit Card,3,135
+2023,Qtr 2,April,16,Kimono,1,Cash,2,162
+2023,Qtr 2,April,16,Loafers,1,Cash,2,44
+2023,Qtr 2,April,16,Pants,1,Credit Card,3,26
+2023,Qtr 2,April,16,Shorts,2,Credit Card,5,168
+2023,Qtr 2,April,16,Skirt,2,Credit Card,7,297
+2023,Qtr 2,April,16,Sunglasses,1,Cash,5,84
+2023,Qtr 2,April,16,Swimsuit,1,Cash,2,35
+2023,Qtr 2,April,16,Trench Coat,1,Credit Card,2,144
+2023,Qtr 2,April,16,Umbrella,1,Cash,3,103
+2023,Qtr 2,April,17,Blouse,1,Credit Card,5,157
+2023,Qtr 2,April,17,Raincoat,1,Credit Card,4,157
+2023,Qtr 2,April,17,Sun Hat,1,Cash,3,182
+2023,Qtr 2,April,17,Sweater,1,Cash,4,157
+2023,Qtr 2,April,17,Trench Coat,1,Credit Card,2,44
+2023,Qtr 2,April,18,Blazer,1,Cash,4,157
+2023,Qtr 2,April,18,Boots,1,Cash,3,90
+2023,Qtr 2,April,18,Cardigan,1,Cash,3,48
+2023,Qtr 2,April,18,Hat,1,Cash,2,157
+2023,Qtr 2,April,18,Leggings,1,Credit Card,2,29
+2023,Qtr 2,April,18,Polo Shirt,1,Cash,5,157
+2023,Qtr 2,April,18,Poncho,1,Credit Card,3,33
+2023,Qtr 2,April,18,Romper,1,Cash,5,157
+2023,Qtr 2,April,18,Skirt,1,Credit Card,5,15
+2023,Qtr 2,April,18,Sneakers,1,Credit Card,3,42
+2023,Qtr 2,April,18,Sun Hat,1,Cash,3,159
+2023,Qtr 2,April,18,Sunglasses,1,Credit Card,3,70
+2023,Qtr 2,April,18,Tie,1,Cash,2,126
+2023,Qtr 2,April,19,Blazer,1,Credit Card,2,49
+2023,Qtr 2,April,19,Flannel Shirt,1,Cash,2,107
+2023,Qtr 2,April,19,Jumpsuit,1,Cash,3,42
+2023,Qtr 2,April,19,Onesie,1,Credit Card,5,155
+2023,Qtr 2,April,19,Overalls,1,Credit Card,5,157
+2023,Qtr 2,April,19,Pants,1,Cash,3,144
+2023,Qtr 2,April,19,Pants,1,Credit Card,2,157
+2023,Qtr 2,April,19,Sandals,1,Cash,5,105
+2023,Qtr 2,April,19,Sneakers,1,Cash,5,156
+2023,Qtr 2,April,19,Wallet,1,Cash,3,73
+2023,Qtr 2,April,20,Belt,1,Cash,5,80
+2023,Qtr 2,April,20,Dress,1,Cash,5,110
+2023,Qtr 2,April,20,Raincoat,1,Credit Card,3,199
+2023,Qtr 2,April,20,Romper,1,Cash,5,152
+2023,Qtr 2,April,20,Romper,2,Credit Card,4,183
+2023,Qtr 2,April,20,Socks,1,Credit Card,2,96
+2023,Qtr 2,April,20,Tie,1,Credit Card,3,142
+2023,Qtr 2,April,20,Wallet,1,Credit Card,3,157
+2023,Qtr 2,April,21,Blouse,1,Cash,4,174
+2023,Qtr 2,April,21,Coat,1,Credit Card,5,168
+2023,Qtr 2,April,21,Handbag,1,Credit Card,5,46
+2023,Qtr 2,April,21,Kimono,1,Credit Card,5,135
+2023,Qtr 2,April,21,Pants,2,Cash,7,26
+2023,Qtr 2,April,21,Polo Shirt,1,Credit Card,3,157
+2023,Qtr 2,April,21,Romper,1,Credit Card,3,126
+2023,Qtr 2,April,21,Skirt,1,Cash,2,157
+2023,Qtr 2,April,21,Socks,1,Cash,3,147
+2023,Qtr 2,April,21,Swimsuit,1,Credit Card,3,98
+2023,Qtr 2,April,22,Belt,1,Cash,3,62
+2023,Qtr 2,April,22,Coat,1,Credit Card,5,151
+2023,Qtr 2,April,22,Handbag,1,Cash,2,52
+2023,Qtr 2,April,22,Shorts,1,Cash,4,64
+2023,Qtr 2,April,22,Sun Hat,1,Cash,4,58
+2023,Qtr 2,April,22,Sun Hat,1,Credit Card,5,62
+2023,Qtr 2,April,22,Sunglasses,1,Cash,4,196
+2023,Qtr 2,April,22,Swimsuit,1,Credit Card,2,157
+2023,Qtr 2,April,22,T-shirt,1,Credit Card,5,114
+2023,Qtr 2,April,22,Tunic,1,Cash,3,148
+2023,Qtr 2,April,22,Umbrella,1,Cash,3,157
+2023,Qtr 2,April,23,Blazer,1,Credit Card,2,72
+2023,Qtr 2,April,23,Dress,1,Cash,5,123
+2023,Qtr 2,April,23,Flip-Flops,1,Cash,4,121
+2023,Qtr 2,April,23,Hoodie,1,Credit Card,3,94
+2023,Qtr 2,April,23,Leggings,1,Cash,3,192
+2023,Qtr 2,April,23,Pajamas,2,Credit Card,7,340
+2023,Qtr 2,April,23,Socks,1,Cash,3,143
+2023,Qtr 2,April,23,Umbrella,1,Credit Card,5,103
+2023,Qtr 2,April,24,Blouse,1,Credit Card,2,159
+2023,Qtr 2,April,24,Cardigan,1,Credit Card,2,157
+2023,Qtr 2,April,24,Dress,1,Cash,4,97
+2023,Qtr 2,April,24,Flannel Shirt,1,Credit Card,4,47
+2023,Qtr 2,April,24,Handbag,1,Cash,4,24
+2023,Qtr 2,April,24,Hat,1,Credit Card,3,167
+2023,Qtr 2,April,24,Polo Shirt,2,Credit Card,6,121
+2023,Qtr 2,April,24,Poncho,1,Cash,4,192
+2023,Qtr 2,April,24,Raincoat,1,Cash,4,157
+2023,Qtr 2,April,24,Skirt,1,Credit Card,5,187
+2023,Qtr 2,April,24,Sun Hat,1,Credit Card,4,33
+2023,Qtr 2,April,24,Sweater,1,Cash,4,157
+2023,Qtr 2,April,24,T-shirt,1,Credit Card,4,92
+2023,Qtr 2,April,24,Wallet,1,Cash,3,30
+2023,Qtr 2,April,25,Backpack,2,Credit Card,8,249
+2023,Qtr 2,April,25,Bowtie,1,Credit Card,4,73
+2023,Qtr 2,April,25,Dress,1,Cash,4,154
+2023,Qtr 2,April,25,Handbag,1,Cash,5,98
+2023,Qtr 2,April,25,Leggings,1,Cash,5,157
+2023,Qtr 2,April,25,Loafers,1,Cash,3,111
+2023,Qtr 2,April,25,Pants,1,Credit Card,4,38
+2023,Qtr 2,April,25,Poncho,1,Cash,3,81
+2023,Qtr 2,April,25,Poncho,1,Credit Card,2,191
+2023,Qtr 2,April,25,Slippers,1,Credit Card,3,157
+2023,Qtr 2,April,25,Swimsuit,1,Credit Card,5,122
+2023,Qtr 2,April,25,Tank Top,1,Cash,3,190
+2023,Qtr 2,April,25,Tie,1,Credit Card,4,157
+2023,Qtr 2,April,26,Backpack,1,Cash,3,130
+2023,Qtr 2,April,26,Cardigan,1,Cash,5,49
+2023,Qtr 2,April,26,Jumpsuit,1,Credit Card,2,54
+2023,Qtr 2,April,26,Kimono,1,Cash,5,21
+2023,Qtr 2,April,26,Scarf,1,Credit Card,4,98
+2023,Qtr 2,April,26,Shorts,1,Credit Card,2,164
+2023,Qtr 2,April,26,Slippers,1,Cash,3,157
+2023,Qtr 2,April,26,Tank Top,1,Credit Card,5,49
+2023,Qtr 2,April,26,Trench Coat,1,Cash,4,91
+2023,Qtr 2,April,26,Trousers,1,Cash,4,157
+2023,Qtr 2,April,27,Backpack,1,Cash,4,56
+2023,Qtr 2,April,27,Backpack,1,Credit Card,5,162
+2023,Qtr 2,April,27,Bowtie,1,Cash,3,80
+2023,Qtr 2,April,27,Cardigan,1,Credit Card,2,92
+2023,Qtr 2,April,27,Dress,1,Cash,5,25
+2023,Qtr 2,April,27,Handbag,1,Cash,2,86
+2023,Qtr 2,April,27,Kimono,2,Credit Card,8,215
+2023,Qtr 2,April,27,Onesie,1,Cash,3,93
+2023,Qtr 2,April,27,Pants,1,Credit Card,4,200
+2023,Qtr 2,April,27,Shorts,1,Credit Card,3,157
+2023,Qtr 2,April,27,Sun Hat,1,Cash,3,94
+2023,Qtr 2,April,27,Sunglasses,1,Credit Card,4,157
+2023,Qtr 2,April,27,Tie,1,Credit Card,4,82
+2023,Qtr 2,April,27,T-shirt,1,Credit Card,2,157
+2023,Qtr 2,April,27,Tunic,1,Cash,2,169
+2023,Qtr 2,April,28,Kimono,1,Credit Card,4,91
+2023,Qtr 2,April,28,Loafers,1,Cash,2,157
+2023,Qtr 2,April,28,Poncho,1,Cash,3,157
+2023,Qtr 2,April,28,Scarf,2,Cash,7,271
+2023,Qtr 2,April,28,Swimsuit,1,Credit Card,3,32
+2023,Qtr 2,April,28,Trench Coat,1,Credit Card,5,14
+2023,Qtr 2,April,28,T-shirt,1,Cash,4,179
+2023,Qtr 2,April,28,Tunic,1,Credit Card,2,114
+2023,Qtr 2,April,28,Wallet,1,Credit Card,5,157
+2023,Qtr 2,April,29,Hat,1,Credit Card,2,147
+2023,Qtr 2,April,29,Jumpsuit,1,Credit Card,3,157
+2023,Qtr 2,April,29,Kimono,1,Credit Card,5,157
+2023,Qtr 2,April,29,Pants,1,Credit Card,4,88
+2023,Qtr 2,April,29,Vest,1,Credit Card,5,157
+2023,Qtr 2,April,30,Blazer,1,Cash,2,157
+2023,Qtr 2,April,30,Bowtie,1,Credit Card,3,61
+2023,Qtr 2,April,30,Flip-Flops,1,Credit Card,5,172
+2023,Qtr 2,April,30,Handbag,1,Credit Card,4,157
+2023,Qtr 2,April,30,Jacket,1,Credit Card,2,157
+2023,Qtr 2,April,30,Pajamas,1,Credit Card,3,191
+2023,Qtr 2,April,30,Slippers,1,Credit Card,4,157
+2023,Qtr 2,April,30,Socks,1,Credit Card,3,139
+2023,Qtr 2,April,30,Sunglasses,1,Cash,3,36
+2023,Qtr 2,April,30,Swimsuit,1,Cash,3,73
+2023,Qtr 2,April,30,Tank Top,1,Credit Card,4,29
+2023,Qtr 2,April,30,Trench Coat,1,Cash,3,37
+2023,Qtr 2,May,1,Bowtie,1,Cash,4,147
+2023,Qtr 2,May,1,Camisole,1,Cash,3,28
+2023,Qtr 2,May,1,Jeans,1,Cash,2,139
+2023,Qtr 2,May,1,Raincoat,1,Cash,2,48
+2023,Qtr 2,May,1,T-shirt,1,Credit Card,2,145
+2023,Qtr 2,May,1,Wallet,2,Cash,8,296
+2023,Qtr 2,May,2,Blouse,1,Credit Card,2,137
+2023,Qtr 2,May,2,Coat,1,Credit Card,5,157
+2023,Qtr 2,May,2,Hoodie,1,Cash,2,196
+2023,Qtr 2,May,2,Kimono,1,Cash,3,31
+2023,Qtr 2,May,2,Overalls,1,Credit Card,5,173
+2023,Qtr 2,May,2,Pants,1,Cash,4,97
+2023,Qtr 2,May,2,Scarf,1,Cash,4,189
+2023,Qtr 2,May,2,Sunglasses,1,Cash,4,69
+2023,Qtr 2,May,2,Sweater,1,Cash,3,75
+2023,Qtr 2,May,2,Swimsuit,1,Cash,4,167
+2023,Qtr 2,May,2,Tank Top,1,Cash,4,157
+2023,Qtr 2,May,2,Tie,1,Credit Card,3,21
+2023,Qtr 2,May,3,Blazer,1,Credit Card,5,145
+2023,Qtr 2,May,3,Cardigan,1,Cash,5,93
+2023,Qtr 2,May,3,Jacket,1,Credit Card,2,68
+2023,Qtr 2,May,3,Jeans,1,Credit Card,2,195
+2023,Qtr 2,May,3,Loafers,1,Cash,3,76
+2023,Qtr 2,May,3,Pajamas,1,Credit Card,3,157
+2023,Qtr 2,May,3,T-shirt,1,Credit Card,5,132
+2023,Qtr 2,May,4,Camisole,1,Cash,3,157
+2023,Qtr 2,May,4,Dress,1,Cash,3,72
+2023,Qtr 2,May,4,Gloves,1,Cash,2,156
+2023,Qtr 2,May,4,Loafers,1,Cash,5,157
+2023,Qtr 2,May,4,Loafers,1,Credit Card,4,117
+2023,Qtr 2,May,4,Pants,2,Cash,9,314
+2023,Qtr 2,May,4,Polo Shirt,1,Credit Card,3,118
+2023,Qtr 2,May,4,Sun Hat,1,Cash,5,31
+2023,Qtr 2,May,4,Sunglasses,1,Cash,2,54
+2023,Qtr 2,May,4,Vest,1,Cash,5,154
+2023,Qtr 2,May,5,Backpack,1,Cash,5,54
+2023,Qtr 2,May,5,Blouse,2,Cash,7,173
+2023,Qtr 2,May,5,Camisole,1,Credit Card,2,29
+2023,Qtr 2,May,5,Dress,1,Cash,2,44
+2023,Qtr 2,May,5,Handbag,1,Credit Card,4,173
+2023,Qtr 2,May,5,Leggings,1,Credit Card,2,68
+2023,Qtr 2,May,5,Onesie,1,Cash,5,148
+2023,Qtr 2,May,5,Pants,2,Cash,8,275
+2023,Qtr 2,May,5,Trousers,1,Cash,2,157
+2023,Qtr 2,May,5,Trousers,1,Credit Card,5,157
+2023,Qtr 2,May,5,T-shirt,1,Credit Card,4,30
+2023,Qtr 2,May,6,Belt,1,Credit Card,2,62
+2023,Qtr 2,May,6,Blazer,1,Credit Card,4,95
+2023,Qtr 2,May,6,Blouse,1,Credit Card,2,200
+2023,Qtr 2,May,6,Dress,1,Credit Card,4,157
+2023,Qtr 2,May,6,Loafers,1,Cash,2,122
+2023,Qtr 2,May,6,Onesie,1,Credit Card,3,91
+2023,Qtr 2,May,6,Pants,1,Cash,4,3378
+2023,Qtr 2,May,6,Raincoat,1,Cash,4,188
+2023,Qtr 2,May,6,Skirt,1,Cash,2,157
+2023,Qtr 2,May,6,Slippers,1,Cash,5,52
+2023,Qtr 2,May,6,Socks,1,Credit Card,5,67
+2023,Qtr 2,May,6,Tie,1,Cash,4,24
+2023,Qtr 2,May,6,T-shirt,1,Cash,5,130
+2023,Qtr 2,May,6,Umbrella,2,Cash,10,326
+2023,Qtr 2,May,7,Camisole,1,Credit Card,4,83
+2023,Qtr 2,May,7,Cardigan,1,Credit Card,4,104
+2023,Qtr 2,May,7,Leggings,1,Cash,2,157
+2023,Qtr 2,May,7,Pajamas,1,Credit Card,3,157
+2023,Qtr 2,May,7,Polo Shirt,1,Credit Card,3,158
+2023,Qtr 2,May,7,Scarf,1,Credit Card,5,39
+2023,Qtr 2,May,7,Socks,1,Credit Card,3,147
+2023,Qtr 2,May,7,Tunic,1,Cash,4,136
+2023,Qtr 2,May,8,Backpack,1,Credit Card,3,157
+2023,Qtr 2,May,8,Hat,1,Cash,3,157
+2023,Qtr 2,May,8,Hoodie,1,Cash,2,197
+2023,Qtr 2,May,8,Jacket,1,Credit Card,3,189
+2023,Qtr 2,May,8,Skirt,1,Cash,4,164
+2023,Qtr 2,May,8,Sneakers,1,Credit Card,2,123
+2023,Qtr 2,May,8,Sunglasses,1,Cash,4,118
+2023,Qtr 2,May,8,Tank Top,1,Cash,3,160
+2023,Qtr 2,May,9,Camisole,1,Cash,5,138
+2023,Qtr 2,May,9,Coat,2,Credit Card,6,320
+2023,Qtr 2,May,9,Flip-Flops,1,Credit Card,2,157
+2023,Qtr 2,May,9,Gloves,1,Credit Card,4,59
+2023,Qtr 2,May,9,Handbag,1,Cash,3,157
+2023,Qtr 2,May,9,Jacket,1,Credit Card,3,178
+2023,Qtr 2,May,9,Jeans,1,Credit Card,5,157
+2023,Qtr 2,May,9,Kimono,1,Cash,3,31
+2023,Qtr 2,May,9,Polo Shirt,1,Cash,3,173
+2023,Qtr 2,May,9,Scarf,1,Credit Card,4,157
+2023,Qtr 2,May,9,Tank Top,1,Cash,1,124
+2023,Qtr 2,May,9,Tank Top,1,Credit Card,5,184
+2023,Qtr 2,May,9,Tunic,1,Credit Card,2,157
+2023,Qtr 2,May,10,Belt,1,Credit Card,2,81
+2023,Qtr 2,May,10,Cardigan,1,Credit Card,4,133
+2023,Qtr 2,May,10,Coat,1,Cash,4,48
+2023,Qtr 2,May,10,Jeans,1,Credit Card,5,157
+2023,Qtr 2,May,10,Leggings,1,Cash,2,141
+2023,Qtr 2,May,10,Onesie,1,Credit Card,5,77
+2023,Qtr 2,May,10,Pajamas,1,Cash,4,107
+2023,Qtr 2,May,10,Polo Shirt,1,Credit Card,2,118
+2023,Qtr 2,May,10,Skirt,1,Cash,5,157
+2023,Qtr 2,May,10,Slippers,1,Cash,5,31
+2023,Qtr 2,May,10,Slippers,1,Credit Card,2,45
+2023,Qtr 2,May,11,Camisole,1,Credit Card,4,126
+2023,Qtr 2,May,11,Coat,1,Cash,5,153
+2023,Qtr 2,May,11,Flannel Shirt,1,Credit Card,3,12
+2023,Qtr 2,May,11,Flip-Flops,1,Credit Card,4,91
+2023,Qtr 2,May,11,Skirt,1,Credit Card,5,182
+2023,Qtr 2,May,11,Sunglasses,1,Cash,2,123
+2023,Qtr 2,May,11,Swimsuit,1,Credit Card,5,157
+2023,Qtr 2,May,11,Trousers,1,Credit Card,2,66
+2023,Qtr 2,May,11,T-shirt,1,Credit Card,2,157
+2023,Qtr 2,May,12,Boots,1,Credit Card,4,84
+2023,Qtr 2,May,12,Hoodie,1,Cash,3,87
+2023,Qtr 2,May,12,Jacket,1,Cash,2,70
+2023,Qtr 2,May,12,Kimono,1,Credit Card,3,3138
+2023,Qtr 2,May,12,Pajamas,1,Cash,2,128
+2023,Qtr 2,May,12,Pajamas,1,Credit Card,5,46
+2023,Qtr 2,May,12,Pants,1,Cash,5,47
+2023,Qtr 2,May,12,Raincoat,1,Credit Card,3,160
+2023,Qtr 2,May,12,Shorts,1,Credit Card,5,172
+2023,Qtr 2,May,12,Tie,1,Credit Card,3,44
+2023,Qtr 2,May,12,T-shirt,1,Cash,5,188
+2023,Qtr 2,May,13,Backpack,2,Credit Card,7,169
+2023,Qtr 2,May,13,Cardigan,1,Cash,2,23
+2023,Qtr 2,May,13,Hoodie,1,Cash,3,194
+2023,Qtr 2,May,13,Kimono,1,Credit Card,3,75
+2023,Qtr 2,May,13,Leggings,1,Cash,3,181
+2023,Qtr 2,May,13,Polo Shirt,1,Credit Card,3,34
+2023,Qtr 2,May,13,Socks,1,Credit Card,5,139
+2023,Qtr 2,May,13,Sweater,1,Cash,3,63
+2023,Qtr 2,May,14,Cardigan,1,Credit Card,3,181
+2023,Qtr 2,May,14,Flannel Shirt,1,Credit Card,2,94
+2023,Qtr 2,May,14,Flip-Flops,1,Cash,3,138
+2023,Qtr 2,May,14,Gloves,1,Cash,4,185
+2023,Qtr 2,May,14,Shorts,1,Cash,2,131
+2023,Qtr 2,May,14,Wallet,1,Cash,3,87
+2023,Qtr 2,May,15,Blouse,1,Credit Card,3,188
+2023,Qtr 2,May,15,Cardigan,1,Cash,2,157
+2023,Qtr 2,May,15,Jacket,1,Cash,5,31
+2023,Qtr 2,May,15,Kimono,1,Credit Card,4,142
+2023,Qtr 2,May,15,Raincoat,1,Cash,5,173
+2023,Qtr 2,May,15,Sunglasses,1,Credit Card,5,28
+2023,Qtr 2,May,15,Tank Top,1,Cash,3,94
+2023,Qtr 2,May,15,Vest,1,Credit Card,3,157
+2023,Qtr 2,May,16,Blazer,1,Cash,3,187
+2023,Qtr 2,May,16,Blazer,1,Credit Card,4,126
+2023,Qtr 2,May,16,Cardigan,1,Credit Card,5,157
+2023,Qtr 2,May,16,Dress,1,Credit Card,3,40
+2023,Qtr 2,May,16,Gloves,1,Cash,3,157
+2023,Qtr 2,May,16,Hat,1,Cash,4,157
+2023,Qtr 2,May,16,Loafers,1,Cash,4,157
+2023,Qtr 2,May,16,Poncho,1,Cash,4,85
+2023,Qtr 2,May,16,Sweater,1,Cash,4,136
+2023,Qtr 2,May,16,Tie,1,Credit Card,1,22
+2023,Qtr 2,May,17,Blazer,1,Cash,5,157
+2023,Qtr 2,May,17,Blouse,1,Credit Card,3,162
+2023,Qtr 2,May,17,Bowtie,1,Credit Card,3,153
+2023,Qtr 2,May,17,Jacket,1,Cash,2,67
+2023,Qtr 2,May,17,Jumpsuit,1,Cash,4,136
+2023,Qtr 2,May,17,Onesie,1,Cash,3,165
+2023,Qtr 2,May,17,Overalls,1,Credit Card,2,45
+2023,Qtr 2,May,17,Raincoat,1,Credit Card,4,137
+2023,Qtr 2,May,17,Shorts,2,Cash,5,330
+2023,Qtr 2,May,17,Sun Hat,1,Cash,4,29
+2023,Qtr 2,May,17,Vest,2,Cash,9,379
+2023,Qtr 2,May,17,Wallet,1,Cash,3,60
+2023,Qtr 2,May,18,Belt,1,Credit Card,5,71
+2023,Qtr 2,May,18,Blouse,1,Cash,3,137
+2023,Qtr 2,May,18,Jumpsuit,1,Cash,4,184
+2023,Qtr 2,May,18,Kimono,2,Credit Card,6,297
+2023,Qtr 2,May,18,Pants,1,Credit Card,2,10
+2023,Qtr 2,May,18,Shorts,1,Cash,3,17
+2023,Qtr 2,May,18,Sun Hat,1,Credit Card,3,47
+2023,Qtr 2,May,18,Umbrella,1,Credit Card,2,159
+2023,Qtr 2,May,19,Flip-Flops,1,Cash,3,157
+2023,Qtr 2,May,19,Jeans,1,Cash,5,4771
+2023,Qtr 2,May,19,Leggings,1,Cash,5,25
+2023,Qtr 2,May,19,Leggings,1,Credit Card,3,124
+2023,Qtr 2,May,19,Overalls,1,Credit Card,5,148
+2023,Qtr 2,May,19,Sandals,2,Credit Card,8,230
+2023,Qtr 2,May,19,Sneakers,1,Credit Card,2,12
+2023,Qtr 2,May,19,Socks,1,Cash,5,86
+2023,Qtr 2,May,19,Sweater,1,Credit Card,3,117
+2023,Qtr 2,May,19,Tank Top,1,Cash,4,65
+2023,Qtr 2,May,19,Trousers,1,Cash,3,157
+2023,Qtr 2,May,19,T-shirt,1,Cash,3,86
+2023,Qtr 2,May,19,Umbrella,1,Credit Card,5,64
+2023,Qtr 2,May,20,Camisole,1,Cash,4,163
+2023,Qtr 2,May,20,Camisole,1,Credit Card,5,18
+2023,Qtr 2,May,20,Jeans,1,Credit Card,5,80
+2023,Qtr 2,May,20,Pajamas,1,Cash,5,20
+2023,Qtr 2,May,20,Pajamas,1,Credit Card,4,157
+2023,Qtr 2,May,20,Scarf,2,Credit Card,5,192
+2023,Qtr 2,May,20,Skirt,1,Cash,4,157
+2023,Qtr 2,May,20,Tank Top,1,Credit Card,3,25
+2023,Qtr 2,May,20,Tie,1,Cash,4,45
+2023,Qtr 2,May,20,Trench Coat,2,Cash,4,93
+2023,Qtr 2,May,20,Tunic,1,Cash,5,56
+2023,Qtr 2,May,21,Flannel Shirt,1,Cash,5,108
+2023,Qtr 2,May,21,Flannel Shirt,1,Credit Card,4,30
+2023,Qtr 2,May,21,Gloves,1,Cash,3,148
+2023,Qtr 2,May,21,Handbag,1,Credit Card,3,157
+2023,Qtr 2,May,21,Hat,1,Cash,5,154
+2023,Qtr 2,May,21,Jacket,1,Credit Card,2,142
+2023,Qtr 2,May,21,Overalls,1,Cash,2,157
+2023,Qtr 2,May,21,Polo Shirt,1,Credit Card,2,29
+2023,Qtr 2,May,21,Sandals,1,Credit Card,4,78
+2023,Qtr 2,May,21,Shorts,1,Cash,2,153
+2023,Qtr 2,May,21,Sweater,1,Cash,2,106
+2023,Qtr 2,May,21,Trench Coat,1,Credit Card,5,164
+2023,Qtr 2,May,21,Umbrella,1,Credit Card,3,112
+2023,Qtr 2,May,22,Boots,1,Credit Card,5,161
+2023,Qtr 2,May,22,Hat,1,Cash,4,53
+2023,Qtr 2,May,22,Hoodie,1,Credit Card,3,55
+2023,Qtr 2,May,22,Jacket,1,Credit Card,3,190
+2023,Qtr 2,May,22,Leggings,1,Credit Card,4,64
+2023,Qtr 2,May,22,Skirt,1,Credit Card,3,157
+2023,Qtr 2,May,22,Swimsuit,1,Cash,4,157
+2023,Qtr 2,May,22,Tunic,1,Credit Card,1,157
+2023,Qtr 2,May,23,Boots,1,Credit Card,2,157
+2023,Qtr 2,May,23,Romper,1,Credit Card,3,83
+2023,Qtr 2,May,23,Sneakers,1,Cash,2,191
+2023,Qtr 2,May,23,Tank Top,1,Cash,5,97
+2023,Qtr 2,May,24,Belt,1,Cash,5,171
+2023,Qtr 2,May,24,Blazer,1,Cash,5,96
+2023,Qtr 2,May,24,Jacket,1,Credit Card,4,13
+2023,Qtr 2,May,24,Poncho,1,Cash,2,149
+2023,Qtr 2,May,24,Socks,1,Credit Card,4,10
+2023,Qtr 2,May,24,Sweater,1,Credit Card,4,157
+2023,Qtr 2,May,25,Blouse,1,Cash,5,44
+2023,Qtr 2,May,25,Cardigan,1,Cash,2,170
+2023,Qtr 2,May,25,Gloves,1,Cash,4,171
+2023,Qtr 2,May,25,Handbag,1,Cash,4,38
+2023,Qtr 2,May,25,Jeans,1,Credit Card,4,182
+2023,Qtr 2,May,25,Loafers,1,Credit Card,5,12
+2023,Qtr 2,May,25,Onesie,1,Cash,5,157
+2023,Qtr 2,May,25,Overalls,1,Credit Card,5,131
+2023,Qtr 2,May,25,Pajamas,1,Cash,2,157
+2023,Qtr 2,May,25,Poncho,1,Cash,3,15
+2023,Qtr 2,May,25,Raincoat,1,Cash,5,129
+2023,Qtr 2,May,25,Romper,1,Credit Card,5,107
+2023,Qtr 2,May,25,Scarf,1,Credit Card,2,115
+2023,Qtr 2,May,25,Sneakers,1,Cash,3,125
+2023,Qtr 2,May,25,Trousers,1,Cash,3,102
+2023,Qtr 2,May,26,Belt,1,Cash,2,3839
+2023,Qtr 2,May,26,Hat,1,Credit Card,2,154
+2023,Qtr 2,May,26,Jeans,1,Cash,3,86
+2023,Qtr 2,May,26,Overalls,1,Cash,3,155
+2023,Qtr 2,May,26,Pajamas,1,Credit Card,3,2418
+2023,Qtr 2,May,26,T-shirt,1,Cash,3,38
+2023,Qtr 2,May,26,Tunic,1,Credit Card,4,119
+2023,Qtr 2,May,27,Backpack,1,Cash,3,69
+2023,Qtr 2,May,27,Belt,1,Cash,2,154
+2023,Qtr 2,May,27,Bowtie,1,Credit Card,2,157
+2023,Qtr 2,May,27,Jacket,1,Credit Card,4,77
+2023,Qtr 2,May,27,Jeans,1,Cash,3,110
+2023,Qtr 2,May,27,Poncho,1,Credit Card,5,87
+2023,Qtr 2,May,27,Raincoat,1,Credit Card,4,58
+2023,Qtr 2,May,27,Socks,1,Cash,3,157
+2023,Qtr 2,May,27,Sun Hat,1,Credit Card,3,106
+2023,Qtr 2,May,27,Tank Top,1,Cash,5,92
+2023,Qtr 2,May,27,Umbrella,1,Cash,4,186
+2023,Qtr 2,May,27,Umbrella,1,Credit Card,4,18
+2023,Qtr 2,May,28,Blazer,1,Cash,4,168
+2023,Qtr 2,May,28,Handbag,1,Credit Card,4,52
+2023,Qtr 2,May,28,Jeans,1,Cash,3,46
+2023,Qtr 2,May,28,Trousers,1,Cash,5,129
+2023,Qtr 2,May,28,T-shirt,1,Credit Card,4,51
+2023,Qtr 2,May,29,Backpack,1,Cash,2,133
+2023,Qtr 2,May,29,Jacket,1,Cash,2,125
+2023,Qtr 2,May,29,Scarf,1,Cash,5,59
+2023,Qtr 2,May,29,Scarf,1,Credit Card,3,2379
+2023,Qtr 2,May,29,Shorts,1,Credit Card,3,189
+2023,Qtr 2,May,29,Skirt,1,Credit Card,5,55
+2023,Qtr 2,May,29,Tank Top,1,Cash,2,197
+2023,Qtr 2,May,29,Tie,1,Credit Card,2,97
+2023,Qtr 2,May,29,Trench Coat,1,Cash,2,30
+2023,Qtr 2,May,29,Trousers,1,Credit Card,3,157
+2023,Qtr 2,May,29,T-shirt,2,Cash,6,182
+2023,Qtr 2,May,29,Tunic,1,Credit Card,5,14
+2023,Qtr 2,May,29,Vest,1,Cash,3,157
+2023,Qtr 2,May,30,Backpack,1,Cash,2,138
+2023,Qtr 2,May,30,Jacket,1,Cash,3,173
+2023,Qtr 2,May,30,Kimono,1,Credit Card,3,157
+2023,Qtr 2,May,30,Skirt,1,Credit Card,3,10
+2023,Qtr 2,May,30,Tank Top,1,Credit Card,5,139
+2023,Qtr 2,May,30,T-shirt,1,Credit Card,5,51
+2023,Qtr 2,May,31,Bowtie,1,Cash,2,143
+2023,Qtr 2,May,31,Camisole,1,Credit Card,3,157
+2023,Qtr 2,May,31,Hat,1,Cash,5,149
+2023,Qtr 2,May,31,Hoodie,1,Credit Card,5,62
+2023,Qtr 2,May,31,Raincoat,1,Credit Card,4,192
+2023,Qtr 2,May,31,Scarf,1,Cash,3,196
+2023,Qtr 2,May,31,Shorts,1,Cash,4,157
+2023,Qtr 2,May,31,Trench Coat,1,Cash,5,43
+2023,Qtr 2,May,31,Trench Coat,1,Credit Card,2,13
+2023,Qtr 2,June,1,Belt,1,Cash,3,40
+2023,Qtr 2,June,1,Blazer,1,Cash,2,154
+2023,Qtr 2,June,1,Loafers,1,Credit Card,4,140
+2023,Qtr 2,June,1,Polo Shirt,1,Cash,3,157
+2023,Qtr 2,June,1,Poncho,1,Credit Card,5,157
+2023,Qtr 2,June,1,Romper,1,Cash,3,91
+2023,Qtr 2,June,1,Romper,1,Credit Card,5,188
+2023,Qtr 2,June,1,Scarf,1,Cash,3,175
+2023,Qtr 2,June,1,Shorts,1,Credit Card,2,95
+2023,Qtr 2,June,1,Skirt,1,Cash,4,196
+2023,Qtr 2,June,1,Sunglasses,1,Cash,3,70
+2023,Qtr 2,June,1,Tank Top,1,Cash,5,68
+2023,Qtr 2,June,1,Umbrella,1,Cash,2,137
+2023,Qtr 2,June,1,Vest,1,Cash,5,89
+2023,Qtr 2,June,1,Vest,1,Credit Card,2,13
+2023,Qtr 2,June,2,Backpack,1,Cash,5,157
+2023,Qtr 2,June,2,Jumpsuit,1,Cash,3,55
+2023,Qtr 2,June,2,Overalls,1,Cash,4,80
+2023,Qtr 2,June,2,Pants,1,Cash,3,195
+2023,Qtr 2,June,2,Trousers,1,Credit Card,3,145
+2023,Qtr 2,June,2,Umbrella,1,Cash,5,18
+2023,Qtr 2,June,2,Vest,1,Credit Card,3,125
+2023,Qtr 2,June,3,Blazer,1,Credit Card,5,92
+2023,Qtr 2,June,3,Coat,1,Cash,3,176
+2023,Qtr 2,June,3,Flannel Shirt,1,Credit Card,5,109
+2023,Qtr 2,June,3,Kimono,1,Credit Card,3,44
+2023,Qtr 2,June,3,Loafers,1,Credit Card,5,91
+2023,Qtr 2,June,3,Overalls,1,Credit Card,5,157
+2023,Qtr 2,June,3,Romper,1,Cash,3,157
+2023,Qtr 2,June,3,Slippers,1,Credit Card,3,200
+2023,Qtr 2,June,3,Sunglasses,1,Credit Card,4,150
+2023,Qtr 2,June,3,Tunic,1,Cash,4,157
+2023,Qtr 2,June,3,Wallet,1,Cash,4,31
+2023,Qtr 2,June,4,Leggings,2,Credit Card,5,362
+2023,Qtr 2,June,4,Onesie,1,Cash,3,115
+2023,Qtr 2,June,4,Raincoat,1,Credit Card,2,63
+2023,Qtr 2,June,4,Shorts,1,Credit Card,3,157
+2023,Qtr 2,June,4,Slippers,1,Credit Card,2,19
+2023,Qtr 2,June,5,Belt,1,Credit Card,5,157
+2023,Qtr 2,June,5,Boots,1,Credit Card,3,127
+2023,Qtr 2,June,5,Camisole,1,Cash,2,79
+2023,Qtr 2,June,5,Cardigan,1,Credit Card,4,175
+2023,Qtr 2,June,5,Dress,1,Credit Card,2,157
+2023,Qtr 2,June,5,Jumpsuit,1,Credit Card,5,156
+2023,Qtr 2,June,5,Pajamas,1,Credit Card,3,101
+2023,Qtr 2,June,5,Romper,1,Credit Card,2,157
+2023,Qtr 2,June,5,Shorts,1,Credit Card,3,70
+2023,Qtr 2,June,5,Slippers,1,Cash,4,150
+2023,Qtr 2,June,5,T-shirt,1,Cash,5,17
+2023,Qtr 2,June,6,Blazer,1,Cash,5,170
+2023,Qtr 2,June,6,Blouse,1,Credit Card,3,58
+2023,Qtr 2,June,6,Gloves,1,Cash,4,126
+2023,Qtr 2,June,6,Gloves,1,Credit Card,2,36
+2023,Qtr 2,June,6,Jumpsuit,1,Credit Card,3,157
+2023,Qtr 2,June,6,Loafers,1,Credit Card,5,157
+2023,Qtr 2,June,6,Poncho,1,Credit Card,3,28
+2023,Qtr 2,June,6,Slippers,1,Cash,4,157
+2023,Qtr 2,June,7,Belt,1,Credit Card,1,105
+2023,Qtr 2,June,7,Boots,1,Credit Card,4,183
+2023,Qtr 2,June,7,Camisole,1,Credit Card,4,31
+2023,Qtr 2,June,7,Jumpsuit,1,Credit Card,4,188
+2023,Qtr 2,June,7,Pants,1,Credit Card,3,154
+2023,Qtr 2,June,7,Shorts,1,Cash,5,94
+2023,Qtr 2,June,7,Skirt,2,Credit Card,7,288
+2023,Qtr 2,June,7,Sunglasses,1,Credit Card,3,110
+2023,Qtr 2,June,7,Sweater,1,Cash,3,120
+2023,Qtr 2,June,7,Umbrella,1,Credit Card,3,36
+2023,Qtr 2,June,8,Gloves,1,Credit Card,4,24
+2023,Qtr 2,June,8,Jumpsuit,1,Credit Card,2,157
+2023,Qtr 2,June,8,Overalls,1,Cash,4,169
+2023,Qtr 2,June,8,Polo Shirt,1,Cash,2,112
+2023,Qtr 2,June,8,Skirt,1,Credit Card,3,127
+2023,Qtr 2,June,8,Tie,1,Cash,4,157
+2023,Qtr 2,June,8,T-shirt,1,Credit Card,3,138
+2023,Qtr 2,June,9,Jumpsuit,1,Cash,3,44
+2023,Qtr 2,June,9,Kimono,1,Cash,2,32
+2023,Qtr 2,June,9,Leggings,1,Credit Card,4,157
+2023,Qtr 2,June,9,Poncho,1,Credit Card,4,157
+2023,Qtr 2,June,9,Sandals,1,Credit Card,2,200
+2023,Qtr 2,June,9,Tie,1,Cash,3,157
+2023,Qtr 2,June,9,Wallet,1,Cash,4,151
+2023,Qtr 2,June,10,Leggings,1,Cash,3,174
+2023,Qtr 2,June,10,Loafers,1,Credit Card,3,63
+2023,Qtr 2,June,10,Pajamas,1,Credit Card,5,106
+2023,Qtr 2,June,10,Scarf,1,Cash,5,157
+2023,Qtr 2,June,10,Shorts,1,Cash,4,157
+2023,Qtr 2,June,10,Trench Coat,2,Cash,6,265
+2023,Qtr 2,June,11,Flip-Flops,1,Cash,2,157
+2023,Qtr 2,June,11,Kimono,1,Credit Card,3,187
+2023,Qtr 2,June,11,Leggings,1,Credit Card,3,183
+2023,Qtr 2,June,11,Loafers,1,Credit Card,3,4233
+2023,Qtr 2,June,11,Onesie,1,Cash,4,164
+2023,Qtr 2,June,11,Sandals,1,Credit Card,2,98
+2023,Qtr 2,June,11,Sweater,1,Cash,4,170
+2023,Qtr 2,June,11,Trousers,1,Credit Card,2,126
+2023,Qtr 2,June,11,Umbrella,1,Credit Card,3,77
+2023,Qtr 2,June,11,Wallet,1,Cash,2,73
+2023,Qtr 2,June,12,Camisole,1,Cash,3,200
+2023,Qtr 2,June,12,Camisole,1,Credit Card,3,98
+2023,Qtr 2,June,12,Cardigan,1,Credit Card,3,179
+2023,Qtr 2,June,12,Gloves,1,Cash,4,127
+2023,Qtr 2,June,12,Handbag,1,Credit Card,3,194
+2023,Qtr 2,June,12,Hoodie,1,Credit Card,2,181
+2023,Qtr 2,June,12,Leggings,1,Credit Card,3,175
+2023,Qtr 2,June,12,Trench Coat,1,Credit Card,5,185
+2023,Qtr 2,June,12,T-shirt,1,Credit Card,4,157
+2023,Qtr 2,June,12,Umbrella,1,Credit Card,5,119
+2023,Qtr 2,June,13,Jacket,1,Credit Card,1,157
+2023,Qtr 2,June,13,Loafers,1,Credit Card,2,35
+2023,Qtr 2,June,13,Slippers,1,Credit Card,4,169
+2023,Qtr 2,June,13,Swimsuit,1,Cash,5,157
+2023,Qtr 2,June,13,Tank Top,1,Credit Card,2,22
+2023,Qtr 2,June,13,Trench Coat,1,Cash,3,2952
+2023,Qtr 2,June,13,T-shirt,1,Credit Card,5,186
+2023,Qtr 2,June,13,Vest,1,Cash,2,170
+2023,Qtr 2,June,14,Boots,1,Cash,5,157
+2023,Qtr 2,June,14,Pants,1,Credit Card,4,157
+2023,Qtr 2,June,14,Sandals,1,Cash,4,133
+2023,Qtr 2,June,14,Sneakers,1,Credit Card,5,133
+2023,Qtr 2,June,14,Tie,1,Credit Card,4,181
+2023,Qtr 2,June,14,Wallet,1,Credit Card,4,81
+2023,Qtr 2,June,15,Backpack,1,Cash,5,76
+2023,Qtr 2,June,15,Handbag,1,Cash,3,157
+2023,Qtr 2,June,15,Kimono,1,Cash,3,66
+2023,Qtr 2,June,15,Leggings,1,Cash,4,84
+2023,Qtr 2,June,15,Onesie,1,Cash,4,90
+2023,Qtr 2,June,15,Onesie,1,Credit Card,3,86
+2023,Qtr 2,June,15,Romper,1,Credit Card,2,100
+2023,Qtr 2,June,15,Sun Hat,1,Credit Card,5,59
+2023,Qtr 2,June,15,Sweater,1,Credit Card,5,132
+2023,Qtr 2,June,16,Belt,1,Credit Card,2,85
+2023,Qtr 2,June,16,Coat,1,Cash,2,166
+2023,Qtr 2,June,16,Jeans,1,Credit Card,2,157
+2023,Qtr 2,June,16,Leggings,1,Cash,4,66
+2023,Qtr 2,June,16,Polo Shirt,1,Cash,4,25
+2023,Qtr 2,June,16,Socks,1,Credit Card,3,17
+2023,Qtr 2,June,16,Swimsuit,1,Cash,3,157
+2023,Qtr 2,June,16,Tank Top,1,Credit Card,3,157
+2023,Qtr 2,June,17,Belt,1,Cash,4,157
+2023,Qtr 2,June,17,Blazer,1,Cash,3,132
+2023,Qtr 2,June,17,Hoodie,1,Credit Card,3,127
+2023,Qtr 2,June,17,Socks,1,Credit Card,2,194
+2023,Qtr 2,June,17,Trench Coat,1,Credit Card,4,175
+2023,Qtr 2,June,17,Trousers,1,Credit Card,3,157
+2023,Qtr 2,June,17,T-shirt,1,Cash,5,157
+2023,Qtr 2,June,17,Tunic,1,Cash,2,64
+2023,Qtr 2,June,18,Handbag,1,Cash,1,157
+2023,Qtr 2,June,18,Leggings,1,Credit Card,2,164
+2023,Qtr 2,June,18,Polo Shirt,1,Credit Card,4,157
+2023,Qtr 2,June,18,Skirt,1,Credit Card,4,146
+2023,Qtr 2,June,18,Slippers,1,Credit Card,5,4069
+2023,Qtr 2,June,18,Socks,1,Credit Card,2,64
+2023,Qtr 2,June,18,T-shirt,1,Credit Card,5,157
+2023,Qtr 2,June,18,Umbrella,2,Cash,7,131
+2023,Qtr 2,June,19,Cardigan,1,Credit Card,2,149
+2023,Qtr 2,June,19,Coat,1,Cash,2,54
+2023,Qtr 2,June,19,Jumpsuit,1,Cash,4,191
+2023,Qtr 2,June,19,Onesie,1,Cash,3,157
+2023,Qtr 2,June,19,Overalls,1,Credit Card,3,167
+2023,Qtr 2,June,19,Slippers,1,Cash,2,122
+2023,Qtr 2,June,19,Trench Coat,1,Credit Card,4,157
+2023,Qtr 2,June,19,Umbrella,1,Credit Card,5,133
+2023,Qtr 2,June,19,Vest,1,Cash,2,81
+2023,Qtr 2,June,19,Vest,1,Credit Card,3,157
+2023,Qtr 2,June,20,Flip-Flops,1,Credit Card,3,26
+2023,Qtr 2,June,20,Gloves,1,Credit Card,3,121
+2023,Qtr 2,June,20,Handbag,1,Credit Card,3,157
+2023,Qtr 2,June,20,Pajamas,1,Cash,3,120
+2023,Qtr 2,June,20,Raincoat,1,Credit Card,5,157
+2023,Qtr 2,June,20,Sneakers,1,Credit Card,3,126
+2023,Qtr 2,June,20,Sun Hat,1,Credit Card,4,110
+2023,Qtr 2,June,21,Camisole,1,Credit Card,5,164
+2023,Qtr 2,June,21,Cardigan,1,Cash,5,30
+2023,Qtr 2,June,21,Hoodie,1,Cash,2,111
+2023,Qtr 2,June,21,Jumpsuit,1,Cash,4,147
+2023,Qtr 2,June,21,Kimono,1,Cash,2,112
+2023,Qtr 2,June,21,Leggings,1,Credit Card,2,54
+2023,Qtr 2,June,21,Loafers,1,Credit Card,4,157
+2023,Qtr 2,June,21,Onesie,1,Credit Card,2,148
+2023,Qtr 2,June,21,Poncho,1,Cash,2,141
+2023,Qtr 2,June,21,Scarf,1,Credit Card,4,157
+2023,Qtr 2,June,21,Socks,1,Cash,5,157
+2023,Qtr 2,June,22,Coat,1,Credit Card,2,179
+2023,Qtr 2,June,22,Hoodie,1,Credit Card,4,116
+2023,Qtr 2,June,22,Jeans,1,Credit Card,3,198
+2023,Qtr 2,June,22,Leggings,1,Cash,3,92
+2023,Qtr 2,June,22,Pajamas,1,Cash,2,93
+2023,Qtr 2,June,22,Sunglasses,1,Cash,2,157
+2023,Qtr 2,June,22,Vest,1,Cash,4,91
+2023,Qtr 2,June,23,Blazer,1,Credit Card,4,157
+2023,Qtr 2,June,23,Boots,1,Credit Card,5,167
+2023,Qtr 2,June,23,Bowtie,1,Credit Card,2,194
+2023,Qtr 2,June,23,Cardigan,1,Credit Card,5,198
+2023,Qtr 2,June,23,Hoodie,1,Cash,5,157
+2023,Qtr 2,June,23,Hoodie,1,Credit Card,3,173
+2023,Qtr 2,June,23,Kimono,1,Cash,2,161
+2023,Qtr 2,June,23,Polo Shirt,2,Credit Card,6,331
+2023,Qtr 2,June,23,Romper,1,Cash,3,176
+2023,Qtr 2,June,23,Scarf,1,Credit Card,3,197
+2023,Qtr 2,June,23,Tank Top,1,Cash,5,157
+2023,Qtr 2,June,23,Umbrella,1,Cash,2,73
+2023,Qtr 2,June,24,Belt,2,Cash,6,291
+2023,Qtr 2,June,24,Jumpsuit,1,Credit Card,5,55
+2023,Qtr 2,June,24,Pants,1,Credit Card,2,57
+2023,Qtr 2,June,24,Slippers,1,Credit Card,2,111
+2023,Qtr 2,June,25,Leggings,1,Credit Card,3,115
+2023,Qtr 2,June,25,Pajamas,1,Cash,5,157
+2023,Qtr 2,June,25,Slippers,1,Credit Card,2,143
+2023,Qtr 2,June,25,Sneakers,1,Cash,5,107
+2023,Qtr 2,June,26,Coat,1,Cash,4,157
+2023,Qtr 2,June,26,Coat,1,Credit Card,5,169
+2023,Qtr 2,June,26,Hat,1,Credit Card,4,96
+2023,Qtr 2,June,26,Jeans,1,Cash,3,67
+2023,Qtr 2,June,26,Loafers,1,Cash,3,175
+2023,Qtr 2,June,26,Onesie,1,Credit Card,5,146
+2023,Qtr 2,June,26,Pajamas,1,Cash,3,40
+2023,Qtr 2,June,26,Poncho,1,Credit Card,1,84
+2023,Qtr 2,June,26,Shorts,1,Cash,5,163
+2023,Qtr 2,June,26,Skirt,1,Credit Card,5,146
+2023,Qtr 2,June,26,Swimsuit,1,Credit Card,3,157
+2023,Qtr 2,June,27,Jacket,1,Cash,2,157
+2023,Qtr 2,June,27,Jumpsuit,1,Cash,2,173
+2023,Qtr 2,June,27,Leggings,1,Cash,4,164
+2023,Qtr 2,June,27,Loafers,1,Credit Card,2,106
+2023,Qtr 2,June,27,Overalls,1,Cash,5,36
+2023,Qtr 2,June,27,Skirt,1,Cash,4,26
+2023,Qtr 2,June,27,Socks,1,Credit Card,4,152
+2023,Qtr 2,June,27,Sweater,1,Credit Card,4,144
+2023,Qtr 2,June,27,T-shirt,1,Cash,2,122
+2023,Qtr 2,June,28,Camisole,1,Cash,4,177
+2023,Qtr 2,June,28,Kimono,1,Cash,4,101
+2023,Qtr 2,June,28,Raincoat,1,Cash,2,157
+2023,Qtr 2,June,28,Raincoat,1,Credit Card,2,78
+2023,Qtr 2,June,28,Scarf,1,Credit Card,3,156
+2023,Qtr 2,June,28,Shorts,2,Cash,7,177
+2023,Qtr 2,June,28,Shorts,1,Credit Card,3,157
+2023,Qtr 2,June,28,Skirt,1,Credit Card,3,128
+2023,Qtr 2,June,29,Belt,1,Credit Card,2,65
+2023,Qtr 2,June,29,Hat,1,Credit Card,3,126
+2023,Qtr 2,June,29,Onesie,1,Cash,5,175
+2023,Qtr 2,June,29,Poncho,1,Cash,5,45
+2023,Qtr 2,June,29,Poncho,1,Credit Card,4,28
+2023,Qtr 2,June,29,Scarf,1,Cash,3,130
+2023,Qtr 2,June,29,Sneakers,1,Cash,4,111
+2023,Qtr 2,June,29,Sweater,1,Credit Card,5,76
+2023,Qtr 2,June,30,Blazer,1,Cash,2,153
+2023,Qtr 2,June,30,Handbag,1,Credit Card,5,119
+2023,Qtr 2,June,30,Hoodie,1,Cash,5,157
+2023,Qtr 2,June,30,Pants,1,Credit Card,4,146
+2023,Qtr 2,June,30,Raincoat,1,Credit Card,5,87
+2023,Qtr 2,June,30,Shorts,1,Credit Card,3,56
+2023,Qtr 2,June,30,Sun Hat,1,Credit Card,2,134
+2023,Qtr 2,June,30,Tank Top,1,Cash,5,126
+2023,Qtr 2,June,30,Tie,1,Cash,2,181
+2023,Qtr 2,June,30,Umbrella,1,Cash,5,137
+2023,Qtr 3,July,1,Camisole,1,Credit Card,1,127
+2023,Qtr 3,July,1,Coat,1,Credit Card,4,157
+2023,Qtr 3,July,1,Jeans,1,Cash,4,162
+2023,Qtr 3,July,1,Loafers,1,Cash,5,190
+2023,Qtr 3,July,1,Sneakers,1,Cash,5,153
+2023,Qtr 3,July,1,Tunic,1,Credit Card,2,157
+2023,Qtr 3,July,2,Backpack,1,Cash,4,157
+2023,Qtr 3,July,2,Blazer,1,Cash,3,157
+2023,Qtr 3,July,2,Camisole,1,Cash,2,18
+2023,Qtr 3,July,2,Loafers,1,Credit Card,4,186
+2023,Qtr 3,July,2,Romper,1,Cash,3,21
+2023,Qtr 3,July,2,Scarf,1,Credit Card,5,157
+2023,Qtr 3,July,2,Socks,1,Credit Card,3,29
+2023,Qtr 3,July,2,Sunglasses,1,Credit Card,4,13
+2023,Qtr 3,July,2,Swimsuit,1,Cash,5,110
+2023,Qtr 3,July,2,Swimsuit,1,Credit Card,2,112
+2023,Qtr 3,July,2,Tank Top,1,Credit Card,5,157
+2023,Qtr 3,July,2,Trousers,1,Credit Card,3,48
+2023,Qtr 3,July,2,Umbrella,1,Credit Card,3,185
+2023,Qtr 3,July,3,Flip-Flops,1,Credit Card,5,133
+2023,Qtr 3,July,3,Kimono,1,Cash,5,157
+2023,Qtr 3,July,3,Leggings,1,Credit Card,3,76
+2023,Qtr 3,July,3,Onesie,1,Cash,4,77
+2023,Qtr 3,July,3,Pajamas,1,Cash,5,195
+2023,Qtr 3,July,3,Raincoat,1,Credit Card,4,142
+2023,Qtr 3,July,4,Belt,2,Credit Card,6,237
+2023,Qtr 3,July,4,Blouse,1,Credit Card,3,157
+2023,Qtr 3,July,4,Bowtie,1,Cash,1,157
+2023,Qtr 3,July,4,Flannel Shirt,1,Credit Card,3,154
+2023,Qtr 3,July,4,Gloves,1,Credit Card,2,50
+2023,Qtr 3,July,4,Jacket,1,Cash,5,81
+2023,Qtr 3,July,4,Leggings,1,Credit Card,3,157
+2023,Qtr 3,July,4,Raincoat,1,Credit Card,5,125
+2023,Qtr 3,July,4,Sunglasses,1,Credit Card,3,76
+2023,Qtr 3,July,5,Belt,1,Cash,5,136
+2023,Qtr 3,July,5,Blouse,1,Cash,3,112
+2023,Qtr 3,July,5,Blouse,1,Credit Card,4,10
+2023,Qtr 3,July,5,Bowtie,1,Cash,2,109
+2023,Qtr 3,July,5,Cardigan,2,Credit Card,6,121
+2023,Qtr 3,July,5,Dress,1,Credit Card,3,96
+2023,Qtr 3,July,5,Flannel Shirt,1,Credit Card,2,15
+2023,Qtr 3,July,5,Onesie,1,Credit Card,2,157
+2023,Qtr 3,July,5,Poncho,1,Cash,4,157
+2023,Qtr 3,July,5,Sun Hat,1,Cash,5,25
+2023,Qtr 3,July,5,Sweater,1,Cash,4,50
+2023,Qtr 3,July,5,Umbrella,2,Cash,7,278
+2023,Qtr 3,July,6,Belt,1,Credit Card,2,104
+2023,Qtr 3,July,6,Handbag,1,Cash,5,80
+2023,Qtr 3,July,6,Hat,1,Cash,3,157
+2023,Qtr 3,July,6,Poncho,1,Credit Card,3,21
+2023,Qtr 3,July,6,Scarf,1,Credit Card,4,200
+2023,Qtr 3,July,6,Shorts,1,Credit Card,2,183
+2023,Qtr 3,July,6,Skirt,1,Credit Card,5,100
+2023,Qtr 3,July,6,Sweater,1,Cash,2,100
+2023,Qtr 3,July,6,Swimsuit,1,Cash,4,111
+2023,Qtr 3,July,6,T-shirt,1,Cash,3,157
+2023,Qtr 3,July,7,Cardigan,1,Credit Card,4,70
+2023,Qtr 3,July,7,Hoodie,1,Cash,3,79
+2023,Qtr 3,July,7,Raincoat,1,Credit Card,4,89
+2023,Qtr 3,July,7,Shorts,1,Credit Card,2,147
+2023,Qtr 3,July,7,Skirt,1,Credit Card,4,40
+2023,Qtr 3,July,7,Slippers,1,Cash,5,122
+2023,Qtr 3,July,7,Umbrella,1,Cash,5,98
+2023,Qtr 3,July,7,Wallet,1,Credit Card,4,157
+2023,Qtr 3,July,8,Belt,1,Cash,4,157
+2023,Qtr 3,July,8,Boots,1,Credit Card,4,19
+2023,Qtr 3,July,8,Bowtie,1,Cash,5,157
+2023,Qtr 3,July,8,Camisole,1,Credit Card,1,94
+2023,Qtr 3,July,8,Coat,1,Credit Card,4,104
+2023,Qtr 3,July,8,Hat,1,Credit Card,5,179
+2023,Qtr 3,July,8,Jacket,1,Cash,2,2571
+2023,Qtr 3,July,8,Pants,2,Credit Card,5,62
+2023,Qtr 3,July,8,Raincoat,1,Credit Card,3,118
+2023,Qtr 3,July,8,Skirt,1,Cash,5,170
+2023,Qtr 3,July,8,Sneakers,1,Credit Card,3,172
+2023,Qtr 3,July,8,Tie,1,Cash,5,125
+2023,Qtr 3,July,9,Coat,1,Credit Card,2,123
+2023,Qtr 3,July,9,Flannel Shirt,1,Credit Card,3,176
+2023,Qtr 3,July,9,Flip-Flops,1,Credit Card,4,157
+2023,Qtr 3,July,9,Hoodie,1,Credit Card,2,181
+2023,Qtr 3,July,9,Pajamas,1,Credit Card,3,171
+2023,Qtr 3,July,9,Raincoat,1,Cash,3,169
+2023,Qtr 3,July,9,Scarf,1,Cash,4,179
+2023,Qtr 3,July,9,Shorts,1,Cash,3,37
+2023,Qtr 3,July,9,Socks,1,Credit Card,5,37
+2023,Qtr 3,July,9,Tie,1,Cash,3,113
+2023,Qtr 3,July,9,Vest,1,Cash,5,110
+2023,Qtr 3,July,10,Blazer,1,Cash,5,157
+2023,Qtr 3,July,10,Coat,1,Credit Card,5,157
+2023,Qtr 3,July,10,Dress,1,Cash,4,61
+2023,Qtr 3,July,10,Jacket,1,Cash,4,157
+2023,Qtr 3,July,10,Skirt,1,Credit Card,3,117
+2023,Qtr 3,July,10,Slippers,1,Credit Card,5,191
+2023,Qtr 3,July,10,Swimsuit,1,Credit Card,3,157
+2023,Qtr 3,July,10,Tie,1,Credit Card,4,157
+2023,Qtr 3,July,10,Wallet,1,Cash,5,194
+2023,Qtr 3,July,11,Hoodie,1,Cash,4,107
+2023,Qtr 3,July,11,Shorts,1,Credit Card,2,21
+2023,Qtr 3,July,11,Skirt,1,Credit Card,3,38
+2023,Qtr 3,July,11,Sun Hat,1,Cash,3,53
+2023,Qtr 3,July,11,Trench Coat,1,Credit Card,3,32
+2023,Qtr 3,July,11,Tunic,1,Credit Card,2,2456
+2023,Qtr 3,July,11,Wallet,1,Credit Card,2,102
+2023,Qtr 3,July,12,Bowtie,1,Cash,5,157
+2023,Qtr 3,July,12,Coat,1,Credit Card,4,25
+2023,Qtr 3,July,12,Loafers,2,Credit Card,6,31
+2023,Qtr 3,July,12,Pajamas,1,Cash,2,68
+2023,Qtr 3,July,12,Scarf,1,Cash,4,19
+2023,Qtr 3,July,12,Socks,1,Credit Card,3,75
+2023,Qtr 3,July,12,T-shirt,1,Credit Card,5,55
+2023,Qtr 3,July,12,Umbrella,1,Cash,3,57
+2023,Qtr 3,July,12,Vest,1,Cash,4,52
+2023,Qtr 3,July,13,Blouse,1,Credit Card,4,49
+2023,Qtr 3,July,13,Dress,1,Credit Card,3,157
+2023,Qtr 3,July,13,Hat,1,Cash,3,119
+2023,Qtr 3,July,13,Hoodie,1,Credit Card,2,69
+2023,Qtr 3,July,13,Overalls,1,Cash,5,66
+2023,Qtr 3,July,13,Pajamas,1,Credit Card,4,157
+2023,Qtr 3,July,13,Trench Coat,1,Cash,3,170
+2023,Qtr 3,July,14,Bowtie,1,Credit Card,5,157
+2023,Qtr 3,July,14,Hat,1,Cash,3,24
+2023,Qtr 3,July,14,Jacket,1,Cash,3,152
+2023,Qtr 3,July,14,Onesie,1,Credit Card,2,75
+2023,Qtr 3,July,14,Poncho,1,Credit Card,5,157
+2023,Qtr 3,July,14,Tie,1,Cash,3,87
+2023,Qtr 3,July,14,Trench Coat,1,Cash,4,29
+2023,Qtr 3,July,14,Tunic,1,Cash,3,114
+2023,Qtr 3,July,14,Umbrella,1,Credit Card,3,107
+2023,Qtr 3,July,14,Wallet,1,Cash,5,132
+2023,Qtr 3,July,15,Jacket,1,Cash,5,200
+2023,Qtr 3,July,15,Jumpsuit,1,Cash,3,41
+2023,Qtr 3,July,15,Pajamas,1,Credit Card,3,148
+2023,Qtr 3,July,15,Sun Hat,1,Credit Card,2,74
+2023,Qtr 3,July,15,Swimsuit,1,Credit Card,4,127
+2023,Qtr 3,July,15,Tie,1,Credit Card,4,143
+2023,Qtr 3,July,15,Vest,1,Cash,4,66
+2023,Qtr 3,July,16,Blouse,1,Cash,4,135
+2023,Qtr 3,July,16,Cardigan,1,Cash,3,112
+2023,Qtr 3,July,16,Flannel Shirt,1,Cash,3,157
+2023,Qtr 3,July,16,Jeans,1,Cash,5,158
+2023,Qtr 3,July,16,Jeans,1,Credit Card,4,80
+2023,Qtr 3,July,16,Socks,2,Credit Card,6,69
+2023,Qtr 3,July,16,T-shirt,1,Cash,3,157
+2023,Qtr 3,July,16,Vest,1,Cash,3,157
+2023,Qtr 3,July,17,Coat,1,Credit Card,2,179
+2023,Qtr 3,July,17,Gloves,1,Credit Card,4,2895
+2023,Qtr 3,July,17,Hat,1,Credit Card,2,73
+2023,Qtr 3,July,17,Jeans,1,Credit Card,4,199
+2023,Qtr 3,July,17,Kimono,1,Cash,4,157
+2023,Qtr 3,July,17,Sandals,1,Credit Card,4,27
+2023,Qtr 3,July,17,Skirt,1,Credit Card,3,56
+2023,Qtr 3,July,17,Sweater,1,Cash,4,151
+2023,Qtr 3,July,17,Trench Coat,1,Credit Card,3,41
+2023,Qtr 3,July,17,Vest,1,Cash,2,186
+2023,Qtr 3,July,17,Wallet,1,Credit Card,4,133
+2023,Qtr 3,July,18,Boots,1,Cash,5,157
+2023,Qtr 3,July,18,Jumpsuit,1,Cash,3,157
+2023,Qtr 3,July,18,Romper,1,Cash,3,164
+2023,Qtr 3,July,18,Shorts,1,Cash,2,112
+2023,Qtr 3,July,18,Skirt,1,Credit Card,5,153
+2023,Qtr 3,July,18,Swimsuit,1,Cash,3,176
+2023,Qtr 3,July,18,Tank Top,1,Cash,3,200
+2023,Qtr 3,July,18,Trousers,1,Credit Card,4,157
+2023,Qtr 3,July,19,Camisole,1,Credit Card,5,73
+2023,Qtr 3,July,19,Cardigan,1,Credit Card,4,52
+2023,Qtr 3,July,19,Jumpsuit,1,Cash,5,103
+2023,Qtr 3,July,19,Onesie,1,Cash,2,99
+2023,Qtr 3,July,19,Overalls,1,Credit Card,3,56
+2023,Qtr 3,July,19,Poncho,1,Cash,3,159
+2023,Qtr 3,July,19,Trousers,1,Cash,2,95
+2023,Qtr 3,July,20,Backpack,1,Cash,1,103
+2023,Qtr 3,July,20,Coat,2,Cash,10,118
+2023,Qtr 3,July,20,Handbag,1,Credit Card,5,52
+2023,Qtr 3,July,20,Jeans,1,Credit Card,4,131
+2023,Qtr 3,July,20,Onesie,1,Credit Card,2,159
+2023,Qtr 3,July,20,Pajamas,1,Cash,5,58
+2023,Qtr 3,July,20,Pants,1,Cash,4,75
+2023,Qtr 3,July,20,Raincoat,1,Credit Card,2,136
+2023,Qtr 3,July,20,Sneakers,1,Credit Card,2,106
+2023,Qtr 3,July,20,Vest,1,Cash,3,157
+2023,Qtr 3,July,21,Belt,1,Credit Card,2,148
+2023,Qtr 3,July,21,Kimono,2,Cash,4,342
+2023,Qtr 3,July,21,Kimono,1,Credit Card,3,188
+2023,Qtr 3,July,21,Overalls,1,Cash,2,111
+2023,Qtr 3,July,21,Raincoat,1,Cash,4,71
+2023,Qtr 3,July,21,Raincoat,1,Credit Card,5,183
+2023,Qtr 3,July,22,Backpack,3,Credit Card,11,305
+2023,Qtr 3,July,22,Dress,1,Credit Card,2,157
+2023,Qtr 3,July,22,Flip-Flops,1,Cash,2,98
+2023,Qtr 3,July,22,Gloves,1,Cash,5,194
+2023,Qtr 3,July,22,Jeans,1,Cash,5,18
+2023,Qtr 3,July,22,Loafers,1,Credit Card,5,128
+2023,Qtr 3,July,22,Onesie,1,Credit Card,4,156
+2023,Qtr 3,July,22,Socks,1,Credit Card,4,157
+2023,Qtr 3,July,22,Sweater,1,Credit Card,4,136
+2023,Qtr 3,July,22,Swimsuit,1,Cash,2,142
+2023,Qtr 3,July,22,T-shirt,1,Cash,4,195
+2023,Qtr 3,July,22,T-shirt,1,Credit Card,3,133
+2023,Qtr 3,July,23,Backpack,1,Credit Card,2,126
+2023,Qtr 3,July,23,Blouse,1,Credit Card,2,157
+2023,Qtr 3,July,23,Dress,1,Cash,3,141
+2023,Qtr 3,July,23,Gloves,1,Credit Card,3,60
+2023,Qtr 3,July,23,Hoodie,1,Credit Card,2,108
+2023,Qtr 3,July,23,Jeans,1,Cash,3,20
+2023,Qtr 3,July,23,Loafers,1,Credit Card,2,140
+2023,Qtr 3,July,23,Overalls,2,Credit Card,7,269
+2023,Qtr 3,July,23,Pajamas,1,Cash,3,27
+2023,Qtr 3,July,23,Sun Hat,1,Credit Card,5,165
+2023,Qtr 3,July,23,Sweater,2,Cash,6,239
+2023,Qtr 3,July,23,Trousers,1,Credit Card,4,157
+2023,Qtr 3,July,24,Bowtie,1,Credit Card,5,166
+2023,Qtr 3,July,24,Loafers,1,Cash,5,29
+2023,Qtr 3,July,24,Romper,1,Cash,4,37
+2023,Qtr 3,July,24,Romper,1,Credit Card,3,127
+2023,Qtr 3,July,24,Socks,1,Credit Card,3,134
+2023,Qtr 3,July,24,Sun Hat,1,Credit Card,5,48
+2023,Qtr 3,July,24,Umbrella,1,Credit Card,3,157
+2023,Qtr 3,July,25,Belt,1,Credit Card,5,17
+2023,Qtr 3,July,25,Hat,1,Credit Card,5,187
+2023,Qtr 3,July,25,Jacket,1,Cash,3,113
+2023,Qtr 3,July,25,Pants,1,Credit Card,3,28
+2023,Qtr 3,July,25,Polo Shirt,1,Credit Card,5,98
+2023,Qtr 3,July,25,Wallet,1,Credit Card,3,77
+2023,Qtr 3,July,26,Bowtie,1,Credit Card,4,107
+2023,Qtr 3,July,26,Flannel Shirt,1,Credit Card,4,41
+2023,Qtr 3,July,26,Hoodie,1,Cash,4,157
+2023,Qtr 3,July,26,Leggings,2,Credit Card,8,356
+2023,Qtr 3,July,26,Pants,1,Cash,5,14
+2023,Qtr 3,July,26,Polo Shirt,1,Credit Card,3,157
+2023,Qtr 3,July,26,Poncho,1,Credit Card,5,157
+2023,Qtr 3,July,26,Sneakers,1,Credit Card,2,139
+2023,Qtr 3,July,26,Sweater,1,Credit Card,3,83
+2023,Qtr 3,July,26,Tunic,1,Cash,2,161
+2023,Qtr 3,July,27,Belt,1,Credit Card,5,157
+2023,Qtr 3,July,27,Coat,1,Credit Card,5,129
+2023,Qtr 3,July,27,Flannel Shirt,1,Cash,2,67
+2023,Qtr 3,July,27,Overalls,1,Cash,4,12
+2023,Qtr 3,July,27,Overalls,1,Credit Card,3,192
+2023,Qtr 3,July,27,Shorts,1,Credit Card,3,151
+2023,Qtr 3,July,27,T-shirt,1,Credit Card,2,100
+2023,Qtr 3,July,27,Umbrella,2,Credit Card,7,149
+2023,Qtr 3,July,27,Wallet,1,Cash,3,157
+2023,Qtr 3,July,28,Cardigan,1,Cash,5,132
+2023,Qtr 3,July,28,Handbag,1,Cash,4,125
+2023,Qtr 3,July,28,Jeans,1,Credit Card,2,192
+2023,Qtr 3,July,28,Kimono,1,Cash,4,175
+2023,Qtr 3,July,28,Poncho,1,Cash,4,114
+2023,Qtr 3,July,28,Romper,1,Cash,5,60
+2023,Qtr 3,July,28,Sandals,2,Cash,8,250
+2023,Qtr 3,July,28,Tank Top,1,Credit Card,5,62
+2023,Qtr 3,July,28,Wallet,1,Credit Card,4,157
+2023,Qtr 3,July,29,Belt,1,Cash,3,157
+2023,Qtr 3,July,29,Belt,1,Credit Card,2,72
+2023,Qtr 3,July,29,Camisole,1,Cash,4,174
+2023,Qtr 3,July,29,Camisole,1,Credit Card,4,92
+2023,Qtr 3,July,29,Cardigan,1,Credit Card,4,132
+2023,Qtr 3,July,29,Hat,1,Cash,2,192
+2023,Qtr 3,July,29,Jumpsuit,1,Credit Card,4,157
+2023,Qtr 3,July,29,Poncho,1,Cash,1,10
+2023,Qtr 3,July,29,Slippers,1,Cash,2,15
+2023,Qtr 3,July,29,Vest,1,Credit Card,3,157
+2023,Qtr 3,July,30,Bowtie,1,Credit Card,2,103
+2023,Qtr 3,July,30,Camisole,1,Cash,3,157
+2023,Qtr 3,July,30,Cardigan,1,Credit Card,4,103
+2023,Qtr 3,July,30,Jeans,1,Credit Card,4,21
+2023,Qtr 3,July,30,Sandals,1,Cash,4,157
+2023,Qtr 3,July,30,Skirt,2,Credit Card,5,251
+2023,Qtr 3,July,30,Socks,1,Cash,5,90
+2023,Qtr 3,July,30,Swimsuit,1,Credit Card,3,189
+2023,Qtr 3,July,30,Tank Top,1,Cash,3,79
+2023,Qtr 3,July,30,Trousers,1,Cash,2,104
+2023,Qtr 3,July,31,Boots,1,Cash,3,187
+2023,Qtr 3,July,31,Boots,1,Credit Card,2,60
+2023,Qtr 3,July,31,Flannel Shirt,1,Cash,2,44
+2023,Qtr 3,July,31,Gloves,1,Cash,3,135
+2023,Qtr 3,July,31,Handbag,1,Cash,3,164
+2023,Qtr 3,July,31,Hat,1,Cash,2,159
+2023,Qtr 3,July,31,Jacket,1,Cash,4,157
+2023,Qtr 3,July,31,Jumpsuit,1,Credit Card,3,157
+2023,Qtr 3,July,31,Pants,1,Credit Card,2,96
+2023,Qtr 3,July,31,Raincoat,1,Credit Card,4,57
+2023,Qtr 3,July,31,Skirt,1,Cash,2,157
+2023,Qtr 3,July,31,Socks,1,Credit Card,2,22
+2023,Qtr 3,July,31,Tie,1,Credit Card,2,132
+2023,Qtr 3,July,31,Tunic,1,Cash,2,157
+2023,Qtr 3,July,31,Umbrella,1,Cash,2,190
+2023,Qtr 3,July,31,Vest,1,Cash,3,19
+2023,Qtr 3,August,1,Backpack,1,Cash,5,157
+2023,Qtr 3,August,1,Blazer,2,Cash,7,249
+2023,Qtr 3,August,1,Blazer,1,Credit Card,3,151
+2023,Qtr 3,August,1,Blouse,1,Cash,3,191
+2023,Qtr 3,August,1,Dress,1,Cash,4,93
+2023,Qtr 3,August,1,Handbag,1,Credit Card,2,2122
+2023,Qtr 3,August,1,Sun Hat,1,Credit Card,2,157
+2023,Qtr 3,August,1,Umbrella,1,Cash,4,108
+2023,Qtr 3,August,1,Vest,1,Cash,5,78
+2023,Qtr 3,August,1,Vest,1,Credit Card,2,157
+2023,Qtr 3,August,1,Wallet,1,Credit Card,3,123
+2023,Qtr 3,August,2,Belt,1,Credit Card,2,126
+2023,Qtr 3,August,2,Dress,1,Credit Card,2,66
+2023,Qtr 3,August,2,Flip-Flops,1,Credit Card,4,129
+2023,Qtr 3,August,2,Onesie,1,Cash,4,157
+2023,Qtr 3,August,2,Sandals,1,Credit Card,3,95
+2023,Qtr 3,August,2,Slippers,1,Credit Card,2,193
+2023,Qtr 3,August,2,Sneakers,1,Cash,5,48
+2023,Qtr 3,August,2,Umbrella,1,Cash,2,164
+2023,Qtr 3,August,2,Vest,1,Cash,4,168
+2023,Qtr 3,August,3,Hat,1,Credit Card,5,157
+2023,Qtr 3,August,3,Jeans,1,Credit Card,4,123
+2023,Qtr 3,August,3,Overalls,1,Credit Card,5,159
+2023,Qtr 3,August,3,Pants,1,Credit Card,4,40
+2023,Qtr 3,August,3,Skirt,1,Credit Card,4,123
+2023,Qtr 3,August,3,Socks,1,Cash,2,99
+2023,Qtr 3,August,3,Sunglasses,1,Cash,3,184
+2023,Qtr 3,August,3,Trench Coat,1,Cash,2,19
+2023,Qtr 3,August,3,T-shirt,1,Credit Card,4,157
+2023,Qtr 3,August,4,Dress,1,Credit Card,5,157
+2023,Qtr 3,August,4,Flip-Flops,1,Cash,2,34
+2023,Qtr 3,August,4,Jacket,1,Credit Card,2,134
+2023,Qtr 3,August,4,Pajamas,1,Cash,3,170
+2023,Qtr 3,August,4,Polo Shirt,1,Cash,4,48
+2023,Qtr 3,August,4,Poncho,1,Cash,5,2902
+2023,Qtr 3,August,4,Shorts,1,Cash,2,38
+2023,Qtr 3,August,4,Socks,1,Credit Card,5,23
+2023,Qtr 3,August,4,Sunglasses,1,Cash,5,183
+2023,Qtr 3,August,4,Trench Coat,1,Credit Card,4,133
+2023,Qtr 3,August,5,Boots,1,Credit Card,4,47
+2023,Qtr 3,August,5,Hoodie,2,Credit Card,6,195
+2023,Qtr 3,August,5,Kimono,1,Credit Card,5,15
+2023,Qtr 3,August,5,Leggings,1,Cash,4,175
+2023,Qtr 3,August,5,Overalls,1,Credit Card,2,44
+2023,Qtr 3,August,5,Pajamas,1,Cash,3,44
+2023,Qtr 3,August,5,Polo Shirt,1,Cash,5,45
+2023,Qtr 3,August,5,Sweater,1,Cash,3,157
+2023,Qtr 3,August,5,Tunic,1,Credit Card,3,157
+2023,Qtr 3,August,6,Blouse,1,Cash,4,180
+2023,Qtr 3,August,6,Camisole,1,Cash,5,120
+2023,Qtr 3,August,6,Flannel Shirt,1,Credit Card,2,49
+2023,Qtr 3,August,6,Handbag,1,Cash,5,88
+2023,Qtr 3,August,6,Hoodie,1,Cash,2,108
+2023,Qtr 3,August,6,Overalls,1,Credit Card,5,31
+2023,Qtr 3,August,6,Pants,1,Cash,4,126
+2023,Qtr 3,August,6,Sneakers,1,Credit Card,3,157
+2023,Qtr 3,August,6,Umbrella,1,Credit Card,4,157
+2023,Qtr 3,August,7,Belt,1,Cash,3,28
+2023,Qtr 3,August,7,Flannel Shirt,1,Credit Card,3,135
+2023,Qtr 3,August,7,Gloves,1,Credit Card,2,29
+2023,Qtr 3,August,7,Handbag,1,Cash,3,10
+2023,Qtr 3,August,7,Hat,1,Cash,5,102
+2023,Qtr 3,August,7,Leggings,1,Cash,3,96
+2023,Qtr 3,August,7,Loafers,1,Cash,3,157
+2023,Qtr 3,August,7,Pajamas,1,Cash,2,117
+2023,Qtr 3,August,7,Poncho,1,Cash,3,157
+2023,Qtr 3,August,7,Skirt,1,Credit Card,3,157
+2023,Qtr 3,August,7,Sneakers,1,Credit Card,3,15
+2023,Qtr 3,August,7,Trousers,1,Credit Card,5,157
+2023,Qtr 3,August,7,Tunic,1,Cash,5,54
+2023,Qtr 3,August,7,Vest,1,Cash,4,89
+2023,Qtr 3,August,7,Wallet,1,Cash,2,137
+2023,Qtr 3,August,8,Blazer,1,Credit Card,4,33
+2023,Qtr 3,August,8,Blouse,1,Cash,5,177
+2023,Qtr 3,August,8,Onesie,1,Credit Card,2,156
+2023,Qtr 3,August,8,Pants,1,Cash,4,157
+2023,Qtr 3,August,8,Socks,1,Cash,3,176
+2023,Qtr 3,August,8,Sunglasses,1,Cash,3,75
+2023,Qtr 3,August,8,Tank Top,1,Credit Card,3,79
+2023,Qtr 3,August,8,Wallet,1,Credit Card,2,162
+2023,Qtr 3,August,9,Belt,1,Cash,4,107
+2023,Qtr 3,August,9,Flip-Flops,1,Cash,4,53
+2023,Qtr 3,August,9,Flip-Flops,1,Credit Card,5,198
+2023,Qtr 3,August,9,Hat,1,Credit Card,5,177
+2023,Qtr 3,August,9,Hoodie,1,Credit Card,3,29
+2023,Qtr 3,August,9,Jeans,1,Credit Card,4,157
+2023,Qtr 3,August,9,Pants,1,Cash,2,157
+2023,Qtr 3,August,9,Poncho,1,Cash,3,19
+2023,Qtr 3,August,9,Poncho,1,Credit Card,4,157
+2023,Qtr 3,August,9,Shorts,1,Credit Card,5,30
+2023,Qtr 3,August,9,Sun Hat,1,Cash,4,147
+2023,Qtr 3,August,9,Sweater,1,Credit Card,3,160
+2023,Qtr 3,August,9,Wallet,1,Credit Card,2,66
+2023,Qtr 3,August,10,Backpack,1,Cash,3,150
+2023,Qtr 3,August,10,Belt,1,Credit Card,5,136
+2023,Qtr 3,August,10,Blouse,1,Credit Card,3,137
+2023,Qtr 3,August,10,Dress,1,Cash,3,157
+2023,Qtr 3,August,10,Flannel Shirt,1,Credit Card,3,112
+2023,Qtr 3,August,10,Jacket,1,Credit Card,3,199
+2023,Qtr 3,August,10,Poncho,1,Cash,3,198
+2023,Qtr 3,August,10,Scarf,1,Credit Card,2,165
+2023,Qtr 3,August,10,Tank Top,1,Credit Card,5,45
+2023,Qtr 3,August,11,Gloves,1,Cash,3,32
+2023,Qtr 3,August,11,Handbag,1,Credit Card,2,187
+2023,Qtr 3,August,11,Kimono,1,Credit Card,2,157
+2023,Qtr 3,August,11,Pajamas,1,Cash,3,33
+2023,Qtr 3,August,11,Romper,1,Credit Card,2,184
+2023,Qtr 3,August,11,Skirt,1,Cash,4,173
+2023,Qtr 3,August,11,Wallet,1,Cash,4,173
+2023,Qtr 3,August,12,Coat,1,Cash,3,17
+2023,Qtr 3,August,12,Flannel Shirt,1,Cash,4,88
+2023,Qtr 3,August,12,Loafers,1,Credit Card,4,67
+2023,Qtr 3,August,12,Overalls,1,Cash,4,91
+2023,Qtr 3,August,12,Raincoat,1,Credit Card,2,23
+2023,Qtr 3,August,12,Tank Top,1,Cash,4,122
+2023,Qtr 3,August,12,Trousers,1,Credit Card,3,43
+2023,Qtr 3,August,12,T-shirt,1,Credit Card,5,49
+2023,Qtr 3,August,13,Blouse,1,Cash,5,146
+2023,Qtr 3,August,13,Flannel Shirt,1,Credit Card,3,157
+2023,Qtr 3,August,13,Handbag,1,Credit Card,2,157
+2023,Qtr 3,August,13,Leggings,1,Cash,2,152
+2023,Qtr 3,August,13,Pants,1,Cash,3,64
+2023,Qtr 3,August,13,Pants,1,Credit Card,3,157
+2023,Qtr 3,August,13,Polo Shirt,1,Credit Card,3,99
+2023,Qtr 3,August,13,Skirt,1,Credit Card,5,157
+2023,Qtr 3,August,13,Slippers,1,Credit Card,3,16
+2023,Qtr 3,August,13,Trench Coat,1,Credit Card,2,92
+2023,Qtr 3,August,13,Trousers,1,Credit Card,4,144
+2023,Qtr 3,August,13,Vest,1,Credit Card,3,131
+2023,Qtr 3,August,14,Blazer,1,Cash,2,73
+2023,Qtr 3,August,14,Hat,1,Cash,5,50
+2023,Qtr 3,August,14,Jumpsuit,1,Cash,5,133
+2023,Qtr 3,August,14,Pajamas,1,Credit Card,2,154
+2023,Qtr 3,August,14,Poncho,1,Credit Card,3,46
+2023,Qtr 3,August,14,Romper,1,Credit Card,3,85
+2023,Qtr 3,August,14,Sandals,1,Cash,2,157
+2023,Qtr 3,August,14,Slippers,1,Credit Card,3,119
+2023,Qtr 3,August,14,Socks,1,Cash,3,109
+2023,Qtr 3,August,14,Tunic,1,Cash,3,61
+2023,Qtr 3,August,15,Blazer,1,Credit Card,2,119
+2023,Qtr 3,August,15,Camisole,1,Cash,2,33
+2023,Qtr 3,August,15,Handbag,1,Cash,4,199
+2023,Qtr 3,August,15,Sunglasses,1,Credit Card,4,154
+2023,Qtr 3,August,15,Swimsuit,1,Cash,5,199
+2023,Qtr 3,August,15,Tank Top,1,Credit Card,3,11
+2023,Qtr 3,August,15,Trousers,1,Credit Card,2,57
+2023,Qtr 3,August,15,T-shirt,2,Cash,4,179
+2023,Qtr 3,August,15,T-shirt,1,Credit Card,4,136
+2023,Qtr 3,August,16,Blouse,1,Credit Card,4,134
+2023,Qtr 3,August,16,Cardigan,1,Credit Card,3,184
+2023,Qtr 3,August,16,Handbag,1,Cash,5,65
+2023,Qtr 3,August,16,Sandals,1,Credit Card,4,83
+2023,Qtr 3,August,16,Scarf,1,Cash,3,157
+2023,Qtr 3,August,16,Slippers,1,Credit Card,5,39
+2023,Qtr 3,August,16,T-shirt,1,Cash,3,125
+2023,Qtr 3,August,16,Tunic,1,Cash,4,53
+2023,Qtr 3,August,17,Coat,1,Credit Card,4,147
+2023,Qtr 3,August,17,Handbag,1,Credit Card,3,47
+2023,Qtr 3,August,17,Hoodie,1,Cash,4,111
+2023,Qtr 3,August,17,Hoodie,1,Credit Card,3,149
+2023,Qtr 3,August,17,Jeans,1,Cash,3,94
+2023,Qtr 3,August,17,Leggings,1,Credit Card,3,167
+2023,Qtr 3,August,17,Loafers,1,Cash,4,184
+2023,Qtr 3,August,17,Shorts,1,Cash,1,157
+2023,Qtr 3,August,17,Sweater,1,Cash,2,117
+2023,Qtr 3,August,17,Swimsuit,1,Cash,3,157
+2023,Qtr 3,August,17,Tank Top,1,Cash,3,101
+2023,Qtr 3,August,18,Bowtie,1,Credit Card,5,188
+2023,Qtr 3,August,18,Romper,1,Credit Card,4,157
+2023,Qtr 3,August,18,Scarf,1,Credit Card,3,165
+2023,Qtr 3,August,18,Wallet,1,Cash,5,89
+2023,Qtr 3,August,19,Coat,1,Credit Card,2,137
+2023,Qtr 3,August,19,Handbag,1,Credit Card,4,153
+2023,Qtr 3,August,19,Jacket,1,Cash,3,157
+2023,Qtr 3,August,19,Pants,1,Cash,5,52
+2023,Qtr 3,August,19,Poncho,1,Cash,5,143
+2023,Qtr 3,August,19,Scarf,2,Credit Card,8,165
+2023,Qtr 3,August,19,Skirt,1,Credit Card,2,185
+2023,Qtr 3,August,19,Socks,1,Credit Card,4,18
+2023,Qtr 3,August,19,Trousers,1,Credit Card,3,157
+2023,Qtr 3,August,19,Umbrella,1,Credit Card,2,32
+2023,Qtr 3,August,20,Blouse,1,Credit Card,3,72
+2023,Qtr 3,August,20,Coat,1,Cash,4,24
+2023,Qtr 3,August,20,Flannel Shirt,1,Cash,3,157
+2023,Qtr 3,August,20,Hoodie,1,Credit Card,2,124
+2023,Qtr 3,August,20,Onesie,1,Cash,5,130
+2023,Qtr 3,August,20,Sneakers,1,Credit Card,5,184
+2023,Qtr 3,August,20,Swimsuit,1,Cash,5,154
+2023,Qtr 3,August,20,Tank Top,1,Credit Card,4,157
+2023,Qtr 3,August,20,Trench Coat,1,Credit Card,2,157
+2023,Qtr 3,August,20,T-shirt,1,Cash,4,147
+2023,Qtr 3,August,21,Blouse,1,Credit Card,4,72
+2023,Qtr 3,August,21,Hat,1,Credit Card,4,51
+2023,Qtr 3,August,21,Sneakers,1,Credit Card,5,73
+2023,Qtr 3,August,21,Socks,1,Cash,4,27
+2023,Qtr 3,August,21,Sun Hat,1,Cash,5,34
+2023,Qtr 3,August,22,Backpack,1,Cash,2,157
+2023,Qtr 3,August,22,Belt,1,Credit Card,2,28
+2023,Qtr 3,August,22,Blazer,1,Cash,3,113
+2023,Qtr 3,August,22,Romper,2,Cash,5,277
+2023,Qtr 3,August,22,Tunic,1,Credit Card,2,40
+2023,Qtr 3,August,23,Blouse,1,Credit Card,4,24
+2023,Qtr 3,August,23,Camisole,1,Cash,4,157
+2023,Qtr 3,August,23,Hoodie,1,Credit Card,3,174
+2023,Qtr 3,August,23,Romper,1,Credit Card,3,26
+2023,Qtr 3,August,23,Shorts,1,Cash,2,14
+2023,Qtr 3,August,23,Umbrella,1,Cash,3,153
+2023,Qtr 3,August,23,Umbrella,1,Credit Card,3,178
+2023,Qtr 3,August,24,Backpack,1,Cash,3,173
+2023,Qtr 3,August,24,Camisole,1,Credit Card,5,171
+2023,Qtr 3,August,24,Coat,1,Credit Card,3,33
+2023,Qtr 3,August,24,Hoodie,1,Cash,3,86
+2023,Qtr 3,August,24,Hoodie,1,Credit Card,5,157
+2023,Qtr 3,August,24,Kimono,1,Credit Card,4,56
+2023,Qtr 3,August,24,Skirt,1,Credit Card,5,58
+2023,Qtr 3,August,24,Sunglasses,1,Cash,2,94
+2023,Qtr 3,August,24,Umbrella,1,Credit Card,5,157
+2023,Qtr 3,August,25,Bowtie,1,Credit Card,5,133
+2023,Qtr 3,August,25,Flannel Shirt,1,Credit Card,5,10
+2023,Qtr 3,August,25,Jacket,1,Credit Card,2,157
+2023,Qtr 3,August,25,Kimono,1,Credit Card,2,87
+2023,Qtr 3,August,25,Loafers,1,Cash,5,160
+2023,Qtr 3,August,25,Shorts,2,Cash,8,5015
+2023,Qtr 3,August,25,Skirt,1,Credit Card,2,157
+2023,Qtr 3,August,25,Socks,1,Cash,3,153
+2023,Qtr 3,August,25,Swimsuit,1,Cash,5,191
+2023,Qtr 3,August,25,Swimsuit,1,Credit Card,5,90
+2023,Qtr 3,August,25,Tank Top,1,Credit Card,5,111
+2023,Qtr 3,August,25,Trousers,1,Credit Card,2,33
+2023,Qtr 3,August,26,Blazer,1,Cash,3,146
+2023,Qtr 3,August,26,Bowtie,1,Cash,2,95
+2023,Qtr 3,August,26,Camisole,1,Credit Card,4,157
+2023,Qtr 3,August,26,Cardigan,2,Credit Card,10,251
+2023,Qtr 3,August,26,Coat,1,Cash,5,143
+2023,Qtr 3,August,26,Hoodie,1,Credit Card,5,50
+2023,Qtr 3,August,26,Jeans,1,Cash,2,146
+2023,Qtr 3,August,26,Loafers,1,Credit Card,4,43
+2023,Qtr 3,August,26,Overalls,1,Cash,3,20
+2023,Qtr 3,August,26,Polo Shirt,1,Credit Card,4,157
+2023,Qtr 3,August,26,Raincoat,1,Credit Card,4,157
+2023,Qtr 3,August,26,Sneakers,1,Credit Card,3,112
+2023,Qtr 3,August,26,Tunic,1,Cash,3,132
+2023,Qtr 3,August,27,Belt,1,Credit Card,3,71
+2023,Qtr 3,August,27,Boots,1,Cash,4,43
+2023,Qtr 3,August,27,Cardigan,1,Cash,5,157
+2023,Qtr 3,August,27,Hoodie,1,Cash,3,160
+2023,Qtr 3,August,27,Jacket,1,Cash,4,157
+2023,Qtr 3,August,27,Raincoat,1,Cash,2,123
+2023,Qtr 3,August,27,Sandals,1,Cash,2,124
+2023,Qtr 3,August,27,Sandals,1,Credit Card,5,109
+2023,Qtr 3,August,27,Shorts,1,Credit Card,3,170
+2023,Qtr 3,August,27,Tunic,1,Cash,3,122
+2023,Qtr 3,August,27,Vest,1,Cash,3,157
+2023,Qtr 3,August,28,Flip-Flops,1,Cash,3,173
+2023,Qtr 3,August,28,Handbag,1,Cash,4,157
+2023,Qtr 3,August,28,Leggings,1,Cash,3,195
+2023,Qtr 3,August,28,Pajamas,1,Credit Card,2,151
+2023,Qtr 3,August,28,Slippers,1,Cash,3,176
+2023,Qtr 3,August,28,Sneakers,1,Credit Card,5,157
+2023,Qtr 3,August,28,Sunglasses,1,Cash,3,17
+2023,Qtr 3,August,28,Wallet,1,Credit Card,3,55
+2023,Qtr 3,August,29,Gloves,1,Credit Card,3,150
+2023,Qtr 3,August,29,Leggings,1,Credit Card,5,157
+2023,Qtr 3,August,29,Onesie,2,Cash,7,324
+2023,Qtr 3,August,29,Overalls,1,Credit Card,2,61
+2023,Qtr 3,August,29,Poncho,1,Cash,2,140
+2023,Qtr 3,August,29,Raincoat,1,Credit Card,3,30
+2023,Qtr 3,August,29,Scarf,1,Cash,4,67
+2023,Qtr 3,August,29,Scarf,1,Credit Card,5,37
+2023,Qtr 3,August,29,Socks,1,Cash,4,113
+2023,Qtr 3,August,29,Swimsuit,1,Cash,4,123
+2023,Qtr 3,August,30,Camisole,1,Credit Card,5,56
+2023,Qtr 3,August,30,Coat,1,Credit Card,2,157
+2023,Qtr 3,August,30,Hat,1,Cash,3,175
+2023,Qtr 3,August,30,Pants,1,Cash,4,27
+2023,Qtr 3,August,30,Pants,1,Credit Card,3,118
+2023,Qtr 3,August,30,Skirt,1,Cash,3,106
+2023,Qtr 3,August,30,Sweater,1,Cash,2,157
+2023,Qtr 3,August,30,Swimsuit,1,Credit Card,4,166
+2023,Qtr 3,August,31,Backpack,1,Cash,5,189
+2023,Qtr 3,August,31,Camisole,1,Cash,2,157
+2023,Qtr 3,August,31,Handbag,1,Cash,4,106
+2023,Qtr 3,August,31,Jacket,1,Cash,3,195
+2023,Qtr 3,August,31,Pants,1,Credit Card,3,149
+2023,Qtr 3,August,31,Sweater,1,Cash,5,166
+2023,Qtr 3,August,31,Tank Top,1,Credit Card,3,157
+2023,Qtr 3,August,31,Tie,1,Cash,2,42
+2023,Qtr 3,August,31,Trench Coat,1,Cash,2,23
+2023,Qtr 3,August,31,Trench Coat,2,Credit Card,10,194
+2023,Qtr 3,August,31,Tunic,1,Credit Card,3,200
+2023,Qtr 3,August,31,Wallet,2,Credit Card,5,344
+2023,Qtr 3,September,1,Handbag,1,Credit Card,2,85
+2023,Qtr 3,September,1,Hat,1,Credit Card,2,30
+2023,Qtr 3,September,1,Leggings,1,Cash,2,133
+2023,Qtr 3,September,1,Onesie,1,Credit Card,3,44
+2023,Qtr 3,September,1,Pajamas,1,Credit Card,3,130
+2023,Qtr 3,September,1,Sneakers,1,Cash,5,117
+2023,Qtr 3,September,2,Leggings,1,Cash,2,65
+2023,Qtr 3,September,2,Romper,1,Cash,5,109
+2023,Qtr 3,September,2,Umbrella,1,Credit Card,4,93
+2023,Qtr 3,September,2,Vest,1,Credit Card,2,113
+2023,Qtr 3,September,3,Backpack,1,Cash,4,111
+2023,Qtr 3,September,3,Camisole,1,Credit Card,2,157
+2023,Qtr 3,September,3,Cardigan,1,Cash,3,82
+2023,Qtr 3,September,3,Coat,1,Credit Card,5,186
+2023,Qtr 3,September,3,Flip-Flops,1,Credit Card,4,157
+2023,Qtr 3,September,3,Pajamas,1,Cash,3,161
+2023,Qtr 3,September,3,Polo Shirt,1,Cash,3,157
+2023,Qtr 3,September,3,Scarf,1,Cash,4,85
+2023,Qtr 3,September,3,Slippers,1,Credit Card,3,104
+2023,Qtr 3,September,3,Sneakers,1,Cash,3,127
+2023,Qtr 3,September,3,Swimsuit,1,Credit Card,3,78
+2023,Qtr 3,September,3,T-shirt,1,Credit Card,2,129
+2023,Qtr 3,September,4,Belt,1,Cash,3,198
+2023,Qtr 3,September,4,Blazer,1,Cash,5,144
+2023,Qtr 3,September,4,Blouse,1,Credit Card,2,36
+2023,Qtr 3,September,4,Jacket,1,Credit Card,3,68
+2023,Qtr 3,September,4,Pajamas,1,Cash,2,84
+2023,Qtr 3,September,4,Pants,1,Cash,5,157
+2023,Qtr 3,September,4,Polo Shirt,1,Credit Card,2,31
+2023,Qtr 3,September,4,Slippers,1,Cash,3,59
+2023,Qtr 3,September,4,Socks,1,Cash,2,157
+2023,Qtr 3,September,4,Socks,1,Credit Card,5,100
+2023,Qtr 3,September,4,Tunic,1,Credit Card,3,139
+2023,Qtr 3,September,4,Vest,1,Cash,3,104
+2023,Qtr 3,September,5,Backpack,1,Cash,2,145
+2023,Qtr 3,September,5,Hat,1,Cash,1,134
+2023,Qtr 3,September,5,Hat,2,Credit Card,7,227
+2023,Qtr 3,September,5,Hoodie,1,Cash,3,146
+2023,Qtr 3,September,5,Jeans,1,Cash,5,167
+2023,Qtr 3,September,5,Jeans,1,Credit Card,3,72
+2023,Qtr 3,September,5,Leggings,1,Credit Card,5,157
+2023,Qtr 3,September,5,Slippers,1,Credit Card,3,157
+2023,Qtr 3,September,5,Tie,1,Credit Card,3,157
+2023,Qtr 3,September,6,Cardigan,1,Cash,3,115
+2023,Qtr 3,September,6,Overalls,1,Cash,2,186
+2023,Qtr 3,September,6,Poncho,1,Cash,3,87
+2023,Qtr 3,September,6,Shorts,1,Credit Card,5,88
+2023,Qtr 3,September,6,Sneakers,1,Cash,2,132
+2023,Qtr 3,September,6,T-shirt,1,Credit Card,4,70
+2023,Qtr 3,September,7,Camisole,1,Cash,4,157
+2023,Qtr 3,September,7,Camisole,1,Credit Card,2,152
+2023,Qtr 3,September,7,Dress,1,Credit Card,3,157
+2023,Qtr 3,September,7,Jumpsuit,1,Cash,3,137
+2023,Qtr 3,September,7,Skirt,1,Credit Card,3,75
+2023,Qtr 3,September,7,Trousers,1,Credit Card,4,173
+2023,Qtr 3,September,7,Tunic,1,Cash,3,121
+2023,Qtr 3,September,7,Vest,1,Cash,4,184
+2023,Qtr 3,September,7,Wallet,1,Credit Card,4,19
+2023,Qtr 3,September,8,Belt,1,Cash,3,107
+2023,Qtr 3,September,8,Camisole,1,Credit Card,3,157
+2023,Qtr 3,September,8,Dress,1,Credit Card,2,157
+2023,Qtr 3,September,8,Hoodie,1,Credit Card,3,52
+2023,Qtr 3,September,8,Pants,1,Cash,2,157
+2023,Qtr 3,September,8,Slippers,1,Credit Card,4,158
+2023,Qtr 3,September,8,Swimsuit,1,Cash,2,190
+2023,Qtr 3,September,9,Gloves,1,Credit Card,4,157
+2023,Qtr 3,September,9,Onesie,1,Credit Card,3,114
+2023,Qtr 3,September,9,Socks,1,Credit Card,5,59
+2023,Qtr 3,September,10,Boots,1,Credit Card,3,3718
+2023,Qtr 3,September,10,Bowtie,1,Credit Card,3,88
+2023,Qtr 3,September,10,Gloves,1,Credit Card,3,116
+2023,Qtr 3,September,10,Handbag,1,Cash,3,180
+2023,Qtr 3,September,10,Pajamas,1,Cash,4,157
+2023,Qtr 3,September,10,Trousers,1,Cash,2,182
+2023,Qtr 3,September,10,T-shirt,1,Credit Card,3,157
+2023,Qtr 3,September,11,Backpack,1,Credit Card,5,23
+2023,Qtr 3,September,11,Blouse,1,Cash,4,70
+2023,Qtr 3,September,11,Camisole,1,Credit Card,4,38
+2023,Qtr 3,September,11,Flip-Flops,1,Cash,3,155
+2023,Qtr 3,September,11,Handbag,1,Cash,2,27
+2023,Qtr 3,September,11,Hoodie,1,Credit Card,4,55
+2023,Qtr 3,September,11,Sweater,1,Credit Card,3,175
+2023,Qtr 3,September,12,Boots,1,Cash,2,190
+2023,Qtr 3,September,12,Flannel Shirt,1,Cash,2,101
+2023,Qtr 3,September,12,Overalls,1,Credit Card,2,31
+2023,Qtr 3,September,12,Scarf,1,Cash,4,61
+2023,Qtr 3,September,13,Camisole,1,Credit Card,2,66
+2023,Qtr 3,September,13,Flannel Shirt,1,Credit Card,3,174
+2023,Qtr 3,September,13,Kimono,1,Credit Card,4,141
+2023,Qtr 3,September,13,Sweater,1,Cash,3,118
+2023,Qtr 3,September,14,Blazer,1,Cash,5,126
+2023,Qtr 3,September,14,Bowtie,1,Credit Card,2,16
+2023,Qtr 3,September,14,Camisole,1,Credit Card,2,27
+2023,Qtr 3,September,14,Cardigan,1,Credit Card,5,176
+2023,Qtr 3,September,14,Flip-Flops,1,Cash,3,67
+2023,Qtr 3,September,14,Gloves,1,Credit Card,2,136
+2023,Qtr 3,September,14,Jacket,1,Credit Card,2,157
+2023,Qtr 3,September,14,Kimono,1,Cash,2,123
+2023,Qtr 3,September,14,Onesie,1,Credit Card,4,157
+2023,Qtr 3,September,14,Romper,1,Cash,2,157
+2023,Qtr 3,September,14,Sneakers,1,Credit Card,2,173
+2023,Qtr 3,September,14,Socks,1,Credit Card,2,86
+2023,Qtr 3,September,14,Sun Hat,1,Cash,3,37
+2023,Qtr 3,September,14,T-shirt,1,Cash,2,167
+2023,Qtr 3,September,14,Umbrella,1,Credit Card,3,92
+2023,Qtr 3,September,15,Cardigan,1,Cash,2,145
+2023,Qtr 3,September,15,Loafers,1,Credit Card,4,156
+2023,Qtr 3,September,15,Pajamas,1,Credit Card,3,119
+2023,Qtr 3,September,15,Pants,1,Credit Card,2,120
+2023,Qtr 3,September,15,Polo Shirt,1,Cash,2,92
+2023,Qtr 3,September,15,Sandals,1,Credit Card,3,98
+2023,Qtr 3,September,15,Sneakers,1,Credit Card,3,149
+2023,Qtr 3,September,15,Socks,1,Cash,4,52
+2023,Qtr 3,September,15,Sun Hat,1,Credit Card,3,132
+2023,Qtr 3,September,15,Umbrella,1,Cash,3,45
+2023,Qtr 3,September,16,Boots,1,Credit Card,2,27
+2023,Qtr 3,September,16,Coat,1,Cash,5,157
+2023,Qtr 3,September,16,Shorts,1,Cash,2,199
+2023,Qtr 3,September,16,Tie,1,Cash,4,182
+2023,Qtr 3,September,16,Trench Coat,1,Credit Card,4,157
+2023,Qtr 3,September,16,Trousers,1,Credit Card,5,169
+2023,Qtr 3,September,17,Belt,1,Cash,4,157
+2023,Qtr 3,September,17,Blouse,1,Credit Card,5,157
+2023,Qtr 3,September,17,Boots,1,Credit Card,3,157
+2023,Qtr 3,September,17,Hoodie,1,Cash,4,85
+2023,Qtr 3,September,17,Jacket,2,Cash,6,314
+2023,Qtr 3,September,17,Romper,1,Credit Card,5,69
+2023,Qtr 3,September,17,Scarf,1,Credit Card,4,157
+2023,Qtr 3,September,17,Skirt,1,Credit Card,2,33
+2023,Qtr 3,September,17,Swimsuit,1,Credit Card,3,173
+2023,Qtr 3,September,17,Trousers,1,Credit Card,2,74
+2023,Qtr 3,September,18,Jacket,1,Credit Card,5,76
+2023,Qtr 3,September,18,Leggings,1,Credit Card,4,120
+2023,Qtr 3,September,18,Onesie,1,Cash,3,25
+2023,Qtr 3,September,18,Onesie,1,Credit Card,2,79
+2023,Qtr 3,September,18,Pants,1,Cash,3,157
+2023,Qtr 3,September,18,Raincoat,1,Credit Card,2,172
+2023,Qtr 3,September,18,Sandals,1,Credit Card,2,149
+2023,Qtr 3,September,18,Skirt,1,Credit Card,5,173
+2023,Qtr 3,September,19,Blouse,1,Credit Card,4,157
+2023,Qtr 3,September,19,Polo Shirt,1,Credit Card,5,183
+2023,Qtr 3,September,19,Sandals,1,Cash,4,70
+2023,Qtr 3,September,19,T-shirt,1,Cash,2,157
+2023,Qtr 3,September,20,Handbag,1,Cash,3,58
+2023,Qtr 3,September,20,Jeans,1,Credit Card,3,84
+2023,Qtr 3,September,20,Jumpsuit,1,Cash,5,157
+2023,Qtr 3,September,20,Shorts,1,Cash,3,49
+2023,Qtr 3,September,20,Shorts,1,Credit Card,5,80
+2023,Qtr 3,September,20,Swimsuit,1,Credit Card,3,22
+2023,Qtr 3,September,20,Vest,1,Credit Card,5,73
+2023,Qtr 3,September,21,Boots,1,Cash,4,38
+2023,Qtr 3,September,21,Coat,2,Credit Card,8,262
+2023,Qtr 3,September,21,Dress,1,Cash,2,147
+2023,Qtr 3,September,21,Overalls,1,Credit Card,2,57
+2023,Qtr 3,September,21,Sun Hat,1,Cash,3,75
+2023,Qtr 3,September,21,Wallet,1,Cash,5,83
+2023,Qtr 3,September,22,Backpack,1,Cash,3,157
+2023,Qtr 3,September,22,Belt,1,Credit Card,3,157
+2023,Qtr 3,September,22,Blazer,1,Cash,3,22
+2023,Qtr 3,September,22,Coat,2,Cash,5,345
+2023,Qtr 3,September,22,Handbag,1,Credit Card,4,174
+2023,Qtr 3,September,22,Hat,1,Credit Card,5,157
+2023,Qtr 3,September,22,Jumpsuit,1,Cash,5,29
+2023,Qtr 3,September,22,Loafers,1,Cash,3,105
+2023,Qtr 3,September,22,Onesie,1,Credit Card,2,116
+2023,Qtr 3,September,22,Pajamas,1,Credit Card,3,29
+2023,Qtr 3,September,22,Pants,1,Credit Card,2,69
+2023,Qtr 3,September,22,Raincoat,1,Cash,2,177
+2023,Qtr 3,September,22,Swimsuit,1,Credit Card,3,41
+2023,Qtr 3,September,22,T-shirt,1,Credit Card,3,24
+2023,Qtr 3,September,22,Wallet,2,Cash,8,176
+2023,Qtr 3,September,23,Belt,1,Credit Card,4,194
+2023,Qtr 3,September,23,Jacket,1,Cash,2,42
+2023,Qtr 3,September,23,Leggings,2,Cash,4,223
+2023,Qtr 3,September,23,Loafers,1,Credit Card,5,183
+2023,Qtr 3,September,23,Onesie,1,Credit Card,4,141
+2023,Qtr 3,September,24,Blazer,1,Cash,3,157
+2023,Qtr 3,September,24,Blouse,1,Credit Card,3,157
+2023,Qtr 3,September,24,Coat,1,Cash,5,35
+2023,Qtr 3,September,24,Hat,1,Cash,3,157
+2023,Qtr 3,September,24,Hoodie,1,Credit Card,4,25
+2023,Qtr 3,September,24,Kimono,1,Credit Card,3,39
+2023,Qtr 3,September,24,Loafers,2,Cash,8,307
+2023,Qtr 3,September,24,Loafers,1,Credit Card,4,157
+2023,Qtr 3,September,24,Poncho,1,Credit Card,2,109
+2023,Qtr 3,September,24,Shorts,1,Cash,4,157
+2023,Qtr 3,September,24,Slippers,1,Cash,4,104
+2023,Qtr 3,September,24,Sneakers,1,Credit Card,2,134
+2023,Qtr 3,September,24,Sunglasses,1,Credit Card,3,44
+2023,Qtr 3,September,24,Swimsuit,1,Cash,3,157
+2023,Qtr 3,September,24,T-shirt,1,Credit Card,2,157
+2023,Qtr 3,September,25,Blouse,1,Cash,5,102
+2023,Qtr 3,September,25,Cardigan,1,Cash,4,178
+2023,Qtr 3,September,25,Cardigan,1,Credit Card,3,195
+2023,Qtr 3,September,25,Dress,1,Credit Card,4,24
+2023,Qtr 3,September,25,Jeans,1,Credit Card,5,133
+2023,Qtr 3,September,25,Leggings,1,Cash,3,46
+2023,Qtr 3,September,25,Poncho,1,Cash,3,184
+2023,Qtr 3,September,25,Sandals,1,Credit Card,5,157
+2023,Qtr 3,September,25,Slippers,1,Credit Card,4,117
+2023,Qtr 3,September,25,Tie,1,Cash,2,151
+2023,Qtr 3,September,25,Trench Coat,1,Cash,4,157
+2023,Qtr 3,September,26,Flip-Flops,1,Credit Card,4,187
+2023,Qtr 3,September,26,Pajamas,1,Credit Card,3,150
+2023,Qtr 3,September,26,Poncho,1,Cash,3,12
+2023,Qtr 3,September,26,Raincoat,1,Cash,1,144
+2023,Qtr 3,September,26,Sandals,1,Credit Card,2,157
+2023,Qtr 3,September,26,Skirt,1,Cash,2,151
+2023,Qtr 3,September,26,Skirt,1,Credit Card,3,139
+2023,Qtr 3,September,26,T-shirt,1,Credit Card,4,189
+2023,Qtr 3,September,27,Flannel Shirt,1,Cash,4,158
+2023,Qtr 3,September,27,Polo Shirt,1,Cash,5,29
+2023,Qtr 3,September,27,Sandals,1,Cash,5,50
+2023,Qtr 3,September,27,Sneakers,1,Cash,2,101
+2023,Qtr 3,September,27,Socks,1,Credit Card,4,157
+2023,Qtr 3,September,27,Swimsuit,1,Credit Card,2,157
+2023,Qtr 3,September,28,Belt,1,Cash,3,157
+2023,Qtr 3,September,28,Belt,1,Credit Card,5,157
+2023,Qtr 3,September,28,Boots,1,Cash,4,41
+2023,Qtr 3,September,28,Bowtie,1,Credit Card,4,33
+2023,Qtr 3,September,28,Flannel Shirt,1,Credit Card,3,157
+2023,Qtr 3,September,28,Handbag,1,Credit Card,3,165
+2023,Qtr 3,September,28,Leggings,1,Credit Card,4,122
+2023,Qtr 3,September,28,Pants,1,Cash,2,20
+2023,Qtr 3,September,28,Poncho,1,Cash,4,176
+2023,Qtr 3,September,28,Sun Hat,1,Credit Card,3,157
+2023,Qtr 3,September,28,Sunglasses,1,Credit Card,4,133
+2023,Qtr 3,September,28,Vest,1,Credit Card,3,150
+2023,Qtr 3,September,28,Wallet,1,Cash,3,157
+2023,Qtr 3,September,29,Dress,1,Credit Card,2,27
+2023,Qtr 3,September,29,Jeans,1,Cash,5,188
+2023,Qtr 3,September,29,Poncho,1,Credit Card,2,63
+2023,Qtr 3,September,29,Sneakers,1,Credit Card,4,176
+2023,Qtr 3,September,29,Trench Coat,1,Credit Card,3,90
+2023,Qtr 3,September,29,Vest,1,Credit Card,4,60
+2023,Qtr 3,September,30,Dress,1,Cash,3,127
+2023,Qtr 3,September,30,Hat,1,Credit Card,5,24
+2023,Qtr 3,September,30,Kimono,1,Cash,4,81
+2023,Qtr 3,September,30,Leggings,1,Credit Card,3,128
+2023,Qtr 3,September,30,Loafers,1,Cash,3,147
+2023,Qtr 3,September,30,Raincoat,1,Credit Card,3,140
+2023,Qtr 3,September,30,Shorts,1,Cash,5,154
+2023,Qtr 3,September,30,Sneakers,1,Cash,3,83
+2023,Qtr 3,September,30,Sneakers,1,Credit Card,3,20
+2023,Qtr 3,September,30,Trench Coat,1,Cash,4,157
+2023,Qtr 3,September,30,Trousers,1,Credit Card,2,104
+2023,Qtr 4,October,1,Camisole,1,Cash,2,46
+2023,Qtr 4,October,1,Kimono,1,Cash,5,46
+2023,Qtr 4,October,1,Pajamas,1,Cash,4,151
+2023,Qtr 4,October,1,Vest,1,Cash,2,122
+2023,Qtr 4,October,1,Wallet,1,Credit Card,3,58
