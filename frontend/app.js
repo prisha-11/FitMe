@@ -151,10 +151,62 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Setup sidebar interactions
     const navItems = document.querySelectorAll('.nav-item');
+    const viewSections = document.querySelectorAll('.view-section');
+
     navItems.forEach(item => {
         item.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Update active nav
             navItems.forEach(nav => nav.classList.remove('active'));
             this.classList.add('active');
+
+            // Switch view
+            const targetId = this.getAttribute('data-target');
+            viewSections.forEach(section => {
+                if(section.id === targetId) {
+                    section.classList.add('active');
+                } else {
+                    section.classList.remove('active');
+                }
+            });
         });
+    });
+
+    // Setup CSV Upload
+    const uploadInput = document.getElementById('csv-upload');
+    uploadInput.addEventListener('change', async function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const formData = new FormData();
+        formData.append("file", file);
+
+        try {
+            // Optional: Show loading state on button
+            const btnLabel = document.querySelector('.upload-btn');
+            const originalText = btnLabel.innerHTML;
+            btnLabel.innerHTML = `Uploading...`;
+
+            const res = await fetch(`${API_BASE}/upload`, {
+                method: 'POST',
+                body: formData
+            });
+
+            if (res.ok) {
+                // Refresh data
+                fetchStats();
+                renderCategorySalesChart();
+                renderRiskDistributionChart();
+                fetchMLEvaluation();
+                alert("Dataset uploaded and models retrained successfully!");
+            } else {
+                alert("Failed to upload dataset.");
+            }
+            btnLabel.innerHTML = originalText;
+        } catch (err) {
+            console.error("Upload error:", err);
+            alert("An error occurred during upload.");
+        }
     });
 });

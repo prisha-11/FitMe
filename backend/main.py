@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import numpy as np
@@ -141,6 +141,23 @@ def get_model_evaluation():
         "regression_r2": round(r2, 3),
         "recommendation": "Models are highly accurate and ready for prescriptive analytics."
     }
+
+@app.post("/api/upload")
+async def upload_dataset(file: UploadFile = File(...)):
+    global DATA_PATH
+    content = await file.read()
+    
+    # Save the new dataset
+    DATA_PATH = f"../{file.filename}"
+    with open(DATA_PATH, "wb") as f:
+        f.write(content)
+        
+    # Re-run preprocessing and training
+    success = load_and_preprocess()
+    if not success:
+        raise HTTPException(status_code=500, detail="Failed to process uploaded file.")
+        
+    return {"message": "File uploaded and models retrained successfully!"}
 
 if __name__ == "__main__":
     import uvicorn
